@@ -1,0 +1,14 @@
+{
+  "title": "MemFactory：AI Agent记忆的统一训练与推理框架",
+  "url": "https://arxiv.org/abs/2603.29493",
+  "source": "hacker_news",
+  "date": "2026-04-22",
+  "popularity": "Show HN",
+  "summary": "MemFactory 是首个统一的 Agent 记忆模块化框架，支持通过强化学习优化记忆操作（记忆、检索、遗忘等），在多个 Agent 任务上性能提升最高达 14.8%。",
+  "highlights": [
+    "首个统一 Agent 记忆的模块化框架，填补了该领域的空白",
+    "通过强化学习优化记忆操作，性能提升最高 14.8%"
+  ],
+  "score": 7,
+  "tags": ["AI Agent", "记忆框架", "强化学习", "模块化"]
+}

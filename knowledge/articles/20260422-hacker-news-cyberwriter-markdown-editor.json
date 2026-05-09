@@ -1,0 +1,15 @@
+{
+  "title": "CyberWriter：基于Apple设备端AI构建的Markdown编辑器",
+  "url": "https://cyberwriter.app",
+  "source": "hacker_news",
+  "date": "2026-04-22",
+  "popularity": "Show HN",
+  "summary": "CyberWriter 利用 macOS 26 内置的约 3B 参数端侧 Foundation Model、BERT 嵌入器和语音识别 API，构建了一个完全离线的 AI Markdown 编辑器。",
+  "highlights": [
+    "充分利用 Apple 端侧 AI 能力实现完全离线的 AI 写作体验",
+    "融合 Foundation Model、BERT 嵌入和语音识别多种 AI 能力",
+    "隐私友好——所有计算在本地完成"
+  ],
+  "score": 5,
+  "tags": ["端侧AI", "Markdown编辑器", "Apple", "隐私"]
+}

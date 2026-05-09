@@ -1,0 +1,15 @@
+{
+  "title": "ReaGeo: Reasoning-Enhanced End-to-End Geocoding with LLMs",
+  "url": "https://arxiv.org/abs/2604.21357",
+  "source": "arxiv",
+  "date": "2026-04-24",
+  "popularity": "published 2026-04-23",
+  "summary": "把地理编码改写成 geohash 文本生成任务，用推理和强化学习提升空间定位精度。",
+  "highlights": [
+    "把坐标预测改写成 geohash 文本生成任务",
+    "用 CoT 和基于距离偏差的强化学习优化空间推理",
+    "能处理明确地址、模糊相对位置和非点区域"
+  ],
+  "score": 7,
+  "tags": ["llm", "geocoding", "spatial-reasoning"]
+}

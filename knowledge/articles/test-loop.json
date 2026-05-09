@@ -1,0 +1,9 @@
+{
+  "id": "github-trending-20260425-001",
+  "title": "LangGraph",
+  "source": "github-trending",
+  "source_url": "https://github.com/langchain-ai/langgraph",
+  "summary": "LangGraph 用图结构编排可循环、可持久化的智能体工作流。",
+  "tags": ["agent", "workflow", "llm"],
+  "status": "draft"
+}

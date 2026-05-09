@@ -1,0 +1,15 @@
+{
+  "title": "Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows",
+  "url": "https://arxiv.org/abs/2604.21816",
+  "source": "arxiv",
+  "date": "2026-04-24",
+  "popularity": "published 2026-04-23",
+  "summary": "通过工具门控和 schema 懒加载大幅压缩 MCP 工具上下文开销，直击多工具 agent 的成本瓶颈。",
+  "highlights": [
+    "结合工具门控、状态约束和两阶段 schema 加载",
+    "在 120 工具、6 服务器模拟场景中把工具 token 从 47.3k 降到 2.4k",
+    "工具上下文利用率从 24% 提升到 91%"
+  ],
+  "score": 9,
+  "tags": ["agent", "mcp", "context-optimization"]
+}

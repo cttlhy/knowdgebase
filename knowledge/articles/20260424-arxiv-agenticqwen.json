@@ -1,0 +1,15 @@
+{
+  "title": "AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use",
+  "url": "https://arxiv.org/abs/2604.21590",
+  "source": "arxiv",
+  "date": "2026-04-24",
+  "popularity": "published 2026-04-23",
+  "summary": "面向工业级工具调用的小型 agent 模型训练方案，用双飞轮数据合成提升多步推理和执行能力。",
+  "highlights": [
+    "把 reasoning RL 和 agentic RL 组合成双数据飞轮",
+    "自动把线性流程扩成多分支行为树，提升任务难度和覆盖度",
+    "在工业搜索和数据分析任务上逼近更大模型"
+  ],
+  "score": 8,
+  "tags": ["agent", "small-model", "rl"]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "LLM爬虫机器人导致acme.com服务器过载",
+  "url": "http://acme.com/updates/archive/229.html",
+  "source": "hacker_news",
+  "date": "2026-04-22",
+  "popularity": "HN discussion",
+  "summary": "acme.com 站长报告大量 LLM 训练爬虫机器人持续访问导致网站 HTTPS 服务器过载，反映 AI 公司数据采集对小型独立网站的实际负担。",
+  "highlights": [
+    "揭示了 AI 训练数据采集对小型网站基础设施的实质性影响",
+    "引发了 AI 数据采集伦理和网站防护策略的讨论"
+  ],
+  "score": 5,
+  "tags": ["AI爬虫", "数据采集", "网站运营", "基础设施"]
+}

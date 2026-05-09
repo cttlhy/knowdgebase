@@ -1,0 +1,14 @@
+{
+  "title": "Kelet：为LLM应用提供根因分析的AI Agent",
+  "url": "https://kelet.ai/",
+  "source": "hacker_news",
+  "date": "2026-04-22",
+  "popularity": "Show HN",
+  "summary": "Kelet 是一个专注于 LLM 应用根因分析的 AI Agent，针对 AI Agent 在生产中「不崩溃但悄悄出错」的痛点，自动分析用户反馈、聚类失败假设并定位问题根因。",
+  "highlights": [
+    "精准切入 LLM 应用「不崩溃但悄悄出错」这一常见痛点",
+    "自动化根因分析可显著提升 AI Agent 运维效率"
+  ],
+  "score": 7,
+  "tags": ["LLM运维", "根因分析", "AI Agent", "可观测性"]
+}

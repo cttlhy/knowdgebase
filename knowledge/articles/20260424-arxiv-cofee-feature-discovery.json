@@ -1,0 +1,15 @@
+{
+  "title": "CoFEE: Reasoning Control for LLM-Based Feature Discovery",
+  "url": "https://arxiv.org/abs/2604.21584",
+  "source": "arxiv",
+  "date": "2026-04-24",
+  "popularity": "published 2026-04-23",
+  "summary": "用受控推理约束 LLM 做自动特征发现，在质量、数量和成本上都优于普通提示法。",
+  "highlights": [
+    "引入反向推理、子目标分解和显式回退等认知行为约束",
+    "特征成功率比普通提示高 15.2%",
+    "生成特征更少但更有效，成本下降 53.3%"
+  ],
+  "score": 8,
+  "tags": ["llm", "feature-engineering", "reasoning-control"]
+}

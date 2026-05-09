@@ -1,0 +1,59 @@
+# RSS 数据源配置。
+# enabled 控制是否采集该源。
+# 对更新量大或 RSS 可用性未确认的源，默认关闭，避免采集任务过载。
+sources:
+  - name: Hacker News Best AI
+    url: https://hnrss.org/best?q=AI
+    category: general
+    enabled: true
+
+  - name: Lobsters AI/ML
+    url: https://lobste.rs/t/ai.rss
+    category: general
+    enabled: true
+
+  - name: arXiv cs.AI
+    url: http://export.arxiv.org/rss/cs.AI
+    category: research
+    enabled: false
+
+  - name: OpenAI Blog
+    url: https://openai.com/news/rss.xml
+    category: industry
+    enabled: true
+
+  - name: Anthropic Research
+    url: https://www.anthropic.com/research/rss.xml
+    category: industry
+    enabled: true
+
+  - name: Meta AI Blog
+    url: https://ai.meta.com/blog/rss/
+    category: industry
+    enabled: true
+
+  - name: Google AI Blog
+    url: https://ai.googleblog.com/rss.xml
+    category: industry
+    enabled: true
+
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    category: open-source
+    enabled: true
+
+  - name: Reddit r/LocalLLaMA
+    url: https://www.reddit.com/r/LocalLLaMA/.rss
+    category: open-source
+    enabled: true
+
+
+  - name: 机器之心
+    url: https://www.jiqizhixin.com/rss
+    category: chinese
+    enabled: false
+
+  - name: 量子位
+    url: https://www.qbitai.com/feed
+    category: chinese
+    enabled: false

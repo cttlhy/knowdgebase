@@ -1,0 +1,219 @@
+{
+  "source": "knowledge/raw/github-trending-2026-04-23.json",
+  "skill": "tech-summary",
+  "analyzed_at": "2026-04-23T18:00:00Z",
+  "source_file": "knowledge/raw/github-trending-2026-04-23.json",
+  "trends": {
+    "themes": [
+      "Claude Code 生态全面爆发——从记忆系统、技能插件到求职工具，围绕 Claude Code 形成完整工具链",
+      "Token 优化成为刚需——开发者通过 Prompt Engineering 和架构设计主动降低 LLM 使用成本",
+      "记忆系统基础设施化——持久化、可查询的 AI 记忆成为 Agent 核心组件",
+      "多 Agent 编排走向轻量化——更简洁的 API 设计和更低的依赖成为趋势",
+      "跨平台 Agent 技能互通——知识图谱、技能配置在多 AI 平台间迁移复用"
+    ],
+    "new_concepts": [
+      "Caveman Prompting——通过"原始人"式简短对话大幅减少 Token 消耗的创意方案",
+      "自愈式浏览器操控——AI Agent 操作网页时自动恢复，解决稳定性痛点",
+      "Agent 行为配置即产品——顶级开发者的 Agent 配置模式本身成为高 Star 项目",
+      "Rust 编码 Agent——用 Rust 重写 Agent CLI 带来性能和安全新路线",
+      "Claude Mythos 开源重建——从第一性原理基于公开文献重建闭源架构"
+    ]
+  },
+  "items": [
+    {
+      "name": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "summary": "开源 AI 记忆系统，为 LLM 提供持久化记忆管理",
+      "highlights": [
+        "49k+ Star，社区认可度在所有项目中最高",
+        "支持 ChromaDB 和 MCP 协议，生态兼容性好",
+        "免费使用，是 AI 长期记忆的基础设施级方案"
+      ],
+      "score": 9,
+      "score_reason": "改变格局级项目。49k+ Star 和记忆基础设施定位使其成为 Agent 生态的关键组件。",
+      "tags": ["memory", "llm", "mcp", "infrastructure"]
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "summary": "通过原始人式简短对话减少 65% Token 消耗",
+      "highlights": [
+        "44k+ Star 反映 Token 优化是开发者刚需",
+        "创意性 Prompt Engineering 方案，无需改代码",
+        "直接降低 LLM 使用成本，ROI 极高"
+      ],
+      "score": 7,
+      "score_reason": "直接有帮助。创意方案解决了真实痛点，落地简单效果好。",
+      "tags": ["token-optimization", "prompt-engineering", "claude-code"]
+    },
+    {
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "summary": "AI Agent 驱动的求职系统，14 种技能模式",
+      "highlights": [
+        "38k+ Star 验证了 AI 求职场景的强需求",
+        "14 种求职技能模式覆盖简历、面试等场景",
+        "Go 仪表盘 + PDF 生成，工程落地完整"
+      ],
+      "score": 7,
+      "score_reason": "直接有帮助。AI Agent 在垂直场景的落地典范，功能完整且实用。",
+      "tags": ["job-search", "ai-agent", "automation"]
+    },
+    {
+      "name": "safishamsi/graphify",
+      "url": "https://github.com/safishamsi/graphify",
+      "summary": "将代码和文档转化为可查询的知识图谱",
+      "highlights": [
+        "支持 Claude Code、Codex、Gemini 等 10+ AI 平台",
+        "基于 GraphRAG 技术构建知识图谱",
+        "打通了多 AI 工具间的知识孤岛"
+      ],
+      "score": 8,
+      "score_reason": "直接有帮助且跨平台价值高，解决了多个 AI 工具间知识无法互通的核心痛点。",
+      "tags": ["knowledge-graph", "graphrag", "multi-platform"]
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "summary": "支持 200+ 模型的 Claude Code 开源替代",
+      "highlights": [
+        "23k+ Star 增长迅速",
+        "200+ 模型兼容，不锁定任何供应商",
+        "Claude Code 的最佳开源替代方案"
+      ],
+      "score": 8,
+      "score_reason": "直接有帮助。开源替代品价值高，跨模型兼容是核心差异化优势。",
+      "tags": ["coding-agent", "claude-alternative", "open-source"]
+    },
+    {
+      "name": "sanbuphy/learn-coding-agent",
+      "url": "https://github.com/sanbuphy/learn-coding-agent",
+      "summary": "系统性整理 Coding Agent 研究的中文索引",
+      "highlights": [
+        "中文社区最全面的 Coding Agent 研究资料",
+        "涵盖前沿论文和工程实践",
+        "11k+ Star，社区贡献活跃"
+      ],
+      "score": 7,
+      "score_reason": "直接有帮助。高质量学习资源，适合开发者系统入门 Coding Agent。",
+      "tags": ["coding-agent", "research", "learning"]
+    },
+    {
+      "name": "HKUDS/OpenHarness",
+      "url": "https://github.com/HKUDS/OpenHarness",
+      "summary": "香港大学推出的开放 Agent 框架",
+      "highlights": [
+        "学术界对 Claude Code Agent Harness 的系统实现",
+        "内置个人 Agent Ohmo，开箱即用",
+        "完整 Agent 编排能力，来自顶级学术团队"
+      ],
+      "score": 7,
+      "score_reason": "直接有帮助。学术机构出品，系统化程度高，对理解 Agent Harness 架构有参考价值。",
+      "tags": ["agent-framework", "academic", "harness"]
+    },
+    {
+      "name": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain",
+      "summary": "知名投资人的 Agent 行为配置方案",
+      "highlights": [
+        "10k+ Star，来自顶级开发者的实战验证",
+        "展示了 Agent 行为模式设计的完整思路",
+        "对 OpenClaw/Hermes Agent 用户直接可用"
+      ],
+      "score": 6,
+      "score_reason": "值得了解。配置方案有参考价值但适用范围限于特定 Agent 框架。",
+      "tags": ["agent-configuration", "best-practices"]
+    },
+    {
+      "name": "Kuberwastaken/claurst",
+      "url": "https://github.com/Kuberwastaken/claurst",
+      "summary": "用 Rust 重写的高性能终端编码 Agent",
+      "highlights": [
+        "9k+ Star，Rust 社区关注度很高",
+        "Rust 实现带来更好的性能和内存安全",
+        "为编码 Agent 提供了新的技术路线选择"
+      ],
+      "score": 6,
+      "score_reason": "值得了解。技术路线创新有价值，但功能成熟度尚需时间验证。",
+      "tags": ["rust", "coding-agent", "cli"]
+    },
+    {
+      "name": "kyegomez/OpenMythos",
+      "url": "https://github.com/kyegomez/OpenMythos",
+      "summary": "基于公开文献重建 Claude Mythos 架构",
+      "highlights": [
+        "涉及循环 Transformer 等前沿架构",
+        "9k+ Star 反映社区对 Claude 内部原理的强烈好奇心",
+        "基于公开文献从第一性原理构建，方法论严谨"
+      ],
+      "score": 7,
+      "score_reason": "直接有帮助。对理解 Claude 内部架构提供了开源参考窗口，学术价值高。",
+      "tags": ["claude-mythos", "transformer", "architecture"]
+    },
+    {
+      "name": "larksuite/cli",
+      "url": "https://github.com/larksuite/cli",
+      "summary": "飞书官方 CLI，为 AI Agent 设计",
+      "highlights": [
+        "企业级产品主动适配 AI Agent 生态",
+        "200+ 命令和 20+ AI Agent 技能全覆盖",
+        "8.5k+ Star，表明企业工具 Agent 化是趋势"
+      ],
+      "score": 6,
+      "score_reason": "值得了解。标志性意义大于技术价值，展示了企业产品 Agent 化的方向。",
+      "tags": ["enterprise", "cli", "feishu", "productivity"]
+    },
+    {
+      "name": "KKKKhazix/khazix-skills",
+      "url": "https://github.com/KKKKhazix/khazix-skills",
+      "summary": "知名 AI 博主开源的可复用 Agent 技能合集",
+      "highlights": [
+        "社区 KOL 出品，质量有保障",
+        "直接可用的编码 Agent 技能合集",
+        "5.9k+ Star 验证了实用价值"
+      ],
+      "score": 6,
+      "score_reason": "值得了解。实用技能合集，对 Claude Code 用户有直接帮助但创新性一般。",
+      "tags": ["ai-skills", "community", "claude-code"]
+    },
+    {
+      "name": "JackChen-me/open-multi-agent",
+      "url": "https://github.com/JackChen-me/open-multi-agent",
+      "summary": "轻量级 TypeScript 多 Agent 编排引擎",
+      "highlights": [
+        "仅需一次 runTeam() 调用即可编排多 Agent",
+        "仅依赖 3 个运行时库，极致轻量",
+        "自动任务分解和并行执行"
+      ],
+      "score": 7,
+      "score_reason": "直接有帮助。轻量化设计降低了多 Agent 编排的使用门槛，API 设计优雅。",
+      "tags": ["multi-agent", "orchestration", "typescript"]
+    },
+    {
+      "name": "tvytlx/ai-agent-deep-dive",
+      "url": "https://github.com/tvytlx/ai-agent-deep-dive",
+      "summary": "中文 Agent 源码深度研究报告",
+      "highlights": [
+        "中文社区稀有的高质量 Agent 源码分析",
+        "详细解析了主流框架的实现原理",
+        "5.5k+ Star 说明开发者对深入理解 Agent 有强需求"
+      ],
+      "score": 7,
+      "score_reason": "直接有帮助。填补了中文 Agent 源码分析的空缺，适合开发者深入学习。",
+      "tags": ["source-code-analysis", "learning", "chinese"]
+    },
+    {
+      "name": "browser-use/browser-harness",
+      "url": "https://github.com/browser-use/browser-harness",
+      "summary": "自愈式浏览器操控工具",
+      "highlights": [
+        "源自知名项目 browser-use 团队，品质保证",
+        "解决 AI Agent 网页操作的核心稳定性痛点",
+        "自愈机制大幅提升了网页自动化的可靠性"
+      ],
+      "score": 7,
+      "score_reason": "直接有帮助。解决了 Agent 浏览器操作的关键工程问题，实用价值高。",
+      "tags": ["browser-automation", "self-healing", "web-agent"]
+    }
+  ]
+}

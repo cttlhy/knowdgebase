@@ -1,0 +1,17 @@
+{
+  "title": "jamiepine/voicebox",
+  "url": "https://github.com/jamiepine/voicebox",
+  "source": "github_trending",
+  "date": "2026-04-22",
+  "popularity": "5,198 stars this week",
+  "summary": "开源语音合成工作室，从 TTS 生成到精细调校一站完成，定位为 ElevenLabs 等闭源产品的开源替代方案，面向内容创作者与独立开发者。",
+  "highlights": [
+    "覆盖从生成到编辑的全链路 TTS 工作流",
+    "开源方案，规避闭源服务的版权/成本风险",
+    "UI 友好，非工程用户也能上手",
+    "TypeScript 实现，便于 Web 集成"
+  ],
+  "score": 7,
+  "score_reason": "定位清晰但受众偏窄：对做配音、有声书、短视频的人价值大，对通用开发者帮助有限；同时 TTS 赛道产品更新极快，需要持续验证效果是否真能对标闭源。",
+  "tags": ["TTS", "语音合成", "开源工具", "内容创作"]
+}

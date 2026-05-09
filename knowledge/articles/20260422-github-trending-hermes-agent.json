@@ -1,0 +1,17 @@
+{
+  "title": "NousResearch/hermes-agent",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "source": "github_trending",
+  "date": "2026-04-22",
+  "popularity": "25,081 stars this week",
+  "summary": "Nous Research 推出的『可成长型 AI Agent』框架，核心理念是让 Agent 随用户长期使用而共同演化，而非用完即弃。本周热度爆表，被视为下一代伴随式 Agent 基础设施的代表候选。",
+  "highlights": [
+    "Nous Research 品牌背书，研究圈认知度高",
+    "长期共演进范式，区别于会话级 Agent",
+    "本周 2.5 万 star，社区期待极高",
+    "Python 实现，便于集成与二次开发"
+  ],
+  "score": 9,
+  "score_reason": "方向性价值高：如果『长期共演进』能在工程上跑通，会改变现有一次性 Agent 的产品形态；加上顶级实验室的信誉加成。减 1 分是因为工程落地成熟度尚待时间验证，目前更多是概念级吸引力。",
+  "tags": ["AI Agent", "开源框架", "长期记忆", "Nous Research"]
+}

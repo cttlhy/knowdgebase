@@ -1,0 +1,17 @@
+{
+  "title": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "source": "github_trending",
+  "date": "2026-04-22",
+  "popularity": "10,356 stars this week",
+  "summary": "Claude Code 插件，自动捕获编码会话动作，使用 agent-sdk 在本地做 AI 压缩总结，并在后续会话中自动注入相关上下文，解决大模型协作编码里最常见的『失忆』问题。",
+  "highlights": [
+    "无侵入插件式接入 Claude Code 工作流",
+    "用 AI 做上下文压缩，token 成本可控",
+    "对多日/长期项目开发体验提升非常明显",
+    "解决真实痛点：长项目中的上下文丢失"
+  ],
+  "score": 8,
+  "score_reason": "直接有帮助：解决了长期项目中 Claude Code 上下文遗失这一高频痛点，1 万 star/周表明真实用户验证充分。减分原因是强绑定 Claude Code 生态，非 Claude 用户直接受益有限。",
+  "tags": ["Claude Code", "上下文管理", "开发工具", "长期记忆"]
+}

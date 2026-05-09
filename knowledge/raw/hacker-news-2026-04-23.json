@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+    "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+    "source": "hacker_news",
+    "popularity": "844 points, 391 comments",
+    "summary": "阿里通义千问发布 Qwen3.6-27B 稠密模型，在 27B 参数规模上实现旗舰级编程能力。值得关注因为它以小博大，证明稠密模型在编码任务上可媲美更大参数量的 MoE 模型。"
+  },
+  {
+    "title": "Windows 9x Subsystem for Linux",
+    "url": "https://social.hails.org/@hailey/116446826733136456",
+    "source": "hacker_news",
+    "popularity": "955 points, 226 comments",
+    "summary": "开发者逆向工程实现 Windows 9x 的 Linux 子系统，让老旧 Windows 系统也能运行 Linux 程序。值得关注因为它是对操作系统兼容性边界的极客探索，技术含量很高。"
+  },
+  {
+    "title": "Over-editing refers to a model modifying code beyond what is necessary",
+    "url": "https://nrehiew.github.io/blog/minimal_editing/",
+    "source": "hacker_news",
+    "popularity": "363 points, 206 comments",
+    "summary": "深入分析 AI 编码模型「过度编辑」问题——模型修改了不必要修改的代码。值得关注因为它是当前 AI 编码工具的核心痛点之一，对改进代码生成质量有重要参考价值。"
+  },
+  {
+    "title": "I am building a cloud",
+    "url": "https://crawshaw.io/blog/building-a-cloud",
+    "source": "hacker_news",
+    "popularity": "338 points, 159 comments",
+    "summary": "独立开发者从头构建自己的云基础设施，记录完整的技术决策过程。值得关注因为它展示了云服务的底层原理和个人如何应对基础设施复杂性挑战。"
+  },
+  {
+    "title": "Scoring Show HN submissions for AI design patterns",
+    "url": "https://www.adriankrebs.ch/blog/design-slop/",
+    "source": "hacker_news",
+    "popularity": "307 points, 220 comments",
+    "summary": "对 Hacker News 上 Show HN 提交的 AI 项目进行设计模式评分，揭示 AI 生成设计的泛滥问题。值得关注因为它引发了关于 AI 设计同质化和「设计垃圾」的广泛讨论。"
+  },
+  {
+    "title": "Website streamed live directly from a model",
+    "url": "https://flipbook.page/",
+    "source": "hacker_news",
+    "popularity": "277 points, 77 comments",
+    "summary": "演示网站直接由 AI 模型实时流式生成网页内容，无需传统后端。值得关注因为它展示了 AI 原生全栈开发的前沿形态——模型即后端。"
+  },
+  {
+    "title": "Parallel agents in Zed",
+    "url": "https://zed.dev/blog/parallel-agents",
+    "source": "hacker_news",
+    "popularity": "228 points, 122 comments",
+    "summary": "代码编辑器 Zed 引入并行 AI Agent 能力，支持同时运行多个编码 Agent。值得关注因为它代表了编辑器集成 AI Agent 的最新进展，提升开发效率。"
+  },
+  {
+    "title": "Technical, cognitive, and intent debt",
+    "url": "https://martinfowler.com/fragments/2026-04-02.html",
+    "source": "hacker_news",
+    "popularity": "264 points, 68 comments",
+    "summary": "Martin Fowler 提出技术债、认知债和意图债三个维度的软件债务框架。值得关注因为它为理解软件复杂性提供了新的分析工具，尤其适用于 AI 辅助编程时代。"
+  },
+  {
+    "title": "Workspace Agents in ChatGPT",
+    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+    "source": "hacker_news",
+    "popularity": "137 points, 52 comments",
+    "summary": "OpenAI 宣布 ChatGPT 推出 Workspace Agents 功能，支持在工作空间中运行 AI Agent。值得关注因为它是 OpenAI 在 Agent 方向的重要产品更新，将 AI Agent 能力直接嵌入工作流。"
+  },
+  {
+    "title": "Ping-pong robot beats top-level human players",
+    "url": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
+    "source": "hacker_news",
+    "popularity": "120 points, 144 comments",
+    "summary": "乒乓球机器人在比赛中击败人类顶级选手，实现机器人运动控制的历史性突破。值得关注因为它在高速物理交互领域展示了 AI 控制的重大进展。"
+  },
+  {
+    "title": "Our newsroom AI policy",
+    "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "source": "hacker_news",
+    "popularity": "49 points, 31 comments",
+    "summary": "Ars Technica 公开其新闻编辑室 AI 使用政策，明确 AI 在新闻生产中的边界。值得关注因为它是主流科技媒体对 AI 伦理和透明度的重要实践案例。"
+  },
+  {
+    "title": "SnapState - Persistent state for AI agent workflows",
+    "url": "https://snapstate.dev",
+    "source": "hacker_news",
+    "popularity": "6 points",
+    "summary": "SnapState 为 AI Agent 工作流提供持久化状态管理能力。值得关注因为它解决了 AI Agent 执行过程中状态丢失的关键问题，是 Agent 工程化的重要基础设施。"
+  },
+  {
+    "title": "Borrow-checking without type-checking",
+    "url": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
+    "source": "hacker_news",
+    "popularity": "58 points, 15 comments",
+    "summary": "探索在不依赖类型检查的情况下实现 Rust 风格的借用检查机制。值得关注因为它为编程语言设计提供了新思路，可能影响未来语言的内存安全方案。"
+  },
+  {
+    "title": "Verus is a tool for verifying the correctness of code written in Rust",
+    "url": "https://verus-lang.github.io/verus/guide/",
+    "source": "hacker_news",
+    "popularity": "56 points, 10 comments",
+    "summary": "Verus 是 Rust 代码形式化验证工具，可用于证明 Rust 程序的正确性。值得关注因为它为 Rust 生态带来了更强大的安全性保障手段。"
+  },
+  {
+    "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
+    "url": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
+    "source": "hacker_news",
+    "popularity": "55 points, 10 comments",
+    "summary": "Arch Linux 官方 Docker 镜像实现完全位级可重现构建。值得关注因为它代表了容器供应链安全的重要里程碑，确保了镜像的可审计性。"
+  }
+]

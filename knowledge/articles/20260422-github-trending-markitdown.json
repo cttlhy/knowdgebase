@@ -1,0 +1,17 @@
+{
+  "title": "microsoft/markitdown",
+  "url": "https://github.com/microsoft/markitdown",
+  "source": "github_trending",
+  "date": "2026-04-22",
+  "popularity": "6,012 stars this week",
+  "summary": "微软官方开源的 Python 工具，把 Office 文档、PDF、图片、音频等格式统一转成 Markdown，给 LLM 做 RAG 与知识处理提供标准化的前处理层。",
+  "highlights": [
+    "微软官方维护，长期稳定性有保障",
+    "一次性覆盖多种文档格式 → 统一 Markdown",
+    "和 LLM / RAG 管线天然契合，集成成本低",
+    "作为 pip 包即装即用，门槛极低"
+  ],
+  "score": 8,
+  "score_reason": "工程价值非常实在：任何做 RAG / 知识库的项目都会踩『文档格式太杂』的坑，而这个库把它一次性解决；微软出品意味着长期维护。8 分而非 9 分，是因为它是『好用的基础工具』而非范式级创新。",
+  "tags": ["RAG", "文档处理", "工具库", "微软"]
+}

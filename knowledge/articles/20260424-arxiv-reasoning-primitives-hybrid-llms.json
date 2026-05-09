@@ -1,0 +1,15 @@
+{
+  "title": "Reasoning Primitives in Hybrid and Non-Hybrid LLMs",
+  "url": "https://arxiv.org/abs/2604.21454",
+  "source": "arxiv",
+  "date": "2026-04-24",
+  "popularity": "published 2026-04-23",
+  "summary": "用 recall 和 state-tracking 两个原语拆解 LLM 推理，并比较混合架构与纯 Transformer 的差异。",
+  "highlights": [
+    "把推理拆成 recall 和 state-tracking 两个基本能力",
+    "reasoning augmentation 能明显扩展有效难度范围",
+    "混合架构在长序列依赖任务下比纯 Transformer 更稳"
+  ],
+  "score": 7,
+  "tags": ["reasoning", "architecture", "hybrid-model"]
+}

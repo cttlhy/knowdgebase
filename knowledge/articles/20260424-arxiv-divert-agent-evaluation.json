@@ -1,0 +1,15 @@
+{
+  "title": "Efficient Agent Evaluation via Diversity-Guided User Simulation",
+  "url": "https://arxiv.org/abs/2604.21480",
+  "source": "arxiv",
+  "date": "2026-04-24",
+  "popularity": "published 2026-04-23",
+  "summary": "通过快照和分支式用户模拟提升 agent 评测效率，更容易暴露深层失败路径。",
+  "highlights": [
+    "在关键节点保存快照，复用共享前缀，减少重复 rollout",
+    "用多样化用户响应主动探索深层失败路径",
+    "每 token 能发现更多失败样本"
+  ],
+  "score": 8,
+  "tags": ["agent", "evaluation", "simulation"]
+}

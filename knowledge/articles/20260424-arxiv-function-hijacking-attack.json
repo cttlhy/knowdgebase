@@ -1,0 +1,15 @@
+{
+  "title": "Breaking MCP with Function Hijacking Attacks: Novel Threats for Function Calling and Agentic Models",
+  "url": "https://arxiv.org/abs/2604.20994",
+  "source": "arxiv",
+  "date": "2026-04-24",
+  "popularity": "published 2026-04-22",
+  "summary": "针对 MCP 和函数调用模型的新型攻击，能强制 agent 调用攻击者指定函数，安全影响直接。",
+  "highlights": [
+    "提出 Function Hijacking Attack，直接操纵工具选择过程",
+    "攻击对上下文语义依赖低，跨函数集合也能生效",
+    "在 5 类模型上达到 70% 到 100% 的攻击成功率"
+  ],
+  "score": 8,
+  "tags": ["security", "mcp", "function-calling"]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Gas Town是否盗用用户LLM额度来改进自身？",
+  "url": "https://github.com/gastownhall/gastown/issues/3649",
+  "source": "hacker_news",
+  "date": "2026-04-22",
+  "popularity": "HN discussion",
+  "summary": "开发者发现 AI 编程工具 Gas Town 疑似在用户不知情的情况下消耗用户的 LLM API 额度用于模型的自我改进，引发信任危机和社区讨论。",
+  "highlights": [
+    "涉及 AI 工具透明度与用户信任的核心问题",
+    "对 AI 工具后台行为的审计和透明度提出了现实需求"
+  ],
+  "score": 5,
+  "tags": ["信任危机", "AI编程工具", "透明度"]
+}

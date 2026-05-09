@@ -1,0 +1,14 @@
+{
+  "title": "内存短缺可能持续数年（AI驱动需求）",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+  "source": "hacker_news",
+  "date": "2026-04-22",
+  "popularity": "479 comments",
+  "summary": "AI 训练和推理对高带宽内存（HBM）的爆炸性需求导致全球 RAM 供应短缺，分析认为由于 AI 算力需求持续增长，这一短缺可能持续数年。",
+  "highlights": [
+    "AI 对硬件资源的挤占效应从 GPU 扩展到内存，影响整个IT产业链",
+    "479 条评论的高热度反映硬件资源短缺是开发者普遍关注的痛点"
+  ],
+  "score": 7,
+  "tags": ["硬件短缺", "内存", "AI基础设施", "行业趋势"]
+}

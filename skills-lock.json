@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "skills": {
+    "apiyi-gpt-image-2-gen": {
+      "source": "wuchubuzai2018/expert-skills-hub",
+      "sourceType": "github",
+      "computedHash": "e1969f154141ef4d076d482f8c5a0b623ebfdb63eeee0f9bc5d1742dd6d2062b"
+    },
+    "grill-me": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "computedHash": "daf64ca15f4fa081a6747766db538e2dbd1131725ed4fcdd3d538dc62c7035ba"
+    },
+    "to-issues": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "computedHash": "8af055921fd37e0899835f414b5275e39d75bb7eac2e93ca0f5982732b0319ba"
+    },
+    "to-prd": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "computedHash": "da4a7760ff808a68b0eae1ec270fd574b84f8560136ae1f9534f9150797f89cb"
+    },
+    "write-a-skill": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "computedHash": "3b58a16bde08f84ed490cd449ecdc40289216d660e070c485f53bc2d1ed2b843"
+    }
+  }
+}

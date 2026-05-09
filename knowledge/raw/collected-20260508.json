@@ -1,0 +1,89 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-05-08",
+    "popularity": "stars:369515",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾风格为特色。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-05-08",
+    "popularity": "stars:187018",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI能力",
+      "公平代码",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "AI slop is killing online communities",
+    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Thu, 07 May 2026 18:46:25 +0000",
+    "popularity": "",
+    "content": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 493 # Comments: 467",
+    "summary": "文章探讨AI生成的低质量内容（AI slop）如何破坏在线社区，导致信息质量下降、用户信任流失和社区互动恶化。",
+    "score": 8,
+    "tags": [
+      "AI slop",
+      "在线社区",
+      "内容质量",
+      "用户信任",
+      "社区管理"
+    ],
+    "highlights": [
+      "AI slop is killing online communities",
+      "low-quality AI-generated content undermines trust and engagement",
+      "communities struggle to maintain quality as AI slop proliferates"
+    ]
+  },
+  {
+    "title": "Mojo v1.0.0b1",
+    "url": "https://mojolang.org/releases/v1.0.0b1",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 07 May 2026 14:23:45 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zys8hd/mojo_v1_0_0b1\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Mojo 发布了 v1.0.0b1 版本，提供了下载链接和社区讨论入口。",
+    "score": 7,
+    "tags": [
+      "Mojo",
+      "发布",
+      "版本更新"
+    ],
+    "highlights": [
+      "Mojo v1.0.0b1 版本发布",
+      "提供社区讨论链接"
+    ]
+  }
+]

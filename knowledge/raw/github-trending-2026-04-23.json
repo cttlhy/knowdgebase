@@ -1,0 +1,127 @@
+{
+  "source": "github",
+  "skill": "github-trending",
+  "collected_at": "2026-04-23T10:30:00Z",
+  "items": [
+    {
+      "name": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "summary": "项目 MemPalace/mempalace 是一个开源 AI 记忆系统，号称基准测试表现最佳且免费使用。支持 ChromaDB、MCP 协议，提供持久化记忆管理能力，值得关注是因为它为 LLM 提供了长期记忆基础设施，Star 数 49k+ 证明其社区认可度极高。",
+      "stars": 49130,
+      "language": "Python",
+      "topics": ["ai", "llm", "mcp", "memory", "chromadb", "python"]
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "summary": "项目 JuliusBrussee/caveman 是一个 Claude Code 技能插件，通过让 AI 用"原始人"式简短语言对话来减少 65% 的 Token 消耗。值得关注是因为它用创意方式大幅降低 LLM 使用成本，Star 数 44k+ 反映了开发者对 Token 优化的强烈需求。",
+      "stars": 43975,
+      "language": "Python",
+      "topics": ["ai", "claude", "claude-code", "llm", "prompt-engineering", "tokens"]
+    },
+    {
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "summary": "项目 santifer/career-ops 是一个基于 Claude Code 的 AI 求职系统，提供 14 种技能模式、Go 仪表盘、PDF 生成和批量处理能力。值得关注是因为它将 AI Agent 应用于求职场景，Star 数 38k+ 说明实用型 AI 工具需求旺盛。",
+      "stars": 38671,
+      "language": "JavaScript",
+      "topics": ["ai-agent", "claude", "claude-code", "cli", "golang", "job-search", "automation"]
+    },
+    {
+      "name": "safishamsi/graphify",
+      "url": "https://github.com/safishamsi/graphify",
+      "summary": "项目 safishamsi/graphify 是一个 AI 编程助手技能，可将代码、文档、图片或视频文件夹转化为可查询的知识图谱。支持 Claude Code、Codex、Cursor、Gemini CLI 等十余种平台，值得关注是因为它打通了多种 AI 工具的知识管理。",
+      "stars": 33430,
+      "language": "Python",
+      "topics": ["claude-code", "codex", "gemini", "graphrag", "knowledge-graph", "skills"]
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "summary": "项目 Gitlawb/openclaude 是一个开源编码 Agent CLI，支持 OpenAI、Gemini、DeepSeek、Ollama 和 200+ 模型。值得关注是因为它是 Claude Code 的开源替代品，提供跨模型兼容的编码 Agent 体验，Star 数 23k+ 增长迅速。",
+      "stars": 23812,
+      "language": "TypeScript",
+      "topics": ["ai", "claude", "coding-agent", "cli", "open-source"]
+    },
+    {
+      "name": "sanbuphy/learn-coding-agent",
+      "url": "https://github.com/sanbuphy/learn-coding-agent",
+      "summary": "项目 sanbuphy/learn-coding-agent 系统地整理了 Coding Agent 的研究资料，涵盖各类编程 Agent 的前沿论文与实践。值得关注是因为它是了解 AI 编程 Agent 领域最全面的中文研究索引，贡献者众多。",
+      "stars": 11711,
+      "language": null,
+      "topics": ["ai", "coding-agent", "research", "llm"]
+    },
+    {
+      "name": "HKUDS/OpenHarness",
+      "url": "https://github.com/HKUDS/OpenHarness",
+      "summary": "项目 HKUDS/OpenHarness 是香港大学推出的开放 Agent 框架，内置名为 Ohmo 的个人 Agent。值得关注因为它是学术界对 Claude Code Agent Harness 架构的系统性开源实现，提供了完整的 Agent 编排能力。",
+      "stars": 10988,
+      "language": "Python",
+      "topics": ["agent", "ai-agent", "harness", "open-source"]
+    },
+    {
+      "name": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain",
+      "summary": "项目 garrytan/gbrain 是知名投资人 Garry Tan 出品的 OpenClaw/Hermes Agent 配置大脑，提供了一套经过实战检验的 Agent 行为模式。值得关注因为它展示了顶级开发者如何配置和管理 AI Agent 的行为。",
+      "stars": 10607,
+      "language": "TypeScript",
+      "topics": ["ai-agent", "claude", "openclaw", "hermes"]
+    },
+    {
+      "name": "Kuberwastaken/claurst",
+      "url": "https://github.com/Kuberwastaken/claurst",
+      "summary": "项目 Kuberwastaken/claurst 是用 Rust 重写的终端编码 Agent，灵感来自 Claude Code。值得关注是因为 Rust 实现带来了更好的性能和安全性，为编码 Agent 提供了新的技术路线选择。",
+      "stars": 9254,
+      "language": "Rust",
+      "topics": ["coding-agent", "rust", "cli", "claude"]
+    },
+    {
+      "name": "kyegomez/OpenMythos",
+      "url": "https://github.com/kyegomez/OpenMythos",
+      "summary": "项目 kyegomez/OpenMythos 是对 Claude Mythos 架构的理论重建，基于公开研究文献从第一性原理构建。值得关注因为它为理解 Claude 内部架构提供了开源参考实现，涉及循环 Transformer 等前沿技术。",
+      "stars": 9210,
+      "language": "Python",
+      "topics": ["ai", "claude", "claude-mythos", "pytorch", "jax", "transformer"]
+    },
+    {
+      "name": "larksuite/cli",
+      "url": "https://github.com/larksuite/cli",
+      "summary": "项目 larksuite/cli 是飞书/ Lark 官方 CLI 工具，专为人类和 AI Agent 设计，覆盖消息、文档、表格、日历等 200+ 命令和 20+ AI Agent 技能。值得关注因为它是企业级产品为 AI Agent 生态提供官方工具的重要案例。",
+      "stars": 8542,
+      "language": "Go",
+      "topics": ["cli", "ai-agent", "lark", "feishu", "productivity"]
+    },
+    {
+      "name": "KKKKhazix/khazix-skills",
+      "url": "https://github.com/KKKKhazix/khazix-skills",
+      "summary": "项目 KKKKhazix/khazix-skills 是知名 AI 博主"卡兹克"开源的 AI Skills 合集，提供了大量可直接使用的编码 Agent 技能。值得关注因为它来自社区 KOL，实用性强，对 Claude Code 等工具的用户有直接帮助。",
+      "stars": 5919,
+      "language": "Python",
+      "topics": ["ai", "skills", "claude-code", "agent"]
+    },
+    {
+      "name": "JackChen-me/open-multi-agent",
+      "url": "https://github.com/JackChen-me/open-multi-agent",
+      "summary": "项目 JackChen-me/open-multi-agent 是一个 TypeScript 多 Agent 编排引擎，仅需一次 runTeam() 调用即可实现多模型协作、自动任务分解和并行执行。值得关注因为它仅依赖 3 个运行时库，设计极其轻量。",
+      "stars": 5836,
+      "language": "TypeScript",
+      "topics": ["multi-agent", "agent-framework", "llm", "orchestration", "typescript"]
+    },
+    {
+      "name": "tvytlx/ai-agent-deep-dive",
+      "url": "https://github.com/tvytlx/ai-agent-deep-dive",
+      "summary": "项目 tvytlx/ai-agent-deep-dive 是一份 AI Agent 源码深度研究报告，用中文详细解析主流 Agent 框架的实现原理。值得关注因为它是中文社区难得的高质量 Agent 源码分析资料，适合开发者深入学习 Agent 机制。",
+      "stars": 5596,
+      "language": "Python",
+      "topics": ["ai-agent", "deep-dive", "research", "source-code"]
+    },
+    {
+      "name": "browser-use/browser-harness",
+      "url": "https://github.com/browser-use/browser-harness",
+      "summary": "项目 browser-use/browser-harness 是一个自愈式浏览器操控工具，使 LLM 能像人类一样完成任意浏览器任务。值得关注因为它解决了 AI Agent 操作网页时的稳定性问题，由知名项目 browser-use 团队打造。",
+      "stars": 5379,
+      "language": "Python",
+      "topics": ["browser", "agent", "llm", "automation", "web"]
+    }
+  ]
+}

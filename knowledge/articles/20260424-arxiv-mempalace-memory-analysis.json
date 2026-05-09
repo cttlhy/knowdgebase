@@ -1,0 +1,15 @@
+{
+  "title": "Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture",
+  "url": "https://arxiv.org/abs/2604.21284",
+  "source": "arxiv",
+  "date": "2026-04-24",
+  "popularity": "published 2026-04-23",
+  "summary": "对 MemPalace 记忆架构做去魅分析，拆出真正有效的长期记忆系统组件。",
+  "highlights": [
+    "指出性能优势主要来自逐字存储和向量检索，而不是空间隐喻本身",
+    "肯定其低唤醒成本和零 LLM 写入路径",
+    "为长期记忆系统选型和架构判断提供了更清晰依据"
+  ],
+  "score": 7,
+  "tags": ["memory", "llm", "retrieval"]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "用小型设备端LLM控制X/Twitter信息流",
+  "url": "https://imbue.com/product/bouncer/",
+  "source": "hacker_news",
+  "date": "2026-04-22",
+  "popularity": "Show HN",
+  "summary": "一个 Chrome 扩展和 iOS 应用使用 Qwen3.5-4B 模型对 Twitter 信息流进行语义匹配过滤，超越传统关键词屏蔽。",
+  "highlights": [
+    "用 4B 参数级端侧模型实现语义级内容过滤",
+    "Chrome 扩展 + iOS 应用双端覆盖，实用性强"
+  ],
+  "score": 5,
+  "tags": ["端侧LLM", "内容过滤", "社交媒体", "Chrome扩展"]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github-trending-20260310-001",
+  "title": "OpenCode",
+  "source": "github-trending",
+  "source_url": "https://github.com/nicepkg/opencode",
+  "summary": "开源 AI 编程终端工具，支持 100+ 模型，MIT 协议，Go 语言编写，支持国产模型直连",
+  "tags": ["agent", "tool-use", "code-generation"],
+  "status": "review",
+  "score": 9,
+  "audience": "intermediate",
+  "metadata": {
+    "stars": 12345,
+    "language": "Go",
+    "license": "MIT",
+    "topics": ["agent", "tool-use", "code-generation"]
+  }
+}

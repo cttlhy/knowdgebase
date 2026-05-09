@@ -1,0 +1,17 @@
+{
+  "title": "Lordog/dive-into-llms",
+  "url": "https://github.com/Lordog/dive-into-llms",
+  "source": "github_trending",
+  "date": "2026-04-22",
+  "popularity": "5,167 stars this week",
+  "summary": "《动手学大模型 Dive into LLMs》系列实践教程，中文母语化、Jupyter Notebook 可直接跑，串起大模型从原理到工程实现的完整学习路径。",
+  "highlights": [
+    "中文教学，大幅降低中文读者的入门成本",
+    "Notebook 可执行，支持边看边跑边改",
+    "覆盖原理 + 训练 + 推理 + 应用",
+    "适合作为团队内部培训材料"
+  ],
+  "score": 8,
+  "score_reason": "对中文技术社区价值显著：结构化、可执行、覆盖面广，是高质量的学习资源；缺 1 分是因为定位偏『学习材料』，对已有 LLM 工程经验者提升有限。",
+  "tags": ["LLM 教程", "中文资料", "学习资源", "Notebook"]
+}

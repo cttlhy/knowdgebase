@@ -1,0 +1,15 @@
+{
+  "title": "From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation",
+  "url": "https://arxiv.org/abs/2604.21910",
+  "source": "arxiv",
+  "date": "2026-04-24",
+  "popularity": "published 2026-04-23",
+  "summary": "把自然语言科研问题转成可复现工作流的 agent 自动编排框架，兼顾准确率、成本和执行稳定性。",
+  "highlights": [
+    "用语义层、确定性生成层、知识层构建三层自动化架构",
+    "在 150 个查询上把意图全匹配准确率从 44% 提升到 83%",
+    "延迟工作流生成让数据传输下降 92%，单次查询成本低于 0.001 美元"
+  ],
+  "score": 9,
+  "tags": ["agent", "workflow", "scientific-automation"]
+}

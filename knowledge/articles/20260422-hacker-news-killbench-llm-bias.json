@@ -1,0 +1,14 @@
+{
+  "title": "KillBench：每个前沿LLM都对谁值得活着存在偏见",
+  "url": "https://whitecircle.ai/killbench",
+  "source": "hacker_news",
+  "date": "2026-04-22",
+  "popularity": "HN discussion",
+  "summary": "新基准测试 KillBench 揭示所有前沿 LLM 在道德困境判断中均表现出系统性偏见，不同模型对生命价值的判断存在显著差异。",
+  "highlights": [
+    "系统性揭示了 LLM 在伦理困境中的价值偏见",
+    "不同模型间的显著差异说明价值观对齐仍是未解决的难题"
+  ],
+  "score": 6,
+  "tags": ["AI伦理", "LLM偏见", "价值观对齐", "基准测试"]
+}

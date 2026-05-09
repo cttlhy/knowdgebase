@@ -1,0 +1,15 @@
+{
+  "title": "Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models",
+  "url": "https://arxiv.org/abs/2604.21896",
+  "source": "arxiv",
+  "date": "2026-04-24",
+  "popularity": "published 2026-04-23",
+  "summary": "面向游戏场景的 LLM agent 开发环境，支持多类游戏策略生成、微调和交互式试验。",
+  "highlights": [
+    "覆盖规则求解、启发式策略和带反馈学习的多类游戏",
+    "把工具增强、微调与人类反馈整合进统一环境",
+    "展示 agent 在交互中逐步形成和修正策略的路径"
+  ],
+  "score": 6,
+  "tags": ["agent", "llm", "game-ai"]
+}

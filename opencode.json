@@ -1,0 +1,15 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "knowledge": {
+      "type": "local",
+      "command": [
+        "D:\\devTools\\miniconda3\\python.exe",
+        "-u",
+        "D:\\work\\knowdgebase\\mcp_knowledge_server.py"
+      ],
+      "enabled": true,
+      "timeout": 60000
+    }
+  }
+}

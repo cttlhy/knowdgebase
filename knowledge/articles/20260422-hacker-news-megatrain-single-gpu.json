@@ -1,0 +1,15 @@
+{
+  "title": "MegaTrain：单GPU上全精度训练1000亿参数LLM",
+  "url": "https://arxiv.org/abs/2604.05091",
+  "source": "hacker_news",
+  "date": "2026-04-22",
+  "popularity": "HN front page",
+  "summary": "新论文提出 MegaTrain 系统，将参数和优化器状态存储在 CPU 内存中，将 GPU 视为瞬时计算引擎，通过流水线双缓冲执行引擎和无状态层模板技术克服 CPU-GPU 带宽瓶颈。在单张 H200 GPU（配合 1.5TB 主机内存）上成功全精度训练 120B 参数模型。",
+  "highlights": [
+    "单 GPU 训练 1000 亿+参数模型，大幅降低大模型训练硬件门槛",
+    "流水线双缓冲 + 无状态层模板两项关键优化有效克服 CPU-GPU 带宽瓶颈",
+    "在 14B 模型上比 DeepSpeed ZeRO-3 快 1.84 倍"
+  ],
+  "score": 9,
+  "tags": ["大模型训练", "GPU优化", "内存管理", "论文", "AI基础设施"]
+}

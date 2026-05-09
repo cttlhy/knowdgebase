@@ -1,0 +1,17 @@
+{
+  "title": "lsdefine/GenericAgent",
+  "url": "https://github.com/lsdefine/GenericAgent",
+  "source": "github_trending",
+  "date": "2026-04-22",
+  "popularity": "4,223 stars this week",
+  "summary": "自演化 Agent 实验：从 3.3K 行种子代码出发自动生长技能树，据称以 1/6 token 消耗实现完整系统控制，主打『极简内核 + 自扩展能力』。",
+  "highlights": [
+    "极简种子代码 + 自动生长技能树的设计",
+    "声称大幅降低 token 消耗，有实测价值",
+    "对研究『最小可行自治 Agent』有参考意义",
+    "Python 实现，易于复现实验"
+  ],
+  "score": 7,
+  "score_reason": "直接有帮助但需实测验证：如果 1/6 token 的说法经得起复现，对成本敏感的生产系统有明显价值；扣分是因为这类『自演化』项目的稳定性和安全性在真实业务中风险不可忽视。",
+  "tags": ["AI Agent", "自演化", "Token 优化", "实验性"]
+}

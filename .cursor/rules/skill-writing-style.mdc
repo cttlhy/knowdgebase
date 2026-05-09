@@ -1,0 +1,14 @@
+---
+description: Keep skill files concise and action-oriented
+alwaysApply: false
+---
+# Skill Writing Style
+
+When writing or editing `SKILL.md` files in this project:
+
+- Use concise, action-oriented language.
+- Prefer short sentences.
+- Avoid descriptive or explanatory prose.
+- Write like an execution checklist, not a tutorial.
+- Keep each step as short as possible.
+- Preserve required structure, but minimize wording.

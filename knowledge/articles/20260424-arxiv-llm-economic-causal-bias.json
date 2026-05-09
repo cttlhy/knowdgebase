@@ -1,0 +1,15 @@
+{
+  "title": "Ideological Bias in LLMs' Economic Causal Reasoning",
+  "url": "https://arxiv.org/abs/2604.21334",
+  "source": "arxiv",
+  "date": "2026-04-24",
+  "popularity": "published 2026-04-23",
+  "summary": "系统评估 LLM 在经济因果推理中的意识形态偏差，提醒高风险决策场景要做方向性校验。",
+  "highlights": [
+    "从 10490 条因果三元组中提炼出 1056 个意识形态争议样本",
+    "20 个模型中有 18 个更容易偏向干预主义方向",
+    "一次示例提示并不能消除这种方向性偏差"
+  ],
+  "score": 6,
+  "tags": ["llm", "bias", "causal-reasoning"]
+}

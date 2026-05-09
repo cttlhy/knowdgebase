@@ -1,0 +1,15 @@
+{
+  "title": "CI-Work: Benchmarking Contextual Integrity in Enterprise LLM Agents",
+  "url": "https://arxiv.org/abs/2604.21308",
+  "source": "arxiv",
+  "date": "2026-04-24",
+  "popularity": "published 2026-04-23",
+  "summary": "面向企业 LLM agent 的隐私评测基准，揭示任务效用与敏感信息泄露之间的紧张关系。",
+  "highlights": [
+    "按五类信息流方向构造企业工作流隐私评测",
+    "隐私违规率在 15.8% 到 50.9% 之间，泄露最高达 26.7%",
+    "指出单纯放大模型或加深推理并不能解决问题"
+  ],
+  "score": 8,
+  "tags": ["agent", "privacy", "evaluation"]
+}

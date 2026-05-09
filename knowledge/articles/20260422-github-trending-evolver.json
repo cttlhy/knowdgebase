@@ -1,0 +1,17 @@
+{
+  "title": "EvoMap/evolver",
+  "url": "https://github.com/EvoMap/evolver",
+  "source": "github_trending",
+  "date": "2026-04-22",
+  "popularity": "4,376 stars this week",
+  "summary": "基于 GEP（基因演化协议）的 AI Agent 自演化引擎，尝试用类遗传算法让 Agent 持续迭代自身能力，整体偏研究与概念验证方向。",
+  "highlights": [
+    "用进化算法思路解决 Agent 自我改进问题",
+    "提出『基因组演化协议』作为抽象",
+    "为自治 Agent 研究提供一种候选范式",
+    "JavaScript 实现，社区易于参与实验"
+  ],
+  "score": 6,
+  "score_reason": "值得了解但不建议当前落地：思路新颖，但进化算法在 Agent 场景的效率和收敛性都还是未解之题；当前价值更多在『开阔视野』而非『解决问题』。",
+  "tags": ["AI Agent", "自演化", "研究方向", "进化算法"]
+}

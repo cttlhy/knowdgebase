@@ -1,0 +1,15 @@
+{
+  "title": "Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models",
+  "url": "https://arxiv.org/abs/2604.21860",
+  "source": "arxiv",
+  "date": "2026-04-24",
+  "popularity": "published 2026-04-23",
+  "summary": "把恶意意图分散到多轮对话中的新攻击方式，暴露了无状态审查在真实部署中的薄弱点。",
+  "highlights": [
+    "通过多轮交互分散恶意意图，绕过单轮审查",
+    "覆盖商用和开源模型，揭示模型间鲁棒性差异",
+    "强调需要会话级上下文聚合与持续对抗测试"
+  ],
+  "score": 8,
+  "tags": ["security", "jailbreak", "multi-turn"]
+}

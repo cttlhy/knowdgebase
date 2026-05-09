@@ -1,0 +1,72 @@
+[
+  {
+    "title": "forrestchang/andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "source": "github_trending",
+    "popularity": "40,732 stars this week",
+    "summary": "一份基于 Andrej Karpathy 对 LLM 编码陷阱观察而整理的 CLAUDE.md 规则文件，用来显著改善 Claude Code 在实际编码中的行为表现。"
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github_trending",
+    "popularity": "25,081 stars this week",
+    "summary": "Nous Research 推出的可成长型 AI Agent 框架，强调与用户长期协同演进，本周关注度极高。"
+  },
+  {
+    "title": "thedotmack/claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "github_trending",
+    "popularity": "10,356 stars this week",
+    "summary": "Claude Code 插件，自动捕获编码会话中的操作并用 agent-sdk 压缩总结，在后续会话中注入相关上下文，实现长期记忆。"
+  },
+  {
+    "title": "multica-ai/multica",
+    "url": "https://github.com/multica-ai/multica",
+    "source": "github_trending",
+    "popularity": "6,223 stars this week",
+    "summary": "开源的托管式 Agent 平台，把编码 Agent 当成团队成员来管理，可分配任务、跟踪进度并沉淀技能。"
+  },
+  {
+    "title": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "source": "github_trending",
+    "popularity": "6,012 stars this week",
+    "summary": "微软开源的 Python 工具，把各类 Office 文档和文件统一转换为 Markdown，便于喂给 LLM 做 RAG 和知识处理。"
+  },
+  {
+    "title": "jamiepine/voicebox",
+    "url": "https://github.com/jamiepine/voicebox",
+    "source": "github_trending",
+    "popularity": "5,198 stars this week",
+    "summary": "开源语音合成工作室，提供完整的 TTS 创作与调校界面，定位为 AI 语音生成的开源替代方案。"
+  },
+  {
+    "title": "Lordog/dive-into-llms",
+    "url": "https://github.com/Lordog/dive-into-llms",
+    "source": "github_trending",
+    "popularity": "5,167 stars this week",
+    "summary": "《动手学大模型 Dive into LLMs》系列编程实践教程，中文友好，用 Notebook 演示大模型原理与工程实现。"
+  },
+  {
+    "title": "EvoMap/evolver",
+    "url": "https://github.com/EvoMap/evolver",
+    "source": "github_trending",
+    "popularity": "4,376 stars this week",
+    "summary": "基于 GEP（基因演化协议）的 AI Agent 自演化引擎，让 Agent 具备类似遗传进化的能力持续优化自身。"
+  },
+  {
+    "title": "lsdefine/GenericAgent",
+    "url": "https://github.com/lsdefine/GenericAgent",
+    "source": "github_trending",
+    "popularity": "4,223 stars this week",
+    "summary": "自演化 Agent：从 3.3K 行种子代码出发自动生长技能树，据称以 1/6 的 token 消耗实现完整系统控制。"
+  },
+  {
+    "title": "BasedHardware/omi",
+    "url": "https://github.com/BasedHardware/omi",
+    "source": "github_trending",
+    "popularity": "3,863 stars this week",
+    "summary": "可看屏幕、听对话的 AI 穿戴助手，能根据实时上下文主动给出操作建议，软硬件结合的开源方案。"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "title": "Mediator.ai：用纳什谈判理论和LLM系统化公平协商",
+  "url": "https://mediator.ai/",
+  "source": "hacker_news",
+  "date": "2026-04-22",
+  "popularity": "Show HN",
+  "summary": "Mediator.ai 利用纳什谈判解和 LLM 的偏好提取能力，构建 AI 调解平台，能够自动分析多方需求并生成各方都满意的公平协议方案。",
+  "highlights": [
+    "将博弈论中的纳什谈判理论与 LLM 偏好提取能力创新结合",
+    "为 AI 辅助协商/调解这一垂直场景提供了系统化解决方案"
+  ],
+  "score": 6,
+  "tags": ["LLM应用", "博弈论", "协商调解", "公平AI"]
+}

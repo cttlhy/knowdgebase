@@ -1,0 +1,14 @@
+{
+  "title": "本地LLM生态不需要Ollama",
+  "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+  "source": "hacker_news",
+  "date": "2026-04-22",
+  "popularity": "200+ comments",
+  "summary": "技术博主撰文认为本地 LLM 运行生态已足够成熟，开发者可以直接使用底层工具（如 llama.cpp）而不必依赖 Ollama 这样的中间层抽象工具。文章引发社区激烈辩论。",
+  "highlights": [
+    "对 Ollama 这类中间层工具的依赖性问题提出了值得深思的质疑",
+    "引发 200+ 条评论的激烈辩论，反映开发者对工具链选择的真实分歧"
+  ],
+  "score": 5,
+  "tags": ["本地LLM", "Ollama", "开发者工具", "技术辩论"]
+}

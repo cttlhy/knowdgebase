@@ -1,0 +1,15 @@
+{
+  "title": "HiCrew: Hierarchical Reasoning for Long-Form Video Understanding via Question-Aware Multi-Agent Collaboration",
+  "url": "https://arxiv.org/abs/2604.21444",
+  "source": "arxiv",
+  "date": "2026-04-24",
+  "popularity": "published 2026-04-23",
+  "summary": "面向长视频理解的分层多 agent 协作框架，强化时序与因果推理能力。",
+  "highlights": [
+    "用 Hybrid Tree 保留时序拓扑并做相关性聚类",
+    "通过问题感知描述生成提高语义表达精度",
+    "规划层会按问题复杂度动态编排 agent 角色和路径"
+  ],
+  "score": 7,
+  "tags": ["multi-agent", "video-understanding", "multimodal"]
+}

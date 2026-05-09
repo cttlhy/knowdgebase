@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "D:\\devTools\\miniconda3\\python.exe",
+  "python.analysis.extraPaths": [
+    "D:\\devTools\\miniconda3\\Lib\\site-packages"
+  ]
+}
+{
+  "python.defaultInterpreterPath": "D:\\devTools\\miniconda3\\python.exe"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "forrestchang/andrej-karpathy-skills",
+  "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+  "source": "github_trending",
+  "date": "2026-04-22",
+  "popularity": "40,732 stars this week",
+  "summary": "以 Andrej Karpathy 对 LLM 编码陷阱的观察为蓝本，整理出一份可直接挂到 Claude Code 的 CLAUDE.md 规则文件。用少量、可迁移的规则约束模型行为，显著降低幻觉、跑偏与坏模式，是当前『规则工程』最出圈的样板。",
+  "highlights": [
+    "零成本接入：把 CLAUDE.md 丢进仓库即可生效",
+    "来源权威，Karpathy 在 LLM 代码实战上的积累",
+    "本周 40,732 star，创下少见的顶流热度",
+    "对 Cursor / Codex 等同类工具同样可迁移"
+  ],
+  "score": 9,
+  "score_reason": "影响面极广：任何用 Claude Code / Cursor 的团队都能立刻获益；热度数据（4 万+ star/周）远超同周其他项目；定义了『规则工程』这一新兴最佳实践。不给 10 分，是因为它更像经验沉淀而非基础设施级突破。",
+  "tags": ["AI", "Claude Code", "提示词工程", "规则工程"]
+}

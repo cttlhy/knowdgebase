@@ -1,0 +1,17 @@
+{
+  "title": "multica-ai/multica",
+  "url": "https://github.com/multica-ai/multica",
+  "source": "github_trending",
+  "date": "2026-04-22",
+  "popularity": "6,223 stars this week",
+  "summary": "开源的托管式 Agent 平台，把编码 Agent 当作团队成员来管理：分配任务、跟踪进度、沉淀技能。目标是让 AI 从『一次性工具』升级为『持续协作的同事』。",
+  "highlights": [
+    "团队视角管理多 Agent，而非单用户独享",
+    "内置任务分配 + 进度跟踪 + 技能沉淀",
+    "明确定位：AI 时代的团队协作底座",
+    "TypeScript 实现，Web 化管理界面友好"
+  ],
+  "score": 7,
+  "score_reason": "值得关注但还未到必用级别：方向正确（团队级 Agent 管理），但赛道竞争激烈（与 Devin、CrewAI 等重叠），生态尚未定型。适合有多 Agent 管理需求的团队先行体验。",
+  "tags": ["AI Agent", "团队协作", "工程化", "平台"]
+}

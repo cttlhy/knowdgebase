@@ -1,0 +1,15 @@
+{
+  "title": "CrabTrap：LLM作为评判者的HTTP代理，保障AI Agent生产安全",
+  "url": "https://www.brex.com/crabtrap",
+  "source": "hacker_news",
+  "date": "2026-04-22",
+  "popularity": "HN front page",
+  "summary": "Brex 开源 CrabTrap，一个将 LLM 作为评判者的 HTTP 代理中间件，拦截 AI Agent 发出的每个请求，根据预设策略实时评估并决定允许或阻止。可在 30 秒内完成部署。",
+  "highlights": [
+    "LLM-as-a-judge 架构，利用 LLM 自身能力评估 Agent 行为安全性",
+    "开源且 30 秒可完成部署，实用性强",
+    "解决了 AI Agent 在生产环境中越权操作的关键安全痛点"
+  ],
+  "score": 8,
+  "tags": ["AI安全", "AI Agent", "开源工具", "LLM代理", "生产安全"]
+}

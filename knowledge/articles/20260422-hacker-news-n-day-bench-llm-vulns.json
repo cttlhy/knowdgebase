@@ -1,0 +1,14 @@
+{
+  "title": "N-Day-Bench：LLM能否在真实代码库中发现已知漏洞？",
+  "url": "https://ndaybench.winfunc.com",
+  "source": "hacker_news",
+  "date": "2026-04-22",
+  "popularity": "HN discussion",
+  "summary": "N-Day-Bench 是一个全新的基准测试平台，每月从 GitHub 安全公告中抽取真实漏洞案例，测试前沿 LLM 在未见过补丁的情况下发现已知安全漏洞的能力。",
+  "highlights": [
+    "聚焦真实代码库中的真实漏洞，比合成基准更具实际参考价值",
+    "每月更新，持续跟踪 LLM 安全审计能力的进步"
+  ],
+  "score": 7,
+  "tags": ["LLM评测", "安全漏洞", "基准测试", "AI安全"]
+}

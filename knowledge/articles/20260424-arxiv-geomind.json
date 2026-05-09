@@ -1,0 +1,15 @@
+{
+  "title": "GeoMind: An Agentic Workflow for Lithology Classification with Reasoned Tool Invocation",
+  "url": "https://arxiv.org/abs/2604.21501",
+  "source": "arxiv",
+  "date": "2026-04-24",
+  "popularity": "published 2026-04-23",
+  "summary": "把岩性分类改造成工具增强的序列推理流程，适合专业领域 agent 的设计与验证。",
+  "highlights": [
+    "由感知、推理、分析三模块协作完成分类",
+    "全局规划器会按输入特征动态组织工具调用",
+    "过程监督约束中间步骤，保证地质规则一致性"
+  ],
+  "score": 7,
+  "tags": ["agent", "tool-use", "domain-ai"]
+}

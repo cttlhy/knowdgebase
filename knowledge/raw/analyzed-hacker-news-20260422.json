@@ -1,0 +1,271 @@
+[
+  {
+    "title": "Project Glasswing：为AI时代保障关键软件安全 | Project Glasswing: Securing critical software for the AI era",
+    "url": "https://www.anthropic.com/glasswing",
+    "source": "hacker_news",
+    "summary": "Anthropic 联合 AWS、Apple、Google、Microsoft、NVIDIA 等十几家行业巨头启动 Project Glasswing 计划，利用其最新前沿模型 Claude Mythos Preview 扫描全球关键软件基础设施以发现并修复零日漏洞。Mythos Preview 已自主发现数千个高危漏洞，包括存在于 OpenBSD 中 27 年、FFmpeg 中 16 年的顽固漏洞，以及 Linux 内核中的提权链。Anthropic 承诺投入最高 1 亿美元模型使用额度，并捐赠 400 万美元给开源安全组织。",
+    "highlights": [
+      "Mythos Preview 自主发现了 OpenBSD 中 27 年的远程崩溃漏洞和 FFmpeg 中 16 年的漏洞",
+      "联合 AWS、Apple、Google、Microsoft、NVIDIA 等巨头组成行业联盟",
+      "Anthropic 承诺最高 1 亿美元模型使用额度 + 400 万美元开源安全捐赠",
+      "在 CyberGym 基准上漏洞复现率 83.1%，远超 Opus 4.6 的 66.6%"
+    ],
+    "score": 10,
+    "tags": ["AI安全", "网络安全", "Anthropic", "漏洞检测", "行业联盟"]
+  },
+  {
+    "title": "ChatGPT Images 2.0 | ChatGPT Images 2.0",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+    "source": "hacker_news",
+    "summary": "OpenAI 发布 ChatGPT 图像生成模型 2.0 版本，大幅提升了 AI 图像生成的质量和控制力，发布当天即获得 795 分和 612 条评论的热度。",
+    "highlights": [
+      "OpenAI 图像生成能力重大升级，直接与 Midjourney、DALL-E 等竞争",
+      "发布即引爆社区讨论，获得极高关注度"
+    ],
+    "score": 7,
+    "tags": ["OpenAI", "图像生成", "AI创作"]
+  },
+  {
+    "title": "本地LLM生态不需要Ollama | The local LLM ecosystem doesn't need Ollama",
+    "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+    "source": "hacker_news",
+    "summary": "技术博主撰文认为本地 LLM 运行生态已足够成熟，开发者可以直接使用底层工具（如 llama.cpp）而不必依赖 Ollama 这样的中间层抽象工具。文章引发社区激烈辩论。",
+    "highlights": [
+      "对 Ollama 这类中间层工具的依赖性问题提出了值得深思的质疑",
+      "引发 200+ 条评论的激烈辩论，反映开发者对工具链选择的真实分歧"
+    ],
+    "score": 5,
+    "tags": ["本地LLM", "Ollama", "开发者工具", "技术辩论"]
+  },
+  {
+    "title": "SpaceX称已达成以600亿美元收购Cursor的协议 | SpaceX says it has agreement to acquire Cursor for $60B",
+    "url": "https://twitter.com/spacex/status/2046713419978453374",
+    "source": "hacker_news",
+    "summary": "SpaceX 宣布以 600 亿美元收购 AI 编程助手 Cursor，如果属实，这将成为科技史上最大规模的 AI 初创公司收购案之一。",
+    "highlights": [
+      "600 亿美元的收购价创 AI 初创公司收购历史记录",
+      "SpaceX 跨界收购 AI 编程工具，反映航天与 AI 的深度融合趋势"
+    ],
+    "score": 9,
+    "tags": ["收购", "Cursor", "SpaceX", "AI编程", "行业趋势"]
+  },
+  {
+    "title": "Claude Code将从Anthropic Pro计划中移除？ | Claude Code to be removed from Anthropic's Pro plan?",
+    "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+    "source": "hacker_news",
+    "summary": "有消息称 Anthropic 计划从其 Pro 订阅计划中移除 Claude Code 功能，可能将其作为独立产品或更高级计划的一部分。该消息引发大量用户不满和讨论。",
+    "highlights": [
+      "519 条评论反映用户对 Claude Code 功能的高依赖度和强烈情绪",
+      "可能预示 Anthropic 产品分层策略的重大调整"
+    ],
+    "score": 6,
+    "tags": ["Anthropic", "Claude Code", "产品策略", "订阅变更"]
+  },
+  {
+    "title": "Meta将开始采集员工鼠标移动和键盘操作用于AI训练 | Meta to start capturing employee mouse movements, keystrokes for AI training",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+    "source": "hacker_news",
+    "summary": "Meta 计划采集员工在工作中的鼠标移动和键盘敲击数据，用于 AI 模型训练。该举措引发关于员工隐私和职场监控的广泛争议。",
+    "highlights": [
+      "涉及 AI 训练数据采集与员工隐私的边界冲突，引发重大伦理讨论",
+      "393 条评论反映社区对职场监控问题的高度关注"
+    ],
+    "score": 6,
+    "tags": ["Meta", "隐私", "AI训练数据", "职场监控"]
+  },
+  {
+    "title": "GitHub Copilot个人计划变更 | Changes to GitHub Copilot individual plans",
+    "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+    "source": "hacker_news",
+    "summary": "GitHub 宣布调整 Copilot 个人订阅计划的定价与功能组合，影响大量个人开发者用户。",
+    "highlights": [
+      "直接影响全球大量个人开发者用户的日常开发工具成本和功能体验",
+      "177 条评论反映开发者对 AI 编程工具定价敏感度较高"
+    ],
+    "score": 6,
+    "tags": ["GitHub", "Copilot", "定价变更", "开发者工具"]
+  },
+  {
+    "title": "内存短缺可能持续数年（AI驱动需求） | The RAM shortage could last years",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+    "source": "hacker_news",
+    "summary": "AI 训练和推理对高带宽内存（HBM）的爆炸性需求导致全球 RAM 供应短缺，分析认为由于 AI 算力需求持续增长，这一短缺可能持续数年。",
+    "highlights": [
+      "AI 对硬件资源的挤占效应从 GPU 扩展到内存，影响整个IT产业链",
+      "479 条评论的高热度反映硬件资源短缺是开发者普遍关注的痛点"
+    ],
+    "score": 7,
+    "tags": ["硬件短缺", "内存", "AI基础设施", "行业趋势"]
+  },
+  {
+    "title": "MegaTrain：单GPU上全精度训练1000亿参数LLM | MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+    "url": "https://arxiv.org/abs/2604.05091",
+    "source": "hacker_news",
+    "summary": "新论文提出 MegaTrain 系统，将参数和优化器状态存储在 CPU 内存中，将 GPU 视为瞬时计算引擎，通过流水线双缓冲执行引擎和无状态层模板技术克服 CPU-GPU 带宽瓶颈。在单张 H200 GPU（配合 1.5TB 主机内存）上成功全精度训练 120B 参数模型。",
+    "highlights": [
+      "单 GPU 训练 1000 亿+参数模型，大幅降低大模型训练硬件门槛",
+      "流水线双缓冲 + 无状态层模板两项关键优化有效克服 CPU-GPU 带宽瓶颈",
+      "在 14B 模型上比 DeepSpeed ZeRO-3 快 1.84 倍"
+    ],
+    "score": 9,
+    "tags": ["大模型训练", "GPU优化", "内存管理", "论文", "AI基础设施"]
+  },
+  {
+    "title": "Gas Town是否盗用用户LLM额度来改进自身？ | Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
+    "url": "https://github.com/gastownhall/gastown/issues/3649",
+    "source": "hacker_news",
+    "summary": "开发者发现 AI 编程工具 Gas Town 疑似在用户不知情的情况下消耗用户的 LLM API 额度用于模型的自我改进，引发信任危机和社区讨论。",
+    "highlights": [
+      "涉及 AI 工具透明度与用户信任的核心问题",
+      "对 AI 工具后台行为的审计和透明度提出了现实需求"
+    ],
+    "score": 5,
+    "tags": ["信任危机", "AI编程工具", "透明度"]
+  },
+  {
+    "title": "Mediator.ai：用纳什谈判理论和LLM系统化公平协商 | Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+    "url": "https://mediator.ai/",
+    "source": "hacker_news",
+    "summary": "Mediator.ai 利用纳什谈判解和 LLM 的偏好提取能力，构建 AI 调解平台，能够自动分析多方需求并生成各方都满意的公平协议方案。",
+    "highlights": [
+      "将博弈论中的纳什谈判理论与 LLM 偏好提取能力创新结合",
+      "为 AI 辅助协商/调解这一垂直场景提供了系统化解决方案"
+    ],
+    "score": 6,
+    "tags": ["LLM应用", "博弈论", "协商调解", "公平AI"]
+  },
+  {
+    "title": "CrabTrap：LLM作为评判者的HTTP代理，保障AI Agent生产安全 | CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+    "url": "https://www.brex.com/crabtrap",
+    "source": "hacker_news",
+    "summary": "Brex 开源 CrabTrap，一个将 LLM 作为评判者的 HTTP 代理中间件，拦截 AI Agent 发出的每个请求，根据预设策略实时评估并决定允许或阻止。可在 30 秒内完成部署。",
+    "highlights": [
+      "LLM-as-a-judge 架构，利用 LLM 自身能力评估 Agent 行为安全性",
+      "开源且 30 秒可完成部署，实用性强",
+      "解决了 AI Agent 在生产环境中越权操作的关键安全痛点"
+    ],
+    "score": 8,
+    "tags": ["AI安全", "AI Agent", "开源工具", "LLM代理", "生产安全"]
+  },
+  {
+    "title": "N-Day-Bench：LLM能否在真实代码库中发现已知漏洞？ | N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
+    "url": "https://ndaybench.winfunc.com",
+    "source": "hacker_news",
+    "summary": "N-Day-Bench 是一个全新的基准测试平台，每月从 GitHub 安全公告中抽取真实漏洞案例，测试前沿 LLM 在未见过补丁的情况下发现已知安全漏洞的能力。",
+    "highlights": [
+      "聚焦真实代码库中的真实漏洞，比合成基准更具实际参考价值",
+      "每月更新，持续跟踪 LLM 安全审计能力的进步"
+    ],
+    "score": 7,
+    "tags": ["LLM评测", "安全漏洞", "基准测试", "AI安全"]
+  },
+  {
+    "title": "LLM爬虫机器人导致acme.com服务器过载 | LLM scraper bots are overloading acme.com's HTTPS server",
+    "url": "http://acme.com/updates/archive/229.html",
+    "source": "hacker_news",
+    "summary": "acme.com 站长报告大量 LLM 训练爬虫机器人持续访问导致网站 HTTPS 服务器过载，反映 AI 公司数据采集对小型独立网站的实际负担。",
+    "highlights": [
+      "揭示了 AI 训练数据采集对小型网站基础设施的实质性影响",
+      "引发了 AI 数据采集伦理和网站防护策略的讨论"
+    ],
+    "score": 5,
+    "tags": ["AI爬虫", "数据采集", "网站运营", "基础设施"]
+  },
+  {
+    "title": "Kelet：为LLM应用提供根因分析的AI Agent | Show HN: Kelet – Root Cause Analysis agent for your LLM apps",
+    "url": "https://kelet.ai/",
+    "source": "hacker_news",
+    "summary": "Kelet 是一个专注于 LLM 应用根因分析的 AI Agent，针对 AI Agent 在生产中「不崩溃但悄悄出错」的痛点，自动分析用户反馈、聚类失败假设并定位问题根因。",
+    "highlights": [
+      "精准切入 LLM 应用「不崩溃但悄悄出错」这一常见痛点",
+      "自动化根因分析可显著提升 AI Agent 运维效率"
+    ],
+    "score": 7,
+    "tags": ["LLM运维", "根因分析", "AI Agent", "可观测性"]
+  },
+  {
+    "title": "CyberWriter：基于Apple设备端AI构建的Markdown编辑器 | Show HN: CyberWriter – a .md editor built on Apple's on-device AI",
+    "url": "https://cyberwriter.app",
+    "source": "hacker_news",
+    "summary": "CyberWriter 利用 macOS 26 内置的约 3B 参数端侧 Foundation Model、BERT 嵌入器和语音识别 API，构建了一个完全离线的 AI Markdown 编辑器。",
+    "highlights": [
+      "充分利用 Apple 端侧 AI 能力实现完全离线的 AI 写作体验",
+      "融合 Foundation Model、BERT 嵌入和语音识别多种 AI 能力",
+      "隐私友好——所有计算在本地完成"
+    ],
+    "score": 5,
+    "tags": ["端侧AI", "Markdown编辑器", "Apple", "隐私"]
+  },
+  {
+    "title": "用小型设备端LLM控制X/Twitter信息流 | Show HN: Control your X/Twitter feed using a small on-device LLM",
+    "url": "https://imbue.com/product/bouncer/",
+    "source": "hacker_news",
+    "summary": "一个 Chrome 扩展和 iOS 应用使用 Qwen3.5-4B 模型对 Twitter 信息流进行语义匹配过滤，超越传统关键词屏蔽。",
+    "highlights": [
+      "用 4B 参数级端侧模型实现语义级内容过滤",
+      "Chrome 扩展 + iOS 应用双端覆盖，实用性强"
+    ],
+    "score": 5,
+    "tags": ["端侧LLM", "内容过滤", "社交媒体", "Chrome扩展"]
+  },
+  {
+    "title": "马克·扎克伯格被曝正在制作自己的AI克隆体 | Mark Zuckerberg reportedly working on AI clone of himself",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mark-zuckerberg-reportedly-working-on-ai-clone-of-himself-meta-insiders-claim-3d-photoreal-animated-zuck-will-be-able-to-engage-with-employees-on-his-behalf",
+    "source": "hacker_news",
+    "summary": "据 Meta 内部人士透露，扎克伯格正在制作自己的 3D 逼真 AI 克隆体，可以代替他与员工进行互动交流。",
+    "highlights": [
+      "3D 逼真 AI 克隆体的概念展示了数字人技术的最新应用方向",
+      "引发关于高管 AI 替身在企业内部应用的讨论"
+    ],
+    "score": 4,
+    "tags": ["AI克隆", "Meta", "扎克伯格", "数字人"]
+  },
+  {
+    "title": "微调激活LLM中对版权书籍的逐字记忆 | Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs",
+    "url": "https://arxiv.org/abs/2603.20957",
+    "source": "hacker_news",
+    "summary": "研究发现对 LLM 进行微调后，模型会激活对训练数据中受版权保护书籍的逐字记忆能力，引发关于 AI 模型版权侵权和训练数据隐私的担忧。",
+    "highlights": [
+      "揭示微调过程会「解锁」模型对版权内容的记忆",
+      "对当前 AI 公司面临的版权诉讼具有重要法律和技术参考价值"
+    ],
+    "score": 7,
+    "tags": ["LLM", "版权", "微调", "记忆机制", "隐私"]
+  },
+  {
+    "title": "KillBench：每个前沿LLM都对谁值得活着存在偏见 | KillBench: Every frontier LLM is biased about who deserves to live",
+    "url": "https://whitecircle.ai/killbench",
+    "source": "hacker_news",
+    "summary": "新基准测试 KillBench 揭示所有前沿 LLM 在道德困境判断中均表现出系统性偏见，不同模型对生命价值的判断存在显著差异。",
+    "highlights": [
+      "系统性揭示了 LLM 在伦理困境中的价值偏见",
+      "不同模型间的显著差异说明价值观对齐仍是未解决的难题"
+    ],
+    "score": 6,
+    "tags": ["AI伦理", "LLM偏见", "价值观对齐", "基准测试"]
+  },
+  {
+    "title": "MemFactory：AI Agent记忆的统一训练与推理框架 | Show HN: MemFactory: Unified Inference and Training Framework for Agent Memory",
+    "url": "https://arxiv.org/abs/2603.29493",
+    "source": "hacker_news",
+    "summary": "MemFactory 是首个统一的 Agent 记忆模块化框架，支持通过强化学习优化记忆操作（记忆、检索、遗忘等），在多个 Agent 任务上性能提升最高达 14.8%。",
+    "highlights": [
+      "首个统一 Agent 记忆的模块化框架，填补了该领域的空白",
+      "通过强化学习优化记忆操作，性能提升最高 14.8%"
+    ],
+    "score": 7,
+    "tags": ["AI Agent", "记忆框架", "强化学习", "模块化"]
+  },
+  {
+    "title": "Anthropic的Claude Mythos发布建立在错误信息之上 | Anthropic's Claude Mythos Launch Is Built on Misinformation",
+    "url": "https://www.artificialintelligencemadesimple.com/p/anthropics-claude-mythos-launch-is",
+    "source": "hacker_news",
+    "summary": "批评文章指出 Anthropic 在发布 Claude Mythos 预览版时的宣传内容存在误导性信息，引发对 AI 公司营销策略和信息透明度的讨论。",
+    "highlights": [
+      "对 Anthropic 宣传策略提出了质疑，关注 AI 行业信息透明度",
+      "与同日发布的 Project Glasswing 形成对比，提供不同视角"
+    ],
+    "score": 4,
+    "tags": ["Anthropic", "Claude Mythos", "争议", "透明度"]
+  }
+]

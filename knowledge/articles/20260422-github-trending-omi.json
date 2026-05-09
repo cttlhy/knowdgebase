@@ -1,0 +1,17 @@
+{
+  "title": "BasedHardware/omi",
+  "url": "https://github.com/BasedHardware/omi",
+  "source": "github_trending",
+  "date": "2026-04-22",
+  "popularity": "3,863 stars this week",
+  "summary": "可看屏幕、听对话的 AI 穿戴助手，通过实时多模态上下文感知主动给出操作建议，是软硬件一体的开源个人 AI 方案。",
+  "highlights": [
+    "软硬件一体的开源个人 AI 助手参考实现",
+    "融合屏幕视觉 + 语音对话的多模态输入",
+    "Dart/Flutter 实现，跨平台客户端",
+    "完整的开源生态（硬件 + 应用）"
+  ],
+  "score": 7,
+  "score_reason": "方向有意思但门槛高：对硬件极客、穿戴设备研究者价值大；对纯软件开发者来说门槛偏高，且隐私合规问题在生产化时会非常棘手。",
+  "tags": ["AI 硬件", "多模态", "个人助手", "穿戴设备"]
+}

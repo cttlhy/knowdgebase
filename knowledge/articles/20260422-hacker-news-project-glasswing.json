@@ -1,0 +1,16 @@
+{
+  "title": "Project Glasswing：为AI时代保障关键软件安全",
+  "url": "https://www.anthropic.com/glasswing",
+  "source": "hacker_news",
+  "date": "2026-04-22",
+  "popularity": "Anthropic official announcement",
+  "summary": "Anthropic 联合 AWS、Apple、Google、Microsoft、NVIDIA 等十几家行业巨头启动 Project Glasswing 计划，利用其最新前沿模型 Claude Mythos Preview 扫描全球关键软件基础设施以发现并修复零日漏洞。Mythos Preview 已自主发现数千个高危漏洞，包括存在于 OpenBSD 中 27 年、FFmpeg 中 16 年的顽固漏洞，以及 Linux 内核中的提权链。Anthropic 承诺投入最高 1 亿美元模型使用额度，并捐赠 400 万美元给开源安全组织。",
+  "highlights": [
+    "Mythos Preview 自主发现了 OpenBSD 中 27 年的远程崩溃漏洞和 FFmpeg 中 16 年的漏洞",
+    "联合 AWS、Apple、Google、Microsoft、NVIDIA 等巨头组成行业联盟",
+    "Anthropic 承诺最高 1 亿美元模型使用额度 + 400 万美元开源安全捐赠",
+    "在 CyberGym 基准上漏洞复现率 83.1%，远超 Opus 4.6 的 66.6%"
+  ],
+  "score": 10,
+  "tags": ["AI安全", "网络安全", "Anthropic", "漏洞检测", "行业联盟"]
+}

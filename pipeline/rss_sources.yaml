@@ -27,11 +27,6 @@ sources:
     category: industry
     enabled: true
 
-  - name: Meta AI Blog
-    url: https://ai.meta.com/blog/rss/
-    category: industry
-    enabled: true
-
   - name: Google AI Blog
     url: https://ai.googleblog.com/rss.xml
     category: industry

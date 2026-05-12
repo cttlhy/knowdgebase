@@ -10,7 +10,7 @@ from typing import Any
 
 import httpx
 
-from model_client import chat_with_retry, create_provider
+from model_client import ResponseFormatError, chat_with_retry, create_provider
 
 LOGGER = logging.getLogger(__name__)
 ROOT_DIR = Path(__file__).resolve().parent.parent
@@ -156,8 +156,18 @@ def analyze_item(item: dict[str, Any], provider: Any) -> dict[str, Any]:
         {"role": "system", "content": "请只返回 JSON，不要加解释。"},
         {"role": "user", "content": prompt},
     ]
-    response = chat_with_retry(provider=provider, messages=messages, temperature=0.2)
+    response = chat_with_retry(
+        provider=provider,
+        messages=messages,
+        temperature=0.2,
+        item_title=str(item.get("title") or ""),
+        item_url=str(item.get("url") or ""),
+    )
     parsed = safe_parse_json(response.content)
+    if not parsed:
+        raise ResponseFormatError("Analyzer response is not valid JSON object")
+    if not isinstance(parsed.get("tags"), list) or not isinstance(parsed.get("highlights"), list):
+        raise ResponseFormatError("Analyzer response missing list fields: tags/highlights")
     return {
         "summary": str(parsed.get("summary") or "")[:500],
         "score": int(parsed.get("score") or 0),
@@ -249,12 +259,29 @@ def run_pipeline(sources: list[str], limit: int, dry_run: bool) -> None:
 
     provider = create_provider()
     analyzed: list[dict[str, Any]] = []
+    failed_count = 0
     for item in collected:
-        analysis = analyze_item(item, provider)
-        analyzed.append({**item, **analysis})
+        try:
+            analysis = analyze_item(item, provider)
+            analyzed.append({**item, **analysis})
+        except Exception as exc:
+            failed_count += 1
+            LOGGER.error(
+                "分析失败，放弃该条并继续下一条。title=%s url=%s error_type=%s",
+                item.get("title", ""),
+                item.get("url", ""),
+                type(exc).__name__,
+            )
     organized = organize_items(analyzed)
     save_outputs(raw_items=analyzed, articles=organized, dry_run=dry_run)
-    LOGGER.info("流水线完成。collect=%s analyze=%s organize=%s save=%s", len(collected), len(analyzed), len(organized), len(organized))
+    LOGGER.info(
+        "流水线完成。collect=%s analyze_success=%s analyze_failed=%s organize=%s save=%s",
+        len(collected),
+        len(analyzed),
+        failed_count,
+        len(organized),
+        len(organized),
+    )
 
 
 def main() -> None:

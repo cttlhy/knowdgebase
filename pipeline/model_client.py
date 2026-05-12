@@ -8,6 +8,7 @@ from __future__ import annotations
 import logging
 import math
 import os
+import random
 import time
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
@@ -70,6 +71,10 @@ class LLMProvider(ABC):
         """Send chat messages and return a unified response."""
 
 
+class ResponseFormatError(ValueError):
+    """Raised when provider response format is invalid for parsing."""
+
+
 class OpenAICompatibleProvider(LLMProvider):
     """Provider implementation for OpenAI-compatible chat APIs."""
 
@@ -95,8 +100,13 @@ class OpenAICompatibleProvider(LLMProvider):
             response.raise_for_status()
             data = response.json()
 
-        choice = data["choices"][0]["message"]
+        try:
+            choice = data["choices"][0]["message"]
+        except (KeyError, IndexError, TypeError) as exc:
+            raise ResponseFormatError("Provider response missing choices[0].message") from exc
         content = choice.get("content", "")
+        if not isinstance(content, str):
+            raise ResponseFormatError("Provider response content is not a string")
         usage = _extract_usage(data, messages, content)
         return LLMResponse(content=content, usage=usage, raw_response=data)
 
@@ -215,28 +225,118 @@ def create_provider() -> LLMProvider:
     return build_provider_from_env()
 
 
+def _extract_status_code(exc: Exception) -> int | None:
+    if not isinstance(exc, httpx.HTTPStatusError):
+        return None
+    try:
+        return int(exc.response.status_code)
+    except Exception:
+        return None
+
+
+def is_retryable_error(exc: Exception) -> bool:
+    """Return True when an error is likely recoverable by retrying."""
+    if isinstance(exc, ResponseFormatError):
+        return False
+    if isinstance(exc, httpx.HTTPStatusError):
+        status_code = _extract_status_code(exc)
+        if status_code is None:
+            return False
+        return status_code == 429 or 500 <= status_code < 600
+    if isinstance(exc, (httpx.TimeoutException, httpx.RequestError)):
+        return True
+    return False
+
+
+def _compute_retry_delay_seconds(
+    attempt: int,
+    base_delay_seconds: float,
+    max_delay_seconds: float,
+    jitter_min: float,
+    jitter_max: float,
+    random_fn: Any = random.uniform,
+) -> float:
+    # attempt is 1-based and this function is only called before the next retry.
+    exponential_delay = base_delay_seconds * (2 ** (attempt - 1))
+    capped_delay = min(exponential_delay, max_delay_seconds)
+    jitter = max(jitter_min, float(random_fn(jitter_min, jitter_max)))
+    return capped_delay * jitter
+
+
+def _safe_log_value(value: str) -> str:
+    normalized = str(value or "").strip()
+    if normalized:
+        return normalized
+    return "<missing>"
+
+
 def chat_with_retry(
     provider: LLMProvider,
     messages: list[dict[str, str]],
     temperature: float = 0.2,
     max_retries: int = 3,
     base_delay_seconds: float = 1.0,
+    max_delay_seconds: float = 20.0,
+    jitter_min: float = 1.0,
+    jitter_max: float = 1.5,
+    item_title: str = "",
+    item_url: str = "",
 ) -> LLMResponse:
     """Call provider chat with retry and exponential backoff."""
+    if max_retries < 1:
+        raise ValueError("max_retries must be >= 1")
+    if jitter_min < 1.0 or jitter_max < jitter_min:
+        raise ValueError("jitter range must be >=1.0 and jitter_max >= jitter_min")
 
     for attempt in range(1, max_retries + 1):
         try:
             return provider.chat(messages=messages, temperature=temperature)
-        except (httpx.HTTPError, KeyError, ValueError) as exc:
-            if attempt >= max_retries:
-                LOGGER.exception("Chat failed after %s attempts.", attempt)
+        except (httpx.HTTPError, ResponseFormatError) as exc:
+            safe_title = _safe_log_value(item_title)
+            safe_url = _safe_log_value(item_url)
+            status_code = _extract_status_code(exc)
+            error_type = type(exc).__name__
+            retryable = is_retryable_error(exc)
+            if not retryable:
+                LOGGER.error(
+                    "Chat failed with non-retryable error. title=%s url=%s attempt=%s/%s "
+                    "error_type=%s status_code=%s",
+                    safe_title,
+                    safe_url,
+                    attempt,
+                    max_retries,
+                    error_type,
+                    status_code,
+                )
                 raise
-            delay = base_delay_seconds * (2 ** (attempt - 1))
+            if attempt >= max_retries:
+                LOGGER.error(
+                    "Chat retries exhausted; abandoning item. title=%s url=%s attempt=%s/%s "
+                    "error_type=%s status_code=%s final_abandon=true",
+                    safe_title,
+                    safe_url,
+                    attempt,
+                    max_retries,
+                    error_type,
+                    status_code,
+                )
+                raise
+            delay = _compute_retry_delay_seconds(
+                attempt=attempt,
+                base_delay_seconds=base_delay_seconds,
+                max_delay_seconds=max_delay_seconds,
+                jitter_min=jitter_min,
+                jitter_max=jitter_max,
+            )
             LOGGER.warning(
-                "Chat attempt %s/%s failed: %s. Retrying in %.1fs...",
+                "Chat retry scheduled. title=%s url=%s attempt=%s/%s error_type=%s status_code=%s "
+                "retry_in=%.2fs",
+                safe_title,
+                safe_url,
                 attempt,
                 max_retries,
-                exc,
+                error_type,
+                status_code,
                 delay,
             )
             time.sleep(delay)

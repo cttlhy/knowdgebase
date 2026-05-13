@@ -1,11 +1,21 @@
 from __future__ import annotations
 
+import io
 import unittest
+from contextlib import redirect_stdout
 from unittest.mock import patch
 
 import httpx
 
-from model_client import LLMResponse, Usage, _compute_retry_delay_seconds, chat_with_retry
+from model_client import (
+    CostTracker,
+    LLMResponse,
+    OpenAICompatibleProvider,
+    ProviderConfig,
+    Usage,
+    _compute_retry_delay_seconds,
+    chat_with_retry,
+)
 
 
 class SequenceProvider:
@@ -135,6 +145,64 @@ class ChatWithRetryTests(unittest.TestCase):
             random_fn=lambda _min, _max: 0.1,
         )
         self.assertGreaterEqual(delay, 2.0)
+
+
+class CostTrackerTests(unittest.TestCase):
+    def test_estimated_cost_uses_rmb_per_million_pricing(self) -> None:
+        tracker = CostTracker()
+        tracker.record(
+            usage=Usage(prompt_tokens=1_000_000, completion_tokens=500_000, total_tokens=1_500_000),
+            provider="deepseek",
+        )
+        self.assertEqual(tracker.estimated_cost("deepseek"), 2.0)
+
+    def test_report_prints_summary(self) -> None:
+        tracker = CostTracker()
+        tracker.record(
+            usage=Usage(prompt_tokens=250_000, completion_tokens=250_000, total_tokens=500_000),
+            provider="qwen",
+        )
+
+        stream = io.StringIO()
+        with redirect_stdout(stream):
+            tracker.report("qwen")
+
+        output = stream.getvalue()
+        self.assertIn("provider=qwen", output)
+        self.assertIn("estimated_cost_rmb=4.000000", output)
+
+    def test_provider_chat_records_usage_automatically(self) -> None:
+        provider = OpenAICompatibleProvider(
+            ProviderConfig(
+                provider_name="deepseek",
+                api_key="test-key",
+                base_url="https://example.com/v1",
+                model="deepseek-chat",
+            )
+        )
+        payload = {
+            "choices": [{"message": {"content": "hello"}}],
+            "usage": {
+                "prompt_tokens": 100,
+                "completion_tokens": 50,
+                "total_tokens": 150,
+            },
+        }
+        response = httpx.Response(
+            status_code=200,
+            request=httpx.Request("POST", "https://example.com/v1/chat/completions"),
+            json=payload,
+        )
+
+        tracker = CostTracker()
+        with patch("model_client.tracker", tracker):
+            with patch("model_client.httpx.Client") as client_cls:
+                client = client_cls.return_value.__enter__.return_value
+                client.post.return_value = response
+
+                provider.chat(messages=[{"role": "user", "content": "hello"}])
+
+        self.assertEqual(tracker.estimated_cost("deepseek"), 0.0002)
 
 
 if __name__ == "__main__":

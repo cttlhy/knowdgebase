@@ -52,6 +52,96 @@ class LLMResponse:
     raw_response: dict[str, Any] | None = None
 
 
+class CostTracker:
+    """Track token usage and estimate RMB cost per provider.
+
+    Pricing unit is RMB per one million tokens.
+    """
+
+    _PRICING_RMB_PER_MILLION = {
+        "deepseek": {"input": 1.0, "output": 2.0},
+        "qwen": {"input": 4.0, "output": 12.0},
+        "openai": {"input": 150.0, "output": 600.0},  # gpt-4o-mini
+    }
+
+    def __init__(self) -> None:
+        self._stats: dict[str, dict[str, int]] = {}
+
+    def record(self, usage: Usage, provider: str) -> None:
+        """Record usage for one successful API call.
+
+        Args:
+            usage: Token usage data from one model response.
+            provider: Provider name, for example deepseek/qwen/openai.
+        """
+
+        provider_key = provider.strip().lower()
+        if provider_key not in self._PRICING_RMB_PER_MILLION:
+            LOGGER.warning("Unknown provider for cost tracking: %s", provider)
+            return
+
+        if provider_key not in self._stats:
+            self._stats[provider_key] = {
+                "calls": 0,
+                "prompt_tokens": 0,
+                "completion_tokens": 0,
+            }
+
+        self._stats[provider_key]["calls"] += 1
+        self._stats[provider_key]["prompt_tokens"] += max(0, int(usage.prompt_tokens))
+        self._stats[provider_key]["completion_tokens"] += max(0, int(usage.completion_tokens))
+
+    def estimated_cost(self, provider: str) -> float:
+        """Return estimated RMB cost for one provider.
+
+        Args:
+            provider: Provider name.
+
+        Returns:
+            Estimated RMB cost.
+        """
+
+        provider_key = provider.strip().lower()
+        rates = self._PRICING_RMB_PER_MILLION.get(provider_key)
+        if not rates:
+            LOGGER.warning("Unknown provider for cost estimation: %s", provider)
+            return 0.0
+
+        stats = self._stats.get(
+            provider_key,
+            {"calls": 0, "prompt_tokens": 0, "completion_tokens": 0},
+        )
+        input_cost = stats["prompt_tokens"] / 1_000_000 * rates["input"]
+        output_cost = stats["completion_tokens"] / 1_000_000 * rates["output"]
+        return round(input_cost + output_cost, 6)
+
+    def report(self, provider: str) -> None:
+        """Print token and cost report for one provider.
+
+        Args:
+            provider: Provider name.
+        """
+
+        provider_key = provider.strip().lower()
+        stats = self._stats.get(
+            provider_key,
+            {"calls": 0, "prompt_tokens": 0, "completion_tokens": 0},
+        )
+        total_tokens = stats["prompt_tokens"] + stats["completion_tokens"]
+        cost_rmb = self.estimated_cost(provider_key)
+        print(
+            (
+                f"[CostTracker] provider={provider_key} calls={stats['calls']} "
+                f"prompt_tokens={stats['prompt_tokens']} "
+                f"completion_tokens={stats['completion_tokens']} "
+                f"total_tokens={total_tokens} estimated_cost_rmb={cost_rmb:.6f}"
+            )
+        )
+
+
+tracker = CostTracker()
+
+
 @dataclass
 class ProviderConfig:
     """Runtime config for one model provider."""
@@ -108,6 +198,7 @@ class OpenAICompatibleProvider(LLMProvider):
         if not isinstance(content, str):
             raise ResponseFormatError("Provider response content is not a string")
         usage = _extract_usage(data, messages, content)
+        tracker.record(usage=usage, provider=self._config.provider_name)
         return LLMResponse(content=content, usage=usage, raw_response=data)
 
 

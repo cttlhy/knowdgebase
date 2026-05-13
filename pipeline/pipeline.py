@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import os
 import re
 from datetime import UTC, datetime
 from pathlib import Path
@@ -10,7 +11,7 @@ from typing import Any
 
 import httpx
 
-from model_client import ResponseFormatError, chat_with_retry, create_provider
+from model_client import ResponseFormatError, chat_with_retry, create_provider, tracker
 
 LOGGER = logging.getLogger(__name__)
 ROOT_DIR = Path(__file__).resolve().parent.parent
@@ -261,51 +262,56 @@ def save_outputs(raw_items: list[dict[str, Any]], articles: list[dict[str, Any]]
 
 
 def run_pipeline(sources: list[str], limit: int, dry_run: bool) -> None:
-    collected: list[dict[str, Any]] = []
-    per_source_limit = max(1, limit // len(sources))
-    if "github" in sources:
-        try:
-            github_items = collect_from_github(per_source_limit)
-            collected.extend(github_items)
-            LOGGER.info("GitHub 采集完成: %s", len(github_items))
-        except httpx.HTTPError as exc:
-            LOGGER.warning("GitHub 采集失败，已跳过: %s", exc)
-    if "rss" in sources:
-        try:
-            rss_items = collect_from_rss(per_source_limit)
-            collected.extend(rss_items)
-            LOGGER.info("RSS 采集完成: %s", len(rss_items))
-        except httpx.HTTPError as exc:
-            LOGGER.warning("RSS 采集失败，已跳过: %s", exc)
-    if not collected:
-        LOGGER.warning("无可分析内容，流水线结束。")
-        return
+    provider_name = os.getenv("LLM_PROVIDER", "deepseek").strip().lower() or "deepseek"
+    try:
+        collected: list[dict[str, Any]] = []
+        per_source_limit = max(1, limit // len(sources))
+        if "github" in sources:
+            try:
+                github_items = collect_from_github(per_source_limit)
+                collected.extend(github_items)
+                LOGGER.info("GitHub 采集完成: %s", len(github_items))
+            except httpx.HTTPError as exc:
+                LOGGER.warning("GitHub 采集失败，已跳过: %s", exc)
+        if "rss" in sources:
+            try:
+                rss_items = collect_from_rss(per_source_limit)
+                collected.extend(rss_items)
+                LOGGER.info("RSS 采集完成: %s", len(rss_items))
+            except httpx.HTTPError as exc:
+                LOGGER.warning("RSS 采集失败，已跳过: %s", exc)
+        if not collected:
+            LOGGER.warning("无可分析内容，流水线结束。")
+            return
 
-    provider = create_provider()
-    analyzed: list[dict[str, Any]] = []
-    failed_count = 0
-    for item in collected:
-        try:
-            analysis = analyze_item(item, provider)
-            analyzed.append({**item, **analysis})
-        except Exception as exc:
-            failed_count += 1
-            LOGGER.error(
-                "分析失败，放弃该条并继续下一条。title=%s url=%s error_type=%s",
-                item.get("title", ""),
-                item.get("url", ""),
-                type(exc).__name__,
-            )
-    organized = organize_items(analyzed)
-    save_outputs(raw_items=analyzed, articles=organized, dry_run=dry_run)
-    LOGGER.info(
-        "流水线完成。collect=%s analyze_success=%s analyze_failed=%s organize=%s save=%s",
-        len(collected),
-        len(analyzed),
-        failed_count,
-        len(organized),
-        len(organized),
-    )
+        provider = create_provider()
+        analyzed: list[dict[str, Any]] = []
+        failed_count = 0
+        for item in collected:
+            try:
+                analysis = analyze_item(item, provider)
+                analyzed.append({**item, **analysis})
+            except Exception as exc:
+                failed_count += 1
+                LOGGER.error(
+                    "分析失败，放弃该条并继续下一条。title=%s url=%s error_type=%s",
+                    item.get("title", ""),
+                    item.get("url", ""),
+                    type(exc).__name__,
+                )
+        organized = organize_items(analyzed)
+        save_outputs(raw_items=analyzed, articles=organized, dry_run=dry_run)
+        LOGGER.info(
+            "流水线完成。collect=%s analyze_success=%s analyze_failed=%s organize=%s save=%s",
+            len(collected),
+            len(analyzed),
+            failed_count,
+            len(organized),
+            len(organized),
+        )
+    finally:
+        # Always print a final token/cost snapshot for this pipeline run.
+        tracker.report(provider_name)
 
 
 def main() -> None:

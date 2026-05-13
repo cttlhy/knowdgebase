@@ -6,17 +6,17 @@
   "status": "draft",
   "url": "https://github.com/ollama/ollama",
   "date": "2026-05-13",
-  "popularity": "stars:171284",
-  "summary": "Ollama 是一个开源项目，支持快速运行多种大语言模型，包括 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+  "popularity": "stars:171308",
+  "summary": "Ollama 是一个开源项目，旨在让用户轻松运行 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等多种 AI 模型。",
   "highlights": [
     "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
   ],
   "score": 8,
   "tags": [
-    "大语言模型",
+    "AI",
     "开源",
     "模型部署",
-    "AI",
-    "GitHub"
+    "Ollama",
+    "机器学习"
   ]
 }

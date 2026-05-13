@@ -1,0 +1,23 @@
+{
+  "id": "rss-12202600-016",
+  "title": "How NVIDIA engineers and researchers build with Codex",
+  "source": "rss",
+  "source_url": "https://openai.com/index/nvidia",
+  "status": "draft",
+  "url": "https://openai.com/index/nvidia",
+  "date": "Tue, 12 May 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "NVIDIA工程师和研究人员使用Codex与GPT-5.5来交付生产系统，并将研究想法转化为可运行的实验。",
+  "highlights": [
+    "Teams use Codex with GPT-5.5 to ship production systems",
+    "turn research ideas into runnable experiments"
+  ],
+  "score": 8,
+  "tags": [
+    "NVIDIA",
+    "Codex",
+    "GPT-5.5",
+    "生产系统",
+    "研究实验"
+  ]
+}

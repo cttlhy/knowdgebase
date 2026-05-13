@@ -6,8 +6,8 @@
   "status": "draft",
   "url": "https://github.com/huggingface/transformers",
   "date": "2026-05-13",
-  "popularity": "stars:160538",
-  "summary": "Hugging Face Transformers 是一个先进的机器学习模型定义框架，支持文本、视觉、音频和多模态模型的推理与训练。",
+  "popularity": "stars:160564",
+  "summary": "Hugging Face Transformers 是一个先进的机器学习模型框架，支持文本、视觉、音频和多模态模型的推理与训练。",
   "highlights": [
     "state-of-the-art machine learning models",
     "text, vision, audio, and multimodal models",

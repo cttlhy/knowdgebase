@@ -52,6 +52,23 @@ def utc_date_compact() -> str:
     return datetime.now(UTC).strftime("%Y%m%d")
 
 
+def normalize_date_compact(raw_date: str) -> str:
+    """Normalize date text to YYYYMMDD for entry id generation."""
+    digits_only = re.sub(r"\D+", "", str(raw_date or ""))
+    if len(digits_only) >= 8:
+        return digits_only[:8]
+    return utc_date_compact()
+
+
+def build_entry_id(source: str, date_text: str, index: int) -> str:
+    """Build an id that matches validation pattern: {source}-{YYYYMMDD}-{NNN}."""
+    safe_source = re.sub(r"[^a-z0-9-]+", "-", source.strip().lower()).strip("-")
+    if not safe_source:
+        safe_source = "unknown"
+    safe_source = re.sub(r"-{2,}", "-", safe_source)
+    return f"{safe_source}-{normalize_date_compact(date_text)}-{index:03d}"
+
+
 def collect_from_github(limit: int) -> list[dict[str, Any]]:
     url = "https://api.github.com/search/repositories"
     params = {"q": "ai OR llm OR agent", "sort": "stars", "order": "desc", "per_page": min(limit, 100)}
@@ -196,18 +213,25 @@ def organize_items(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
         if key:
             deduped[key] = item
     normalized: list[dict[str, Any]] = []
-    for item in deduped.values():
+    for index, item in enumerate(deduped.values(), start=1):
         title = str(item.get("title", "")).strip()
         url = str(item.get("url", "")).strip()
         summary = str(item.get("summary", "")).strip()
         if not title or not url or not summary:
             continue
+        source = str(item.get("source", "unknown")).strip().lower() or "unknown"
+        date_text = str(item.get("date", utc_today_iso())).strip() or utc_today_iso()
         normalized.append(
             {
+                # These required fields keep output compatible with hooks/validate_json.py.
+                "id": build_entry_id(source=source, date_text=date_text, index=index),
                 "title": title,
+                "source": source,
+                "source_url": url,
+                "status": "draft",
+                # Keep `url` for backward compatibility with existing consumers.
                 "url": url,
-                "source": str(item.get("source", "unknown")),
-                "date": str(item.get("date", utc_today_iso())),
+                "date": date_text,
                 "popularity": str(item.get("popularity", "")),
                 "summary": summary,
                 "highlights": item.get("highlights") or [],

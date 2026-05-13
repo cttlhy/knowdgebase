@@ -1,0 +1,287 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-05-13",
+    "popularity": "stars:371326",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾（lobster）为标志，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-05-13",
+    "popularity": "stars:188165",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "效率提升",
+      "协作"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-05-13",
+    "popularity": "stars:187622",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-05-13",
+    "popularity": "stars:184256",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用 AI，提供工具以便用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "affaan-m/everything-claude-code",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "source": "github",
+    "date": "2026-05-13",
+    "popularity": "stars:180620",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码助手的代理框架性能优化系统，涵盖技能、直觉、记忆、安全及研究优先的开发方法。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "编码助手",
+      "Claude Code",
+      "Codex",
+      "Opencode",
+      "Cursor",
+      "开发框架"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system",
+      "Skills, instincts, memory, security, and research-first development",
+      "for Claude Code, Codex, Opencode, Cursor and beyond"
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-05-13",
+    "popularity": "stars:171284",
+    "content": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，支持快速运行多种大语言模型，包括 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 8,
+    "tags": [
+      "大语言模型",
+      "开源",
+      "模型部署",
+      "AI",
+      "GitHub"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+    ]
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "source": "github",
+    "date": "2026-05-13",
+    "popularity": "stars:163007",
+    "content": "Stable Diffusion web UI",
+    "summary": "AUTOMATIC1111/stable-diffusion-webui 是一个基于 Gradio 库的 Stable Diffusion 模型网页界面，支持多种功能如图像生成、图像修复、超分辨率等，并提供丰富的扩展和自定义选项。",
+    "score": 9,
+    "tags": [
+      "Stable Diffusion",
+      "图像生成",
+      "AI绘画",
+      "Web UI",
+      "开源"
+    ],
+    "highlights": [
+      "提供直观的网页界面，方便用户使用 Stable Diffusion 模型生成图像。",
+      "支持多种采样方法、模型加载和图像处理功能。",
+      "拥有活跃的社区和丰富的扩展插件生态。"
+    ]
+  },
+  {
+    "title": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "source": "github",
+    "date": "2026-05-13",
+    "popularity": "stars:162134",
+    "content": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "summary": "f/prompts.chat 是一个开源项目，原名 Awesome ChatGPT Prompts，旨在让用户分享、发现和收集社区提示词，支持自托管以保护隐私。",
+    "score": 8,
+    "tags": [
+      "ChatGPT",
+      "prompts",
+      "开源",
+      "社区",
+      "隐私"
+    ],
+    "highlights": [
+      "Share, discover, and collect prompts from the community.",
+      "Free and open source — self-host for your organization with complete privacy."
+    ]
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "source": "github",
+    "date": "2026-05-13",
+    "popularity": "stars:160538",
+    "content": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "summary": "Hugging Face Transformers 是一个先进的机器学习模型定义框架，支持文本、视觉、音频和多模态模型的推理与训练。",
+    "score": 9,
+    "tags": [
+      "机器学习",
+      "深度学习",
+      "自然语言处理",
+      "计算机视觉",
+      "音频处理",
+      "多模态",
+      "模型框架",
+      "开源"
+    ],
+    "highlights": [
+      "state-of-the-art machine learning models",
+      "text, vision, audio, and multimodal models",
+      "for both inference and training"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-05-13",
+    "popularity": "stars:159273",
+    "content": "The open source coding agent.",
+    "summary": "Anomalyco/opencode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "The Crystallization of Transformer Architectures (2017-2025)",
+    "url": "https://jytan.net/blog/2025/transformer-architectures/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 11 May 2026 11:20:42 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/yrbywt/crystallization_transformer\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文回顾了2017年至2025年间Transformer架构的演变与固化过程，分析了关键设计选择如何从多样探索趋向标准化，并讨论了其对未来AI发展的影响。",
+    "score": 8,
+    "tags": [
+      "Transformer",
+      "深度学习",
+      "架构演化",
+      "AI研究",
+      "2017-2025"
+    ],
+    "highlights": [
+      "Transformer架构在2017年提出后，经历了从多样化到标准化的‘结晶’过程。",
+      "关键设计如层归一化、残差连接和注意力机制的位置逐渐固定。",
+      "文章指出，架构的固化可能限制创新，但也提高了工程效率。"
+    ]
+  },
+  {
+    "title": "How finance teams use Codex",
+    "url": "https://openai.com/academy/how-finance-teams-use-codex",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 12 May 2026 15:00:00 GMT",
+    "popularity": "",
+    "content": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+    "summary": "本文介绍了金融团队如何利用Codex构建MBR、报告包、差异桥接、模型检查和规划场景，基于实际工作输入。",
+    "score": 8,
+    "tags": [
+      "Codex",
+      "金融团队",
+      "自动化",
+      "报告",
+      "规划"
+    ],
+    "highlights": [
+      "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs."
+    ]
+  },
+  {
+    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Mon, 11 May 2026 23:18:26 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了在AWS上训练和部署基础模型（Foundation Models）的关键构建模块，包括计算、存储、网络和优化策略，并提供了实践指南。",
+    "score": 8,
+    "tags": [
+      "AWS",
+      "Foundation Model",
+      "Training",
+      "Inference",
+      "Cloud Computing",
+      "Machine Learning"
+    ],
+    "highlights": [
+      "AWS provides scalable infrastructure for foundation model training and inference.",
+      "Key building blocks include GPU instances, high-performance storage, and optimized networking.",
+      "The article discusses strategies for efficient model parallelism and data loading."
+    ]
+  }
+]

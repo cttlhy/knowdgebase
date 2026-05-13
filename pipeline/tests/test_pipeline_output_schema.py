@@ -1,12 +1,19 @@
 from __future__ import annotations
 
 import re
+import sys
 import unittest
+from unittest.mock import patch
 
 import pipeline as pipeline_module
 
 
 class PipelineOutputSchemaTests(unittest.TestCase):
+    def test_parse_args_supports_provider_option(self) -> None:
+        with patch.object(sys, "argv", ["pipeline.py", "--provider", "deepseek"]):
+            args = pipeline_module.parse_args()
+        self.assertEqual(args.provider, "deepseek")
+
     def test_organize_items_includes_required_validation_fields(self) -> None:
         analyzed_item = {
             "title": "demo project",

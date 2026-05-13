@@ -25,6 +25,12 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="四步知识库自动化流水线")
     parser.add_argument("--sources", default="github,rss", help="数据源: github,rss")
     parser.add_argument("--limit", type=int, default=20, help="总采集数量上限")
+    parser.add_argument(
+        "--provider",
+        choices=["deepseek", "qwen", "openai"],
+        default=None,
+        help="LLM 提供商: deepseek,qwen,openai（可选）",
+    )
     parser.add_argument("--dry-run", action="store_true", help="干跑模式，不写文件")
     parser.add_argument("--verbose", action="store_true", help="详细日志")
     return parser.parse_args()
@@ -318,6 +324,9 @@ def main() -> None:
     args = parse_args()
     log_level = logging.DEBUG if args.verbose else logging.INFO
     logging.basicConfig(level=log_level, format="%(asctime)s %(levelname)s [%(name)s] %(message)s")
+    if args.provider:
+        # Let CLI provider take precedence for this process.
+        os.environ["LLM_PROVIDER"] = args.provider
     sources = parse_sources(args.sources)
     limit = max(1, args.limit)
     run_pipeline(sources=sources, limit=limit, dry_run=args.dry_run)

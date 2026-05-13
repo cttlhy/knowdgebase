@@ -1,5 +1,5 @@
 {
-  "id": "rss-12202615-012",
+  "id": "rss-12202615-004",
   "title": "How finance teams use Codex",
   "source": "rss",
   "source_url": "https://openai.com/academy/how-finance-teams-use-codex",
@@ -7,14 +7,14 @@
   "url": "https://openai.com/academy/how-finance-teams-use-codex",
   "date": "Tue, 12 May 2026 15:00:00 GMT",
   "popularity": "",
-  "summary": "本文介绍了金融团队如何利用Codex构建MBR、报告包、差异桥接、模型检查和规划场景，基于实际工作输入。",
+  "summary": "本文介绍了财务团队如何利用Codex构建MBR、报告包、差异桥接、模型检查和规划场景，基于实际工作输入。",
   "highlights": [
     "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs."
   ],
   "score": 8,
   "tags": [
     "Codex",
-    "金融团队",
+    "财务团队",
     "自动化",
     "报告",
     "规划"

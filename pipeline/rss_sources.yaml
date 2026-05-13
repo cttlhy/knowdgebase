@@ -22,16 +22,6 @@ sources:
     category: industry
     enabled: true
 
-  - name: Anthropic Research
-    url: https://www.anthropic.com/research/rss.xml
-    category: industry
-    enabled: true
-
-  - name: Google AI Blog
-    url: https://ai.googleblog.com/rss.xml
-    category: industry
-    enabled: true
-
   - name: Hugging Face Blog
     url: https://huggingface.co/blog/feed.xml
     category: open-source

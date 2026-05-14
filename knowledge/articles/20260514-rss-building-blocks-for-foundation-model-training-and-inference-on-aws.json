@@ -1,0 +1,29 @@
+{
+  "id": "rss-11202623-015",
+  "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+  "date": "Mon, 11 May 2026 23:18:26 GMT",
+  "popularity": "",
+  "summary": "本文介绍了在AWS上训练和部署基础模型（Foundation Models）的核心构建模块，包括计算实例（如GPU实例）、存储方案（如Amazon FSx）、网络优化（如EFA）以及推理优化技术（如模型并行和量化）。文章还讨论了使用Amazon SageMaker和Amazon Bedrock等托管服务来简化工作流程，并提供了最佳实践和架构建议。",
+  "highlights": [
+    "AWS provides a range of GPU instances like p4d and p5 for foundation model training.",
+    "Amazon FSx for Lustre offers high-performance storage for large-scale training data.",
+    "Elastic Fabric Adapter (EFA) enables low-latency communication between nodes.",
+    "Model parallelism and quantization are key techniques for efficient inference.",
+    "Amazon SageMaker and Bedrock simplify the end-to-end ML workflow."
+  ],
+  "score": 8,
+  "tags": [
+    "AWS",
+    "Foundation Model",
+    "Training",
+    "Inference",
+    "GPU",
+    "SageMaker",
+    "Bedrock",
+    "Model Parallelism"
+  ]
+}

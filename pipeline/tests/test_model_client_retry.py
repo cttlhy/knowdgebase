@@ -12,8 +12,11 @@ from model_client import (
     LLMResponse,
     OpenAICompatibleProvider,
     ProviderConfig,
+    ResponseFormatError,
     Usage,
     _compute_retry_delay_seconds,
+    chat,
+    chat_json,
     chat_with_retry,
 )
 
@@ -203,6 +206,51 @@ class CostTrackerTests(unittest.TestCase):
                 provider.chat(messages=[{"role": "user", "content": "hello"}])
 
         self.assertEqual(tracker.estimated_cost("deepseek"), 0.0002)
+
+
+class ChatWrapperTests(unittest.TestCase):
+    def test_chat_accepts_prompt_and_returns_text_usage(self) -> None:
+        usage = Usage(prompt_tokens=5, completion_tokens=7, total_tokens=12)
+        fake_response = LLMResponse(content="hello", usage=usage)
+
+        with patch("model_client.create_provider", return_value=object()) as provider_mock:
+            with patch("model_client.chat_with_retry", return_value=fake_response) as retry_mock:
+                text, got_usage = chat(prompt="hi")
+
+        self.assertEqual(text, "hello")
+        self.assertEqual(got_usage, usage)
+        provider_mock.assert_called_once()
+        called_messages = retry_mock.call_args.kwargs["messages"]
+        self.assertEqual(called_messages[0]["role"], "system")
+        self.assertEqual(called_messages[1]["content"], "hi")
+
+    def test_chat_accepts_messages_directly(self) -> None:
+        usage = Usage(prompt_tokens=1, completion_tokens=1, total_tokens=2)
+        fake_response = LLMResponse(content="ok", usage=usage)
+        input_messages = [{"role": "user", "content": "hello"}]
+
+        with patch("model_client.create_provider", return_value=object()):
+            with patch("model_client.chat_with_retry", return_value=fake_response) as retry_mock:
+                text, got_usage = chat(messages=input_messages, temperature=0.3)
+
+        self.assertEqual(text, "ok")
+        self.assertEqual(got_usage.total_tokens, 2)
+        self.assertEqual(retry_mock.call_args.kwargs["messages"], input_messages)
+        self.assertEqual(retry_mock.call_args.kwargs["temperature"], 0.3)
+
+    def test_chat_json_extracts_object_from_wrapped_text(self) -> None:
+        usage = Usage(prompt_tokens=3, completion_tokens=4, total_tokens=7)
+        with patch("model_client.chat", return_value=('```json\n{"intent":"general_chat"}\n```', usage)):
+            payload, got_usage = chat_json(prompt="route me")
+
+        self.assertEqual(payload["intent"], "general_chat")
+        self.assertEqual(got_usage.total_tokens, 7)
+
+    def test_chat_json_raises_when_not_object(self) -> None:
+        usage = Usage(prompt_tokens=1, completion_tokens=1, total_tokens=2)
+        with patch("model_client.chat", return_value=("[]", usage)):
+            with self.assertRaises(ResponseFormatError):
+                chat_json(prompt="route me")
 
 
 if __name__ == "__main__":

@@ -10,6 +10,7 @@ import math
 import os
 import random
 import time
+import json
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
 from typing import Any
@@ -447,6 +448,70 @@ def quick_chat(
     ]
     provider = build_provider_from_env()
     return chat_with_retry(provider=provider, messages=messages, temperature=temperature)
+
+
+def chat(
+    prompt: str | None = None,
+    *,
+    messages: list[dict[str, str]] | None = None,
+    system_prompt: str = "You are a helpful assistant.",
+    temperature: float = 0.2,
+) -> tuple[str, Usage]:
+    """Convenient chat wrapper returning text and usage."""
+    if messages is None:
+        normalized_prompt = str(prompt or "").strip()
+        if not normalized_prompt:
+            raise ValueError("Either prompt or messages must be provided.")
+        messages = [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": normalized_prompt},
+        ]
+    elif not messages:
+        raise ValueError("messages must not be empty.")
+
+    provider = create_provider()
+    response = chat_with_retry(provider=provider, messages=messages, temperature=temperature)
+    return response.content, response.usage
+
+
+def _extract_json_object(text: str) -> dict[str, Any]:
+    stripped = str(text or "").strip()
+    if not stripped:
+        raise ResponseFormatError("Model returned empty content for JSON parsing.")
+
+    try:
+        parsed = json.loads(stripped)
+    except json.JSONDecodeError:
+        start = stripped.find("{")
+        end = stripped.rfind("}")
+        if start == -1 or end == -1 or end <= start:
+            raise ResponseFormatError("Model response does not contain a JSON object.") from None
+        candidate = stripped[start : end + 1]
+        try:
+            parsed = json.loads(candidate)
+        except json.JSONDecodeError as exc:
+            raise ResponseFormatError("Model response JSON parsing failed.") from exc
+
+    if not isinstance(parsed, dict):
+        raise ResponseFormatError("Model response JSON is not an object.")
+    return parsed
+
+
+def chat_json(
+    prompt: str | None = None,
+    *,
+    messages: list[dict[str, str]] | None = None,
+    system_prompt: str = "You are a helpful assistant. Return JSON only.",
+    temperature: float = 0.2,
+) -> tuple[dict[str, Any], Usage]:
+    """Convenient chat wrapper returning parsed JSON object and usage."""
+    text, usage = chat(
+        prompt=prompt,
+        messages=messages,
+        system_prompt=system_prompt,
+        temperature=temperature,
+    )
+    return _extract_json_object(text), usage
 
 
 if __name__ == "__main__":

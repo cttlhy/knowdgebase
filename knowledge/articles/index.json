@@ -1,0 +1,77 @@
+[
+  {
+    "id": "article-20260515-001",
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "score": 0.85,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个性化"
+    ],
+    "file": "20260515-openclaw-openclaw.json",
+    "updated_at": "2026-05-15T02:53:27.312507+00:00"
+  },
+  {
+    "id": "article-20260515-002",
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "score": 0.85,
+    "tags": [
+      "智能体",
+      "技能框架",
+      "软件开发",
+      "方法论",
+      "效率提升",
+      "协作"
+    ],
+    "file": "20260515-obra-superpowers.json",
+    "updated_at": "2026-05-15T02:53:27.312507+00:00"
+  },
+  {
+    "id": "article-20260515-003",
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "score": 0.95,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "低代码",
+      "集成"
+    ],
+    "file": "20260515-n8n-io-n8n.json",
+    "updated_at": "2026-05-15T02:53:27.312507+00:00"
+  },
+  {
+    "id": "article-20260515-004",
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "score": 0.92,
+    "tags": [
+      "AutoGPT",
+      "AI工具",
+      "开源项目",
+      "自动化",
+      "人人可用"
+    ],
+    "file": "20260515-significant-gravitas-autogpt.json",
+    "updated_at": "2026-05-15T02:53:27.312507+00:00"
+  },
+  {
+    "id": "article-20260515-005",
+    "title": "affaan-m/everything-claude-code",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "score": 0.85,
+    "tags": [
+      "AI编码助手",
+      "智能体优化",
+      "Claude Code",
+      "开发工具",
+      "性能优化"
+    ],
+    "file": "20260515-affaan-m-everything-claude-code.json",
+    "updated_at": "2026-05-15T02:53:27.312507+00:00"
+  }
+]

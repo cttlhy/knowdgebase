@@ -1,0 +1,4 @@
+# Python bytecode cache files are generated locally.
+# They should never be committed because they are environment-specific.
+__pycache__/
+*.pyc

@@ -1,5 +1,5 @@
 {
-  "id": "rss-12202615-004",
+  "id": "rss-12202615-015",
   "title": "How finance teams use Codex",
   "source": "rss",
   "source_url": "https://openai.com/academy/how-finance-teams-use-codex",
@@ -15,8 +15,10 @@
   "tags": [
     "Codex",
     "财务团队",
-    "自动化",
-    "报告",
-    "规划"
+    "MBR",
+    "报告包",
+    "差异桥接",
+    "模型检查",
+    "规划场景"
   ]
 }

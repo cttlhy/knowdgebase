@@ -1,0 +1,24 @@
+{
+  "id": "rss-13202611-013",
+  "title": "Building a safe, effective sandbox to enable Codex on Windows",
+  "source": "rss",
+  "source_url": "https://openai.com/index/building-codex-windows-sandbox",
+  "status": "draft",
+  "url": "https://openai.com/index/building-codex-windows-sandbox",
+  "date": "Wed, 13 May 2026 11:00:00 GMT",
+  "popularity": "",
+  "summary": "本文介绍了OpenAI如何在Windows上为Codex构建一个安全、有效的沙箱环境，通过控制文件访问和网络限制，实现安全高效的编码代理。",
+  "highlights": [
+    "Learn how OpenAI built a secure sandbox for Codex on Windows",
+    "enabling safe, efficient coding agents with controlled file access and network restrictions"
+  ],
+  "score": 8,
+  "tags": [
+    "OpenAI",
+    "Codex",
+    "Windows",
+    "沙箱",
+    "安全",
+    "编码代理"
+  ]
+}

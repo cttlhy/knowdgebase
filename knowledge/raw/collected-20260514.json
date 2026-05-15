@@ -1,0 +1,357 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-05-14",
+    "popularity": "stars:371758",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾为象征，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-05-14",
+    "popularity": "stars:190419",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "GitHub项目"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-05-14",
+    "popularity": "stars:187793",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-05-14",
+    "popularity": "stars:184295",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用人工智能，提供工具以便用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "affaan-m/everything-claude-code",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "source": "github",
+    "date": "2026-05-14",
+    "popularity": "stars:181822",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发方法。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "Claude Code",
+      "Codex",
+      "Opencode",
+      "Cursor",
+      "开发工具",
+      "安全"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system.",
+      "Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-05-14",
+    "popularity": "stars:171377",
+    "content": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，支持快速运行多种大语言模型，包括 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 9,
+    "tags": [
+      "大语言模型",
+      "开源",
+      "模型部署",
+      "AI",
+      "Ollama"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+    ]
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "source": "github",
+    "date": "2026-05-14",
+    "popularity": "stars:163050",
+    "content": "Stable Diffusion web UI",
+    "summary": "AUTOMATIC1111/stable-diffusion-webui 是一个基于 Gradio 库的 Stable Diffusion 网页界面，提供图像生成、编辑等功能，支持多种模型和扩展。",
+    "score": 9,
+    "tags": [
+      "Stable Diffusion",
+      "AI 图像生成",
+      "Web UI",
+      "开源",
+      "Gradio"
+    ],
+    "highlights": [
+      "Stable Diffusion web UI",
+      "基于 Gradio 库",
+      "支持多种模型和扩展"
+    ]
+  },
+  {
+    "title": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "source": "github",
+    "date": "2026-05-14",
+    "popularity": "stars:162219",
+    "content": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "summary": "f/prompts.chat 是一个开源项目，原名 Awesome ChatGPT Prompts，旨在让社区分享、发现和收集提示词，支持自托管以保护隐私。",
+    "score": 8,
+    "tags": [
+      "ChatGPT",
+      "prompts",
+      "开源",
+      "社区",
+      "隐私"
+    ],
+    "highlights": [
+      "Share, discover, and collect prompts from the community.",
+      "Free and open source — self-host for your organization with complete privacy."
+    ]
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "source": "github",
+    "date": "2026-05-14",
+    "popularity": "stars:160601",
+    "content": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "summary": "Hugging Face Transformers 是一个先进的机器学习模型定义框架，支持文本、视觉、音频和多模态模型的推理与训练。",
+    "score": 9,
+    "tags": [
+      "机器学习",
+      "深度学习",
+      "自然语言处理",
+      "计算机视觉",
+      "音频处理",
+      "多模态",
+      "模型训练",
+      "推理"
+    ],
+    "highlights": [
+      "state-of-the-art machine learning models",
+      "text, vision, audio, and multimodal models",
+      "for both inference and training"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-05-14",
+    "popularity": "stars:160037",
+    "content": "The open source coding agent.",
+    "summary": "Anomalyco/OpenCode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "Wireloom: A Markdown extension for UI wireframes",
+    "url": "https://github.com/StardockCorp/Wireloom",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 13 May 2026 10:22:48 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xerf3k/wireloom_markdown_extension_for_ui\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Wireloom 是一个 Markdown 扩展，用于生成 UI 线框图。",
+    "score": 7,
+    "tags": [
+      "Markdown",
+      "UI",
+      "线框图",
+      "扩展"
+    ],
+    "highlights": [
+      "Wireloom: A Markdown extension for UI wireframes"
+    ]
+  },
+  {
+    "title": "AI as Social Technology",
+    "url": "https://knightcolumbia.org/content/ai-as-social-technology",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 13 May 2026 07:19:44 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/vlpdgd/ai_as_social_technology\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章探讨人工智能作为社会技术的角色，分析其对社会结构、权力动态和人类互动的影响，强调AI不仅是技术工具，更是塑造社会关系的力量。",
+    "score": 8,
+    "tags": [
+      "人工智能",
+      "社会技术",
+      "权力动态",
+      "人类互动",
+      "技术影响"
+    ],
+    "highlights": [
+      "AI as Social Technology",
+      "Comments"
+    ]
+  },
+  {
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "url": "https://openai.com/index/building-codex-windows-sandbox",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 13 May 2026 11:00:00 GMT",
+    "popularity": "",
+    "content": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+    "summary": "本文介绍了OpenAI如何在Windows上为Codex构建一个安全、有效的沙箱环境，通过控制文件访问和网络限制，实现安全高效的编码代理。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "Codex",
+      "Windows",
+      "沙箱",
+      "安全",
+      "编码代理"
+    ],
+    "highlights": [
+      "Learn how OpenAI built a secure sandbox for Codex on Windows",
+      "enabling safe, efficient coding agents with controlled file access and network restrictions"
+    ]
+  },
+  {
+    "title": "Our response to the TanStack npm supply chain attack",
+    "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 13 May 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+    "summary": "OpenAI 详细回应了 TanStack “Mini Shai-Hulud” 供应链攻击，说明了为保护系统和签名证书所采取的措施，并解释了为什么 macOS 用户必须在 2026 年 6 月 12 日前更新 OpenAI 应用。文章介绍了事件经过、受影响范围以及 OpenAI 如何加强防御以应对不断演变的软件供应链威胁。",
+    "score": 8,
+    "tags": [
+      "供应链攻击",
+      "安全响应",
+      "TanStack",
+      "npm",
+      "macOS更新",
+      "证书安全"
+    ],
+    "highlights": [
+      "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack",
+      "outlines protections taken to secure systems and signing certificates",
+      "explains why macOS users must update OpenAI apps by June 12, 2026",
+      "how OpenAI is strengthening defenses against evolving software supply chain threats"
+    ]
+  },
+  {
+    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Mon, 11 May 2026 23:18:26 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了在AWS上训练和部署基础模型（Foundation Models）的核心构建模块，包括计算实例（如GPU实例）、存储方案（如Amazon FSx）、网络优化（如EFA）以及推理优化技术（如模型并行和量化）。文章还讨论了使用Amazon SageMaker和Amazon Bedrock等托管服务来简化工作流程，并提供了最佳实践和架构建议。",
+    "score": 8,
+    "tags": [
+      "AWS",
+      "Foundation Model",
+      "Training",
+      "Inference",
+      "GPU",
+      "SageMaker",
+      "Bedrock",
+      "Model Parallelism"
+    ],
+    "highlights": [
+      "AWS provides a range of GPU instances like p4d and p5 for foundation model training.",
+      "Amazon FSx for Lustre offers high-performance storage for large-scale training data.",
+      "Elastic Fabric Adapter (EFA) enables low-latency communication between nodes.",
+      "Model parallelism and quantization are key techniques for efficient inference.",
+      "Amazon SageMaker and Bedrock simplify the end-to-end ML workflow."
+    ]
+  },
+  {
+    "title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "url": "https://huggingface.co/blog/allenai/emo",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 08 May 2026 16:03:50 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了EMO（Expert Mixture of Experts）预训练方法，旨在通过混合专家模型实现涌现模块化，提升模型效率和可扩展性。",
+    "score": 8,
+    "tags": [
+      "预训练",
+      "混合专家模型",
+      "模块化",
+      "模型效率",
+      "可扩展性"
+    ],
+    "highlights": [
+      "EMO通过预训练混合专家模型实现涌现模块化",
+      "该方法旨在提升模型效率和可扩展性",
+      "来自Allen AI的研究"
+    ]
+  }
+]

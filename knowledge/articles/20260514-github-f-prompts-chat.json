@@ -1,12 +1,12 @@
 {
-  "id": "github-20260513-008",
+  "id": "github-20260514-008",
   "title": "f/prompts.chat",
   "source": "github",
   "source_url": "https://github.com/f/prompts.chat",
   "status": "draft",
   "url": "https://github.com/f/prompts.chat",
-  "date": "2026-05-13",
-  "popularity": "stars:162161",
+  "date": "2026-05-14",
+  "popularity": "stars:162219",
   "summary": "f/prompts.chat 是一个开源项目，原名 Awesome ChatGPT Prompts，旨在让社区分享、发现和收集提示词，支持自托管以保护隐私。",
   "highlights": [
     "Share, discover, and collect prompts from the community.",
@@ -14,10 +14,10 @@
   ],
   "score": 8,
   "tags": [
-    "开源",
-    "提示词",
-    "社区",
     "ChatGPT",
+    "prompts",
+    "开源",
+    "社区",
     "隐私"
   ]
 }

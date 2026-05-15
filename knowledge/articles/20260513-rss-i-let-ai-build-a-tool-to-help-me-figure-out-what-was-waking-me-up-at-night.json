@@ -1,5 +1,5 @@
 {
-  "id": "rss-11202621-003",
+  "id": "rss-11202621-011",
   "title": "I let AI build a tool to help me figure out what was waking me up at night",
   "source": "rss",
   "source_url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
@@ -7,17 +7,18 @@
   "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
   "date": "Mon, 11 May 2026 21:04:10 +0000",
   "popularity": "",
-  "summary": "The author describes how they used AI to build a custom tool to identify the causes of their nighttime awakenings, combining personal experimentation with AI-assisted development to track and analyze sleep disruptions.",
+  "summary": "作者利用AI构建了一个工具，用于分析夜间醒来的原因，通过追踪和识别模式来改善睡眠质量。",
   "highlights": [
-    "Used AI to iteratively design and refine a personalized sleep disruption analysis tool",
-    "Focused on real-world problem-solving rather than theoretical AI use",
-    "Demonstrates practical application of AI for self-experimentation and health insights"
+    "I let AI build a tool to help me figure out what was waking me up at night",
+    "通过AI工具追踪夜间醒来模式",
+    "利用数据分析识别睡眠干扰因素"
   ],
   "score": 8,
   "tags": [
-    "AI productivity",
-    "sleep tracking",
-    "personal analytics",
-    "no-code/low-code"
+    "AI",
+    "睡眠分析",
+    "工具构建",
+    "自我量化",
+    "健康科技"
   ]
 }

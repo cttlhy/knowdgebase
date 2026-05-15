@@ -1,0 +1,24 @@
+{
+  "id": "rss-08202616-016",
+  "title": "EMO: Pretraining mixture of experts for emergent modularity",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/emo",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/emo",
+  "date": "Fri, 08 May 2026 16:03:50 GMT",
+  "popularity": "",
+  "summary": "本文介绍了EMO（Expert Mixture of Experts）预训练方法，旨在通过混合专家模型实现涌现模块化，提升模型效率和可扩展性。",
+  "highlights": [
+    "EMO通过预训练混合专家模型实现涌现模块化",
+    "该方法旨在提升模型效率和可扩展性",
+    "来自Allen AI的研究"
+  ],
+  "score": 8,
+  "tags": [
+    "预训练",
+    "混合专家模型",
+    "模块化",
+    "模型效率",
+    "可扩展性"
+  ]
+}

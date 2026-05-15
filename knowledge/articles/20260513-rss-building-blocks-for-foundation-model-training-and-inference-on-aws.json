@@ -1,5 +1,5 @@
 {
-  "id": "rss-11202623-013",
+  "id": "rss-11202623-017",
   "title": "Building Blocks for Foundation Model Training and Inference on AWS",
   "source": "rss",
   "source_url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
@@ -7,11 +7,11 @@
   "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
   "date": "Mon, 11 May 2026 23:18:26 GMT",
   "popularity": "",
-  "summary": "本文介绍了在AWS上训练和部署基础模型（Foundation Models）的关键构建模块，包括计算、存储、网络和优化策略，并提供了实践指南。",
+  "summary": "本文介绍了在AWS上训练和部署基础模型（Foundation Models）的核心构建块，包括计算、存储、网络和框架优化，并提供了最佳实践和架构建议。",
   "highlights": [
     "AWS provides scalable infrastructure for foundation model training and inference.",
     "Key building blocks include GPU instances, high-performance storage, and optimized networking.",
-    "The article discusses strategies for efficient model parallelism and data loading."
+    "Best practices involve using SageMaker, EFA, and FSx for Lustre to accelerate workloads."
   ],
   "score": 8,
   "tags": [

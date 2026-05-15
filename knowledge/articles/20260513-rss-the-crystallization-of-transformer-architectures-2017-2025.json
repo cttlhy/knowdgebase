@@ -1,5 +1,5 @@
 {
-  "id": "rss-11202611-003",
+  "id": "rss-11202611-013",
   "title": "The Crystallization of Transformer Architectures (2017-2025)",
   "source": "rss",
   "source_url": "https://jytan.net/blog/2025/transformer-architectures/",
@@ -7,18 +7,17 @@
   "url": "https://jytan.net/blog/2025/transformer-architectures/",
   "date": "Mon, 11 May 2026 11:20:42 -0500",
   "popularity": "",
-  "summary": "文章回顾了2017年至2025年间Transformer架构的演变与固化过程，分析了关键设计选择如何逐渐标准化，并探讨了未来可能的发展方向。",
+  "summary": "文章回顾了2017年至2025年间Transformer架构的演变与固化过程，分析了关键设计选择如何逐步标准化，并探讨了未来可能的发展方向。",
   "highlights": [
-    "Transformer架构从2017年提出后经历了显著的演变与固化。",
-    "关键设计选择如多头注意力、层归一化等逐渐成为标准。",
-    "文章预测了未来Transformer可能的发展趋势。"
+    "Transformer架构从2017年提出到2025年经历了显著的标准化过程。",
+    "关键设计如多头注意力、层归一化和残差连接成为主流。",
+    "文章预测了未来Transformer可能面临的挑战与改进方向。"
   ],
   "score": 8,
   "tags": [
     "Transformer",
     "深度学习",
-    "架构演变",
-    "自然语言处理",
-    "AI研究"
+    "架构演化",
+    "自然语言处理"
   ]
 }

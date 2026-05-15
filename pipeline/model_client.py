@@ -501,6 +501,7 @@ def chat_json(
     prompt: str | None = None,
     *,
     messages: list[dict[str, str]] | None = None,
+    system: str | None = None,
     system_prompt: str = "You are a helpful assistant. Return JSON only.",
     temperature: float = 0.2,
 ) -> tuple[dict[str, Any], Usage]:
@@ -508,7 +509,7 @@ def chat_json(
     text, usage = chat(
         prompt=prompt,
         messages=messages,
-        system_prompt=system_prompt,
+        system_prompt=system or system_prompt,
         temperature=temperature,
     )
     return _extract_json_object(text), usage

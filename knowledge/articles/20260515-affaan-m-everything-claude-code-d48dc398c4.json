@@ -2,20 +2,23 @@
   "title": "affaan-m/everything-claude-code",
   "url": "https://github.com/affaan-m/everything-claude-code",
   "source": "github",
-  "date": "2026-05-15T03:58:41.497878+00:00",
+  "date": "2026-05-15T08:52:19.961629+00:00",
   "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
   "language": "JavaScript",
-  "popularity": "stars:182382",
-  "summary": "一个针对Claude Code等AI编码代理的性能优化系统，涵盖技能、直觉、记忆、安全及研究优先开发。",
+  "popularity": "stars:182593",
+  "summary": "一个针对Claude Code、Codex等AI编码代理的性能优化系统，集成了技能、直觉、记忆、安全与研究优先的开发功能。",
   "tags": [
     "AI编码代理",
     "性能优化",
     "Claude Code",
-    "开发工具",
-    "安全"
+    "Codex",
+    "技能集成",
+    "记忆系统",
+    "安全开发",
+    "研究工具"
   ],
   "score": 0.85,
-  "reason": "该项目专注于提升AI编码代理（如Claude Code）的性能，涵盖技能、直觉、记忆、安全等多个关键维度，具有较高的实用价值和创新性，但摘要未提供具体实现细节或评估数据，因此评分略低于满分。",
+  "reason": "该项目针对AI编码代理提供了全面的性能优化系统，集成了技能、直觉、记忆、安全与研究优先的开发功能，具有较高的实用价值和创新性，但可能仍处于早期阶段或社区贡献性质，因此评分较高但非满分。",
   "id": "article-20260515-005",
-  "updated_at": "2026-05-15T03:59:21.572632+00:00"
+  "updated_at": "2026-05-15T08:52:45.695726+00:00"
 }

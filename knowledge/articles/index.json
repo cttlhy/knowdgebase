@@ -11,7 +11,7 @@
       "个性化服务"
     ],
     "file": "20260515-openclaw-openclaw-c6fd25b449.json",
-    "updated_at": "2026-05-15T03:59:21.572632+00:00"
+    "updated_at": "2026-05-15T08:52:45.695726+00:00"
   },
   {
     "id": "article-20260515-002",
@@ -19,15 +19,14 @@
     "url": "https://github.com/obra/superpowers",
     "score": 0.85,
     "tags": [
-      "智能体",
-      "技能框架",
-      "软件开发",
-      "方法论",
-      "效率提升",
-      "协作"
+      "AI代理",
+      "软件开发方法论",
+      "协作效率",
+      "框架",
+      "可靠性"
     ],
     "file": "20260515-obra-superpowers-2046f5e50f.json",
-    "updated_at": "2026-05-15T03:59:21.572632+00:00"
+    "updated_at": "2026-05-15T08:52:45.695726+00:00"
   },
   {
     "id": "article-20260515-003",
@@ -42,22 +41,22 @@
       "集成"
     ],
     "file": "20260515-n8n-io-n8n-f791d596ac.json",
-    "updated_at": "2026-05-15T03:59:21.572632+00:00"
+    "updated_at": "2026-05-15T08:52:45.695726+00:00"
   },
   {
     "id": "article-20260515-004",
     "title": "Significant-Gravitas/AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "score": 0.95,
+    "score": 0.92,
     "tags": [
       "AutoGPT",
       "AI工具",
       "开源项目",
       "自动化",
-      "人人可用"
+      "任务聚焦"
     ],
     "file": "20260515-significant-gravitas-autogpt-991cb8c748.json",
-    "updated_at": "2026-05-15T03:59:21.572632+00:00"
+    "updated_at": "2026-05-15T08:52:45.695726+00:00"
   },
   {
     "id": "article-20260515-005",
@@ -68,10 +67,13 @@
       "AI编码代理",
       "性能优化",
       "Claude Code",
-      "开发工具",
-      "安全"
+      "Codex",
+      "技能集成",
+      "记忆系统",
+      "安全开发",
+      "研究工具"
     ],
     "file": "20260515-affaan-m-everything-claude-code-d48dc398c4.json",
-    "updated_at": "2026-05-15T03:59:21.572632+00:00"
+    "updated_at": "2026-05-15T08:52:45.695726+00:00"
   }
 ]

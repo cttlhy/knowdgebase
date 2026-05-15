@@ -34,17 +34,8 @@ def _coerce_bool(value: Any, default: bool = False) -> bool:
 
 
 def _review_wrapper(state: KBState) -> dict[str, Any]:
-    """Wrap review node to expose review_passed and advance iteration counter."""
-    current_iteration = int(state.get("iteration", 0))
-    update = review_node(state)
-    review_payload = update.get("review") if isinstance(update.get("review"), dict) else {}
-    passed = _coerce_bool(review_payload.get("passed", False), default=False)
-    return {
-        **update,
-        "review_passed": passed,
-        # 每次经过 review 都增加迭代计数，供 organize_node 的修正逻辑使用。
-        "iteration": current_iteration + 1,
-    }
+    """Keep graph node indirection while letting review_node own review state."""
+    return review_node(state)
 
 
 def review_router(state: KBState) -> str:

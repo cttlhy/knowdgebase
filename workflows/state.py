@@ -22,13 +22,16 @@ class KBState(TypedDict, total=False):
 
     raw_items: list[dict[str, Any]]
     collect_error: str
+    analyses: list[dict[str, Any]]
     analyzed_items: list[dict[str, Any]]
     articles: list[dict[str, Any]]
 
     iteration: int
     review_passed: bool
+    review_feedback: str
     feedback: str
     review: dict[str, Any]
+    cost_tracker: dict[str, Any]
 
     token_usage: TokenUsageState
     total_cost_usd: float

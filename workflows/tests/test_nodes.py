@@ -1,7 +1,10 @@
 from __future__ import annotations
 
 import json
+import importlib
+import sys
 import tempfile
+import types
 import unittest
 import urllib.error
 from pathlib import Path
@@ -28,51 +31,104 @@ class WorkflowNodesTests(unittest.TestCase):
         self.assertEqual(articles[0]["url"], "https://example.com/a")
         self.assertGreaterEqual(float(articles[0]["score"]), 0.6)
 
-    def test_review_node_iteration_two_forces_pass(self) -> None:
+    def test_review_node_reviews_first_five_analyses_with_weighted_score(self) -> None:
+        analyses = [
+            {"title": f"analysis-{index}", "summary": "summary", "url": f"https://example.com/{index}"}
+            for index in range(6)
+        ]
         with patch.object(
             nodes_module,
             "chat_json",
             return_value=(
                 {
                     "passed": False,
-                    "overall_score": 0.1,
-                    "feedback": "bad",
+                    "overall_score": 10,
+                    "feedback": "good enough",
                     "scores": {
-                        "summary_quality": 0.1,
-                        "tag_accuracy": 0.1,
-                        "classification_rationale": 0.1,
-                        "consistency": 0.1,
+                        "summary_quality": 8,
+                        "technical_depth": 7,
+                        "relevance": 8,
+                        "originality": 6,
+                        "formatting": 7,
                     },
                 },
-                nodes_module.Usage(prompt_tokens=1, completion_tokens=1, total_tokens=2),
+                nodes_module.Usage(prompt_tokens=100, completion_tokens=50, total_tokens=150),
             ),
-        ):
-            update = nodes_module.review_node({"articles": [{"url": "https://example.com/a"}], "iteration": 2})
+        ) as chat_json_mock:
+            update = nodes_module.review_node(
+                {
+                    "analyses": analyses,
+                    "articles": [{"title": "must-not-review"}],
+                    "iteration": 0,
+                    "provider": "deepseek",
+                }
+            )
 
-        self.assertTrue(update["review"]["passed"])
+        prompt = chat_json_mock.call_args.kwargs["prompt"]
+        self.assertIn("analysis-4", prompt)
+        self.assertNotIn("analysis-5", prompt)
+        self.assertNotIn("must-not-review", prompt)
+        self.assertEqual(chat_json_mock.call_args.kwargs["temperature"], 0.1)
+        self.assertTrue(update["review_passed"])
+        self.assertAlmostEqual(update["review"]["overall_score"], 7.3)
+        self.assertEqual(update["iteration"], 1)
+        self.assertEqual(update["cost_tracker"]["total_tokens"], 150)
+        self.assertGreater(update["cost_tracker"]["total_cost_usd"], 0)
 
-    def test_review_node_string_false_does_not_become_true(self) -> None:
+    def test_review_node_recomputes_score_and_fails_below_threshold(self) -> None:
         with patch.object(
             nodes_module,
             "chat_json",
             return_value=(
                 {
-                    "passed": "false",
-                    "overall_score": 0.7,
+                    "passed": True,
+                    "overall_score": 10,
                     "feedback": "not enough",
                     "scores": {
-                        "summary_quality": 0.7,
-                        "tag_accuracy": 0.7,
-                        "classification_rationale": 0.7,
-                        "consistency": 0.7,
+                        "summary_quality": 6,
+                        "technical_depth": 6,
+                        "relevance": 6,
+                        "originality": 6,
+                        "formatting": 6,
                     },
                 },
                 nodes_module.Usage(prompt_tokens=1, completion_tokens=1, total_tokens=2),
             ),
         ):
-            update = nodes_module.review_node({"articles": [{"url": "https://example.com/a"}], "iteration": 0})
+            update = nodes_module.review_node({"analyses": [{"url": "https://example.com/a"}], "iteration": 0})
 
-        self.assertFalse(update["review"]["passed"])
+        self.assertFalse(update["review_passed"])
+        self.assertEqual(update["review"]["overall_score"], 6.0)
+
+    def test_review_node_auto_passes_when_llm_fails(self) -> None:
+        with patch.object(nodes_module, "chat_json", side_effect=RuntimeError("llm down")):
+            update = nodes_module.review_node({"analyses": [{"url": "https://example.com/a"}], "iteration": 3})
+
+        self.assertTrue(update["review_passed"])
+        self.assertIn("LLM", update["review_feedback"])
+        self.assertEqual(update["iteration"], 4)
+
+    def test_review_wrapper_does_not_increment_iteration_twice(self) -> None:
+        langgraph_module = types.ModuleType("langgraph")
+        langgraph_graph_module = types.ModuleType("langgraph.graph")
+        langgraph_graph_module.END = "__end__"
+        langgraph_graph_module.StateGraph = object
+        review_update = {
+            "review_passed": True,
+            "review_feedback": "ok",
+            "iteration": 6,
+            "cost_tracker": {},
+        }
+        with patch.dict(
+            sys.modules,
+            {"langgraph": langgraph_module, "langgraph.graph": langgraph_graph_module},
+        ):
+            graph_module = importlib.import_module("workflows.graph")
+        with patch.object(graph_module, "review_node", return_value=review_update):
+            update = graph_module._review_wrapper({"iteration": 5})
+
+        self.assertEqual(update["iteration"], 6)
+        self.assertTrue(update["review_passed"])
 
     def test_save_node_writes_article_files_and_index(self) -> None:
         articles = [

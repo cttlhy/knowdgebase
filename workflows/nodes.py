@@ -11,6 +11,7 @@ from pathlib import Path
 from typing import Any
 
 from pipeline.model_client import Usage, calculate_cost_usd, chat, chat_json
+from workflows import reviewer as reviewer_module
 from workflows.state import KBState
 
 LOGGER = logging.getLogger(__name__)
@@ -162,7 +163,7 @@ def analyze_node(state: KBState) -> dict[str, Any]:
                 "reason": str(payload.get("reason") or "").strip(),
             }
         )
-    return {"analyzed_items": analyzed, **_usage_delta(state, usage_total)}
+    return {"analyses": analyzed, "analyzed_items": analyzed, **_usage_delta(state, usage_total)}
 
 
 def organize_node(state: KBState) -> dict[str, Any]:
@@ -211,29 +212,8 @@ def organize_node(state: KBState) -> dict[str, Any]:
 
 
 def review_node(state: KBState) -> dict[str, Any]:
-    """Review organized articles with four-dimensional quality scores."""
-    LOGGER.info("[review_node] Start article review")
-    articles = state.get("articles") or []
-    iteration = int(state.get("iteration", 0))
-    prompt = (
-        "请审核以下知识条目列表，并按要求返回 JSON："
-        '{"passed": bool, "overall_score": float, "feedback": str, "scores": {...}}。'
-        "scores 中必须包含四个字段：summary_quality, tag_accuracy, "
-        "classification_rationale, consistency。\n"
-        f"条目: {json.dumps(articles, ensure_ascii=False)}"
-    )
-    payload, usage = chat_json(prompt=prompt, system_prompt="你是严格的知识库审核员。请只返回 JSON。")
-    review = {
-        "passed": _coerce_bool(payload.get("passed", False), default=False),
-        "overall_score": _normalize_score(payload.get("overall_score")),
-        "feedback": str(payload.get("feedback") or "").strip(),
-        "scores": payload.get("scores") if isinstance(payload.get("scores"), dict) else {},
-    }
-    if iteration >= 2:
-        review["passed"] = True
-        if not review["feedback"]:
-            review["feedback"] = "达到最大迭代次数，强制通过。"
-    return {"review": review, "feedback": review["feedback"], **_usage_delta(state, usage)}
+    """Review analyzed items through the dedicated reviewer module."""
+    return reviewer_module.review_node(state, chat_json_func=chat_json)
 
 
 def save_node(state: KBState) -> dict[str, Any]:

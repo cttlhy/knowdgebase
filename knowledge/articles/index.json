@@ -8,10 +8,10 @@
       "AI助手",
       "跨平台",
       "开源",
-      "个性化"
+      "个性化服务"
     ],
-    "file": "20260515-openclaw-openclaw.json",
-    "updated_at": "2026-05-15T02:53:27.312507+00:00"
+    "file": "20260515-openclaw-openclaw-c6fd25b449.json",
+    "updated_at": "2026-05-15T03:59:21.572632+00:00"
   },
   {
     "id": "article-20260515-002",
@@ -26,8 +26,8 @@
       "效率提升",
       "协作"
     ],
-    "file": "20260515-obra-superpowers.json",
-    "updated_at": "2026-05-15T02:53:27.312507+00:00"
+    "file": "20260515-obra-superpowers-2046f5e50f.json",
+    "updated_at": "2026-05-15T03:59:21.572632+00:00"
   },
   {
     "id": "article-20260515-003",
@@ -38,17 +38,17 @@
       "工作流自动化",
       "AI",
       "开源",
-      "低代码",
+      "自托管",
       "集成"
     ],
-    "file": "20260515-n8n-io-n8n.json",
-    "updated_at": "2026-05-15T02:53:27.312507+00:00"
+    "file": "20260515-n8n-io-n8n-f791d596ac.json",
+    "updated_at": "2026-05-15T03:59:21.572632+00:00"
   },
   {
     "id": "article-20260515-004",
     "title": "Significant-Gravitas/AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "score": 0.92,
+    "score": 0.95,
     "tags": [
       "AutoGPT",
       "AI工具",
@@ -56,8 +56,8 @@
       "自动化",
       "人人可用"
     ],
-    "file": "20260515-significant-gravitas-autogpt.json",
-    "updated_at": "2026-05-15T02:53:27.312507+00:00"
+    "file": "20260515-significant-gravitas-autogpt-991cb8c748.json",
+    "updated_at": "2026-05-15T03:59:21.572632+00:00"
   },
   {
     "id": "article-20260515-005",
@@ -65,13 +65,13 @@
     "url": "https://github.com/affaan-m/everything-claude-code",
     "score": 0.85,
     "tags": [
-      "AI编码助手",
-      "智能体优化",
+      "AI编码代理",
+      "性能优化",
       "Claude Code",
       "开发工具",
-      "性能优化"
+      "安全"
     ],
-    "file": "20260515-affaan-m-everything-claude-code.json",
-    "updated_at": "2026-05-15T02:53:27.312507+00:00"
+    "file": "20260515-affaan-m-everything-claude-code-d48dc398c4.json",
+    "updated_at": "2026-05-15T03:59:21.572632+00:00"
   }
 ]

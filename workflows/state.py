@@ -21,6 +21,7 @@ class KBState(TypedDict, total=False):
     knowledge_root: str
 
     raw_items: list[dict[str, Any]]
+    collect_error: str
     analyzed_items: list[dict[str, Any]]
     articles: list[dict[str, Any]]
 

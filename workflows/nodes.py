@@ -5,6 +5,7 @@ import logging
 import re
 import urllib.parse
 import urllib.request
+from hashlib import sha1
 from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
@@ -32,6 +33,21 @@ def _normalize_score(raw_score: Any) -> float:
     if score > 1.0 and score <= 10.0:
         score = score / 10.0
     return max(0.0, min(1.0, score))
+
+
+def _coerce_bool(value: Any, default: bool = False) -> bool:
+    """Safely coerce external values into bool without truthy-string bugs."""
+    if isinstance(value, bool):
+        return value
+    if isinstance(value, (int, float)):
+        return bool(value)
+    if isinstance(value, str):
+        normalized = value.strip().lower()
+        if normalized in {"true", "1", "yes", "y", "on"}:
+            return True
+        if normalized in {"false", "0", "no", "n", "off", ""}:
+            return False
+    return default
 
 
 def _slugify(text: str) -> str:
@@ -84,8 +100,13 @@ def collect_node(state: KBState) -> dict[str, Any]:
         headers=headers,
         method="GET",
     )
-    with urllib.request.urlopen(request, timeout=30) as response:
-        payload = json.loads(response.read().decode("utf-8"))
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            payload = json.loads(response.read().decode("utf-8"))
+    except Exception as exc:  # noqa: BLE001 - workflow should degrade gracefully on network failures.
+        message = f"collect failed: {exc}"
+        LOGGER.warning("[collect_node] %s", message)
+        return {"raw_items": [], "collect_error": message}
 
     collected: list[dict[str, Any]] = []
     for item in payload.get("items", []):
@@ -203,7 +224,7 @@ def review_node(state: KBState) -> dict[str, Any]:
     )
     payload, usage = chat_json(prompt=prompt, system_prompt="你是严格的知识库审核员。请只返回 JSON。")
     review = {
-        "passed": bool(payload.get("passed", False)),
+        "passed": _coerce_bool(payload.get("passed", False), default=False),
         "overall_score": _normalize_score(payload.get("overall_score")),
         "feedback": str(payload.get("feedback") or "").strip(),
         "scores": payload.get("scores") if isinstance(payload.get("scores"), dict) else {},
@@ -223,13 +244,16 @@ def save_node(state: KBState) -> dict[str, Any]:
     articles_dir = repo_root / "knowledge" / "articles"
     articles_dir.mkdir(parents=True, exist_ok=True)
     now = _now_iso()
+    date_stamp = datetime.now(UTC).strftime("%Y%m%d")
 
     saved_files: list[str] = []
     index_entries: list[dict[str, Any]] = []
     for index, article in enumerate(articles, start=1):
-        article_id = str(article.get("id") or f"article-{datetime.now(UTC).strftime('%Y%m%d')}-{index:03d}")
+        article_id = str(article.get("id") or f"article-{date_stamp}-{index:03d}")
         payload = {**article, "id": article_id, "updated_at": now}
-        filename = f"{datetime.now(UTC).strftime('%Y%m%d')}-{_slugify(payload.get('title', article_id))}.json"
+        unique_source = str(payload.get("url") or article_id)
+        unique_suffix = sha1(unique_source.encode("utf-8")).hexdigest()[:10]
+        filename = f"{date_stamp}-{_slugify(payload.get('title', article_id))}-{unique_suffix}.json"
         target = articles_dir / filename
         target.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
         saved_files.append(target.name)

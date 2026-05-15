@@ -18,12 +18,27 @@ from workflows.state import KBState
 LOGGER = logging.getLogger(__name__)
 
 
+def _coerce_bool(value: Any, default: bool = False) -> bool:
+    """Safely coerce values into bool without treating 'false' as True."""
+    if isinstance(value, bool):
+        return value
+    if isinstance(value, (int, float)):
+        return bool(value)
+    if isinstance(value, str):
+        normalized = value.strip().lower()
+        if normalized in {"true", "1", "yes", "y", "on"}:
+            return True
+        if normalized in {"false", "0", "no", "n", "off", ""}:
+            return False
+    return default
+
+
 def _review_wrapper(state: KBState) -> dict[str, Any]:
     """Wrap review node to expose review_passed and advance iteration counter."""
     current_iteration = int(state.get("iteration", 0))
     update = review_node(state)
     review_payload = update.get("review") if isinstance(update.get("review"), dict) else {}
-    passed = bool(review_payload.get("passed", False))
+    passed = _coerce_bool(review_payload.get("passed", False), default=False)
     return {
         **update,
         "review_passed": passed,
@@ -34,7 +49,7 @@ def _review_wrapper(state: KBState) -> dict[str, Any]:
 
 def review_router(state: KBState) -> str:
     """Route after review: pass => save, fail => organize."""
-    if bool(state.get("review_passed", False)):
+    if _coerce_bool(state.get("review_passed", False), default=False):
         return "pass"
     return "retry"
 

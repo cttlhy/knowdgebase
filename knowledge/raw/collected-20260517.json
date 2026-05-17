@@ -1,0 +1,350 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-05-17",
+    "popularity": "stars:372534",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾风格为特色。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-05-17",
+    "popularity": "stars:194514",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "效率提升",
+      "协作"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-05-17",
+    "popularity": "stars:188267",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或云部署，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云部署",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform",
+      "native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "affaan-m/everything-claude-code",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "source": "github",
+    "date": "2026-05-17",
+    "popularity": "stars:185115",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发方法。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "Claude Code",
+      "Codex",
+      "Opencode",
+      "Cursor",
+      "开发工具",
+      "安全"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system.",
+      "Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-05-17",
+    "popularity": "stars:184366",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能使用和构建 AI，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-05-17",
+    "popularity": "stars:171586",
+    "content": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，旨在帮助用户快速启动和运行多种大型语言模型，包括 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 9,
+    "tags": [
+      "开源",
+      "大语言模型",
+      "AI",
+      "模型部署",
+      "GitHub"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "ollama/ollama"
+    ]
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "source": "github",
+    "date": "2026-05-17",
+    "popularity": "stars:163094",
+    "content": "Stable Diffusion web UI",
+    "summary": "AUTOMATIC1111/stable-diffusion-webui 是一个基于 Gradio 库的 Stable Diffusion 网页界面，提供了图像生成、编辑等功能，支持多种模型和扩展。",
+    "score": 9,
+    "tags": [
+      "Stable Diffusion",
+      "AI图像生成",
+      "Web UI",
+      "开源",
+      "深度学习"
+    ],
+    "highlights": [
+      "提供直观的网页界面，方便用户使用 Stable Diffusion 模型生成图像",
+      "支持多种模型和扩展，功能丰富",
+      "开源项目，社区活跃，持续更新"
+    ]
+  },
+  {
+    "title": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "source": "github",
+    "date": "2026-05-17",
+    "popularity": "stars:162392",
+    "content": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "summary": "f/prompts.chat 是一个开源项目，原名 Awesome ChatGPT Prompts，旨在让用户分享、发现和收集来自社区的提示词，支持自托管以保护隐私。",
+    "score": 8,
+    "tags": [
+      "ChatGPT",
+      "prompts",
+      "开源",
+      "社区",
+      "隐私"
+    ],
+    "highlights": [
+      "Share, discover, and collect prompts from the community.",
+      "Free and open source — self-host for your organization with complete privacy."
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-05-17",
+    "popularity": "stars:161418",
+    "content": "The open source coding agent.",
+    "summary": "OpenCode 是一个开源的编码代理项目，旨在提供自动化代码生成和辅助编程功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "source": "github",
+    "date": "2026-05-17",
+    "popularity": "stars:160680",
+    "content": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "summary": "Transformers 是一个用于文本、视觉、音频和多模态模型的最先进机器学习模型定义框架，支持推理和训练。",
+    "score": 9,
+    "tags": [
+      "transformers",
+      "machine learning",
+      "deep learning",
+      "NLP",
+      "computer vision",
+      "audio",
+      "multimodal",
+      "inference"
+    ],
+    "highlights": [
+      "state-of-the-art machine learning models",
+      "text, vision, audio, and multimodal models",
+      "for both inference and training"
+    ]
+  },
+  {
+    "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+    "url": "https://www.seangoedecke.com/steering-vectors/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sun, 17 May 2026 01:15:12 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wycfiy/deepseek_v4_flash_means_llm_steering_is\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章讨论了DeepSeek-V4-Flash模型如何重新激发了对LLM引导（steering）技术的兴趣，并提供了相关评论链接。",
+    "score": 7,
+    "tags": [
+      "DeepSeek",
+      "LLM",
+      "steering vectors",
+      "AI research"
+    ],
+    "highlights": [
+      "DeepSeek-V4-Flash means LLM steering is interesting again"
+    ]
+  },
+  {
+    "title": "Autonomous AI research for nanogpt speedrun",
+    "url": "https://www.primeintellect.ai/auto-nanogpt",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 14 May 2026 23:53:22 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/fgbrwl/autonomous_ai_research_for_nanogpt\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章介绍了Prime Intellect在nanogpt speedrun项目中利用自主AI研究的方法和成果，展示了自动化机器学习在模型优化中的应用。",
+    "score": 8,
+    "tags": [
+      "自主AI研究",
+      "nanogpt",
+      "机器学习",
+      "自动化优化"
+    ],
+    "highlights": [
+      "Autonomous AI research for nanogpt speedrun",
+      "Prime Intellect的自动化方法在模型训练中取得显著进展"
+    ]
+  },
+  {
+    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Sat, 16 May 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+    "summary": "OpenAI与马耳他合作，向所有公民提供ChatGPT Plus和培训，以扩大AI访问、培养实用AI技能并促进负责任使用。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "马耳他",
+      "ChatGPT Plus",
+      "AI合作",
+      "AI技能培训",
+      "负责任AI"
+    ],
+    "highlights": [
+      "OpenAI and Malta partner to expand AI access",
+      "offering ChatGPT Plus and training",
+      "help citizens build practical AI skills and use AI responsibly"
+    ]
+  },
+  {
+    "title": "How business operations teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 15 May 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+    "summary": "本文介绍了业务运营团队如何利用Codex从实际工作输入中创建倡议简报、战略更新、领导决策包和进度更新等文档。",
+    "score": 8,
+    "tags": [
+      "Codex",
+      "业务运营",
+      "文档生成",
+      "AI应用",
+      "效率提升"
+    ],
+    "highlights": [
+      "业务运营团队可以使用Codex创建倡议简报、战略更新、领导决策包和进度更新。",
+      "Codex能够从实际工作输入中自动生成文档。"
+    ]
+  },
+  {
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 14 May 2026 18:55:01 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "IBM发布Granite Embedding Multilingual R2模型，采用Apache 2.0开源协议，支持32K上下文长度，在子1亿参数规模的多语言嵌入模型中达到最优检索质量。",
+    "score": 9,
+    "tags": [
+      "多语言嵌入",
+      "开源模型",
+      "检索质量",
+      "Apache 2.0",
+      "32K上下文"
+    ],
+    "highlights": [
+      "Open Apache 2.0 Multilingual Embeddings",
+      "32K Context",
+      "Best Sub-100M Retrieval Quality"
+    ]
+  },
+  {
+    "title": "Unlocking asynchronicity in continuous batching",
+    "url": "https://huggingface.co/blog/continuous_async",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 14 May 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文探讨了在连续批处理中实现异步性的方法，旨在提高推理系统的吞吐量和效率。",
+    "score": 8,
+    "tags": [
+      "异步处理",
+      "连续批处理",
+      "推理优化",
+      "系统性能"
+    ],
+    "highlights": [
+      "Unlocking asynchronicity in continuous batching",
+      "提高推理系统的吞吐量和效率"
+    ]
+  }
+]

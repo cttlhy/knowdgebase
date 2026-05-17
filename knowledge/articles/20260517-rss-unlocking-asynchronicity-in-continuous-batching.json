@@ -1,0 +1,22 @@
+{
+  "id": "rss-14202600-016",
+  "title": "Unlocking asynchronicity in continuous batching",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/continuous_async",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/continuous_async",
+  "date": "Thu, 14 May 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文探讨了在连续批处理中实现异步性的方法，旨在提高推理系统的吞吐量和效率。",
+  "highlights": [
+    "Unlocking asynchronicity in continuous batching",
+    "提高推理系统的吞吐量和效率"
+  ],
+  "score": 8,
+  "tags": [
+    "异步处理",
+    "连续批处理",
+    "推理优化",
+    "系统性能"
+  ]
+}

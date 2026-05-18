@@ -1,0 +1,23 @@
+{
+  "id": "rss-14202619-014",
+  "title": "A few works on DS4",
+  "source": "rss",
+  "source_url": "https://antirez.com/news/165",
+  "status": "draft",
+  "url": "https://antirez.com/news/165",
+  "date": "Thu, 14 May 2026 19:01:55 -0500",
+  "popularity": "",
+  "summary": "介绍一种超特定LLM实现，仅运行Deepseek V4 Flash，可在DGX Spark或128GB RAM Macbook等普通开发机器上运行。",
+  "highlights": [
+    "Neat hyper-specific LLM implementation",
+    "runs only Deepseek V4 Flash",
+    "on commodity developer machines like DGX Spark / 128 GB RAM Macbooks"
+  ],
+  "score": 7,
+  "tags": [
+    "LLM",
+    "Deepseek",
+    "本地部署",
+    "硬件要求"
+  ]
+}

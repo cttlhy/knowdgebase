@@ -1,0 +1,27 @@
+{
+  "id": "rss-14202618-017",
+  "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+  "date": "Thu, 14 May 2026 18:55:01 GMT",
+  "popularity": "",
+  "summary": "IBM 发布 Granite Embedding Multilingual R2 模型，支持 32K 上下文长度，采用 Apache 2.0 开源许可，在子 100M 参数规模下达到最佳检索质量，支持多语言嵌入。",
+  "highlights": [
+    "Open Apache 2.0 Multilingual Embeddings",
+    "32K Context",
+    "Best Sub-100M Retrieval Quality"
+  ],
+  "score": 9,
+  "tags": [
+    "IBM",
+    "Granite",
+    "嵌入模型",
+    "多语言",
+    "开源",
+    "Apache 2.0",
+    "32K上下文",
+    "检索质量"
+  ]
+}

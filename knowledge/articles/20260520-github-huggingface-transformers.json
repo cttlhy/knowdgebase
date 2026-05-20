@@ -1,0 +1,25 @@
+{
+  "id": "github-20260520-010",
+  "title": "huggingface/transformers",
+  "source": "github",
+  "source_url": "https://github.com/huggingface/transformers",
+  "status": "draft",
+  "url": "https://github.com/huggingface/transformers",
+  "date": "2026-05-20",
+  "popularity": "stars:160795",
+  "summary": "Hugging Face Transformers 是一个支持文本、视觉、音频和多模态模型的先进机器学习框架，适用于推理和训练。",
+  "highlights": [
+    "支持文本、视觉、音频和多模态模型",
+    "适用于推理和训练",
+    "state-of-the-art 机器学习模型"
+  ],
+  "score": 9,
+  "tags": [
+    "机器学习",
+    "深度学习",
+    "自然语言处理",
+    "计算机视觉",
+    "多模态",
+    "开源框架"
+  ]
+}

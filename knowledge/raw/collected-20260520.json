@@ -1,0 +1,348 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-05-20",
+    "popularity": "stars:373399",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾（lobster）为象征，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-05-20",
+    "popularity": "stars:199354",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率和协作能力。",
+    "score": 8,
+    "tags": [
+      "代理技能",
+      "软件开发方法论",
+      "框架",
+      "GitHub"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-05-20",
+    "popularity": "stars:188824",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-05-20",
+    "popularity": "stars:187460",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "编码工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "Skills, instincts, memory, security, and research-first development",
+      "for Claude Code, Codex, Opencode, Cursor and beyond"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-05-20",
+    "popularity": "stars:184427",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用 AI，提供工具以便用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-05-20",
+    "popularity": "stars:171796",
+    "content": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，旨在帮助用户快速上手并运行多种 AI 模型，包括 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "模型部署",
+      "开源",
+      "大语言模型",
+      "工具"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+    ]
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "source": "github",
+    "date": "2026-05-20",
+    "popularity": "stars:163162",
+    "content": "Stable Diffusion web UI",
+    "summary": "AUTOMATIC1111/stable-diffusion-webui 是一个基于 Gradio 库的 Stable Diffusion 模型网页界面，支持文本生成图像、图像修复、超分辨率等多种功能，提供丰富的扩展和自定义选项。",
+    "score": 9,
+    "tags": [
+      "Stable Diffusion",
+      "AI图像生成",
+      "Web UI",
+      "开源",
+      "深度学习"
+    ],
+    "highlights": [
+      "提供直观的网页界面，无需编程即可使用 Stable Diffusion 模型",
+      "支持多种功能：文生图、图生图、图像修复、超分辨率等",
+      "拥有活跃的社区和丰富的扩展生态"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-05-20",
+    "popularity": "stars:162900",
+    "content": "The open source coding agent.",
+    "summary": "Anomalyco/OpenCode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "source": "github",
+    "date": "2026-05-20",
+    "popularity": "stars:162565",
+    "content": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "summary": "f/prompts.chat 是一个开源项目，原名 Awesome ChatGPT Prompts，旨在让社区分享、发现和收集 ChatGPT 提示词，支持自托管以保护隐私。",
+    "score": 8,
+    "tags": [
+      "ChatGPT",
+      "prompts",
+      "开源",
+      "社区",
+      "隐私"
+    ],
+    "highlights": [
+      "Share, discover, and collect prompts from the community.",
+      "Free and open source — self-host for your organization with complete privacy."
+    ]
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "source": "github",
+    "date": "2026-05-20",
+    "popularity": "stars:160795",
+    "content": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "summary": "Hugging Face Transformers 是一个支持文本、视觉、音频和多模态模型的先进机器学习框架，适用于推理和训练。",
+    "score": 9,
+    "tags": [
+      "机器学习",
+      "深度学习",
+      "自然语言处理",
+      "计算机视觉",
+      "多模态",
+      "开源框架"
+    ],
+    "highlights": [
+      "支持文本、视觉、音频和多模态模型",
+      "适用于推理和训练",
+      "state-of-the-art 机器学习模型"
+    ]
+  },
+  {
+    "title": "Categorizing without an LLM",
+    "url": "https://softwaremaniacs.org/blog/2026/05/18/shoppy/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 19 May 2026 13:47:14 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/folw9m/categorizing_without_llm\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章讨论了在不使用大型语言模型（LLM）的情况下进行文本分类的方法，可能涉及传统机器学习或规则-based 技术。",
+    "score": 7,
+    "tags": [
+      "分类",
+      "无LLM",
+      "机器学习",
+      "自然语言处理"
+    ],
+    "highlights": [
+      "Categorizing without an LLM",
+      "Comments"
+    ]
+  },
+  {
+    "title": "Autonomous AI research for nanogpt speedrun",
+    "url": "https://www.primeintellect.ai/auto-nanogpt",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 14 May 2026 23:53:22 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/fgbrwl/autonomous_ai_research_for_nanogpt\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章介绍了Prime Intellect在nanogpt speedrun项目中使用自主AI研究的方法，旨在加速纳米级GPT模型的训练和优化。",
+    "score": 7,
+    "tags": [
+      "自主AI研究",
+      "nanogpt",
+      "模型优化",
+      "训练加速"
+    ],
+    "highlights": [
+      "Autonomous AI research for nanogpt speedrun",
+      "Prime Intellect的自主AI研究方法"
+    ]
+  },
+  {
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 20 May 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "summary": "OpenAI推进国家教育计划，通过新合作伙伴关系、教师培训和工具扩展AI在学校中的应用，以改善全球学习成果。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "教育",
+      "AI应用",
+      "教师培训",
+      "全球学习"
+    ],
+    "highlights": [
+      "OpenAI advances Education for Countries",
+      "expanding AI adoption in schools with new partnerships",
+      "teacher training",
+      "tools to improve global learning outcomes"
+    ]
+  },
+  {
+    "title": "Introducing OpenAI for Singapore",
+    "url": "https://openai.com/index/introducing-openai-for-singapore",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 19 May 2026 20:30:00 GMT",
+    "popularity": "",
+    "content": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+    "summary": "OpenAI 宣布与新加坡建立多年AI合作伙伴关系，旨在扩大AI部署、培养本地人才，并支持企业和公共服务利用AI技术。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "新加坡",
+      "AI合作",
+      "人才培养",
+      "公共服务"
+    ],
+    "highlights": [
+      "OpenAI for Singapore launches a multi-year AI partnership",
+      "expand deployment, build local talent",
+      "support businesses and public services with AI"
+    ]
+  },
+  {
+    "title": "OlmoEarth v1.1: A more efficient family of models",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 19 May 2026 18:38:09 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "OlmoEarth v1.1 是 Allen AI 推出的更高效模型系列，在性能、速度和资源利用上进行了优化，适用于多种自然语言处理任务。",
+    "score": 8,
+    "tags": [
+      "OlmoEarth",
+      "模型优化",
+      "自然语言处理",
+      "Allen AI",
+      "高效计算"
+    ],
+    "highlights": [
+      "OlmoEarth v1.1 在保持高精度的同时显著提升了推理速度。",
+      "新版本模型在参数效率上进行了改进，减少了计算资源消耗。",
+      "该系列模型针对多种 NLP 任务进行了微调，表现优异。"
+    ]
+  },
+  {
+    "title": "Introducing the Ettin Reranker Family",
+    "url": "https://huggingface.co/blog/ettin-reranker",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 19 May 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Ettin Reranker 系列模型介绍，包括其架构、训练方法和性能优势，旨在提升信息检索中的排序效果。",
+    "score": 8,
+    "tags": [
+      "Ettin Reranker",
+      "信息检索",
+      "排序模型",
+      "Hugging Face",
+      "自然语言处理"
+    ],
+    "highlights": [
+      "Ettin Reranker 系列模型在多个基准测试中表现优异。",
+      "该模型采用先进的训练技术，显著提高了检索排序的准确性。",
+      "博客详细说明了模型架构和部署方法。"
+    ]
+  }
+]

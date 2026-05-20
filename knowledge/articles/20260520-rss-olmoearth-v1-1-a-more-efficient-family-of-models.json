@@ -1,0 +1,24 @@
+{
+  "id": "rss-19202618-015",
+  "title": "OlmoEarth v1.1: A more efficient family of models",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+  "date": "Tue, 19 May 2026 18:38:09 GMT",
+  "popularity": "",
+  "summary": "OlmoEarth v1.1 是 Allen AI 推出的更高效模型系列，在性能、速度和资源利用上进行了优化，适用于多种自然语言处理任务。",
+  "highlights": [
+    "OlmoEarth v1.1 在保持高精度的同时显著提升了推理速度。",
+    "新版本模型在参数效率上进行了改进，减少了计算资源消耗。",
+    "该系列模型针对多种 NLP 任务进行了微调，表现优异。"
+  ],
+  "score": 8,
+  "tags": [
+    "OlmoEarth",
+    "模型优化",
+    "自然语言处理",
+    "Allen AI",
+    "高效计算"
+  ]
+}

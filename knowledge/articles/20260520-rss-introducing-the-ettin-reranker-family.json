@@ -1,0 +1,24 @@
+{
+  "id": "rss-19202600-016",
+  "title": "Introducing the Ettin Reranker Family",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ettin-reranker",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/ettin-reranker",
+  "date": "Tue, 19 May 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "Ettin Reranker 系列模型介绍，包括其架构、训练方法和性能优势，旨在提升信息检索中的排序效果。",
+  "highlights": [
+    "Ettin Reranker 系列模型在多个基准测试中表现优异。",
+    "该模型采用先进的训练技术，显著提高了检索排序的准确性。",
+    "博客详细说明了模型架构和部署方法。"
+  ],
+  "score": 8,
+  "tags": [
+    "Ettin Reranker",
+    "信息检索",
+    "排序模型",
+    "Hugging Face",
+    "自然语言处理"
+  ]
+}

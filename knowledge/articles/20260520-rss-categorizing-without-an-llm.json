@@ -1,0 +1,22 @@
+{
+  "id": "rss-19202613-011",
+  "title": "Categorizing without an LLM",
+  "source": "rss",
+  "source_url": "https://softwaremaniacs.org/blog/2026/05/18/shoppy/",
+  "status": "draft",
+  "url": "https://softwaremaniacs.org/blog/2026/05/18/shoppy/",
+  "date": "Tue, 19 May 2026 13:47:14 -0500",
+  "popularity": "",
+  "summary": "文章讨论了在不使用大型语言模型（LLM）的情况下进行文本分类的方法，可能涉及传统机器学习或规则-based 技术。",
+  "highlights": [
+    "Categorizing without an LLM",
+    "Comments"
+  ],
+  "score": 7,
+  "tags": [
+    "分类",
+    "无LLM",
+    "机器学习",
+    "自然语言处理"
+  ]
+}

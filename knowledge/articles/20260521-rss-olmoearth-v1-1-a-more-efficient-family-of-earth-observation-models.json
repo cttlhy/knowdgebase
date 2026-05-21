@@ -1,0 +1,25 @@
+{
+  "id": "rss-19202618-016",
+  "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+  "date": "Tue, 19 May 2026 18:38:09 GMT",
+  "popularity": "",
+  "summary": "OlmoEarth v1.1 是 Allen AI 推出的地球观测模型系列，相比 v1.0 在效率、精度和推理速度上均有提升，支持多光谱和 SAR 数据，适用于土地覆盖分类、变化检测等遥感任务。",
+  "highlights": [
+    "OlmoEarth v1.1 在保持高精度的同时，推理速度提升约 30%",
+    "支持多光谱和 SAR 数据融合，增强环境监测能力",
+    "在多个基准数据集上达到 state-of-the-art 性能"
+  ],
+  "score": 8,
+  "tags": [
+    "地球观测",
+    "遥感",
+    "深度学习",
+    "模型优化",
+    "多光谱",
+    "SAR"
+  ]
+}

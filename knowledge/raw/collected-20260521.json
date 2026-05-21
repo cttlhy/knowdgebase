@@ -1,0 +1,370 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-05-21",
+    "popularity": "stars:373673",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾（🦞）为标志，强调灵活性和自主性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-05-21",
+    "popularity": "stars:200914",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率和质量。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "GitHub"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-05-21",
+    "popularity": "stars:188976",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities.",
+      "Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-05-21",
+    "popularity": "stars:187983",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "编码工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "Skills, instincts, memory, security, and research-first development",
+      "for Claude Code, Codex, Opencode, Cursor and beyond"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-05-21",
+    "popularity": "stars:184442",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用AI，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-05-21",
+    "popularity": "stars:171860",
+    "content": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，旨在帮助用户快速启动和运行多种大型语言模型，包括 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 9,
+    "tags": [
+      "开源",
+      "大语言模型",
+      "AI",
+      "模型部署",
+      "Ollama"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-05-21",
+    "popularity": "stars:163381",
+    "content": "The open source coding agent.",
+    "summary": "Anomalyco/OpenCode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "source": "github",
+    "date": "2026-05-21",
+    "popularity": "stars:163187",
+    "content": "Stable Diffusion web UI",
+    "summary": "AUTOMATIC1111/stable-diffusion-webui 是一个基于 Gradio 库的 Stable Diffusion 模型网页界面，提供图像生成、编辑等功能，支持多种模型和扩展。",
+    "score": 9,
+    "tags": [
+      "Stable Diffusion",
+      "AI图像生成",
+      "Web UI",
+      "开源",
+      "Gradio"
+    ],
+    "highlights": [
+      "基于 Gradio 的网页界面",
+      "支持多种 Stable Diffusion 模型",
+      "提供图像生成与编辑功能"
+    ]
+  },
+  {
+    "title": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "source": "github",
+    "date": "2026-05-21",
+    "popularity": "stars:162615",
+    "content": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "summary": "f/prompts.chat 是一个开源项目，原名 Awesome ChatGPT Prompts，旨在让社区分享、发现和收集 ChatGPT 提示词，支持自托管以保护隐私。",
+    "score": 8,
+    "tags": [
+      "ChatGPT",
+      "prompts",
+      "开源",
+      "社区",
+      "隐私"
+    ],
+    "highlights": [
+      "Share, discover, and collect prompts from the community.",
+      "Free and open source — self-host for your organization with complete privacy."
+    ]
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "source": "github",
+    "date": "2026-05-21",
+    "popularity": "stars:160832",
+    "content": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "summary": "Transformers 是一个用于文本、视觉、音频和多模态模型的最先进机器学习模型定义框架，支持推理和训练。",
+    "score": 9,
+    "tags": [
+      "transformers",
+      "机器学习",
+      "深度学习",
+      "自然语言处理",
+      "计算机视觉",
+      "多模态"
+    ],
+    "highlights": [
+      "state-of-the-art machine learning models",
+      "text, vision, audio, and multimodal models",
+      "for both inference and training"
+    ]
+  },
+  {
+    "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
+    "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Tue, 19 May 2026 22:30:31 +0000",
+    "popularity": "",
+    "content": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 378 # Comments: 252",
+    "summary": "一个用于从图像中移除AI水印的命令行工具和库，在Hacker News上获得378分和252条评论。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "水印移除",
+      "图像处理",
+      "开源工具",
+      "CLI"
+    ],
+    "highlights": [
+      "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
+      "Points: 378",
+      "# Comments: 252"
+    ]
+  },
+  {
+    "title": "A new generation of [Google] ads for the AI era of Search",
+    "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 21 May 2026 05:51:46 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/sikdoa/new_generation_google_ads_for_ai_era\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Google 发布新一代搜索广告，适应 AI 时代的搜索体验变革。",
+    "score": 8,
+    "tags": [
+      "Google",
+      "AI",
+      "广告",
+      "搜索"
+    ],
+    "highlights": [
+      "A new generation of Google ads for the AI era of Search"
+    ]
+  },
+  {
+    "title": "I spent 31 hours on the math behind TurboQuant so you don't have to",
+    "url": "https://www.baseten.co/blog/i-spent-31-hours-on-the-math-behind-turboquant-so-you-dont-have-to/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 20 May 2026 18:54:58 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/osi4oa/i_spent_31_hours_on_math_behind_turboquant\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章详细解析了TurboQuant背后的数学原理，作者花费31小时研究并分享其核心算法与优化方法。",
+    "score": 8,
+    "tags": [
+      "TurboQuant",
+      "数学",
+      "算法",
+      "量化交易",
+      "技术解析"
+    ],
+    "highlights": [
+      "作者花费31小时研究TurboQuant的数学原理",
+      "文章深入解析了TurboQuant的核心算法",
+      "提供了量化交易相关的技术优化方法"
+    ]
+  },
+  {
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 20 May 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "summary": "OpenAI 推进国家教育计划，通过新合作、教师培训和工具扩展AI在学校中的应用，以改善全球学习成果。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "教育",
+      "AI应用",
+      "国际合作",
+      "教师培训"
+    ],
+    "highlights": [
+      "OpenAI advances Education for Countries",
+      "expanding AI adoption in schools with new partnerships",
+      "teacher training and tools to improve global learning outcomes"
+    ]
+  },
+  {
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 20 May 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "summary": "OpenAI模型解决了80年历史的单位距离问题，否定了离散几何中的一个主要猜想，标志着AI驱动数学的里程碑。",
+    "score": 9,
+    "tags": [
+      "OpenAI",
+      "离散几何",
+      "单位距离问题",
+      "AI数学",
+      "猜想否定"
+    ],
+    "highlights": [
+      "An OpenAI model solved the 80-year-old unit distance problem",
+      "disproving a major conjecture in discrete geometry",
+      "marking a milestone in AI-driven mathematics"
+    ]
+  },
+  {
+    "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 19 May 2026 18:38:09 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "OlmoEarth v1.1 是 Allen AI 推出的地球观测模型系列，相比 v1.0 在效率、精度和推理速度上均有提升，支持多光谱和 SAR 数据，适用于土地覆盖分类、变化检测等遥感任务。",
+    "score": 8,
+    "tags": [
+      "地球观测",
+      "遥感",
+      "深度学习",
+      "模型优化",
+      "多光谱",
+      "SAR"
+    ],
+    "highlights": [
+      "OlmoEarth v1.1 在保持高精度的同时，推理速度提升约 30%",
+      "支持多光谱和 SAR 数据融合，增强环境监测能力",
+      "在多个基准数据集上达到 state-of-the-art 性能"
+    ]
+  },
+  {
+    "title": "Introducing the Ettin Reranker Family",
+    "url": "https://huggingface.co/blog/ettin-reranker",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 19 May 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Ettin Reranker 系列模型的介绍，包括其架构、训练方法、性能表现及在检索排序任务中的应用优势。",
+    "score": 8,
+    "tags": [
+      "Ettin Reranker",
+      "检索排序",
+      "模型介绍",
+      "性能评估",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "Ettin Reranker 系列模型在多个基准测试中表现优异。",
+      "该模型采用先进的架构设计，提升了排序准确性。",
+      "训练方法结合了监督学习和对比学习。",
+      "适用于信息检索和问答系统等场景。"
+    ]
+  }
+]

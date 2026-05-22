@@ -1,0 +1,23 @@
+{
+  "id": "rss-20202600-016",
+  "title": "How Ramp engineers accelerate code review with Codex",
+  "source": "rss",
+  "source_url": "https://openai.com/index/ramp",
+  "status": "draft",
+  "url": "https://openai.com/index/ramp",
+  "date": "Wed, 20 May 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "Ramp engineers use Codex with GPT-5.5 to accelerate code review, reducing feedback time from hours to minutes.",
+  "highlights": [
+    "How Ramp engineers use Codex with GPT-5.5 to review code",
+    "get substantive feedback in minutes instead of hours"
+  ],
+  "score": 8,
+  "tags": [
+    "code review",
+    "Codex",
+    "GPT-5.5",
+    "engineering productivity",
+    "Ramp"
+  ]
+}

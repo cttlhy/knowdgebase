@@ -1,0 +1,386 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-05-22",
+    "popularity": "stars:373872",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾风格为特色。",
+    "score": 6,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源"
+    ],
+    "highlights": [
+      "Your own personal AI assistant",
+      "Any OS. Any Platform",
+      "The lobster way"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-05-22",
+    "popularity": "stars:202332",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "GitHub项目"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-05-22",
+    "popularity": "stars:189212",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-05-22",
+    "popularity": "stars:188363",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "编码工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system",
+      "Skills, instincts, memory, security, and research-first development",
+      "for Claude Code, Codex, Opencode, Cursor and beyond"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-05-22",
+    "popularity": "stars:184450",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用人工智能，提供工具以便用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-05-22",
+    "popularity": "stars:171999",
+    "content": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，支持快速运行多种大型语言模型，包括 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 9,
+    "tags": [
+      "开源",
+      "大语言模型",
+      "AI",
+      "模型部署",
+      "Ollama"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "支持多种主流大语言模型",
+      "简化模型运行流程"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-05-22",
+    "popularity": "stars:163846",
+    "content": "The open source coding agent.",
+    "summary": "Anomalyco/OpenCode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
+    "score": 8,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "source": "github",
+    "date": "2026-05-22",
+    "popularity": "stars:163210",
+    "content": "Stable Diffusion web UI",
+    "summary": "AUTOMATIC1111/stable-diffusion-webui 是一个基于 Gradio 库的 Stable Diffusion 交互式网页界面，支持多种模型和功能扩展。",
+    "score": 9,
+    "tags": [
+      "Stable Diffusion",
+      "AI 图像生成",
+      "Web UI",
+      "开源",
+      "深度学习"
+    ],
+    "highlights": [
+      "提供直观的网页界面，无需编程即可使用 Stable Diffusion",
+      "支持多种模型和插件扩展，功能丰富",
+      "社区活跃，持续更新维护"
+    ]
+  },
+  {
+    "title": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "source": "github",
+    "date": "2026-05-22",
+    "popularity": "stars:162660",
+    "content": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "summary": "f/prompts.chat 是一个开源项目，原名 Awesome ChatGPT Prompts，旨在让用户分享、发现和收集社区提示词，支持自托管以保护隐私。",
+    "score": 8,
+    "tags": [
+      "ChatGPT",
+      "prompts",
+      "开源",
+      "社区",
+      "隐私"
+    ],
+    "highlights": [
+      "Share, discover, and collect prompts from the community.",
+      "Free and open source — self-host for your organization with complete privacy."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-05-22",
+    "popularity": "stars:162370",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随用户成长而进化的智能代理项目。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "自适应系统",
+      "开源"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "AI is just unauthorised plagiarism at a bigger scale",
+    "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Thu, 21 May 2026 13:38:12 +0000",
+    "popularity": "",
+    "content": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/ Comments URL: https://news.ycombinator.com/item?id=48222383 Points: 788 # Comments: 689",
+    "summary": "文章认为AI本质上是大规模的未经授权的抄袭，因为它通过训练数据复制和重组人类创作的内容，缺乏原创性，并引发版权和伦理问题。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "plagiarism",
+      "copyright",
+      "ethics",
+      "originality"
+    ],
+    "highlights": [
+      "AI is just unauthorised plagiarism at a bigger scale",
+      "AI models are trained on human-created content without permission",
+      "The output is a remix of existing works, not genuine creation"
+    ]
+  },
+  {
+    "title": "Shunning AI is the human choice",
+    "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Thu, 21 May 2026 13:36:06 +0000",
+    "popularity": "",
+    "content": "Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually Comments URL: https://news.ycombinator.com/item?id=48222366 Points: 359 # Comments: 509",
+    "summary": "文章主张拒绝AI是人类合理的选择，强调对AI的批判和抵制具有积极意义。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "技术批判",
+      "人类选择",
+      "伦理"
+    ],
+    "highlights": [
+      "Shunning AI is the human choice",
+      "hating AI is good actually"
+    ]
+  },
+  {
+    "title": "Dissecting ThunderKittens, anatomy of a compact DSL for high-performance AI kernels",
+    "url": "https://hamzaelshafie.bearblog.dev/dissecting-thunderkittens-anatomy-of-a-compact-dsl-for-high-performance-ai-kernels/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 22 May 2026 00:38:44 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/cdnyqi/dissecting_thunderkittens_anatomy\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章深入剖析了ThunderKittens，一个用于高性能AI内核的紧凑领域特定语言（DSL），探讨了其设计原理、架构和实现细节。",
+    "score": 8,
+    "tags": [
+      "ThunderKittens",
+      "DSL",
+      "高性能计算",
+      "AI内核",
+      "架构分析"
+    ],
+    "highlights": [
+      "Dissecting ThunderKittens, anatomy of a compact DSL for high-performance AI kernels",
+      "文章详细介绍了ThunderKittens的设计和实现"
+    ]
+  },
+  {
+    "title": "I spent 31 hours on the math behind TurboQuant so you don't have to",
+    "url": "https://www.baseten.co/blog/i-spent-31-hours-on-the-math-behind-turboquant-so-you-dont-have-to/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 20 May 2026 18:54:58 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/osi4oa/i_spent_31_hours_on_math_behind_turboquant\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "作者花费31小时研究TurboQuant背后的数学原理，并分享其学习成果。",
+    "score": 7,
+    "tags": [
+      "TurboQuant",
+      "数学",
+      "量化交易",
+      "技术分析"
+    ],
+    "highlights": [
+      "I spent 31 hours on the math behind TurboQuant",
+      "so you don't have to"
+    ]
+  },
+  {
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "url": "https://openai.com/index/adventhealth",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 21 May 2026 12:00:00 GMT",
+    "popularity": "",
+    "content": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+    "summary": "AdventHealth 利用 OpenAI 的 ChatGPT for Healthcare 优化工作流程、减少行政负担，从而将更多时间回归患者护理，推进全人关怀。",
+    "score": 8,
+    "tags": [
+      "医疗",
+      "AI",
+      "工作流程优化",
+      "患者护理",
+      "OpenAI"
+    ],
+    "highlights": [
+      "AdventHealth is using ChatGPT for Healthcare to streamline workflows",
+      "reduce administrative burden",
+      "return more time to patient care"
+    ]
+  },
+  {
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "url": "https://openai.com/index/ramp",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 20 May 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+    "summary": "Ramp engineers use Codex with GPT-5.5 to accelerate code review, reducing feedback time from hours to minutes.",
+    "score": 8,
+    "tags": [
+      "code review",
+      "Codex",
+      "GPT-5.5",
+      "engineering productivity",
+      "Ramp"
+    ],
+    "highlights": [
+      "How Ramp engineers use Codex with GPT-5.5 to review code",
+      "get substantive feedback in minutes instead of hours"
+    ]
+  },
+  {
+    "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 19 May 2026 18:38:09 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "OlmoEarth v1.1 是 Allen AI 推出的地球观测模型系列，相比前代在效率上有所提升，适用于遥感图像分析等任务。",
+    "score": 8,
+    "tags": [
+      "地球观测",
+      "遥感",
+      "模型效率",
+      "Allen AI",
+      "OlmoEarth"
+    ],
+    "highlights": [
+      "OlmoEarth v1.1 是更高效的地球观测模型家族",
+      "由 Allen AI 发布",
+      "专注于提升遥感图像分析的效率"
+    ]
+  },
+  {
+    "title": "Introducing the Ettin Reranker Family",
+    "url": "https://huggingface.co/blog/ettin-reranker",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 19 May 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Ettin Reranker 系列模型的介绍，包括其架构、性能优势和应用场景。",
+    "score": 8,
+    "tags": [
+      "Ettin Reranker",
+      "模型介绍",
+      "性能提升",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "Ettin Reranker 系列在多项基准测试中表现优异。",
+      "该模型采用创新的架构设计，提升了排序效率。",
+      "适用于信息检索和问答系统等场景。"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "id": "rss-19202618-017",
+  "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+  "date": "Tue, 19 May 2026 18:38:09 GMT",
+  "popularity": "",
+  "summary": "OlmoEarth v1.1 是 Allen AI 推出的地球观测模型系列，相比前代在效率上有所提升，适用于遥感图像分析等任务。",
+  "highlights": [
+    "OlmoEarth v1.1 是更高效的地球观测模型家族",
+    "由 Allen AI 发布",
+    "专注于提升遥感图像分析的效率"
+  ],
+  "score": 8,
+  "tags": [
+    "地球观测",
+    "遥感",
+    "模型效率",
+    "Allen AI",
+    "OlmoEarth"
+  ]
+}

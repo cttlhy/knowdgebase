@@ -1,0 +1,24 @@
+{
+  "id": "rss-22202600-014",
+  "title": "How Virgin Atlantic ships faster with Codex",
+  "source": "rss",
+  "source_url": "https://openai.com/index/virgin-atlantic",
+  "status": "draft",
+  "url": "https://openai.com/index/virgin-atlantic",
+  "date": "Fri, 22 May 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "维珍大西洋航空利用OpenAI Codex在固定假期旅行截止日期前完成移动应用改造，实现了接近全面的单元测试覆盖和零P1缺陷。",
+  "highlights": [
+    "在固定假期旅行截止日期前完成应用改造",
+    "接近全面的单元测试覆盖",
+    "零P1缺陷"
+  ],
+  "score": 9,
+  "tags": [
+    "Codex",
+    "移动应用",
+    "单元测试",
+    "缺陷管理",
+    "航空业"
+  ]
+}

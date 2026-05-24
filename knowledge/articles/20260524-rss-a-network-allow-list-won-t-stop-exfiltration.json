@@ -1,0 +1,21 @@
+{
+  "id": "rss-24202603-011",
+  "title": "A Network Allow-List Won't Stop Exfiltration",
+  "source": "rss",
+  "source_url": "https://www.dergraf.org/notes/canister-egress-proxy-dlp/",
+  "status": "draft",
+  "url": "https://www.dergraf.org/notes/canister-egress-proxy-dlp/",
+  "date": "Sun, 24 May 2026 03:31:24 -0500",
+  "popularity": "",
+  "summary": "文章指出网络白名单无法有效阻止数据外泄，并探讨了相关安全限制的局限性。",
+  "highlights": [
+    "A Network Allow-List Won't Stop Exfiltration",
+    "网络白名单无法阻止数据外泄"
+  ],
+  "score": 7,
+  "tags": [
+    "网络安全",
+    "数据外泄",
+    "白名单"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-20260524-003",
+  "title": "affaan-m/ECC",
+  "source": "github",
+  "source_url": "https://github.com/affaan-m/ECC",
+  "status": "draft",
+  "url": "https://github.com/affaan-m/ECC",
+  "date": "2026-05-24",
+  "popularity": "stars:189559",
+  "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发方法。",
+  "highlights": [
+    "The agent harness performance optimization system",
+    "Skills, instincts, memory, security, and research-first development",
+    "for Claude Code, Codex, Opencode, Cursor and beyond"
+  ],
+  "score": 7,
+  "tags": [
+    "AI代理",
+    "性能优化",
+    "编码工具",
+    "安全",
+    "记忆管理"
+  ]
+}

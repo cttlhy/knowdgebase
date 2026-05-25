@@ -1,0 +1,340 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-05-25",
+    "popularity": "stars:374534",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾为象征，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-05-25",
+    "popularity": "stars:205764",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "效率提升",
+      "协作"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-05-25",
+    "popularity": "stars:191632",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "开发工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "Skills, instincts, memory, security, and research-first development",
+      "For Claude Code, Codex, Opencode, Cursor and beyond",
+      "The agent harness performance optimization system"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-05-25",
+    "popularity": "stars:189626",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform",
+      "native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-05-25",
+    "popularity": "stars:184535",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用 AI，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-05-25",
+    "popularity": "stars:172255",
+    "content": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，旨在让用户轻松运行 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等多种 AI 模型。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "开源",
+      "模型运行",
+      "Ollama",
+      "机器学习"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-05-25",
+    "popularity": "stars:166527",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能体项目。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "自适应",
+      "成长型系统"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-05-25",
+    "popularity": "stars:165048",
+    "content": "The open source coding agent.",
+    "summary": "Anomalyco/OpenCode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "source": "github",
+    "date": "2026-05-25",
+    "popularity": "stars:163264",
+    "content": "Stable Diffusion web UI",
+    "summary": "AUTOMATIC1111/stable-diffusion-webui 是一个基于 Gradio 库的 Stable Diffusion 网页界面，提供了图像生成、编辑和优化功能，支持多种模型和扩展。",
+    "score": 9,
+    "tags": [
+      "Stable Diffusion",
+      "AI图像生成",
+      "Web UI",
+      "开源",
+      "深度学习"
+    ],
+    "highlights": [
+      "提供直观的网页界面，方便用户使用 Stable Diffusion 模型生成图像",
+      "支持多种模型、采样方法和扩展插件",
+      "活跃的社区维护和更新，功能丰富"
+    ]
+  },
+  {
+    "title": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "source": "github",
+    "date": "2026-05-25",
+    "popularity": "stars:162798",
+    "content": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "summary": "f/prompts.chat 是一个开源项目，原名 Awesome ChatGPT Prompts，旨在让社区分享、发现和收集 ChatGPT 提示词，支持自托管以保护隐私。",
+    "score": 8,
+    "tags": [
+      "ChatGPT",
+      "prompts",
+      "开源",
+      "社区",
+      "隐私"
+    ],
+    "highlights": [
+      "Share, discover, and collect prompts from the community.",
+      "Free and open source — self-host for your organization with complete privacy."
+    ]
+  },
+  {
+    "title": "A Network Allow-List Won't Stop Exfiltration",
+    "url": "https://www.dergraf.org/notes/canister-egress-proxy-dlp/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sun, 24 May 2026 03:31:24 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/obnccl/network_allow_list_won_t_stop\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章指出网络白名单无法有效阻止数据外泄，并探讨了相关安全局限性。",
+    "score": 7,
+    "tags": [
+      "网络安全",
+      "数据外泄",
+      "白名单"
+    ],
+    "highlights": [
+      "A Network Allow-List Won't Stop Exfiltration"
+    ]
+  },
+  {
+    "title": "Dissecting ThunderKittens, anatomy of a compact DSL for high-performance AI kernels",
+    "url": "https://hamzaelshafie.bearblog.dev/dissecting-thunderkittens-anatomy-of-a-compact-dsl-for-high-performance-ai-kernels/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 22 May 2026 00:38:44 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/cdnyqi/dissecting_thunderkittens_anatomy\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文深入剖析了ThunderKittens，一个用于高性能AI内核的紧凑领域特定语言（DSL），探讨其设计原理、架构和实现细节。",
+    "score": 8,
+    "tags": [
+      "ThunderKittens",
+      "DSL",
+      "高性能计算",
+      "AI内核",
+      "编程语言设计"
+    ],
+    "highlights": [
+      "Dissecting ThunderKittens, anatomy of a compact DSL for high-performance AI kernels",
+      "Comments"
+    ]
+  },
+  {
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 22 May 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+    "summary": "OpenAI被Gartner评为2026年企业AI编码代理领导者，Codex因创新和企业级部署能力获得认可。",
+    "score": 9,
+    "tags": [
+      "OpenAI",
+      "Gartner",
+      "企业AI编码代理",
+      "Codex",
+      "领导者"
+    ],
+    "highlights": [
+      "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents",
+      "Codex recognized for innovation and enterprise-scale deployment"
+    ]
+  },
+  {
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "url": "https://openai.com/index/virgin-atlantic",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 22 May 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+    "summary": "维珍大西洋航空利用OpenAI的Codex工具，在固定假期旅行截止日期前成功交付了其改版移动应用，实现了接近100%的单元测试覆盖率和零P1缺陷。",
+    "score": 9,
+    "tags": [
+      "Codex",
+      "移动应用开发",
+      "单元测试",
+      "缺陷管理",
+      "航空业"
+    ],
+    "highlights": [
+      "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline",
+      "reaching near-total unit test coverage and zero P1 defects"
+    ]
+  },
+  {
+    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Sat, 23 May 2026 00:02:03 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了Nemotron-Labs扩散语言模型，旨在实现接近光速的文本生成速度，通过扩散模型技术提升生成效率和质量。",
+    "score": 8,
+    "tags": [
+      "扩散语言模型",
+      "文本生成",
+      "速度优化",
+      "NVIDIA",
+      "Nemotron-Labs"
+    ],
+    "highlights": [
+      "Towards Speed-of-Light Text Generation",
+      "Nemotron-Labs Diffusion Language Models",
+      "提升文本生成速度与质量"
+    ]
+  },
+  {
+    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+    "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 22 May 2026 15:25:59 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "文章指出在AI采购决策中，专业化（Specialization）比规模（Scale）更具战略价值，强调企业应优先选择针对特定任务优化的AI模型，而非盲目追求通用大模型。",
+    "score": 8,
+    "tags": [
+      "AI采购",
+      "专业化",
+      "规模",
+      "战略决策",
+      "模型优化"
+    ],
+    "highlights": [
+      "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "企业应优先选择针对特定任务优化的AI模型，而非盲目追求通用大模型"
+    ]
+  }
+]

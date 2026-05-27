@@ -1,0 +1,22 @@
+{
+  "id": "rss-26202616-013",
+  "title": "Intent to Prototype: Embedding API",
+  "source": "rss",
+  "source_url": "https://groups.google.com/a/chromium.org/g/blink-dev/c/EjL1gAy3k3Q/m/31Cnh22MBgAJ",
+  "status": "draft",
+  "url": "https://groups.google.com/a/chromium.org/g/blink-dev/c/EjL1gAy3k3Q/m/31Cnh22MBgAJ",
+  "date": "Tue, 26 May 2026 16:41:58 -0500",
+  "popularity": "",
+  "summary": "Chromium 团队发布 Embedding API 的原型意图，旨在提供标准化的嵌入内容接口，并附有外部讨论链接。",
+  "highlights": [
+    "Intent to Prototype: Embedding API",
+    "Comments"
+  ],
+  "score": 8,
+  "tags": [
+    "Chromium",
+    "Embedding API",
+    "Intent to Prototype",
+    "Web API"
+  ]
+}

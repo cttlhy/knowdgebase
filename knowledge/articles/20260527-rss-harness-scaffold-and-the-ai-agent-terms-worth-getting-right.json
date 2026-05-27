@@ -1,0 +1,24 @@
+{
+  "id": "rss-25202600-017",
+  "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/agent-glossary",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/agent-glossary",
+  "date": "Mon, 25 May 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文澄清了AI代理领域的关键术语，包括Harness（代理运行环境）、Scaffold（代理结构框架）等，并强调正确使用术语对理解和开发AI代理系统的重要性。",
+  "highlights": [
+    "Harness refers to the environment in which an AI agent operates, including tools and interfaces.",
+    "Scaffold describes the structural framework that organizes an agent's components and workflows.",
+    "Getting the terms right is crucial for clear communication and effective development of AI agents."
+  ],
+  "score": 8,
+  "tags": [
+    "AI代理",
+    "术语定义",
+    "Harness",
+    "Scaffold",
+    "代理系统"
+  ]
+}

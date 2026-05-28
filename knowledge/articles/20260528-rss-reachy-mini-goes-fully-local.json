@@ -1,0 +1,23 @@
+{
+  "id": "rss-27202600-017",
+  "title": "Reachy Mini goes fully local",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+  "date": "Wed, 27 May 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "Reachy Mini 实现完全本地化运行，无需依赖云端服务，提升了隐私性和响应速度。",
+  "highlights": [
+    "Reachy Mini goes fully local",
+    "无需依赖云端服务",
+    "提升隐私性和响应速度"
+  ],
+  "score": 8,
+  "tags": [
+    "本地化",
+    "隐私",
+    "响应速度",
+    "Reachy Mini"
+  ]
+}

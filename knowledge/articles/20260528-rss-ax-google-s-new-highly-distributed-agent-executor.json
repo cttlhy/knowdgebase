@@ -1,0 +1,20 @@
+{
+  "id": "rss-28202605-013",
+  "title": "ax, Google’s new highly distributed agent executor",
+  "source": "rss",
+  "source_url": "https://github.com/google/ax",
+  "status": "draft",
+  "url": "https://github.com/google/ax",
+  "date": "Thu, 28 May 2026 05:39:00 -0500",
+  "popularity": "",
+  "summary": "Ax是Google新推出的高度分布式代理执行器，相关讨论链接已提供。",
+  "highlights": [
+    "Ax, Google’s new highly distributed agent executor"
+  ],
+  "score": 7,
+  "tags": [
+    "Google",
+    "分布式系统",
+    "代理执行器"
+  ]
+}

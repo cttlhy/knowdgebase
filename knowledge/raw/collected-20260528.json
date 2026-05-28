@@ -1,0 +1,387 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-05-28",
+    "popularity": "stars:375221",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾（🦞）为象征，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-05-28",
+    "popularity": "stars:210475",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个基于智能体技能的框架和软件开发方法论，强调实用性和有效性。",
+    "score": 8,
+    "tags": [
+      "agentic skills",
+      "framework",
+      "software development methodology",
+      "GitHub"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-05-28",
+    "popularity": "stars:196704",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、直觉、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "编码工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "Skills, instincts, memory, security, and research-first development",
+      "for Claude Code, Codex, Opencode, Cursor and beyond",
+      "The agent harness performance optimization system"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-05-28",
+    "popularity": "stars:190069",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-05-28",
+    "popularity": "stars:184600",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用 AI，提供工具以便用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-05-28",
+    "popularity": "stars:172498",
+    "content": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，支持快速运行多种大语言模型，包括 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 8,
+    "tags": [
+      "大语言模型",
+      "开源",
+      "模型部署",
+      "AI"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-05-28",
+    "popularity": "stars:170985",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能代理项目，托管在 GitHub 上。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "自适应系统",
+      "开源项目",
+      "NousResearch"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-05-28",
+    "popularity": "stars:166455",
+    "content": "The open source coding agent.",
+    "summary": "OpenCode 是一个开源的编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "source": "github",
+    "date": "2026-05-28",
+    "popularity": "stars:163310",
+    "content": "Stable Diffusion web UI",
+    "summary": "AUTOMATIC1111/stable-diffusion-webui 是一个流行的 Stable Diffusion 模型网页界面，提供图像生成、编辑和扩展功能。",
+    "score": 9,
+    "tags": [
+      "Stable Diffusion",
+      "AI图像生成",
+      "Web UI",
+      "开源",
+      "深度学习"
+    ],
+    "highlights": [
+      "Stable Diffusion web UI",
+      "AUTOMATIC1111/stable-diffusion-webui"
+    ]
+  },
+  {
+    "title": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "source": "github",
+    "date": "2026-05-28",
+    "popularity": "stars:162954",
+    "content": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "summary": "f/prompts.chat 是一个开源项目，原名 Awesome ChatGPT Prompts，旨在让用户分享、发现和收集 ChatGPT 提示词，支持自托管以保护隐私。",
+    "score": 8,
+    "tags": [
+      "ChatGPT",
+      "prompts",
+      "开源",
+      "社区",
+      "隐私"
+    ],
+    "highlights": [
+      "Share, discover, and collect prompts from the community.",
+      "Free and open source — self-host for your organization with complete privacy."
+    ]
+  },
+  {
+    "title": "YouTube to automatically label AI-generated videos",
+    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Wed, 27 May 2026 20:00:51 +0000",
+    "popularity": "",
+    "content": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 944 # Comments: 571",
+    "summary": "YouTube宣布将自动为AI生成的视频添加标签，以帮助观众识别内容来源，并提升平台透明度。",
+    "score": 8,
+    "tags": [
+      "YouTube",
+      "AI生成内容",
+      "标签",
+      "透明度",
+      "视频平台"
+    ],
+    "highlights": [
+      "YouTube to automatically label AI-generated videos",
+      "improving AI labels for viewers and creators"
+    ]
+  },
+  {
+    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Wed, 27 May 2026 16:28:41 +0000",
+    "popularity": "",
+    "content": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 896 # Comments: 433",
+    "summary": "DuckDuckGo 在谷歌宣称用户喜爱AI模式后的一周内，访问量增长了近28%，反映出用户对无AI搜索的偏好。",
+    "score": 8,
+    "tags": [
+      "DuckDuckGo",
+      "Google",
+      "AI模式",
+      "搜索流量",
+      "用户偏好"
+    ],
+    "highlights": [
+      "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "nearly 28 percent more visits in the week following Google's insistence that people love AI mode"
+    ]
+  },
+  {
+    "title": "ax, Google’s new highly distributed agent executor",
+    "url": "https://github.com/google/ax",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 28 May 2026 05:39:00 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/3k9g2c/ax_google_s_new_highly_distributed_agent\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Ax是Google新推出的高度分布式代理执行器，相关讨论链接已提供。",
+    "score": 7,
+    "tags": [
+      "Google",
+      "分布式系统",
+      "代理执行器"
+    ],
+    "highlights": [
+      "Ax, Google’s new highly distributed agent executor"
+    ]
+  },
+  {
+    "title": "YT labels slop via ML",
+    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 28 May 2026 05:08:36 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;\"While we still require creators to manually disclose when they use realistic AI, [...] but our systems detect significant photorealistic AI use, we will now automatically apply a label.\"&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/k2jg2y/yt_labels_slop_via_ml\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "YouTube 宣布将通过机器学习系统自动检测并标记显著的照片级AI生成内容，同时仍要求创作者手动披露AI使用情况。",
+    "score": 8,
+    "tags": [
+      "YouTube",
+      "AI检测",
+      "内容标签",
+      "机器学习",
+      "透明度"
+    ],
+    "highlights": [
+      "While we still require creators to manually disclose when they use realistic AI",
+      "our systems detect significant photorealistic AI use, we will now automatically apply a label"
+    ]
+  },
+  {
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "url": "https://openai.com/index/cisco",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 27 May 2026 11:00:00 GMT",
+    "popularity": "",
+    "content": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+    "summary": "Cisco与OpenAI合作，通过Codex重新定义企业工程，助力Cisco扩展AI原生开发、加速AI防御工作并自动化缺陷修复。",
+    "score": 8,
+    "tags": [
+      "Cisco",
+      "OpenAI",
+      "Codex",
+      "企业工程",
+      "AI原生开发",
+      "AI防御",
+      "自动化缺陷修复"
+    ],
+    "highlights": [
+      "Cisco and OpenAI are redefining enterprise engineering with Codex",
+      "helping Cisco scale AI-native development",
+      "accelerate AI Defense work",
+      "automate defect remediation"
+    ]
+  },
+  {
+    "title": "Building self-improving tax agents with Codex",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 27 May 2026 07:00:00 GMT",
+    "popularity": "",
+    "content": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+    "summary": "本文介绍了OpenAI、Thrive和Crete如何利用Codex构建自我改进的税务代理，实现自动化申报、提高准确性和加速工作流程。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "Codex",
+      "税务代理",
+      "自动化",
+      "自我改进",
+      "工作流程优化"
+    ],
+    "highlights": [
+      "Building self-improving tax agents with Codex",
+      "automating filings, improving accuracy, and accelerating workflows"
+    ]
+  },
+  {
+    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 27 May 2026 17:20:29 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "ITBench-AA 是首个针对企业IT任务的代理基准测试，结果显示前沿模型得分低于50%，由Artificial Analysis和IBM共同发布。",
+    "score": 8,
+    "tags": [
+      "AI基准测试",
+      "企业IT",
+      "代理模型",
+      "IBM",
+      "Artificial Analysis"
+    ],
+    "highlights": [
+      "ITBench-AA 是首个针对企业IT任务的代理基准测试",
+      "前沿模型得分低于50%",
+      "由Artificial Analysis和IBM共同发布"
+    ]
+  },
+  {
+    "title": "Reachy Mini goes fully local",
+    "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 27 May 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Reachy Mini 实现完全本地化运行，无需依赖云端服务，提升了隐私性和响应速度。",
+    "score": 8,
+    "tags": [
+      "本地化",
+      "隐私",
+      "响应速度",
+      "Reachy Mini"
+    ],
+    "highlights": [
+      "Reachy Mini goes fully local",
+      "无需依赖云端服务",
+      "提升隐私性和响应速度"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "id": "rss-28202605-011",
+  "title": "YT labels slop via ML",
+  "source": "rss",
+  "source_url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+  "status": "draft",
+  "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+  "date": "Thu, 28 May 2026 05:08:36 -0500",
+  "popularity": "",
+  "summary": "YouTube 宣布将通过机器学习系统自动检测并标记显著的照片级AI生成内容，同时仍要求创作者手动披露AI使用情况。",
+  "highlights": [
+    "While we still require creators to manually disclose when they use realistic AI",
+    "our systems detect significant photorealistic AI use, we will now automatically apply a label"
+  ],
+  "score": 8,
+  "tags": [
+    "YouTube",
+    "AI检测",
+    "内容标签",
+    "机器学习",
+    "透明度"
+  ]
+}

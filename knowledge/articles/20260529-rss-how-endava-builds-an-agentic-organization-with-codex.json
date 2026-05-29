@@ -1,0 +1,23 @@
+{
+  "id": "rss-28202612-014",
+  "title": "How Endava builds an agentic organization with Codex",
+  "source": "rss",
+  "source_url": "https://openai.com/index/endava",
+  "status": "draft",
+  "url": "https://openai.com/index/endava",
+  "date": "Thu, 28 May 2026 12:00:00 GMT",
+  "popularity": "",
+  "summary": "Endava利用OpenAI Codex构建代理型组织，将需求分析从数周缩短至数小时，加速软件交付。",
+  "highlights": [
+    "accelerating software delivery",
+    "reducing requirements analysis from weeks to hours"
+  ],
+  "score": 8,
+  "tags": [
+    "AI",
+    "Codex",
+    "软件交付",
+    "需求分析",
+    "代理型组织"
+  ]
+}

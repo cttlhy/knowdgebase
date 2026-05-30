@@ -1,0 +1,24 @@
+{
+  "id": "rss-27202617-018",
+  "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+  "date": "Wed, 27 May 2026 17:20:29 GMT",
+  "popularity": "",
+  "summary": "ITBench-AA是首个针对企业IT任务的代理基准测试，由Artificial Analysis和IBM联合发布。测试显示前沿模型在自动化IT任务上得分低于50%，揭示了当前AI在企业级应用中的局限性。",
+  "highlights": [
+    "Frontier models score below 50% on the first benchmark for agentic enterprise IT tasks",
+    "ITBench-AA benchmark developed by Artificial Analysis and IBM",
+    "Highlights limitations of current AI in enterprise IT automation"
+  ],
+  "score": 8,
+  "tags": [
+    "AI基准测试",
+    "企业IT",
+    "代理模型",
+    "IBM",
+    "Artificial Analysis"
+  ]
+}

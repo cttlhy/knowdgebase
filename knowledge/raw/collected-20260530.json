@@ -1,0 +1,386 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-05-30",
+    "popularity": "stars:375576",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾为标志，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-05-30",
+    "popularity": "stars:212575",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个基于智能体技能的框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "智能体",
+      "技能框架",
+      "软件开发方法论",
+      "GitHub"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-05-30",
+    "popularity": "stars:198855",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个针对 Claude Code、Codex、Opencode、Cursor 等 AI 代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "开发工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system.",
+      "Skills, instincts, memory, security, and research-first development",
+      "for Claude Code, Codex, Opencode, Cursor and beyond."
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-05-30",
+    "popularity": "stars:190307",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-05-30",
+    "popularity": "stars:184650",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用 AI，提供工具以便用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-05-30",
+    "popularity": "stars:173209",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户使用而不断成长的智能体项目，旨在提供持续进化的交互体验。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "自适应学习",
+      "开源项目",
+      "NousResearch"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-05-30",
+    "popularity": "stars:172644",
+    "content": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，支持快速运行多种大型语言模型，包括 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 9,
+    "tags": [
+      "开源",
+      "大语言模型",
+      "AI",
+      "模型部署",
+      "GitHub"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-05-30",
+    "popularity": "stars:167287",
+    "content": "The open source coding agent.",
+    "summary": "OpenCode 是一个开源编码代理项目，旨在提供自动化的代码生成与辅助编程功能。",
+    "score": 8,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "source": "github",
+    "date": "2026-05-30",
+    "popularity": "stars:163343",
+    "content": "Stable Diffusion web UI",
+    "summary": "AUTOMATIC1111/stable-diffusion-webui 是一个基于 Gradio 库的 Stable Diffusion 网页界面，提供图像生成、编辑等功能，支持多种模型和扩展。",
+    "score": 9,
+    "tags": [
+      "Stable Diffusion",
+      "AI图像生成",
+      "Web UI",
+      "开源",
+      "深度学习"
+    ],
+    "highlights": [
+      "提供直观的网页界面，方便用户使用 Stable Diffusion 模型生成图像",
+      "支持多种模型、采样方法和扩展插件",
+      "活跃的社区维护和更新"
+    ]
+  },
+  {
+    "title": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "source": "github",
+    "date": "2026-05-30",
+    "popularity": "stars:163048",
+    "content": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "summary": "f/prompts.chat 是一个开源项目，原名 Awesome ChatGPT Prompts，旨在让社区分享、发现和收集 ChatGPT 提示词，支持自托管以保护隐私。",
+    "score": 8,
+    "tags": [
+      "ChatGPT",
+      "prompts",
+      "开源",
+      "社区",
+      "隐私"
+    ],
+    "highlights": [
+      "Share, discover, and collect prompts from the community.",
+      "Free and open source — self-host for your organization with complete privacy."
+    ]
+  },
+  {
+    "title": "Notes from the Mistral AI Now Summit",
+    "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Fri, 29 May 2026 16:22:01 +0000",
+    "popularity": "",
+    "content": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 377 # Comments: 155",
+    "summary": "Mistral AI Now Summit 的笔记，涵盖模型发布、技术讨论和行业趋势，强调开源与性能平衡。",
+    "score": 8,
+    "tags": [
+      "Mistral AI",
+      "AI Summit",
+      "开源模型",
+      "技术趋势",
+      "自然语言处理"
+    ],
+    "highlights": [
+      "Mistral 发布新模型，强调高效推理与可定制性。",
+      "讨论开源 vs 闭源 AI 的竞争格局。",
+      "展示在代码生成和多语言任务上的突破。"
+    ]
+  },
+  {
+    "title": "Please Use AI",
+    "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Fri, 29 May 2026 13:50:25 +0000",
+    "popularity": "",
+    "content": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai Comments URL: https://news.ycombinator.com/item?id=48323101 Points: 746 # Comments: 379",
+    "summary": "文章呼吁人们积极使用AI，强调AI的实用性和潜力，并鼓励读者拥抱技术变革。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "技术应用",
+      "技术变革",
+      "鼓励使用"
+    ],
+    "highlights": [
+      "Please Use AI",
+      "鼓励读者积极使用AI技术"
+    ]
+  },
+  {
+    "title": "\"But it happened.\" - Casey Muratori's comment on Eric Schmidt's commencement speech",
+    "url": "https://youtu.be/tlQ7EoJDTQY",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 29 May 2026 13:52:09 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lwnweu/it_happened_casey_muratori_s_comment_on\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Casey Muratori 对 Eric Schmidt 毕业典礼演讲的评论，强调‘但它发生了’这一观点。",
+    "score": 7,
+    "tags": [
+      "评论",
+      "演讲",
+      "观点"
+    ],
+    "highlights": [
+      "But it happened.",
+      "Casey Muratori's comment on Eric Schmidt's commencement speech"
+    ]
+  },
+  {
+    "title": "Building Machine Learning Systems for a Trillion Trillion Floating Point Operations (2024)",
+    "url": "https://www.youtube.com/watch?v=139UPjoq7Kw",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 29 May 2026 08:51:42 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/5a8y8w/building_machine_learning_systems_for\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该视频探讨了为支持海量浮点运算（万亿亿次级别）而构建机器学习系统的挑战与设计思路，涉及硬件、软件架构及优化策略。",
+    "score": 8,
+    "tags": [
+      "机器学习系统",
+      "大规模计算",
+      "浮点运算",
+      "系统架构",
+      "高性能计算"
+    ],
+    "highlights": [
+      "Building Machine Learning Systems for a Trillion Trillion Floating Point Operations",
+      "探讨了处理极端规模浮点运算的机器学习系统设计"
+    ]
+  },
+  {
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "url": "https://openai.com/index/boston-childrens-hospital",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 29 May 2026 12:00:00 GMT",
+    "popularity": "",
+    "content": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+    "summary": "波士顿儿童医院利用OpenAI技术改善患者护理、减轻运营负担，并帮助诊断了40多种罕见疾病病例。",
+    "score": 9,
+    "tags": [
+      "AI医疗",
+      "罕见病诊断",
+      "OpenAI",
+      "医院创新"
+    ],
+    "highlights": [
+      "Boston Children’s Hospital uses OpenAI technology to improve patient care",
+      "reduce operational burden",
+      "help diagnose more than 40 rare disease cases"
+    ]
+  },
+  {
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "url": "https://openai.com/index/braintrust",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 29 May 2026 12:00:00 GMT",
+    "popularity": "",
+    "content": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+    "summary": "Braintrust engineers leverage Codex with GPT-5.5 to accelerate experimentation and coding processes.",
+    "score": 8,
+    "tags": [
+      "Braintrust",
+      "Codex",
+      "GPT-5.5",
+      "experimentation",
+      "coding"
+    ],
+    "highlights": [
+      "How Braintrust engineers use Codex with GPT-5.5",
+      "run experiments and code faster"
+    ]
+  },
+  {
+    "title": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler",
+    "url": "https://huggingface.co/blog/torch-profiler",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 29 May 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文是PyTorch性能分析系列的第一部分，面向初学者介绍torch.profiler的基本用法，包括如何记录操作、查看性能瓶颈以及优化模型训练。",
+    "score": 8,
+    "tags": [
+      "PyTorch",
+      "性能分析",
+      "torch.profiler",
+      "深度学习",
+      "优化"
+    ],
+    "highlights": [
+      "torch.profiler 是 PyTorch 内置的性能分析工具，用于测量和优化模型性能。",
+      "通过记录操作的时间消耗和内存使用，可以识别训练中的瓶颈。",
+      "本文提供了简单的代码示例，帮助初学者快速上手性能分析。"
+    ]
+  },
+  {
+    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 27 May 2026 17:20:29 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "ITBench-AA是首个针对企业IT任务的代理基准测试，由Artificial Analysis和IBM联合发布。测试显示前沿模型在自动化IT任务上得分低于50%，揭示了当前AI在企业级应用中的局限性。",
+    "score": 8,
+    "tags": [
+      "AI基准测试",
+      "企业IT",
+      "代理模型",
+      "IBM",
+      "Artificial Analysis"
+    ],
+    "highlights": [
+      "Frontier models score below 50% on the first benchmark for agentic enterprise IT tasks",
+      "ITBench-AA benchmark developed by Artificial Analysis and IBM",
+      "Highlights limitations of current AI in enterprise IT automation"
+    ]
+  }
+]

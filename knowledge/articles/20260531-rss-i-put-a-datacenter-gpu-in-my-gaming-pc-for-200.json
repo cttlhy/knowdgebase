@@ -1,0 +1,26 @@
+{
+  "id": "rss-31202604-011",
+  "title": "I Put a Datacenter GPU in My Gaming PC for £200",
+  "source": "rss",
+  "source_url": "https://blog.tymscar.com/posts/v100localllm/",
+  "status": "draft",
+  "url": "https://blog.tymscar.com/posts/v100localllm/",
+  "date": "Sun, 31 May 2026 04:43:06 -0500",
+  "popularity": "",
+  "summary": "作者以200英镑将数据中心GPU（NVIDIA V100）改装到游戏PC中，用于本地运行大型语言模型（LLM），分享了硬件选择、安装过程、性能表现及成本效益分析。",
+  "highlights": [
+    "以200英镑购入NVIDIA V100数据中心GPU，成功集成到游戏PC。",
+    "主要用途为本地运行大型语言模型，而非游戏。",
+    "改装过程涉及电源、散热和驱动适配等挑战。",
+    "性能显著提升，适合AI推理任务，性价比高。"
+  ],
+  "score": 8,
+  "tags": [
+    "数据中心GPU",
+    "游戏PC改装",
+    "大型语言模型",
+    "NVIDIA V100",
+    "低成本AI",
+    "硬件DIY"
+  ]
+}

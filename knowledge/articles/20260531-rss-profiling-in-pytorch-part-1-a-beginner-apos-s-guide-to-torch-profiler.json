@@ -1,0 +1,24 @@
+{
+  "id": "rss-29202600-015",
+  "title": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/torch-profiler",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/torch-profiler",
+  "date": "Fri, 29 May 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文是PyTorch性能分析系列的第一部分，面向初学者介绍torch.profiler的基本用法，包括如何记录操作、查看时间消耗和识别性能瓶颈。",
+  "highlights": [
+    "torch.profiler 是 PyTorch 内置的性能分析工具，用于测量和可视化模型训练中的时间消耗。",
+    "通过 profiler.record_function 可以手动标记代码块，便于分析特定部分。",
+    "分析结果以表格形式展示，包含操作名称、CPU/GPU时间、调用次数等关键指标。"
+  ],
+  "score": 8,
+  "tags": [
+    "PyTorch",
+    "性能分析",
+    "torch.profiler",
+    "深度学习",
+    "优化"
+  ]
+}

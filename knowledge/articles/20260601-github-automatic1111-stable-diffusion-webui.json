@@ -1,0 +1,22 @@
+{
+  "id": "github-20260601-010",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "status": "draft",
+  "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "date": "2026-06-01",
+  "popularity": "stars:163377",
+  "summary": "AUTOMATIC1111/stable-diffusion-webui 是一个流行的 Stable Diffusion 模型网页界面项目，提供用户友好的交互方式来生成图像。",
+  "highlights": [
+    "Stable Diffusion web UI"
+  ],
+  "score": 9,
+  "tags": [
+    "Stable Diffusion",
+    "图像生成",
+    "AI",
+    "Web UI",
+    "开源"
+  ]
+}

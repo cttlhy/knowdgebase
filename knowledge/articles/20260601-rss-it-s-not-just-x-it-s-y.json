@@ -1,0 +1,22 @@
+{
+  "id": "rss-31202622-013",
+  "title": "It's Not Just X. It's Y",
+  "source": "rss",
+  "source_url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+  "status": "draft",
+  "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+  "date": "Sun, 31 May 2026 22:33:55 -0500",
+  "popularity": "",
+  "summary": "文章探讨了在机器学习中，除了数据本身，后训练阶段同样关键，强调Y（后训练）的重要性不亚于X（数据）。",
+  "highlights": [
+    "It's Not Just X. It's Y",
+    "后训练阶段的重要性"
+  ],
+  "score": 8,
+  "tags": [
+    "机器学习",
+    "后训练",
+    "数据",
+    "模型优化"
+  ]
+}

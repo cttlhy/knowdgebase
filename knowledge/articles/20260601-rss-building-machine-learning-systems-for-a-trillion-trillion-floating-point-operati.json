@@ -1,0 +1,23 @@
+{
+  "id": "rss-29202608-014",
+  "title": "Building Machine Learning Systems for a Trillion Trillion Floating Point Operations (2024)",
+  "source": "rss",
+  "source_url": "https://www.youtube.com/watch?v=139UPjoq7Kw",
+  "status": "draft",
+  "url": "https://www.youtube.com/watch?v=139UPjoq7Kw",
+  "date": "Fri, 29 May 2026 08:51:42 -0500",
+  "popularity": "",
+  "summary": "该视频探讨了为支持高达一万亿亿次浮点运算而构建机器学习系统的挑战与设计思路，涉及硬件、软件架构及优化策略。",
+  "highlights": [
+    "Building Machine Learning Systems for a Trillion Trillion Floating Point Operations",
+    "探讨超大规模计算下的系统设计"
+  ],
+  "score": 8,
+  "tags": [
+    "机器学习系统",
+    "高性能计算",
+    "浮点运算",
+    "系统架构",
+    "2024"
+  ]
+}

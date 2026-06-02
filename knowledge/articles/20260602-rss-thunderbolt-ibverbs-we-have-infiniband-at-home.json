@@ -1,0 +1,22 @@
+{
+  "id": "rss-02202600-011",
+  "title": "thunderbolt-ibverbs: We have InfiniBand at home",
+  "source": "rss",
+  "source_url": "https://blog.hellas.ai/blog/thunderbolt-ibverbs/",
+  "status": "draft",
+  "url": "https://blog.hellas.ai/blog/thunderbolt-ibverbs/",
+  "date": "Tue, 02 Jun 2026 00:20:57 -0500",
+  "popularity": "",
+  "summary": "文章探讨了通过Thunderbolt接口实现类似InfiniBand的高性能网络连接，即使用消费级硬件模拟InfiniBand的功能。",
+  "highlights": [
+    "thunderbolt-ibverbs: We have InfiniBand at home",
+    "通过Thunderbolt接口实现类似InfiniBand的高性能网络连接"
+  ],
+  "score": 8,
+  "tags": [
+    "Thunderbolt",
+    "InfiniBand",
+    "高性能网络",
+    "硬件模拟"
+  ]
+}

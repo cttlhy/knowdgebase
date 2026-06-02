@@ -1,0 +1,22 @@
+{
+  "id": "rss-01202618-012",
+  "title": "Constraining LLMs Just Like Users",
+  "source": "rss",
+  "source_url": "https://www.aeracode.org/2026/06/01/constraining-llms/",
+  "status": "draft",
+  "url": "https://www.aeracode.org/2026/06/01/constraining-llms/",
+  "date": "Mon, 01 Jun 2026 18:07:30 -0500",
+  "popularity": "",
+  "summary": "文章探讨了如何像约束用户一样约束大型语言模型（LLMs），可能涉及权限、行为限制或安全措施。",
+  "highlights": [
+    "Constraining LLMs Just Like Users",
+    "Comments"
+  ],
+  "score": 7,
+  "tags": [
+    "LLM",
+    "约束",
+    "安全",
+    "用户权限"
+  ]
+}

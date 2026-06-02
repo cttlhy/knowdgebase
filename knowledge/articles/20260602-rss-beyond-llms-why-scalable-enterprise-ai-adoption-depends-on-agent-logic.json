@@ -1,0 +1,27 @@
+{
+  "id": "rss-01202613-016",
+  "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+  "date": "Mon, 01 Jun 2026 13:51:18 GMT",
+  "popularity": "",
+  "summary": "文章探讨了企业大规模采用AI的关键在于代理逻辑（Agent Logic），而非仅仅依赖大型语言模型（LLMs）。它指出，为了实现可扩展的企业AI，需要将LLMs与结构化、可组合的代理逻辑相结合，以处理复杂工作流、确保可靠性和可维护性。文章强调了模块化设计、状态管理和错误处理的重要性，并提供了IBM在构建企业级AI系统时的实践经验。",
+  "highlights": [
+    "Scalable enterprise AI adoption depends on agent logic, not just LLMs.",
+    "Agent logic enables structured, composable workflows for complex tasks.",
+    "Modular design and state management are critical for reliability and maintainability.",
+    "IBM's practical insights on building enterprise-grade AI systems."
+  ],
+  "score": 8,
+  "tags": [
+    "企业AI",
+    "代理逻辑",
+    "可扩展性",
+    "LLM",
+    "工作流",
+    "模块化设计",
+    "IBM"
+  ]
+}

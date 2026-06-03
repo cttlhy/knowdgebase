@@ -1,0 +1,24 @@
+{
+  "id": "rss-02202614-015",
+  "title": "Holo3.1: Fast &amp; Local Computer Use Agents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/Hcompany/holo31",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/Hcompany/holo31",
+  "date": "Tue, 02 Jun 2026 14:13:23 GMT",
+  "popularity": "",
+  "summary": "Holo3.1 是一个快速且本地的计算机使用代理，旨在通过自然语言指令高效执行桌面任务，强调低延迟和隐私保护。",
+  "highlights": [
+    "Holo3.1 提供快速的本地执行能力，减少对云服务的依赖。",
+    "支持通过自然语言控制计算机操作，提升用户效率。",
+    "注重隐私安全，所有数据处理均在本地完成。"
+  ],
+  "score": 8,
+  "tags": [
+    "AI代理",
+    "本地部署",
+    "计算机自动化",
+    "自然语言处理",
+    "隐私保护"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-03202602-011",
+  "title": "Introducing RadixAttention to Trellis",
+  "source": "rss",
+  "source_url": "https://trellis.unfoldml.com/blog/radix-attention-intro",
+  "status": "draft",
+  "url": "https://trellis.unfoldml.com/blog/radix-attention-intro",
+  "date": "Wed, 03 Jun 2026 02:16:58 -0500",
+  "popularity": "",
+  "summary": "Trellis 引入了 RadixAttention 技术，旨在优化注意力机制的性能与效率。",
+  "highlights": [
+    "Introducing RadixAttention to Trellis",
+    "RadixAttention 技术提升注意力机制效率"
+  ],
+  "score": 7,
+  "tags": [
+    "RadixAttention",
+    "Trellis",
+    "注意力机制",
+    "性能优化"
+  ]
+}

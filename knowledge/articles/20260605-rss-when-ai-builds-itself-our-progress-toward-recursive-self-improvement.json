@@ -1,0 +1,24 @@
+{
+  "id": "rss-04202616-012",
+  "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+  "source": "rss",
+  "source_url": "https://www.anthropic.com/institute/recursive-self-improvement",
+  "status": "draft",
+  "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+  "date": "Thu, 04 Jun 2026 16:20:17 +0000",
+  "popularity": "",
+  "summary": "文章探讨了人工智能实现递归自我改进的进展，即AI系统能够自主提升自身能力，无需人类干预。作者分析了当前技术路径、潜在风险及未来展望。",
+  "highlights": [
+    "递归自我改进是AI领域的关键里程碑，可能加速技术奇点的到来。",
+    "当前进展显示AI在特定任务上已能进行有限自我优化。",
+    "安全性和控制问题成为递归自我改进研究的核心挑战。"
+  ],
+  "score": 8,
+  "tags": [
+    "人工智能",
+    "递归自我改进",
+    "自主提升",
+    "技术进展",
+    "风险分析"
+  ]
+}

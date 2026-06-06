@@ -1,0 +1,22 @@
+{
+  "id": "rss-05202622-011",
+  "title": "ZML: Model to Metal",
+  "source": "rss",
+  "source_url": "https://zml.ai/",
+  "status": "draft",
+  "url": "https://zml.ai/",
+  "date": "Fri, 05 Jun 2026 22:28:53 -0500",
+  "popularity": "",
+  "summary": "ZML是一个将模型转换为金属（Metal）的工具，旨在优化机器学习模型的部署和性能。",
+  "highlights": [
+    "ZML: Model to Metal",
+    "将模型转换为金属以提升性能"
+  ],
+  "score": 7,
+  "tags": [
+    "机器学习",
+    "模型转换",
+    "Metal",
+    "性能优化"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rss-05202622-015",
+  "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+  "date": "Fri, 05 Jun 2026 22:18:46 GMT",
+  "popularity": "",
+  "summary": "该项目展示了如何基于一个3B参数的小型模型，构建并部署一个多智能体经济模拟系统，强调在资源受限环境下实现复杂交互的可能性。",
+  "highlights": [
+    "shipping a multi-agent economy on a 3B model",
+    "demonstrates complex interactions under resource constraints"
+  ],
+  "score": 8,
+  "tags": [
+    "多智能体系统",
+    "经济模拟",
+    "小型模型",
+    "3B参数",
+    "部署实践"
+  ]
+}

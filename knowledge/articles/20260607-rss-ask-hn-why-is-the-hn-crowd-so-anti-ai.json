@@ -1,0 +1,24 @@
+{
+  "id": "rss-06202602-012",
+  "title": "Ask HN: Why is the HN crowd so anti-AI?",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48420827",
+  "status": "draft",
+  "url": "https://news.ycombinator.com/item?id=48420827",
+  "date": "Sat, 06 Jun 2026 02:31:51 +0000",
+  "popularity": "",
+  "summary": "用户质疑Hacker News社区对AI的普遍反感态度，认为代码只是实现目的的手段，用户更关心产品功能而非代码来源。作者以20年软件工程师经验指出，AI辅助开发能大幅提升迭代速度，快速获取用户反馈并改进产品，强调执行速度比代码优雅更重要。",
+  "highlights": [
+    "Users don’t care whether the code was written by AI or by hand, or which framework you used. They care that the product works.",
+    "By the time I manually ship version 1.0 of a product, the AI-assisted version could have been deployed 10x faster.",
+    "At some point, execution speed starts to matter more than the elegance of the code."
+  ],
+  "score": 8,
+  "tags": [
+    "AI",
+    "软件开发",
+    "Hacker News",
+    "代码质量",
+    "产品迭代"
+  ]
+}

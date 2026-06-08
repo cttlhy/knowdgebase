@@ -1,0 +1,367 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-06-08",
+    "popularity": "stars:377557",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾风格为特色。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源"
+    ],
+    "highlights": [
+      "Your own personal AI assistant",
+      "Any OS. Any Platform",
+      "The lobster way"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-06-08",
+    "popularity": "stars:221065",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个基于智能体技能的框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "智能体",
+      "技能框架",
+      "软件开发方法论",
+      "GitHub"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works.",
+      "专注于提升开发效率与协作的实用方法论。"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-06-08",
+    "popularity": "stars:210379",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、直觉、记忆、安全及研究优先的开发方法。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "编码工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system.",
+      "Skills, instincts, memory, security, and research-first development.",
+      "For Claude Code, Codex, Opencode, Cursor and beyond."
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-06-08",
+    "popularity": "stars:193472",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由智能体管理的博物馆展览项目，使用 Rust 语言和 Gajae-Code / LazyCodex 构建，完全无需人工干预进行开发和维护。",
+    "score": 7,
+    "tags": [
+      "Rust",
+      "智能体",
+      "博物馆展览",
+      "自动化",
+      "无人工干预"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-06-08",
+    "popularity": "stars:191584",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI能力",
+      "公平代码",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-06-08",
+    "popularity": "stars:186812",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能体项目，托管在 GitHub 上。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "agent",
+      "growth",
+      "NousResearch",
+      "GitHub"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-06-08",
+    "popularity": "stars:184848",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能使用和构建 AI，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "to use and to build on",
+      "provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-06-08",
+    "popularity": "stars:173569",
+    "content": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，支持快速运行多种大语言模型，包括 Kimi-K2.6、GLM-5.1、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 9,
+    "tags": [
+      "大语言模型",
+      "开源",
+      "模型运行",
+      "AI",
+      "GitHub"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "ollama/ollama"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-06-08",
+    "popularity": "stars:171516",
+    "content": "The open source coding agent.",
+    "summary": "OpenCode 是一个开源的编码代理工具，旨在辅助开发者进行代码生成和自动化任务。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "代码生成",
+      "自动化"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-06-08",
+    "popularity": "stars:170983",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱的观察而生成的CLAUDE.md文件，用于改善Claude Code的行为表现。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "编码",
+      "Claude Code",
+      "CLAUDE.md",
+      "Andrej Karpathy"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Sat, 06 Jun 2026 18:35:27 +0000",
+    "popularity": "",
+    "content": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 700 # Comments: 258",
+    "summary": "Meta确认数千个Instagram账户因滥用其AI聊天机器人功能而被黑客入侵。",
+    "score": 8,
+    "tags": [
+      "Meta",
+      "Instagram",
+      "黑客攻击",
+      "AI聊天机器人",
+      "安全漏洞"
+    ],
+    "highlights": [
+      "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "abusing its AI chatbot"
+    ]
+  },
+  {
+    "title": "How LLMs Actually Work",
+    "url": "https://0xkato.xyz/how-llms-actually-work/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 06 Jun 2026 19:53:58 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/pumnjn/how_llms_actually_work\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章解释了大型语言模型（LLM）的实际工作原理，可能涵盖其架构、训练过程或推理机制。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "机器学习",
+      "人工智能",
+      "技术原理"
+    ],
+    "highlights": [
+      "How LLMs Actually Work",
+      "Comments"
+    ]
+  },
+  {
+    "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+    "url": "https://arxiv.org/pdf/2605.31514",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 06 Jun 2026 07:31:19 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/owclks/if_llms_have_human_like_attributes_then_so\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章探讨如果大型语言模型具有类似人类的属性，那么《帝国时代II》也应被视为具有类似属性，通过类比游戏中的策略和决策来论证AI与人类认知的相似性。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "人类属性",
+      "帝国时代II",
+      "AI认知",
+      "类比论证"
+    ],
+    "highlights": [
+      "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+      "通过游戏策略类比AI与人类认知的相似性"
+    ]
+  },
+  {
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "url": "https://openai.com/index/endava-frontiers",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 04 Jun 2026 12:00:00 GMT",
+    "popularity": "",
+    "content": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "summary": "Endava 正在利用 AI 代理、ChatGPT Enterprise 和 Codex 重新设计软件交付流程，以加速开发、自动化工作流，并在整个企业中构建 AI 原生文化。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "软件交付",
+      "自动化",
+      "企业AI",
+      "ChatGPT Enterprise",
+      "Codex"
+    ],
+    "highlights": [
+      "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery",
+      "automate workflows",
+      "build an AI-native culture across the enterprise"
+    ]
+  },
+  {
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "url": "https://openai.com/index/chatgpt-memory-dreaming",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 04 Jun 2026 09:00:00 GMT",
+    "popularity": "",
+    "content": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+    "summary": "ChatGPT 引入新记忆系统，能记住用户偏好，保持对话上下文的新鲜与相关性。",
+    "score": 8,
+    "tags": [
+      "ChatGPT",
+      "记忆系统",
+      "用户偏好",
+      "上下文"
+    ],
+    "highlights": [
+      "ChatGPT introduces a new memory system to better remember preferences",
+      "keeping context fresh and relevant across conversations"
+    ]
+  },
+  {
+    "title": "Building Pakistan Notice Helper: A Small AI Tool for a Very Local Safety Problem",
+    "url": "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Mon, 08 Jun 2026 11:46:56 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "文章介绍了作者为巴基斯坦当地安全问题构建的一个小型AI工具——Notice Helper，旨在通过技术手段帮助用户获取和解读安全通知。",
+    "score": 7,
+    "tags": [
+      "AI工具",
+      "巴基斯坦",
+      "安全",
+      "本地化",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "Building Pakistan Notice Helper: A Small AI Tool for a Very Local Safety Problem",
+      "旨在通过技术手段帮助用户获取和解读安全通知"
+    ]
+  },
+  {
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 04 Jun 2026 18:57:45 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Nemotron 3.5 Content Safety 是 NVIDIA 推出的可定制多模态安全模型，旨在为全球企业AI提供内容安全解决方案，支持文本和图像输入，可检测有害内容并适应不同文化和法规需求。",
+    "score": 8,
+    "tags": [
+      "AI安全",
+      "多模态",
+      "NVIDIA",
+      "内容审核",
+      "企业AI"
+    ],
+    "highlights": [
+      "Nemotron 3.5 Content Safety 支持文本和图像的多模态内容安全检测。",
+      "该模型可定制以适应不同地区文化和法规要求。",
+      "专为全球企业AI设计，提升内容安全与合规性。"
+    ]
+  }
+]

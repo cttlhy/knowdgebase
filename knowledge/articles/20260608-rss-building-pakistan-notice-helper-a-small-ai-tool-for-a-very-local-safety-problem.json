@@ -1,0 +1,23 @@
+{
+  "id": "rss-08202611-016",
+  "title": "Building Pakistan Notice Helper: A Small AI Tool for a Very Local Safety Problem",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
+  "date": "Mon, 08 Jun 2026 11:46:56 GMT",
+  "popularity": "",
+  "summary": "文章介绍了作者为巴基斯坦当地安全问题构建的一个小型AI工具——Notice Helper，旨在通过技术手段帮助用户获取和解读安全通知。",
+  "highlights": [
+    "Building Pakistan Notice Helper: A Small AI Tool for a Very Local Safety Problem",
+    "旨在通过技术手段帮助用户获取和解读安全通知"
+  ],
+  "score": 7,
+  "tags": [
+    "AI工具",
+    "巴基斯坦",
+    "安全",
+    "本地化",
+    "Hugging Face"
+  ]
+}

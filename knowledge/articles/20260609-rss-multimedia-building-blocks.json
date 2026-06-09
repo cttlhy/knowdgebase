@@ -1,0 +1,24 @@
+{
+  "id": "rss-09202610-015",
+  "title": "Multimedia Building Blocks",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+  "date": "Tue, 09 Jun 2026 10:46:19 GMT",
+  "popularity": "",
+  "summary": "该博客介绍了Hugging Face Spaces中的多媒体构建块，包括文本、图像、音频和视频处理组件，以及如何利用这些构建块创建交互式AI应用。",
+  "highlights": [
+    "Spaces提供多种多媒体构建块，支持文本、图像、音频和视频处理。",
+    "用户可以通过组合这些构建块快速创建交互式AI演示。",
+    "博客展示了如何利用Gradio和Streamlit等库实现多媒体功能。"
+  ],
+  "score": 8,
+  "tags": [
+    "Hugging Face",
+    "Spaces",
+    "多媒体",
+    "AI应用",
+    "构建块"
+  ]
+}

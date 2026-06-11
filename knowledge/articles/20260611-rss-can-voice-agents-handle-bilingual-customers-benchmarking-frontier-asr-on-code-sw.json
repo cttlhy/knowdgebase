@@ -1,0 +1,25 @@
+{
+  "id": "rss-09202619-018",
+  "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+  "date": "Tue, 09 Jun 2026 19:38:28 GMT",
+  "popularity": "",
+  "summary": "该博客评估了前沿自动语音识别（ASR）系统在代码切换语音上的表现，即双语用户在对话中混合使用两种语言的现象。作者对多种ASR模型进行了基准测试，分析了它们在处理代码切换时的准确性和鲁棒性，并讨论了语音代理在服务双语客户时面临的挑战。",
+  "highlights": [
+    "Can Voice Agents Handle Bilingual Customers?",
+    "Benchmarking Frontier ASR on Code-Switched Speech",
+    "评估了前沿ASR系统在代码切换语音上的表现"
+  ],
+  "score": 8,
+  "tags": [
+    "ASR",
+    "代码切换",
+    "双语",
+    "语音识别",
+    "基准测试",
+    "语音代理"
+  ]
+}

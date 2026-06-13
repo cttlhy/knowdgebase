@@ -1,0 +1,25 @@
+{
+  "id": "rss-11202600-018",
+  "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/torch-mlp-fusion",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/torch-mlp-fusion",
+  "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文是PyTorch性能分析系列的第二部分，重点介绍如何从基本的nn.Linear层出发，通过算子融合技术优化多层感知机（MLP）。文章详细展示了使用torch.profiler进行性能分析的方法，并对比了融合前后的性能提升，包括减少内核启动开销和内存带宽利用。",
+  "highlights": [
+    "通过算子融合，可以将多个连续的线性层合并为一个内核，显著减少内核启动开销。",
+    "使用torch.profiler可以精确识别性能瓶颈，如内存带宽限制和内核启动延迟。",
+    "融合后的MLP在推理和训练中均能实现2-3倍的加速，且不影响精度。"
+  ],
+  "score": 8,
+  "tags": [
+    "PyTorch",
+    "性能分析",
+    "MLP",
+    "算子融合",
+    "torch.profiler",
+    "优化"
+  ]
+}

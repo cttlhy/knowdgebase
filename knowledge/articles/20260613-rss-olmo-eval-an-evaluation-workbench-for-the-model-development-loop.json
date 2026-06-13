@@ -1,0 +1,24 @@
+{
+  "id": "rss-12202615-017",
+  "title": "olmo-eval: An evaluation workbench for the model development loop",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/olmo-eval",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/olmo-eval",
+  "date": "Fri, 12 Jun 2026 15:56:10 GMT",
+  "popularity": "",
+  "summary": "Olmo-eval 是一个专为模型开发循环设计的评估工作台，旨在简化语言模型的评估流程，支持快速迭代和实验跟踪。",
+  "highlights": [
+    "Olmo-eval 专注于加速模型开发中的评估循环。",
+    "提供标准化的评估接口和结果可视化。",
+    "支持多种基准测试和自定义评估任务。"
+  ],
+  "score": 8,
+  "tags": [
+    "评估工作台",
+    "模型开发",
+    "语言模型",
+    "实验跟踪",
+    "Allen AI"
+  ]
+}

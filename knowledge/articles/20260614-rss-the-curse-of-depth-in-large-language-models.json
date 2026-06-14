@@ -1,0 +1,24 @@
+{
+  "id": "rss-13202615-014",
+  "title": "The Curse of Depth in Large Language Models",
+  "source": "rss",
+  "source_url": "https://arxiv.org/pdf/2502.05795",
+  "status": "draft",
+  "url": "https://arxiv.org/pdf/2502.05795",
+  "date": "Sat, 13 Jun 2026 15:12:35 -0500",
+  "popularity": "",
+  "summary": "本文探讨了大型语言模型中深度带来的诅咒，分析了深层网络在训练和推理中面临的挑战，如梯度消失、表示退化等问题，并提出了可能的缓解策略。",
+  "highlights": [
+    "深度增加导致梯度传播困难，影响模型训练效果。",
+    "深层表示可能出现退化，降低模型性能。",
+    "提出多种策略以缓解深度带来的负面影响。"
+  ],
+  "score": 8,
+  "tags": [
+    "大型语言模型",
+    "深度诅咒",
+    "梯度消失",
+    "表示退化",
+    "深度学习"
+  ]
+}

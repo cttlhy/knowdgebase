@@ -1,0 +1,24 @@
+{
+  "id": "rss-11202600-018",
+  "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/torch-mlp-fusion",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/torch-mlp-fusion",
+  "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文介绍了PyTorch中MLP层的性能分析，从nn.Linear开始，逐步优化到融合MLP，展示了如何通过算子融合和内核优化提升模型效率。",
+  "highlights": [
+    "从nn.Linear到融合MLP的性能优化路径",
+    "算子融合技术如何减少内核启动开销",
+    "实际性能提升的量化分析"
+  ],
+  "score": 8,
+  "tags": [
+    "PyTorch",
+    "性能分析",
+    "MLP",
+    "算子融合",
+    "优化"
+  ]
+}

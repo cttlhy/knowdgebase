@@ -1,0 +1,23 @@
+{
+  "id": "rss-13202622-013",
+  "title": "The future of Siri, or: why private inference isn’t private enough",
+  "source": "rss",
+  "source_url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
+  "status": "draft",
+  "url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
+  "date": "Sat, 13 Jun 2026 22:50:26 -0500",
+  "popularity": "",
+  "summary": "文章探讨了Siri等私人助理的未来，指出私有推理在隐私保护方面存在不足，并分析了相关技术挑战。",
+  "highlights": [
+    "私有推理在隐私保护方面存在不足",
+    "探讨了Siri等私人助理的未来"
+  ],
+  "score": 8,
+  "tags": [
+    "Siri",
+    "隐私",
+    "私有推理",
+    "AI",
+    "技术分析"
+  ]
+}

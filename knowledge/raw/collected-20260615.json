@@ -1,0 +1,347 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-06-15",
+    "popularity": "stars:378826",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾为象征，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-06-15",
+    "popularity": "stars:228508",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "效率提升",
+      "协作"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-06-15",
+    "popularity": "stars:215892",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编程助手的性能优化系统，涵盖技能、直觉、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "AI编程助手",
+      "性能优化",
+      "开发工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system",
+      "Skills, instincts, memory, security, and research-first development",
+      "for Claude Code, Codex, Opencode, Cursor and beyond"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-06-15",
+    "popularity": "stars:194116",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能体项目。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "智能体",
+      "成长型",
+      "NousResearch"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-06-15",
+    "popularity": "stars:193836",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由AI代理管理的博物馆展览项目，使用Rust语言和Gajae-Code/LazyCodex构建，完全无需人工干预开发和维护。",
+    "score": 7,
+    "tags": [
+      "Rust",
+      "AI代理",
+      "博物馆展览",
+      "自动化",
+      "无人工干预"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-06-15",
+    "popularity": "stars:192615",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有超过 400 种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform",
+      "native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-06-15",
+    "popularity": "stars:184956",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用 AI，提供工具以便用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-06-15",
+    "popularity": "stars:175907",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱观察的CLAUDE.md文件，用于改善Claude Code的行为。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "编码",
+      "Claude Code",
+      "最佳实践",
+      "AI辅助开发"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-06-15",
+    "popularity": "stars:174725",
+    "content": "The open source coding agent.",
+    "summary": "OpenCode 是一个开源编码代理项目，旨在提供自动化的代码生成与辅助编程能力。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "AI辅助编程"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-06-15",
+    "popularity": "stars:174219",
+    "content": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，支持快速运行多种大型语言模型，包括 Kimi-K2.6、GLM-5.1、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 8,
+    "tags": [
+      "开源",
+      "大语言模型",
+      "AI",
+      "模型部署",
+      "GitHub"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "支持多种主流大语言模型的一键运行"
+    ]
+  },
+  {
+    "title": "CrankGPT — Local Human-powered AI",
+    "url": "https://crankgpt.com",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 15 Jun 2026 08:35:22 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/fdjc6i/crankgpt_local_human_powered_ai\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "CrankGPT 是一个本地化、由人类驱动的AI平台，旨在通过人工参与提供智能响应，链接指向Lobste.rs上的讨论页面。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "人类驱动",
+      "本地化",
+      "CrankGPT"
+    ],
+    "highlights": [
+      "CrankGPT — Local Human-powered AI",
+      "Comments"
+    ]
+  },
+  {
+    "title": "AI, Gods and Selves: Incredibly Effective Illusions",
+    "url": "https://www.youtube.com/watch?v=9X1CQlrwgDI",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sun, 14 Jun 2026 17:49:27 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/tdy6ws/ai_gods_selves_incredibly_effective\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章探讨了AI、神祇与自我作为高效幻觉的概念，分析它们如何在社会和认知中发挥作用。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "哲学",
+      "认知科学",
+      "幻觉",
+      "社会影响"
+    ],
+    "highlights": [
+      "AI, Gods and Selves are described as incredibly effective illusions.",
+      "The discussion links to a Lobste.rs comment thread for further insights."
+    ]
+  },
+  {
+    "title": "Introducing the OpenAI Partner Network",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Sun, 14 Jun 2026 17:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "summary": "OpenAI推出合作伙伴网络，投资1.5亿美元帮助全球合作伙伴加速企业AI的采用、部署和转型。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "合作伙伴网络",
+      "企业AI",
+      "投资",
+      "AI部署"
+    ],
+    "highlights": [
+      "OpenAI launches the Partner Network",
+      "investing $150M to help global partners",
+      "accelerate enterprise AI adoption, deployment, and transformation"
+    ]
+  },
+  {
+    "title": "New OpenAI Academy courses for the next era of work",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 12 Jun 2026 10:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+    "summary": "OpenAI推出了三门学院课程，旨在帮助人们培养实用的人工智能技能、创建可重复的工作流程，并在日常工作中应用智能代理。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "AI课程",
+      "工作技能",
+      "工作流程",
+      "智能代理"
+    ],
+    "highlights": [
+      "OpenAI introduces three Academy courses",
+      "help people build practical AI skills",
+      "create repeatable workflows",
+      "apply agents in everyday work"
+    ]
+  },
+  {
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 12 Jun 2026 15:56:10 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了olmo-eval，一个专为模型开发循环设计的评估工作台，旨在简化语言模型的评估流程，支持快速迭代和实验追踪。",
+    "score": 8,
+    "tags": [
+      "评估工作台",
+      "模型开发",
+      "语言模型",
+      "迭代",
+      "实验追踪"
+    ],
+    "highlights": [
+      "olmo-eval is designed for the model development loop",
+      "simplifies evaluation of language models",
+      "supports rapid iteration and experiment tracking"
+    ]
+  },
+  {
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文是PyTorch性能分析系列的第二部分，深入探讨了从nn.Linear层到融合MLP（多层感知机）的优化过程。文章通过实际代码示例和性能分析工具，展示了如何识别和解决PyTorch模型中的性能瓶颈，特别是通过算子融合技术减少内核启动开销和内存带宽消耗，从而显著提升MLP的训练和推理速度。",
+    "score": 8,
+    "tags": [
+      "PyTorch",
+      "性能分析",
+      "MLP融合",
+      "算子优化",
+      "深度学习"
+    ],
+    "highlights": [
+      "通过融合多个线性层操作，可以显著减少内核启动次数和内存访问开销。",
+      "使用torch.profiler和NVIDIA Nsight Systems等工具进行性能瓶颈定位。",
+      "融合后的MLP在训练和推理阶段均实现了2-3倍的加速效果。"
+    ]
+  }
+]

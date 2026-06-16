@@ -1,0 +1,24 @@
+{
+  "id": "rss-15202615-011",
+  "title": "My Homelab AI Dev Platform",
+  "source": "rss",
+  "source_url": "https://rsgm.dev/post/ai-dev-platform/",
+  "status": "draft",
+  "url": "https://rsgm.dev/post/ai-dev-platform/",
+  "date": "Mon, 15 Jun 2026 15:09:40 +0000",
+  "popularity": "",
+  "summary": "作者分享了搭建个人AI开发平台（Homelab）的经验，包括硬件配置、软件栈选择以及开发流程优化，旨在为AI开发者提供低成本、高效率的本地开发环境参考。",
+  "highlights": [
+    "搭建个人AI开发平台的经验分享",
+    "硬件配置与软件栈的选择",
+    "开发流程优化与低成本高效率"
+  ],
+  "score": 8,
+  "tags": [
+    "AI开发",
+    "Homelab",
+    "硬件配置",
+    "软件栈",
+    "开发环境"
+  ]
+}

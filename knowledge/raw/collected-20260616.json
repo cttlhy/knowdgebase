@@ -1,0 +1,394 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-06-16",
+    "popularity": "stars:378984",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾（🦞）为象征，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-06-16",
+    "popularity": "stars:229463",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "GitHub项目"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-06-16",
+    "popularity": "stars:216473",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "编码工具",
+      "开发框架",
+      "安全"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system",
+      "Skills, instincts, memory, security, and research-first development",
+      "for Claude Code, Codex, Opencode, Cursor and beyond"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-06-16",
+    "popularity": "stars:194990",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随用户成长而发展的智能代理项目。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "自适应",
+      "开源"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-06-16",
+    "popularity": "stars:193899",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由AI代理管理的博物馆展品，使用Rust语言和Gajae-Code/LazyCodex构建，完全无需人工干预开发和维护。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI代理",
+      "无人工干预",
+      "博物馆展品",
+      "Gajae-Code",
+      "LazyCodex"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-06-16",
+    "popularity": "stars:192762",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-06-16",
+    "popularity": "stars:184971",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用 AI，提供工具以便用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-06-16",
+    "popularity": "stars:176639",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱的观察而生成的CLAUDE.md文件，用于改善Claude Code的行为。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "编码",
+      "Claude Code",
+      "CLAUDE.md",
+      "Andrej Karpathy"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-06-16",
+    "popularity": "stars:175124",
+    "content": "The open source coding agent.",
+    "summary": "OpenCode 是一个开源的编码代理项目，旨在提供自动化代码生成和辅助编程功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-06-16",
+    "popularity": "stars:174291",
+    "content": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，支持快速运行多种大型语言模型，包括 Kimi-K2.6、GLM-5.1、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 9,
+    "tags": [
+      "开源",
+      "大语言模型",
+      "AI",
+      "模型部署",
+      "GitHub"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "支持多种主流大语言模型",
+      "开源项目，易于上手"
+    ]
+  },
+  {
+    "title": "My Homelab AI Dev Platform",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Mon, 15 Jun 2026 15:09:40 +0000",
+    "popularity": "",
+    "content": "Article URL: https://rsgm.dev/post/ai-dev-platform/ Comments URL: https://news.ycombinator.com/item?id=48542433 Points: 326 # Comments: 54",
+    "summary": "作者分享了搭建个人AI开发平台（Homelab）的经验，包括硬件配置、软件栈选择以及开发流程优化，旨在为AI开发者提供低成本、高效率的本地开发环境参考。",
+    "score": 8,
+    "tags": [
+      "AI开发",
+      "Homelab",
+      "硬件配置",
+      "软件栈",
+      "开发环境"
+    ],
+    "highlights": [
+      "搭建个人AI开发平台的经验分享",
+      "硬件配置与软件栈的选择",
+      "开发流程优化与低成本高效率"
+    ]
+  },
+  {
+    "title": "Not everyone is using AI for everything",
+    "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Sun, 14 Jun 2026 14:44:29 +0000",
+    "popularity": "",
+    "content": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 505 # Comments: 540",
+    "summary": "文章指出并非所有人都在广泛使用AI，人们消费AI的方式类似于早期互联网的采用模式，存在使用差异和局限性。",
+    "score": 7,
+    "tags": [
+      "AI采用",
+      "技术消费",
+      "互联网类比",
+      "使用差异"
+    ],
+    "highlights": [
+      "Not everyone is using AI for everything",
+      "people are consuming AI like they did the early internet"
+    ]
+  },
+  {
+    "title": "Why adding ontologies to LLMs won't yield machine intelligence",
+    "url": "https://youtu.be/Ce-cN5Llaz4?t=93",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 15 Jun 2026 20:33:59 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/9iqluy/why_adding_ontologies_llms_won_t_yield\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该视频讨论为何将本体论（ontologies）添加到大型语言模型（LLMs）中并不能实现真正的机器智能，指出本体论虽能提供结构化知识，但LLMs缺乏理解与推理能力，无法通过简单添加本体达到人类水平的智能。",
+    "score": 8,
+    "tags": [
+      "LLMs",
+      "ontologies",
+      "machine intelligence",
+      "AI limitations",
+      "knowledge representation"
+    ],
+    "highlights": [
+      "Adding ontologies to LLMs won't yield machine intelligence",
+      "Ontologies provide structured knowledge but LLMs lack understanding and reasoning",
+      "True machine intelligence requires more than just knowledge injection"
+    ]
+  },
+  {
+    "title": "June Framework Memory and storage pricing updates",
+    "url": "https://frame.work/ca/en/blog/updates-on-memory-pricing-and-navigating-the-volatile-memory-market",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 15 Jun 2026 17:04:31 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;The 128GB Framework Desktop appreciates a whopping $1,660 today, pricing it at a total of $4,839 now. It was $2,000 at launch.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/uicwti/june_framework_memory_storage_pricing\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Framework Desktop 128GB版本价格从发布时的2000美元大幅上涨至4839美元，涨幅达1660美元，反映了内存市场的波动性。",
+    "score": 8,
+    "tags": [
+      "Framework",
+      "价格更新",
+      "内存市场",
+      "硬件涨价"
+    ],
+    "highlights": [
+      "The 128GB Framework Desktop appreciates a whopping $1,660 today, pricing it at a total of $4,839 now.",
+      "It was $2,000 at launch."
+    ]
+  },
+  {
+    "title": "Introducing the OpenAI Partner Network",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Sun, 14 Jun 2026 17:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "summary": "OpenAI推出合作伙伴网络，投资1.5亿美元助力全球合作伙伴加速企业AI的采用、部署和转型。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "合作伙伴网络",
+      "企业AI",
+      "投资",
+      "AI部署"
+    ],
+    "highlights": [
+      "OpenAI launches the Partner Network",
+      "investing $150M",
+      "accelerate enterprise AI adoption, deployment, and transformation"
+    ]
+  },
+  {
+    "title": "New OpenAI Academy courses for the next era of work",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 12 Jun 2026 10:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+    "summary": "OpenAI推出了三门学院课程，旨在帮助人们培养实用AI技能、创建可重复的工作流程，并在日常工作中应用智能代理。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "AI课程",
+      "工作技能",
+      "工作流程",
+      "智能代理"
+    ],
+    "highlights": [
+      "OpenAI introduces three Academy courses",
+      "help people build practical AI skills",
+      "create repeatable workflows",
+      "apply agents in everyday work"
+    ]
+  },
+  {
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 12 Jun 2026 15:56:10 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Olmo-eval是一个专为模型开发循环设计的评估工作台，旨在简化语言模型的评估流程，支持快速迭代和实验追踪。",
+    "score": 8,
+    "tags": [
+      "评估工作台",
+      "模型开发",
+      "语言模型",
+      "迭代优化",
+      "实验追踪"
+    ],
+    "highlights": [
+      "Olmo-eval is designed for the model development loop.",
+      "It streamlines evaluation of language models.",
+      "Supports rapid iteration and experiment tracking."
+    ]
+  },
+  {
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文是PyTorch性能分析系列的第二部分，重点介绍如何从基本的nn.Linear层出发，通过算子融合技术优化多层感知机（MLP）的性能。文章详细展示了使用PyTorch Profiler进行性能分析的方法，并逐步演示了将多个线性层融合为一个高效内核的过程，最终显著提升MLP的训练和推理速度。",
+    "score": 8,
+    "tags": [
+      "PyTorch",
+      "性能分析",
+      "MLP",
+      "算子融合",
+      "nn.Linear",
+      "性能优化",
+      "深度学习"
+    ],
+    "highlights": [
+      "从nn.Linear到融合MLP的性能优化路径",
+      "使用PyTorch Profiler识别性能瓶颈",
+      "算子融合技术显著提升MLP速度"
+    ]
+  }
+]

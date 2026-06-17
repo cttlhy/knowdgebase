@@ -1,0 +1,22 @@
+{
+  "id": "rss-16202617-011",
+  "title": "Can gzip be a language model?",
+  "source": "rss",
+  "source_url": "https://nathan.rs/posts/gzip-lm/",
+  "status": "draft",
+  "url": "https://nathan.rs/posts/gzip-lm/",
+  "date": "Tue, 16 Jun 2026 17:17:20 -0500",
+  "popularity": "",
+  "summary": "探讨gzip压缩算法是否可以作为语言模型使用，分析其文本生成能力与局限性。",
+  "highlights": [
+    "Can gzip be a language model?",
+    "探讨gzip压缩算法是否可以作为语言模型使用"
+  ],
+  "score": 7,
+  "tags": [
+    "gzip",
+    "语言模型",
+    "压缩算法",
+    "自然语言处理"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-16202600-013",
+  "title": "Predicting model behavior before release by simulating deployment",
+  "source": "rss",
+  "source_url": "https://openai.com/index/deployment-simulation",
+  "status": "draft",
+  "url": "https://openai.com/index/deployment-simulation",
+  "date": "Tue, 16 Jun 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI 提出了一种名为 Deployment Simulation 的方法，通过模拟部署并使用真实对话数据，在模型发布前预测其行为，以提升安全性和评估准确性。",
+  "highlights": [
+    "Predicting model behavior before release by simulating deployment",
+    "using real conversation data to improve safety and evaluation accuracy"
+  ],
+  "score": 8,
+  "tags": [
+    "AI安全",
+    "模型评估",
+    "部署模拟",
+    "OpenAI"
+  ]
+}

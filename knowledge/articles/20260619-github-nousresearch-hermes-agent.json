@@ -1,0 +1,21 @@
+{
+  "id": "github-20260619-004",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "status": "draft",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "date": "2026-06-19",
+  "popularity": "stars:197319",
+  "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而进化的智能代理项目。",
+  "highlights": [
+    "The agent that grows with you"
+  ],
+  "score": 8,
+  "tags": [
+    "AI",
+    "智能代理",
+    "成长型系统",
+    "NousResearch"
+  ]
+}

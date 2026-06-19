@@ -1,0 +1,24 @@
+{
+  "id": "rss-18202600-018",
+  "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/peft-beyond-lora",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/peft-beyond-lora",
+  "date": "Thu, 18 Jun 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文探讨了LoRA微调技术的局限性，并介绍了超越LoRA的替代方法，包括其他参数高效微调技术及其在性能、效率和适用场景上的比较。",
+  "highlights": [
+    "LoRA is the most popular fine-tuning technique, but it has limitations.",
+    "We explore alternatives that can beat LoRA in certain scenarios.",
+    "Parameter-efficient fine-tuning methods offer trade-offs between performance and efficiency."
+  ],
+  "score": 8,
+  "tags": [
+    "LoRA",
+    "微调",
+    "参数高效",
+    "深度学习",
+    "模型优化"
+  ]
+}

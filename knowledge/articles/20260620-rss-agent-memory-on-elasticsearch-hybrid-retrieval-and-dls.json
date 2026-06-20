@@ -1,0 +1,22 @@
+{
+  "id": "rss-18202614-011",
+  "title": "Agent memory on Elasticsearch: hybrid retrieval and DLS",
+  "source": "rss",
+  "source_url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+  "status": "draft",
+  "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+  "date": "Thu, 18 Jun 2026 14:36:59 -0500",
+  "popularity": "",
+  "summary": "本文介绍了在Elasticsearch上实现代理记忆的混合检索和DLS（分布式日志搜索）方法。",
+  "highlights": [
+    "Agent memory on Elasticsearch: hybrid retrieval and DLS",
+    "Comments"
+  ],
+  "score": 7,
+  "tags": [
+    "Elasticsearch",
+    "混合检索",
+    "代理记忆",
+    "DLS"
+  ]
+}

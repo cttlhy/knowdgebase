@@ -1,0 +1,24 @@
+{
+  "id": "rss-18202600-016",
+  "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/peft-beyond-lora",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/peft-beyond-lora",
+  "date": "Thu, 18 Jun 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文探讨了LoRA微调技术的局限性，并介绍了超越LoRA的替代方法，包括其他参数高效微调（PEFT）技术如Adapter、Prefix Tuning等，通过实验比较了不同方法在多种任务上的性能表现。",
+  "highlights": [
+    "LoRA is currently the most popular fine-tuning technique, but it has limitations in certain scenarios.",
+    "Alternative PEFT methods like Adapters and Prefix Tuning can outperform LoRA in specific tasks.",
+    "The blog provides experimental comparisons across multiple benchmarks to evaluate different fine-tuning approaches."
+  ],
+  "score": 8,
+  "tags": [
+    "LoRA",
+    "参数高效微调",
+    "PEFT",
+    "微调技术",
+    "深度学习"
+  ]
+}

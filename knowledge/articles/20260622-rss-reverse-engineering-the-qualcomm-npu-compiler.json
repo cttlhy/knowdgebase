@@ -1,0 +1,24 @@
+{
+  "id": "rss-20202606-012",
+  "title": "Reverse Engineering the Qualcomm NPU Compiler",
+  "source": "rss",
+  "source_url": "https://datavorous.github.io/writing/qairt/",
+  "status": "draft",
+  "url": "https://datavorous.github.io/writing/qairt/",
+  "date": "Sat, 20 Jun 2026 06:49:16 -0500",
+  "popularity": "",
+  "summary": "文章详细介绍了逆向工程高通NPU编译器的过程，包括其架构、指令集和优化策略，旨在理解其工作原理并可能用于自定义优化。",
+  "highlights": [
+    "Reverse Engineering the Qualcomm NPU Compiler",
+    "深入分析高通NPU编译器的内部机制",
+    "揭示指令集和优化策略"
+  ],
+  "score": 8,
+  "tags": [
+    "逆向工程",
+    "高通NPU",
+    "编译器",
+    "深度学习",
+    "硬件加速"
+  ]
+}

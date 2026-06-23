@@ -1,0 +1,344 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-06-23",
+    "popularity": "stars:380060",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾风格为特色。",
+    "score": 6,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-06-23",
+    "popularity": "stars:236528",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "效率提升",
+      "协作"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-06-23",
+    "popularity": "stars:220162",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "编码工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "Skills, instincts, memory, security, and research-first development",
+      "For Claude Code, Codex, Opencode, Cursor and beyond",
+      "The agent harness performance optimization system"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-06-23",
+    "popularity": "stars:200392",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能体项目，托管在 GitHub 上。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "智能体",
+      "开源",
+      "GitHub"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-06-23",
+    "popularity": "stars:194196",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由代理管理的博物馆展品，使用 Rust 和 Gajae-Code / LazyCodex 构建，完全无需人工干预开发和维护。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "Gajae-Code",
+      "LazyCodex",
+      "agent-managed",
+      "museum exhibit",
+      "no human intervention"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-06-23",
+    "popularity": "stars:193724",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-06-23",
+    "popularity": "stars:185105",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用人工智能，提供工具以便用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-06-23",
+    "popularity": "stars:180766",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱的观察而生成的CLAUDE.md文件，用于改善Claude Code的行为。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "编码",
+      "Claude Code",
+      "CLAUDE.md",
+      "Andrej Karpathy"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-06-23",
+    "popularity": "stars:177618",
+    "content": "The open source coding agent.",
+    "summary": "OpenCode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-06-23",
+    "popularity": "stars:174777",
+    "content": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，支持快速运行多种大型语言模型，包括 Kimi-K2.6、GLM-5.1、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 8,
+    "tags": [
+      "开源",
+      "大语言模型",
+      "AI",
+      "模型部署",
+      "GitHub"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "支持多种主流大语言模型的一键运行。"
+    ]
+  },
+  {
+    "title": "Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel",
+    "url": "https://arxiv.org/abs/2604.13327",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 22 Jun 2026 18:18:52 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lpn1cr/event_tensor_unified_abstraction_for\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文提出Event Tensor，一种用于编译动态Megakernel的统一抽象，旨在优化动态计算图的执行效率。",
+    "score": 8,
+    "tags": [
+      "Event Tensor",
+      "动态Megakernel",
+      "编译优化",
+      "计算图"
+    ],
+    "highlights": [
+      "Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel",
+      "提出了一种新的抽象来编译动态Megakernel"
+    ]
+  },
+  {
+    "title": "TIRx: An Open Compiler Stack for Evolving Frontier ML Kernels",
+    "url": "https://tvm.apache.org/2026/06/22/tirx",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 22 Jun 2026 17:49:28 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/j04tzc/tirx_open_compiler_stack_for_evolving\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "TIRx 是一个面向演进中的前沿机器学习内核的开源编译器栈，旨在提供灵活高效的编译支持。",
+    "score": 8,
+    "tags": [
+      "编译器",
+      "机器学习",
+      "开源",
+      "内核优化"
+    ],
+    "highlights": [
+      "TIRx: An Open Compiler Stack for Evolving Frontier ML Kernels",
+      "https://tvm.apache.org/2026/06/22/tirx"
+    ]
+  },
+  {
+    "title": "How Omio is building the future of conversational travel",
+    "url": "https://openai.com/index/omio",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "summary": "Omio利用OpenAI技术构建对话式旅行体验，加速产品开发，并转型为AI原生公司。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "旅行",
+      "对话式体验",
+      "OpenAI",
+      "产品开发"
+    ],
+    "highlights": [
+      "Omio uses OpenAI to power conversational travel experiences",
+      "accelerate product development",
+      "transform into an AI-native company"
+    ]
+  },
+  {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "summary": "OpenAI 推出 Daybreak 工具集，包括 Codex Security 和 GPT-5.5-Cyber，旨在帮助组织大规模发现、验证和修补漏洞。",
+    "score": 8,
+    "tags": [
+      "网络安全",
+      "AI工具",
+      "漏洞管理",
+      "OpenAI"
+    ],
+    "highlights": [
+      "OpenAI introduces new Daybreak tools",
+      "including Codex Security and GPT-5.5-Cyber",
+      "help organizations find, validate, and patch vulnerabilities at scale"
+    ]
+  },
+  {
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了Hugging Face团队如何通过结合AI、开源工具和人工审核，实现每周发布huggingface_hub库的持续集成流程。",
+    "score": 8,
+    "tags": [
+      "Hugging Face",
+      "持续集成",
+      "AI",
+      "开源工具",
+      "人工审核",
+      "发布流程"
+    ],
+    "highlights": [
+      "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "结合AI、开源工具和人工审核的每周发布流程"
+    ]
+  },
+  {
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Mon, 22 Jun 2026 13:18:56 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "PP-OCRv6 在 Hugging Face 上发布，支持50种语言的OCR，模型参数规模从1.5M到34.5M不等。",
+    "score": 8,
+    "tags": [
+      "OCR",
+      "多语言",
+      "PP-OCRv6",
+      "Hugging Face",
+      "轻量模型"
+    ],
+    "highlights": [
+      "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "支持50种语言的OCR",
+      "模型参数规模从1.5M到34.5M"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "rss-22202617-012",
+  "title": "TIRx: An Open Compiler Stack for Evolving Frontier ML Kernels",
+  "source": "rss",
+  "source_url": "https://tvm.apache.org/2026/06/22/tirx",
+  "status": "draft",
+  "url": "https://tvm.apache.org/2026/06/22/tirx",
+  "date": "Mon, 22 Jun 2026 17:49:28 -0500",
+  "popularity": "",
+  "summary": "TIRx 是一个面向演进中的前沿机器学习内核的开源编译器栈，旨在提供灵活高效的编译支持。",
+  "highlights": [
+    "TIRx: An Open Compiler Stack for Evolving Frontier ML Kernels",
+    "https://tvm.apache.org/2026/06/22/tirx"
+  ],
+  "score": 8,
+  "tags": [
+    "编译器",
+    "机器学习",
+    "开源",
+    "内核优化"
+  ]
+}

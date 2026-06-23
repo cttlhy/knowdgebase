@@ -1,0 +1,22 @@
+{
+  "id": "rss-22202618-011",
+  "title": "Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2604.13327",
+  "status": "draft",
+  "url": "https://arxiv.org/abs/2604.13327",
+  "date": "Mon, 22 Jun 2026 18:18:52 -0500",
+  "popularity": "",
+  "summary": "本文提出Event Tensor，一种用于编译动态Megakernel的统一抽象，旨在优化动态计算图的执行效率。",
+  "highlights": [
+    "Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel",
+    "提出了一种新的抽象来编译动态Megakernel"
+  ],
+  "score": 8,
+  "tags": [
+    "Event Tensor",
+    "动态Megakernel",
+    "编译优化",
+    "计算图"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rss-22202610-014",
+  "title": "Daybreak: Tools for securing every organization in the world",
+  "source": "rss",
+  "source_url": "https://openai.com/index/daybreak-securing-the-world",
+  "status": "draft",
+  "url": "https://openai.com/index/daybreak-securing-the-world",
+  "date": "Mon, 22 Jun 2026 10:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI 推出 Daybreak 工具集，包括 Codex Security 和 GPT-5.5-Cyber，旨在帮助组织大规模发现、验证和修补漏洞。",
+  "highlights": [
+    "OpenAI introduces new Daybreak tools",
+    "including Codex Security and GPT-5.5-Cyber",
+    "help organizations find, validate, and patch vulnerabilities at scale"
+  ],
+  "score": 8,
+  "tags": [
+    "网络安全",
+    "AI工具",
+    "漏洞管理",
+    "OpenAI"
+  ]
+}

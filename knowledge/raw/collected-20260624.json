@@ -1,0 +1,344 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-06-24",
+    "popularity": "stars:380229",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾方式运行。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源"
+    ],
+    "highlights": [
+      "Your own personal AI assistant",
+      "Any OS. Any Platform",
+      "The lobster way"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-06-24",
+    "popularity": "stars:237393",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个基于智能体技能的框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "智能体",
+      "技能框架",
+      "软件开发方法论",
+      "GitHub"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works.",
+      "标题: obra/superpowers",
+      "链接: https://github.com/obra/superpowers"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-06-24",
+    "popularity": "stars:220873",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "编码工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system",
+      "Skills, instincts, memory, security, and research-first development",
+      "for Claude Code, Codex, Opencode, Cursor and beyond"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-06-24",
+    "popularity": "stars:201504",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能代理项目。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "智能代理",
+      "成长型系统"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-06-24",
+    "popularity": "stars:194241",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由AI代理管理的博物馆展品，使用Rust语言和Gajae-Code/LazyCodex构建，完全无需人工干预开发和维护。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI代理",
+      "无人工干预",
+      "博物馆展品",
+      "Gajae-Code",
+      "LazyCodex"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-06-24",
+    "popularity": "stars:193866",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-06-24",
+    "popularity": "stars:185141",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用AI，提供工具以便用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-06-24",
+    "popularity": "stars:181304",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱的观察而生成的CLAUDE.md文件，用于改善Claude Code的行为表现。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "Claude Code",
+      "编码优化",
+      "AI辅助编程",
+      "最佳实践"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-06-24",
+    "popularity": "stars:178001",
+    "content": "The open source coding agent.",
+    "summary": "OpenCode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-06-24",
+    "popularity": "stars:174827",
+    "content": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama是一个开源项目，支持快速运行多种AI模型，包括Kimi-K2.6、GLM-5.1、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma等。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "模型部署",
+      "开源",
+      "机器学习"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+    ]
+  },
+  {
+    "title": "Unlimited-OCR: One-shot Long-horizon OCR",
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 24 Jun 2026 05:35:51 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/5ej4m6/unlimited_ocr_one_shot_long_horizon_ocr\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Unlimited-OCR 是一个百度开源项目，专注于一次性长视野OCR，旨在处理大规模文本识别任务。",
+    "score": 8,
+    "tags": [
+      "OCR",
+      "开源",
+      "百度",
+      "长视野",
+      "文本识别"
+    ],
+    "highlights": [
+      "Unlimited-OCR: One-shot Long-horizon OCR",
+      "https://github.com/baidu/Unlimited-OCR"
+    ]
+  },
+  {
+    "title": "VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models",
+    "url": "https://arxiv.org/abs/2606.16140",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 23 Jun 2026 09:17:13 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jrj4o3/vibethinker_3b_exploring_frontier\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文介绍了VibeThinker-3B，一个探索小型语言模型可验证推理前沿的3B参数模型。",
+    "score": 8,
+    "tags": [
+      "小型语言模型",
+      "可验证推理",
+      "VibeThinker-3B",
+      "AI研究"
+    ],
+    "highlights": [
+      "VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models",
+      "https://arxiv.org/abs/2606.16140"
+    ]
+  },
+  {
+    "title": "Helping build shared standards for advanced AI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 23 Jun 2026 13:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "summary": "OpenAI通过Appia基金会支持先进AI的评估框架、安全实践和全球合作，帮助建立共享标准。",
+    "score": 8,
+    "tags": [
+      "AI标准",
+      "安全实践",
+      "全球合作",
+      "评估框架"
+    ],
+    "highlights": [
+      "OpenAI helps build shared standards for advanced AI",
+      "supporting evaluation frameworks, safety practices, and global cooperation",
+      "through the Appia Foundation"
+    ]
+  },
+  {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 23 Jun 2026 17:00:00 GMT",
+    "popularity": "",
+    "content": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "summary": "GPT-5 Pro 帮助免疫学家 Derya Unutmaz 解决了一个持续三年的免疫学谜团，揭示了T细胞行为的新见解，这一突破可能支持癌症和自身免疫研究。",
+    "score": 9,
+    "tags": [
+      "GPT-5",
+      "免疫学",
+      "T细胞",
+      "癌症研究",
+      "自身免疫",
+      "AI辅助科研"
+    ],
+    "highlights": [
+      "GPT-5 Pro helped solve a 3-year-old immunology mystery",
+      "offering insights into T cell behavior",
+      "The breakthrough could support cancer and autoimmune research"
+    ]
+  },
+  {
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 23 Jun 2026 12:51:55 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了CUGA（一种轻量级框架）及其在构建真实代理应用中的实用性，提供了二十多个工作示例，展示了如何利用该框架实现高效、灵活的代理系统。",
+    "score": 8,
+    "tags": [
+      "CUGA",
+      "代理应用",
+      "轻量级框架",
+      "工作示例",
+      "IBM研究"
+    ],
+    "highlights": [
+      "Build real agentic apps using CUGA",
+      "two dozen working examples on a lightweight harness",
+      "展示了CUGA在构建真实代理应用中的实用性"
+    ]
+  },
+  {
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了Hugging Face团队如何通过每周发布huggingface_hub库，结合AI、开源工具和人工审核，实现高效、可靠的持续集成与交付流程。",
+    "score": 8,
+    "tags": [
+      "huggingface_hub",
+      "持续集成",
+      "AI",
+      "开源工具",
+      "人工审核",
+      "发布流程"
+    ],
+    "highlights": [
+      "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "结合AI、开源工具和人工审核的每周发布流程"
+    ]
+  }
+]

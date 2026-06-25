@@ -1,0 +1,348 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-06-25",
+    "popularity": "stars:380375",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾风格为特色。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-06-25",
+    "popularity": "stars:238296",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "GitHub项目"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-06-25",
+    "popularity": "stars:221428",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "编码工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system",
+      "Skills, instincts, memory, security, and research-first development",
+      "for Claude Code, Codex, Opencode, Cursor and beyond"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-06-25",
+    "popularity": "stars:202611",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随用户共同成长和演进的智能代理项目。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "自适应",
+      "开源"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-06-25",
+    "popularity": "stars:194280",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由智能体管理的博物馆展览项目，使用 Rust 语言和 Gajae-Code / LazyCodex 构建，完全无需人工干预进行开发和维护。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "智能体",
+      "博物馆展览",
+      "自动化",
+      "Gajae-Code",
+      "LazyCodex"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-06-25",
+    "popularity": "stars:194007",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform",
+      "native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-06-25",
+    "popularity": "stars:185156",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用 AI，提供工具以便用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-06-25",
+    "popularity": "stars:181898",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱的观察而生成的CLAUDE.md文件，用于优化Claude Code的行为表现。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "编码优化",
+      "Claude Code",
+      "CLAUDE.md",
+      "Andrej Karpathy"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-06-25",
+    "popularity": "stars:178384",
+    "content": "The open source coding agent.",
+    "summary": "OpenCode 是一个开源的编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-06-25",
+    "popularity": "stars:174887",
+    "content": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，支持快速运行多种大型语言模型，包括 Kimi-K2.6、GLM-5.1、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 9,
+    "tags": [
+      "开源",
+      "大语言模型",
+      "AI",
+      "模型部署",
+      "GitHub"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "支持多种主流大语言模型",
+      "开源项目，易于上手"
+    ]
+  },
+  {
+    "title": "Using the Gini Coefficient to Plan Edge Capacity",
+    "url": "https://www.fastly.com/blog/using-gini-coefficient-plan-edge-capacity",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 24 Jun 2026 12:08:52 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/frfsss/using_gini_coefficient_plan_edge\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文探讨如何利用基尼系数来规划边缘容量，通过衡量资源分布的不均衡性优化边缘节点的容量分配。",
+    "score": 8,
+    "tags": [
+      "基尼系数",
+      "边缘计算",
+      "容量规划",
+      "资源分配"
+    ],
+    "highlights": [
+      "Using the Gini Coefficient to Plan Edge Capacity",
+      "通过基尼系数衡量资源分布不均衡性",
+      "优化边缘节点容量分配"
+    ]
+  },
+  {
+    "title": "Unlimited-OCR: One-shot Long-horizon OCR",
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 24 Jun 2026 05:35:51 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/5ej4m6/unlimited_ocr_one_shot_long_horizon_ocr\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Unlimited-OCR 是一个百度开源项目，专注于一次性长视野OCR，旨在处理大范围文本识别任务。",
+    "score": 8,
+    "tags": [
+      "OCR",
+      "开源",
+      "百度",
+      "长视野",
+      "文本识别"
+    ],
+    "highlights": [
+      "一次性长视野OCR",
+      "百度开源项目",
+      "处理大范围文本识别"
+    ]
+  },
+  {
+    "title": "How agents are transforming work",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 25 Jun 2026 02:00:00 GMT",
+    "popularity": "",
+    "content": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "summary": "OpenAI的研究论文展示了AI代理如何通过处理更长、更复杂的任务来转变工作方式，并提升各角色的生产力。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "工作转型",
+      "生产力",
+      "OpenAI研究"
+    ],
+    "highlights": [
+      "AI agents are transforming work",
+      "enabling longer, more complex tasks",
+      "expanding productivity across roles"
+    ]
+  },
+  {
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 24 Jun 2026 06:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "summary": "OpenAI与Broadcom联合推出Jalapeño定制AI芯片，专为大型语言模型推理优化，旨在提升AI系统的性能、效率和可扩展性。",
+    "score": 9,
+    "tags": [
+      "AI芯片",
+      "LLM推理",
+      "OpenAI",
+      "Broadcom",
+      "硬件优化"
+    ],
+    "highlights": [
+      "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference",
+      "improve performance, efficiency, and scale across AI systems"
+    ]
+  },
+  {
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 24 Jun 2026 16:00:13 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了NVIDIA NeMo AutoModel如何加速Transformer模型的微调过程，通过自动化配置和优化技术提升训练效率。",
+    "score": 8,
+    "tags": [
+      "NVIDIA",
+      "NeMo",
+      "AutoModel",
+      "Transformers",
+      "Fine-Tuning",
+      "加速",
+      "深度学习"
+    ],
+    "highlights": [
+      "NVIDIA NeMo AutoModel simplifies and accelerates fine-tuning of Transformer models.",
+      "Automated configuration and optimization reduce manual effort and training time.",
+      "Supports a wide range of NLP and vision Transformer architectures."
+    ]
+  },
+  {
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "url": "https://huggingface.co/blog/ffasr-leaderboard",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 24 Jun 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了FFASR排行榜，旨在通过真实世界场景下的基准测试来评估自动语音识别（ASR）系统的性能，并提供了相关方法和结果。",
+    "score": 8,
+    "tags": [
+      "ASR",
+      "语音识别",
+      "基准测试",
+      "排行榜",
+      "真实世界"
+    ],
+    "highlights": [
+      "FFASR Leaderboard 专注于真实世界场景下的ASR性能评估。",
+      "该排行榜为开发者提供了比较不同ASR系统的标准化平台。",
+      "文章强调了真实环境数据对ASR系统测试的重要性。"
+    ]
+  }
+]

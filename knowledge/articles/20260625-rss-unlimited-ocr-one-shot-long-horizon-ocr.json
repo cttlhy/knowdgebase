@@ -1,0 +1,24 @@
+{
+  "id": "rss-24202605-012",
+  "title": "Unlimited-OCR: One-shot Long-horizon OCR",
+  "source": "rss",
+  "source_url": "https://github.com/baidu/Unlimited-OCR",
+  "status": "draft",
+  "url": "https://github.com/baidu/Unlimited-OCR",
+  "date": "Wed, 24 Jun 2026 05:35:51 -0500",
+  "popularity": "",
+  "summary": "Unlimited-OCR 是一个百度开源项目，专注于一次性长视野OCR，旨在处理大范围文本识别任务。",
+  "highlights": [
+    "一次性长视野OCR",
+    "百度开源项目",
+    "处理大范围文本识别"
+  ],
+  "score": 8,
+  "tags": [
+    "OCR",
+    "开源",
+    "百度",
+    "长视野",
+    "文本识别"
+  ]
+}

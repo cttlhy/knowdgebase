@@ -4,13 +4,22 @@ import argparse
 import json
 import os
 import sys
+from pathlib import Path
 
+from workflows.env_loader import apply_env_file
 from workflows.feishu_app import list_bot_chats, resolve_feishu_app_config, send_text_message
+
+ROOT_DIR = Path(__file__).resolve().parent.parent
 
 
 def _build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description="Discover Feishu group chat_id values for FEISHU_RECEIVE_ID configuration.",
+    )
+    parser.add_argument(
+        "--env-file",
+        default="",
+        help="Optional .env file path; loaded before reading Feishu credentials",
     )
     parser.add_argument("--query", default="", help="Optional group name keyword search")
     parser.add_argument(
@@ -29,6 +38,10 @@ def _build_parser() -> argparse.ArgumentParser:
 def main(argv: list[str] | None = None) -> int:
     parser = _build_parser()
     args = parser.parse_args(argv)
+    if args.env_file:
+        apply_env_file(Path(args.env_file))
+    elif (ROOT_DIR / ".env").exists():
+        apply_env_file(ROOT_DIR / ".env")
     config = resolve_feishu_app_config({})
 
     if not config["app_id"] or not config["app_secret"]:

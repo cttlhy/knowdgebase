@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import logging
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from typing import Any
@@ -39,8 +40,18 @@ def _post_json(
 def _get_json(url: str, *, headers: dict[str, str] | None = None, timeout: int = 15) -> dict[str, Any]:
     request_headers = dict(headers or {})
     request = urllib.request.Request(url=url, headers=request_headers, method="GET")
-    with urllib.request.urlopen(request, timeout=timeout) as response:
-        raw = response.read().decode("utf-8", errors="replace")
+    try:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            raw = response.read().decode("utf-8", errors="replace")
+    except urllib.error.HTTPError as exc:
+        raw = exc.read().decode("utf-8", errors="replace")
+        try:
+            payload = json.loads(raw)
+            if isinstance(payload, dict) and payload.get("msg"):
+                raise RuntimeError(f"Feishu API HTTP {exc.code}: {_api_error_message(payload)}") from exc
+        except json.JSONDecodeError:
+            pass
+        raise RuntimeError(f"Feishu API HTTP {exc.code}: {raw[:500]}") from exc
     data = json.loads(raw)
     if not isinstance(data, dict):
         raise RuntimeError(f"Feishu API returned non-object response from {url}")

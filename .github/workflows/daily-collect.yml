@@ -16,6 +16,10 @@ jobs:
       DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
       QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+      FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+      FEISHU_RECEIVE_ID: ${{ secrets.FEISHU_RECEIVE_ID }}
+      FEISHU_RECEIVE_ID_TYPE: ${{ secrets.FEISHU_RECEIVE_ID_TYPE }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -51,6 +55,16 @@ jobs:
 
           python hooks/validate_json.py "${article_files[@]}"
           python hooks/check_quality.py "${article_files[@]}"
+
+      - name: Distribute top articles to Feishu
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -z "${FEISHU_APP_ID:-}" ] || [ -z "${FEISHU_APP_SECRET:-}" ] || [ -z "${FEISHU_RECEIVE_ID:-}" ]; then
+            echo "Feishu secrets not configured, skip distribution."
+            exit 0
+          fi
+          python scripts/distribute_daily_articles.py --limit 5
 
       - name: Commit and push when data changed
         shell: bash

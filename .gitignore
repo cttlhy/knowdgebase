@@ -2,3 +2,8 @@
 # They should never be committed because they are environment-specific.
 __pycache__/
 *.pyc
+
+# Local secrets and environment-specific config.
+.env
+.env.*
+!.env.example

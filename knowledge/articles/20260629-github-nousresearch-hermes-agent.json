@@ -6,17 +6,16 @@
   "status": "draft",
   "url": "https://github.com/NousResearch/hermes-agent",
   "date": "2026-06-29",
-  "popularity": "stars:205067",
-  "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能体项目，托管在 GitHub 上。",
+  "popularity": "stars:205425",
+  "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能代理项目，旨在提供持续进化的交互体验。",
   "highlights": [
     "The agent that grows with you"
   ],
   "score": 7,
   "tags": [
-    "AI Agent",
-    "智能体",
+    "AI代理",
     "成长型系统",
-    "NousResearch",
-    "开源"
+    "开源项目",
+    "NousResearch"
   ]
 }

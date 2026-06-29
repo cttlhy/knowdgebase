@@ -1,5 +1,5 @@
 {
-  "id": "rss-25202616-018",
+  "id": "rss-25202616-016",
   "title": "Which tokens does a hybrid model predict better?",
   "source": "rss",
   "source_url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
@@ -7,23 +7,18 @@
   "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
   "date": "Thu, 25 Jun 2026 16:11:42 GMT",
   "popularity": "",
-  "summary": "本文探讨了混合模型在预测不同token时的表现差异，分析了哪些token类型（如高频词、低频词、语法词等）在混合架构下预测更准确，并提供了实验数据和结论。",
+  "summary": "本文探讨了混合模型在预测不同token时的表现差异，分析了哪些token类型（如高频词、低频词、特殊符号等）在混合架构下预测更准确，并提供了实验数据和结论。",
   "highlights": [
     "混合模型在预测低频token时表现优于单一模型。",
-    "语法功能词（如介词、冠词）的预测准确率提升显著。",
-    "实验表明，混合架构能有效结合不同模型的优势。"
+    "实验表明，特殊符号和罕见词的预测准确率提升显著。",
+    "高频词的预测差异较小，但混合模型仍略有优势。"
   ],
   "score": 8,
   "tags": [
     "混合模型",
     "token预测",
     "自然语言处理",
-    "模型分析",
+    "模型性能",
     "Hugging Face"
-  ],
-  "distribution": {
-    "telegram": false,
-    "feishu": true,
-    "feishu_digest_date": "20260629"
-  }
+  ]
 }

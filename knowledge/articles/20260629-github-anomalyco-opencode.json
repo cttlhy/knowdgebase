@@ -6,8 +6,8 @@
   "status": "draft",
   "url": "https://github.com/anomalyco/opencode",
   "date": "2026-06-29",
-  "popularity": "stars:180266",
-  "summary": "OpenCode 是一个开源的编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
+  "popularity": "stars:180437",
+  "summary": "Anomalyco/OpenCode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
   "highlights": [
     "The open source coding agent."
   ],
@@ -15,7 +15,7 @@
   "tags": [
     "开源",
     "编码代理",
-    "代码生成",
-    "AI辅助编程"
+    "自动化",
+    "代码生成"
   ]
 }

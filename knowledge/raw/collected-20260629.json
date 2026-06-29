@@ -4,7 +4,7 @@
     "url": "https://github.com/openclaw/openclaw",
     "source": "github",
     "date": "2026-06-29",
-    "popularity": "stars:380895",
+    "popularity": "stars:380948",
     "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾为象征，强调自由和灵活性。",
     "score": 7,
@@ -25,15 +25,14 @@
     "url": "https://github.com/obra/superpowers",
     "source": "github",
     "date": "2026-06-29",
-    "popularity": "stars:240761",
+    "popularity": "stars:241209",
     "content": "An agentic skills framework & software development methodology that works.",
     "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率与协作能力。",
     "score": 8,
     "tags": [
       "代理技能框架",
       "软件开发方法论",
-      "效率提升",
-      "协作"
+      "GitHub项目"
     ],
     "highlights": [
       "An agentic skills framework & software development methodology that works."
@@ -44,9 +43,9 @@
     "url": "https://github.com/affaan-m/ECC",
     "source": "github",
     "date": "2026-06-29",
-    "popularity": "stars:223104",
+    "popularity": "stars:223298",
     "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、直觉、记忆、安全及研究优先开发。",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发方法。",
     "score": 7,
     "tags": [
       "AI代理",
@@ -56,9 +55,9 @@
       "记忆管理"
     ],
     "highlights": [
-      "The agent harness performance optimization system",
       "Skills, instincts, memory, security, and research-first development",
-      "for Claude Code, Codex, Opencode, Cursor and beyond"
+      "For Claude Code, Codex, Opencode, Cursor and beyond",
+      "The agent harness performance optimization system"
     ]
   },
   {
@@ -66,19 +65,41 @@
     "url": "https://github.com/NousResearch/hermes-agent",
     "source": "github",
     "date": "2026-06-29",
-    "popularity": "stars:205067",
+    "popularity": "stars:205425",
     "content": "The agent that grows with you",
-    "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能体项目，托管在 GitHub 上。",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能代理项目，旨在提供持续进化的交互体验。",
     "score": 7,
     "tags": [
-      "AI Agent",
-      "智能体",
+      "AI代理",
       "成长型系统",
-      "NousResearch",
-      "开源"
+      "开源项目",
+      "NousResearch"
     ],
     "highlights": [
       "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-06-29",
+    "popularity": "stars:194475",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities.",
+      "Combine visual building with custom code, self-host or cloud, 400+ integrations."
     ]
   },
   {
@@ -86,15 +107,15 @@
     "url": "https://github.com/ultraworkers/claw-code",
     "source": "github",
     "date": "2026-06-29",
-    "popularity": "stars:194412",
+    "popularity": "stars:194435",
     "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-    "summary": "一个由智能体管理的博物馆展览项目，使用 Rust 语言结合 Gajae-Code / LazyCodex 构建，完全无需人工干预即可开发和维护。",
-    "score": 7,
+    "summary": "一个由AI代理管理的博物馆展品，使用Rust语言和Gajae-Code / LazyCodex构建，完全无需人工干预开发和维护。",
+    "score": 8,
     "tags": [
       "Rust",
-      "智能体",
+      "AI代理",
+      "博物馆展品",
       "自动化",
-      "博物馆展览",
       "无人工干预"
     ],
     "highlights": [
@@ -104,37 +125,13 @@
     ]
   },
   {
-    "title": "n8n-io/n8n",
-    "url": "https://github.com/n8n-io/n8n",
-    "source": "github",
-    "date": "2026-06-29",
-    "popularity": "stars:194407",
-    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
-    "score": 9,
-    "tags": [
-      "工作流自动化",
-      "AI",
-      "公平代码",
-      "自托管",
-      "云服务",
-      "集成"
-    ],
-    "highlights": [
-      "Fair-code workflow automation platform with native AI capabilities",
-      "Combine visual building with custom code",
-      "self-host or cloud",
-      "400+ integrations"
-    ]
-  },
-  {
     "title": "Significant-Gravitas/AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
     "source": "github",
     "date": "2026-06-29",
-    "popularity": "stars:185201",
+    "popularity": "stars:185203",
     "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-    "summary": "AutoGPT 致力于让每个人都能访问和使用 AI，提供工具以便用户专注于重要事务。",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用 AI，提供工具以帮助用户专注于重要事务。",
     "score": 9,
     "tags": [
       "AI",
@@ -152,15 +149,15 @@
     "url": "https://github.com/multica-ai/andrej-karpathy-skills",
     "source": "github",
     "date": "2026-06-29",
-    "popularity": "stars:184080",
+    "popularity": "stars:184409",
     "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-    "summary": "一个基于Andrej Karpathy对LLM编码陷阱观察的CLAUDE.md文件，用于改进Claude Code的行为。",
-    "score": 7,
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱的观察而生成的CLAUDE.md文件，用于改善Claude Code的行为表现。",
+    "score": 8,
     "tags": [
       "LLM",
-      "编码",
       "Claude Code",
-      "CLAUDE.md",
+      "编码规范",
+      "AI辅助编程",
       "最佳实践"
     ],
     "highlights": [
@@ -173,15 +170,15 @@
     "url": "https://github.com/anomalyco/opencode",
     "source": "github",
     "date": "2026-06-29",
-    "popularity": "stars:180266",
+    "popularity": "stars:180437",
     "content": "The open source coding agent.",
-    "summary": "OpenCode 是一个开源的编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
+    "summary": "Anomalyco/OpenCode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
     "score": 7,
     "tags": [
       "开源",
       "编码代理",
-      "代码生成",
-      "AI辅助编程"
+      "自动化",
+      "代码生成"
     ],
     "highlights": [
       "The open source coding agent."
@@ -192,63 +189,19 @@
     "url": "https://github.com/ollama/ollama",
     "source": "github",
     "date": "2026-06-29",
-    "popularity": "stars:175089",
+    "popularity": "stars:175122",
     "content": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
     "summary": "Ollama 是一个开源项目，支持快速运行多种大型语言模型，包括 Kimi-K2.6、GLM-5.1、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
-    "score": 9,
+    "score": 8,
     "tags": [
-      "开源",
+      "ollama",
       "大语言模型",
-      "AI",
-      "模型部署",
-      "GitHub"
+      "开源",
+      "模型运行",
+      "AI"
     ],
     "highlights": [
       "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
-    ]
-  },
-  {
-    "title": "Professor denounces mass AI fraud on an exam at Brown",
-    "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-    "source": "rss",
-    "source_name": "Hacker News Best AI",
-    "date": "Sun, 28 Jun 2026 16:41:12 +0000",
-    "popularity": "",
-    "content": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 299 # Comments: 405",
-    "summary": "布朗大学教授揭露大规模AI作弊事件，引发对学术诚信的担忧。",
-    "score": 8,
-    "tags": [
-      "AI",
-      "学术诚信",
-      "布朗大学",
-      "作弊",
-      "教育"
-    ],
-    "highlights": [
-      "Professor denounces mass AI fraud on an exam at Brown",
-      "academic integrity is at risk"
-    ]
-  },
-  {
-    "title": "Ford hired AI and sacked humans. It backfired badly",
-    "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
-    "source": "rss",
-    "source_name": "Hacker News Best AI",
-    "date": "Sun, 28 Jun 2026 03:09:13 +0000",
-    "popularity": "",
-    "content": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 233 # Comments: 4",
-    "summary": "福特公司因用AI替代人类员工而遭遇严重反效果，导致运营问题凸显，最终不得不重新审视其自动化策略。",
-    "score": 8,
-    "tags": [
-      "AI",
-      "自动化",
-      "福特",
-      "人力资源管理",
-      "技术反噬"
-    ],
-    "highlights": [
-      "Ford hired AI and sacked humans. It backfired badly",
-      "福特公司因用AI替代人类员工而遭遇严重反效果"
     ]
   },
   {
@@ -259,17 +212,17 @@
     "date": "Sun, 28 Jun 2026 14:43:34 -0500",
     "popularity": "",
     "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ibji5x/convolutional_neural_networks_apl_2019\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
-    "summary": "该文章介绍了在APL语言中实现卷积神经网络的方法，展示了APL在深度学习领域的应用潜力。",
+    "summary": "该文章介绍了在APL语言中实现卷积神经网络的方法，展示了APL在机器学习领域的应用潜力。",
     "score": 7,
     "tags": [
       "APL",
       "卷积神经网络",
-      "深度学习",
+      "机器学习",
       "函数式编程"
     ],
     "highlights": [
       "Convolutional Neural Networks in APL (2019)",
-      "展示了APL在深度学习领域的应用"
+      "展示了APL在机器学习领域的应用"
     ]
   },
   {
@@ -290,6 +243,28 @@
     ],
     "highlights": [
       "MAX models can now run on Apple silicon GPUs"
+    ]
+  },
+  {
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 29 Jun 2026 07:00:00 GMT",
+    "popularity": "",
+    "content": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "summary": "OpenAI发布新报告，绘制了AI如何重塑欧盟就业的图景，重点分析了哪些职业可能面临自动化、增长或工作流程变化。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "就业",
+      "欧盟",
+      "自动化",
+      "劳动力转型"
+    ],
+    "highlights": [
+      "A new OpenAI report maps how AI could reshape jobs across the EU",
+      "highlighting which occupations may face automation, growth, or workflow changes"
     ]
   },
   {
@@ -315,31 +290,6 @@
     ]
   },
   {
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "source": "rss",
-    "source_name": "OpenAI Blog",
-    "date": "Fri, 26 Jun 2026 10:00:00 GMT",
-    "popularity": "",
-    "content": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-    "summary": "OpenAI 预览了下一代模型 GPT-5.6 Sol，该模型在编程、科学和网络安全方面具有更强的能力，并配备了最先进的安全堆栈。",
-    "score": 9,
-    "tags": [
-      "GPT-5.6 Sol",
-      "OpenAI",
-      "下一代模型",
-      "编程",
-      "科学",
-      "网络安全",
-      "安全堆栈"
-    ],
-    "highlights": [
-      "OpenAI previews GPT-5.6 Sol",
-      "a next-generation model with stronger capabilities in coding, science, and cybersecurity",
-      "paired with its most advanced safety stack"
-    ]
-  },
-  {
     "title": "Run a vLLM Server on HF Jobs in One Command",
     "url": "https://huggingface.co/blog/vllm-jobs",
     "source": "rss",
@@ -347,7 +297,7 @@
     "date": "Fri, 26 Jun 2026 00:00:00 GMT",
     "popularity": "",
     "content": "",
-    "summary": "本文介绍如何通过一条命令在Hugging Face Jobs上运行vLLM服务器，简化了部署流程，并提供了快速启动指南。",
+    "summary": "本文介绍如何通过一条命令在Hugging Face Jobs上运行vLLM服务器，简化了部署流程并提升了效率。",
     "score": 8,
     "tags": [
       "vLLM",
@@ -358,8 +308,7 @@
     ],
     "highlights": [
       "Run a vLLM Server on HF Jobs in One Command",
-      "简化部署流程",
-      "快速启动指南"
+      "通过一条命令在Hugging Face Jobs上运行vLLM服务器"
     ]
   },
   {
@@ -370,19 +319,19 @@
     "date": "Thu, 25 Jun 2026 16:11:42 GMT",
     "popularity": "",
     "content": "",
-    "summary": "本文探讨了混合模型在预测不同token时的表现差异，分析了哪些token类型（如高频词、低频词、语法词等）在混合架构下预测更准确，并提供了实验数据和结论。",
+    "summary": "本文探讨了混合模型在预测不同token时的表现差异，分析了哪些token类型（如高频词、低频词、特殊符号等）在混合架构下预测更准确，并提供了实验数据和结论。",
     "score": 8,
     "tags": [
       "混合模型",
       "token预测",
       "自然语言处理",
-      "模型分析",
+      "模型性能",
       "Hugging Face"
     ],
     "highlights": [
       "混合模型在预测低频token时表现优于单一模型。",
-      "语法功能词（如介词、冠词）的预测准确率提升显著。",
-      "实验表明，混合架构能有效结合不同模型的优势。"
+      "实验表明，特殊符号和罕见词的预测准确率提升显著。",
+      "高频词的预测差异较小，但混合模型仍略有优势。"
     ]
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "id": "rss-28202614-013",
+  "id": "rss-28202614-011",
   "title": "Convolutional Neural Networks in APL (2019)",
   "source": "rss",
   "source_url": "https://dl.acm.org/doi/epdf/10.1145/3315454.3329960",
@@ -7,16 +7,16 @@
   "url": "https://dl.acm.org/doi/epdf/10.1145/3315454.3329960",
   "date": "Sun, 28 Jun 2026 14:43:34 -0500",
   "popularity": "",
-  "summary": "该文章介绍了在APL语言中实现卷积神经网络的方法，展示了APL在深度学习领域的应用潜力。",
+  "summary": "该文章介绍了在APL语言中实现卷积神经网络的方法，展示了APL在机器学习领域的应用潜力。",
   "highlights": [
     "Convolutional Neural Networks in APL (2019)",
-    "展示了APL在深度学习领域的应用"
+    "展示了APL在机器学习领域的应用"
   ],
   "score": 7,
   "tags": [
     "APL",
     "卷积神经网络",
-    "深度学习",
+    "机器学习",
     "函数式编程"
   ]
 }

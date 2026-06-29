@@ -19,5 +19,10 @@
     "布朗大学",
     "作弊",
     "教育"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260629"
+  }
 }

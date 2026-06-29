@@ -20,5 +20,10 @@
     "部署",
     "服务器",
     "命令行"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260629"
+  }
 }

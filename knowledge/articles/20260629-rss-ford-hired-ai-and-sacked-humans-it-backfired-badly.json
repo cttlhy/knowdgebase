@@ -19,5 +19,10 @@
     "福特",
     "人力资源管理",
     "技术反噬"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260629"
+  }
 }

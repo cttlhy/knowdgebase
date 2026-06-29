@@ -20,5 +20,10 @@
     "自然语言处理",
     "模型分析",
     "Hugging Face"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260629"
+  }
 }

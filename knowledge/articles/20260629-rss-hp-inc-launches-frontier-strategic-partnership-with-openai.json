@@ -19,5 +19,10 @@
     "战略合作",
     "AI部署",
     "企业运营"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260629"
+  }
 }

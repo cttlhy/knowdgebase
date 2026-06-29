@@ -21,5 +21,9 @@
     "自托管",
     "云服务",
     "集成"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true
+  }
 }

@@ -19,5 +19,10 @@
     "token预测",
     "自然语言处理",
     "模型分析"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260629"
+  }
 }

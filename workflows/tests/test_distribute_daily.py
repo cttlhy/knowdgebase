@@ -8,11 +8,11 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-
 _model_client = types.ModuleType("pipeline.model_client")
 sys.modules.setdefault("pipeline.model_client", _model_client)
 
 import scripts.distribute_daily_articles as distribute_script
+from workflows.distribution import format_daily_digest
 
 
 class DistributeDailyArticlesTests(unittest.TestCase):
@@ -72,6 +72,30 @@ class DistributeDailyArticlesTests(unittest.TestCase):
             )
 
         self.assertEqual(articles, [])
+
+    def test_format_daily_digest_builds_single_message(self) -> None:
+        from workflows.distribution import format_daily_digest
+
+        digest = format_daily_digest(
+            [
+                {
+                    "title": "High",
+                    "summary": "High score AI agent article for distribution test.",
+                    "score": 0.9,
+                    "source_url": "https://github.com/example/high",
+                    "tags": ["ai", "agent"],
+                }
+            ],
+            date_stamp="20260629",
+            total_count=12,
+            digest_limit=5,
+        )
+
+        self.assertIn("AI 知识库日报 | 2026-06-29", digest)
+        self.assertIn("今日收录 12 条", digest)
+        self.assertIn("High", digest)
+        self.assertIn("https://github.com/example/high", digest)
+        self.assertEqual(digest.count("\n1. "), 1)
 
 
 if __name__ == "__main__":

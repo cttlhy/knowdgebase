@@ -9,10 +9,14 @@ from pathlib import Path
 from typing import Any
 
 from workflows.feishu_app import feishu_app_is_configured, resolve_feishu_app_config, send_text_message
-from workflows.schema import resolve_source_url
+from workflows.schema import normalize_score, resolve_source_url
 from workflows.state import KBState
 
 LOGGER = logging.getLogger(__name__)
+
+DEFAULT_DIGEST_LIMIT = 5
+MAX_DIGEST_CHARS = 3800
+MAX_SUMMARY_CHARS = 72
 
 
 def _post_json(url: str, payload: dict[str, Any], *, timeout: int = 15) -> tuple[int, str]:
@@ -88,6 +92,146 @@ def distribute_to_feishu_app(
         receive_id_type=receive_id_type,
         text=_format_message(article, markdown=False),
     )
+
+
+def _truncate(text: str, limit: int) -> str:
+    compact = " ".join(str(text or "").split())
+    if len(compact) <= limit:
+        return compact
+    return compact[: limit - 1].rstrip() + "…"
+
+
+def format_daily_digest(
+    articles: list[dict[str, Any]],
+    *,
+    date_stamp: str,
+    total_count: int,
+    digest_limit: int = DEFAULT_DIGEST_LIMIT,
+) -> str:
+    """Build a single daily digest message for chat channels."""
+    display_date = f"{date_stamp[:4]}-{date_stamp[4:6]}-{date_stamp[6:8]}" if len(date_stamp) == 8 else date_stamp
+    lines = [
+        f"AI 知识库日报 | {display_date}",
+        f"今日收录 {total_count} 条，精选 Top {min(len(articles), digest_limit)}：",
+        "",
+    ]
+    for index, article in enumerate(articles[:digest_limit], start=1):
+        score = normalize_score(article.get("score"))
+        title = str(article.get("title") or "Untitled")
+        summary = _truncate(str(article.get("summary") or ""), MAX_SUMMARY_CHARS)
+        source_url = resolve_source_url(article)
+        tags = ", ".join(str(tag) for tag in article.get("tags", [])[:4])
+        lines.extend(
+            [
+                f"{index}. {title} | {score:.2f}",
+                summary,
+            ]
+        )
+        if tags:
+            lines.append(f"标签: {tags}")
+        lines.append(source_url)
+        lines.append("")
+    lines.append("——")
+    lines.append("Knowdeage 自动推送")
+    message = "\n".join(lines).strip()
+    if len(message) > MAX_DIGEST_CHARS:
+        message = _truncate(message, MAX_DIGEST_CHARS)
+    return message
+
+
+def mark_articles_distributed(
+    articles_dir: Path,
+    articles: list[dict[str, Any]],
+    *,
+    feishu: bool = False,
+    telegram: bool = False,
+    digest_date: str = "",
+) -> None:
+    """Persist distribution flags back to article JSON files."""
+    if not articles_dir.exists():
+        return
+
+    targets = {str(article.get("id")): article for article in articles if article.get("id")}
+    if not targets:
+        return
+
+    for path in articles_dir.glob("*.json"):
+        if path.name == "index.json":
+            continue
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            continue
+        article_id = str(payload.get("id") or "")
+        if article_id not in targets:
+            continue
+        distribution = dict(payload.get("distribution") or {"telegram": False, "feishu": False})
+        if feishu:
+            distribution["feishu"] = True
+        if telegram:
+            distribution["telegram"] = True
+        if digest_date:
+            distribution["feishu_digest_date"] = digest_date
+        payload["distribution"] = distribution
+        path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def send_daily_digest_to_feishu(
+    articles: list[dict[str, Any]],
+    *,
+    app_id: str,
+    app_secret: str,
+    receive_id: str,
+    receive_id_type: str,
+    date_stamp: str,
+    total_count: int,
+    digest_limit: int = DEFAULT_DIGEST_LIMIT,
+    dry_run: bool = False,
+) -> bool:
+    """Send one consolidated daily digest via Feishu app bot."""
+    if not articles:
+        return False
+    message = format_daily_digest(
+        articles,
+        date_stamp=date_stamp,
+        total_count=total_count,
+        digest_limit=digest_limit,
+    )
+    if dry_run:
+        LOGGER.info("[send_daily_digest_to_feishu] dry-run digest (%s chars)", len(message))
+        return True
+    return send_text_message(
+        app_id=app_id,
+        app_secret=app_secret,
+        receive_id=receive_id,
+        receive_id_type=receive_id_type,
+        text=message,
+    )
+
+
+def send_daily_digest_to_feishu_webhook(
+    articles: list[dict[str, Any]],
+    *,
+    webhook_url: str,
+    date_stamp: str,
+    total_count: int,
+    digest_limit: int = DEFAULT_DIGEST_LIMIT,
+) -> bool:
+    if not articles or not webhook_url.strip():
+        return False
+    payload = {
+        "msg_type": "text",
+        "content": {
+            "text": format_daily_digest(
+                articles,
+                date_stamp=date_stamp,
+                total_count=total_count,
+                digest_limit=digest_limit,
+            )
+        },
+    }
+    status, _ = _post_json(webhook_url.strip(), payload)
+    return 200 <= status < 300
 
 
 def distribute_to_feishu(article: dict[str, Any], *, webhook_url: str) -> bool:

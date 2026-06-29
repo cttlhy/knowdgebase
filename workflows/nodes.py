@@ -3,52 +3,41 @@ from __future__ import annotations
 import json
 import logging
 import re
-import urllib.parse
-import urllib.request
 from hashlib import sha1
 from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
-from pipeline.model_client import Usage, calculate_cost_usd, chat, chat_json
+from pipeline.model_client import Usage, chat_json
 from workflows import reviewer as reviewer_module
+from workflows._utils import coerce_bool, safe_float
+from workflows.runtime_guards import (
+    merge_guard_updates,
+    prepare_untrusted_llm_input,
+    record_llm_usage,
+    sanitize_llm_output,
+)
+from workflows.schema import build_index_entry, canonicalize_article, resolve_source_url
+from workflows.security import sanitize_for_persistence
+from workflows.sources import collect_from_sources
 from workflows.state import KBState
 
 LOGGER = logging.getLogger(__name__)
-GITHUB_SEARCH_API = "https://api.github.com/search/repositories"
 
 
 def _now_iso() -> str:
     return datetime.now(UTC).isoformat()
 
 
-def _safe_float(value: Any, default: float = 0.0) -> float:
-    try:
-        return float(value)
-    except (TypeError, ValueError):
-        return default
-
-
 def _normalize_score(raw_score: Any) -> float:
-    score = _safe_float(raw_score, default=0.0)
+    score = safe_float(raw_score, default=0.0)
     if score > 1.0 and score <= 10.0:
         score = score / 10.0
     return max(0.0, min(1.0, score))
 
 
 def _coerce_bool(value: Any, default: bool = False) -> bool:
-    """Safely coerce external values into bool without truthy-string bugs."""
-    if isinstance(value, bool):
-        return value
-    if isinstance(value, (int, float)):
-        return bool(value)
-    if isinstance(value, str):
-        normalized = value.strip().lower()
-        if normalized in {"true", "1", "yes", "y", "on"}:
-            return True
-        if normalized in {"false", "0", "no", "n", "off", ""}:
-            return False
-    return default
+    return coerce_bool(value, default)
 
 
 def _slugify(text: str) -> str:
@@ -56,73 +45,27 @@ def _slugify(text: str) -> str:
     return slug[:80] or "article"
 
 
-def _usage_delta(state: KBState, usage: Usage) -> dict[str, Any]:
-    previous = state.get("token_usage") or {}
-    prompt_tokens = int(previous.get("prompt_tokens", 0)) + usage.prompt_tokens
-    completion_tokens = int(previous.get("completion_tokens", 0)) + usage.completion_tokens
-    total_tokens = int(previous.get("total_tokens", 0)) + usage.total_tokens
-    provider = str(state.get("provider") or "deepseek")
-    prev_cost = _safe_float(state.get("total_cost_usd"), default=0.0)
-    added_cost = calculate_cost_usd(provider=provider, usage=usage)
-    return {
-        "token_usage": {
-            "prompt_tokens": prompt_tokens,
-            "completion_tokens": completion_tokens,
-            "total_tokens": total_tokens,
-        },
-        "total_cost_usd": round(prev_cost + added_cost, 8),
-    }
-
-
-def _sum_usage(current: Usage, added: Usage) -> Usage:
-    return Usage(
-        prompt_tokens=current.prompt_tokens + added.prompt_tokens,
-        completion_tokens=current.completion_tokens + added.completion_tokens,
-        total_tokens=current.total_tokens + added.total_tokens,
-        estimated=current.estimated and added.estimated,
-    )
-
-
 def collect_node(state: KBState) -> dict[str, Any]:
-    """Collect AI-related repositories from GitHub Search API."""
-    LOGGER.info("[collect_node] Start collecting repositories")
+    """Collect AI-related content from configured sources (GitHub, RSS)."""
+    LOGGER.info("[collect_node] Start collecting from sources")
     limit = max(1, min(int(state.get("collect_limit", 20)), 100))
     query = str(state.get("github_query") or "ai OR llm OR agent")
-    params = urllib.parse.urlencode(
-        {"q": query, "sort": "stars", "order": "desc", "per_page": limit}
-    )
-    headers = {"Accept": "application/vnd.github+json"}
     token = str(state.get("github_token") or "").strip()
-    if token:
-        headers["Authorization"] = f"Bearer {token}"
+    plan = state.get("plan") or {}
+    raw_sources = state.get("collect_sources") or plan.get("collect_sources") or ["github"]
+    if isinstance(raw_sources, str):
+        raw_sources = [item.strip() for item in raw_sources.split(",") if item.strip()]
 
-    request = urllib.request.Request(
-        url=f"{GITHUB_SEARCH_API}?{params}",
-        headers=headers,
-        method="GET",
+    collected, errors = collect_from_sources(
+        sources=list(raw_sources),
+        limit=limit,
+        github_query=query,
+        github_token=token,
     )
-    try:
-        with urllib.request.urlopen(request, timeout=30) as response:
-            payload = json.loads(response.read().decode("utf-8"))
-    except Exception as exc:  # noqa: BLE001 - workflow should degrade gracefully on network failures.
-        message = f"collect failed: {exc}"
-        LOGGER.warning("[collect_node] %s", message)
-        return {"raw_items": [], "collect_error": message}
-
-    collected: list[dict[str, Any]] = []
-    for item in payload.get("items", []):
-        collected.append(
-            {
-                "title": item.get("full_name") or "",
-                "url": item.get("html_url") or "",
-                "source": "github",
-                "date": _now_iso(),
-                "content": item.get("description") or "",
-                "language": item.get("language") or "",
-                "popularity": f"stars:{item.get('stargazers_count', 0)}",
-            }
-        )
-    return {"raw_items": collected}
+    result: dict[str, Any] = {"raw_items": collected}
+    if errors:
+        result["collect_error"] = "; ".join(errors)
+    return result
 
 
 def analyze_node(state: KBState) -> dict[str, Any]:
@@ -130,85 +73,84 @@ def analyze_node(state: KBState) -> dict[str, Any]:
     LOGGER.info("[analyze_node] Start LLM analysis")
     raw_items = state.get("raw_items") or []
     analyzed: list[dict[str, Any]] = []
-    usage_total = Usage(prompt_tokens=0, completion_tokens=0, total_tokens=0, estimated=False)
+    runtime_state: KBState = {**state}
     system_prompt = "你是 AI 知识库分析助手。请输出结构化 JSON。"
     for item in raw_items:
-        summary_text, summary_usage = chat(
-            prompt=(
-                "请根据下面条目生成简洁中文摘要，80字以内。"
-                "只输出摘要正文，不要额外解释。\n"
-                f"标题: {item.get('title', '')}\n"
-                f"链接: {item.get('url', '')}\n"
-                f"内容: {item.get('content', '')}"
-            ),
-            system_prompt="你是中文技术编辑。",
+        source_id = str(item.get("url") or item.get("title") or "unknown-source")
+        untrusted_fragment, guard_update = prepare_untrusted_llm_input(
+            runtime_state,
+            item,
+            source_id=source_id,
+            stage="analyze",
         )
-        usage_total = _sum_usage(usage_total, summary_usage)
+        runtime_state = merge_guard_updates(runtime_state, guard_update)
         prompt = (
-            "请根据下面条目和摘要输出 JSON，字段必须包含："
-            "tags(字符串数组), score(0~1浮点数), reason(中文)。\n"
-            f"标题: {item.get('title', '')}\n"
-            f"链接: {item.get('url', '')}\n"
-            f"摘要: {summary_text}"
+            "请根据下面条目输出 JSON，字段必须包含："
+            "summary(中文摘要，80字以内), tags(字符串数组), score(0~1浮点数), reason(中文)。\n"
+            f"{untrusted_fragment}"
         )
         payload, usage = chat_json(prompt=prompt, system_prompt=system_prompt)
-        usage_total = _sum_usage(usage_total, usage)
-        tags = [str(tag).strip() for tag in payload.get("tags", []) if str(tag).strip()][:8]
-        analyzed.append(
-            {
-                **item,
-                "summary": str(summary_text or "").strip(),
-                "tags": tags,
-                "score": _normalize_score(payload.get("score")),
-                "reason": str(payload.get("reason") or "").strip(),
-            }
+        runtime_state = merge_guard_updates(
+            runtime_state,
+            record_llm_usage(runtime_state, "analyze", usage),
         )
-    return {"analyses": analyzed, "analyzed_items": analyzed, **_usage_delta(state, usage_total)}
+        payload, guard_update = sanitize_llm_output(
+            runtime_state,
+            payload,
+            source_id=source_id,
+            stage="analyze.metadata",
+        )
+        runtime_state = merge_guard_updates(runtime_state, guard_update)
+        tags = [str(tag).strip() for tag in payload.get("tags", []) if str(tag).strip()][:8]
+        candidate = {
+            **item,
+            "summary": str(payload.get("summary") or "").strip(),
+            "tags": tags,
+            "score": _normalize_score(payload.get("score")),
+            "reason": str(payload.get("reason") or "").strip(),
+        }
+        candidate, guard_update = sanitize_llm_output(
+            runtime_state,
+            candidate,
+            source_id=source_id,
+            stage="analyze.item",
+        )
+        runtime_state = merge_guard_updates(runtime_state, guard_update)
+        analyzed.append(candidate)
+    return {
+        "analyses": analyzed,
+        "analyzed_items": analyzed,
+        "security_risk_flags": runtime_state.get("security_risk_flags", []),
+        "security_events": runtime_state.get("security_events", []),
+        "cost_tracker": runtime_state.get("cost_tracker", {}),
+        "cost_guard_report": runtime_state.get("cost_guard_report", {}),
+        "token_usage": runtime_state.get("token_usage", {}),
+        "total_cost_usd": runtime_state.get("total_cost_usd", 0.0),
+    }
 
 
 def organize_node(state: KBState) -> dict[str, Any]:
-    """Filter, deduplicate, and optionally revise items based on review feedback."""
+    """Filter and deduplicate reviewed analysis items into articles."""
     LOGGER.info("[organize_node] Start organizing articles")
     analyzed = state.get("analyzed_items") or []
-    iteration = int(state.get("iteration", 0))
-    feedback = str(state.get("feedback") or "").strip()
+    plan = state.get("plan") or {}
+    relevance_threshold = safe_float(
+        state.get("relevance_threshold", plan.get("relevance_threshold", 0.6)),
+        default=0.6,
+    )
 
     deduped: dict[str, dict[str, Any]] = {}
     for item in analyzed:
         score = _normalize_score(item.get("score"))
-        url = str(item.get("url") or "").strip()
-        if not url or score < 0.6:
+        url = resolve_source_url(item)
+        if not url or score < relevance_threshold:
             continue
         candidate = {**item, "score": score}
         existing = deduped.get(url)
         if existing is None or _normalize_score(existing.get("score")) < score:
             deduped[url] = candidate
 
-    usage_total = Usage(prompt_tokens=0, completion_tokens=0, total_tokens=0, estimated=False)
-    if iteration > 0 and feedback:
-        system_prompt = "你是知识条目修订助手。必须遵循审核意见。输出 JSON。"
-        for url, article in list(deduped.items()):
-            prompt = (
-                "请根据审核反馈定向修正条目，输出 JSON，字段："
-                "summary(中文), tags(数组), score(0~1), reason(中文)。\n"
-                f"审核反馈: {feedback}\n"
-                f"原始条目: {json.dumps(article, ensure_ascii=False)}"
-            )
-            payload, usage = chat_json(prompt=prompt, system_prompt=system_prompt)
-            usage_total = _sum_usage(usage_total, usage)
-            deduped[url] = {
-                **article,
-                "summary": str(payload.get("summary") or article.get("summary") or "").strip(),
-                "tags": [
-                    str(tag).strip()
-                    for tag in payload.get("tags", article.get("tags", []))
-                    if str(tag).strip()
-                ][:8],
-                "score": _normalize_score(payload.get("score", article.get("score"))),
-                "reason": str(payload.get("reason") or article.get("reason") or "").strip(),
-            }
-
-    return {"articles": list(deduped.values()), **_usage_delta(state, usage_total)}
+    return {"articles": list(deduped.values())}
 
 
 def review_node(state: KBState) -> dict[str, Any]:
@@ -223,31 +165,22 @@ def save_node(state: KBState) -> dict[str, Any]:
     repo_root = Path(str(state.get("knowledge_root") or Path(__file__).resolve().parent.parent))
     articles_dir = repo_root / "knowledge" / "articles"
     articles_dir.mkdir(parents=True, exist_ok=True)
-    now = _now_iso()
-    date_stamp = datetime.now(UTC).strftime("%Y%m%d")
+    _now = datetime.now(UTC)
+    now = _now.isoformat()
+    date_stamp = _now.strftime("%Y%m%d")
 
     saved_files: list[str] = []
     index_entries: list[dict[str, Any]] = []
     for index, article in enumerate(articles, start=1):
-        article_id = str(article.get("id") or f"article-{date_stamp}-{index:03d}")
-        payload = {**article, "id": article_id, "updated_at": now}
-        unique_source = str(payload.get("url") or article_id)
+        canonical = canonicalize_article(article, index=index, now=now)
+        payload = sanitize_for_persistence(canonical)
+        unique_source = resolve_source_url(payload) or payload["id"]
         unique_suffix = sha1(unique_source.encode("utf-8")).hexdigest()[:10]
-        filename = f"{date_stamp}-{_slugify(payload.get('title', article_id))}-{unique_suffix}.json"
+        filename = f"{date_stamp}-{_slugify(payload.get('title', payload['id']))}-{unique_suffix}.json"
         target = articles_dir / filename
         target.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
         saved_files.append(target.name)
-        index_entries.append(
-            {
-                "id": article_id,
-                "title": payload.get("title", ""),
-                "url": payload.get("url", ""),
-                "score": _normalize_score(payload.get("score")),
-                "tags": payload.get("tags", []),
-                "file": target.name,
-                "updated_at": now,
-            }
-        )
+        index_entries.append(build_index_entry(payload, filename=filename, now=now))
 
     index_path = articles_dir / "index.json"
     existing_entries: list[dict[str, Any]] = []
@@ -259,9 +192,11 @@ def save_node(state: KBState) -> dict[str, Any]:
         except json.JSONDecodeError:
             existing_entries = []
 
-    merged = {str(item.get("url") or item.get("id")): item for item in existing_entries}
+    merged = {
+        resolve_source_url(item) or str(item.get("id")): item for item in existing_entries
+    }
     for item in index_entries:
-        merged[str(item.get("url") or item.get("id"))] = item
+        merged[resolve_source_url(item) or str(item.get("id"))] = item
     merged_index = list(merged.values())
     index_path.write_text(json.dumps(merged_index, ensure_ascii=False, indent=2), encoding="utf-8")
     if articles:

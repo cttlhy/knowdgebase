@@ -1,0 +1,57 @@
+name: Feishu Discover
+
+on:
+  workflow_dispatch:
+    inputs:
+      query:
+        description: Optional group name keyword
+        required: false
+        default: ""
+      send_test:
+        description: Send test message if FEISHU_RECEIVE_ID is configured (true/false)
+        required: false
+        default: "false"
+
+permissions:
+  contents: read
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    env:
+      FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+      FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+      FEISHU_RECEIVE_ID: ${{ secrets.FEISHU_RECEIVE_ID }}
+      FEISHU_RECEIVE_ID_TYPE: ${{ secrets.FEISHU_RECEIVE_ID_TYPE }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Discover Feishu group chat_id values
+        shell: bash
+        run: |
+          set -euo pipefail
+          args=(--json)
+          if [ -n "${{ github.event.inputs.query }}" ]; then
+            args+=(--query "${{ github.event.inputs.query }}")
+          fi
+          if [ "${{ github.event.inputs.send_test }}" = "true" ]; then
+            args+=(--send-test)
+          fi
+          python -m workflows.feishu_discover "${args[@]}"
+
+      - name: Print setup instructions
+        if: always()
+        run: |
+          cat <<'EOF'
+          If chat_id values were printed above:
+          1. Copy the target group's chat_id
+          2. Add GitHub repository secret FEISHU_RECEIVE_ID=<chat_id>
+          3. Optionally add FEISHU_RECEIVE_ID_TYPE=chat_id
+          4. Re-run this workflow with send_test=true to verify delivery
+          EOF

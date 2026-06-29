@@ -1,0 +1,33 @@
+{
+  "title": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "source": "github",
+  "date": "2026-05-17T02:22:17.123532+00:00",
+  "content": "An agentic skills framework & software development methodology that works.",
+  "language": "Shell",
+  "popularity": "stars:194092",
+  "summary": "Obra/Superpowers是一个实用的智能体技能框架与软件开发方法论，通过结构化技能定义和协作流程，旨在提升开发效率与团队协作能力。",
+  "tags": [
+    "智能体",
+    "技能框架",
+    "软件开发",
+    "方法论",
+    "效率提升",
+    "协作"
+  ],
+  "score": 0.82,
+  "reason": "摘要清晰、技术深度适中、相关性好，但缺乏具体细节（如框架核心组件或方法论步骤），原创性评分适当降低。",
+  "id": "article-20260517-002",
+  "updated_at": "2026-05-17T02:22:47.962438+00:00",
+  "source_url": "https://github.com/obra/superpowers",
+  "collected_at": "2026-05-17T02:22:17.123532+00:00",
+  "status": "published",
+  "distribution": {
+    "telegram": false,
+    "feishu": false
+  },
+  "metadata": {
+    "language": "Shell",
+    "popularity": "stars:194092"
+  }
+}

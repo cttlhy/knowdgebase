@@ -1,0 +1,40 @@
+{
+  "flagged_at": "2026-05-15T09:54:35.220762+00:00",
+  "reason": "max_iterations_exceeded",
+  "iteration": 3,
+  "max_iterations": 0,
+  "review_feedback": "分析整体质量较高，摘要清晰，技术深度和相关性表现良好，但部分分析的原创性评分偏低，格式规范基本符合要求。",
+  "review": {
+    "passed": false,
+    "overall_score": 7.65,
+    "feedback": "分析整体质量较高，摘要清晰，技术深度和相关性表现良好，但部分分析的原创性评分偏低，格式规范基本符合要求。",
+    "scores": {
+      "summary_quality": 8.0,
+      "technical_depth": 7.0,
+      "relevance": 9.0,
+      "originality": 6.0,
+      "formatting": 8.0
+    }
+  },
+  "item": {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-05-15T09:53:45.495667+00:00",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "language": "Python",
+    "popularity": "stars:184318",
+    "summary": "AutoGPT致力于让AI人人可用，提供工具助你聚焦核心任务，实现构建与使用AI的愿景，降低AI使用门槛，但未说明具体技术突破或最新进展。",
+    "tags": [
+      "AutoGPT",
+      "AI工具",
+      "开源项目",
+      "自动化",
+      "任务聚焦",
+      "可访问性"
+    ],
+    "score": 0.85,
+    "reason": "AutoGPT是当前最知名的AI自动化项目之一，致力于降低AI使用门槛，提供实用工具，具有广泛影响力和高活跃度，但原创性评分适当降低。"
+  },
+  "review_status": "pending"
+}

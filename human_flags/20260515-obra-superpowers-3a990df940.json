@@ -1,0 +1,40 @@
+{
+  "flagged_at": "2026-05-15T09:54:35.220762+00:00",
+  "reason": "max_iterations_exceeded",
+  "iteration": 3,
+  "max_iterations": 0,
+  "review_feedback": "分析整体质量较高，摘要清晰，技术深度和相关性表现良好，但部分分析的原创性评分偏低，格式规范基本符合要求。",
+  "review": {
+    "passed": false,
+    "overall_score": 7.65,
+    "feedback": "分析整体质量较高，摘要清晰，技术深度和相关性表现良好，但部分分析的原创性评分偏低，格式规范基本符合要求。",
+    "scores": {
+      "summary_quality": 8.0,
+      "technical_depth": 7.0,
+      "relevance": 9.0,
+      "originality": 6.0,
+      "formatting": 8.0
+    }
+  },
+  "item": {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-05-15T09:53:45.495667+00:00",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "popularity": "stars:192009",
+    "summary": "一个实用的智能体技能框架与软件开发方法论，旨在提升开发效率与协作能力，强调实际可操作性，但未提及具体实现细节或社区反响。",
+    "tags": [
+      "智能体",
+      "技能框架",
+      "软件开发",
+      "方法论",
+      "效率提升",
+      "协作"
+    ],
+    "score": 0.75,
+    "reason": "该项目提出了一个实用的智能体技能框架和软件开发方法论，直接针对开发效率与协作能力的提升，具有明确的实用价值和创新性，但摘要未提供具体实现细节或社区反响，原创性评分适当降低。"
+  },
+  "review_status": "pending"
+}

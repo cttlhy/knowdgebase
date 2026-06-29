@@ -1,0 +1,40 @@
+{
+  "flagged_at": "2026-05-15T09:54:35.220762+00:00",
+  "reason": "max_iterations_exceeded",
+  "iteration": 3,
+  "max_iterations": 0,
+  "review_feedback": "分析整体质量较高，摘要清晰，技术深度和相关性表现良好，但部分分析的原创性评分偏低，格式规范基本符合要求。",
+  "review": {
+    "passed": false,
+    "overall_score": 7.65,
+    "feedback": "分析整体质量较高，摘要清晰，技术深度和相关性表现良好，但部分分析的原创性评分偏低，格式规范基本符合要求。",
+    "scores": {
+      "summary_quality": 8.0,
+      "technical_depth": 7.0,
+      "relevance": 9.0,
+      "originality": 6.0,
+      "formatting": 8.0
+    }
+  },
+  "item": {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-05-15T09:53:45.495667+00:00",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "language": "TypeScript",
+    "popularity": "stars:187940",
+    "summary": "n8n是一个公平代码工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或云部署，集成400多个应用，功能全面且灵活。",
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "自托管",
+      "集成",
+      "可视化"
+    ],
+    "score": 0.95,
+    "reason": "n8n是一个功能强大的工作流自动化平台，具备原生AI能力和广泛的集成支持，适合多种部署方式，具有很高的实用性和灵活性，原创性较高。"
+  },
+  "review_status": "pending"
+}

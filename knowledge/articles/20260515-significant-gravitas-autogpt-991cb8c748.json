@@ -2,11 +2,11 @@
   "title": "Significant-Gravitas/AutoGPT",
   "url": "https://github.com/Significant-Gravitas/AutoGPT",
   "source": "github",
-  "date": "2026-05-15T08:52:19.961629+00:00",
+  "date": "2026-05-15T09:51:32.024655+00:00",
   "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
   "language": "Python",
-  "popularity": "stars:184316",
-  "summary": "AutoGPT致力于让AI人人可用，提供工具助你聚焦核心任务，实现构建与使用AI的愿景。",
+  "popularity": "stars:184318",
+  "summary": "AutoGPT致力于让AI人人可用，提供工具助你聚焦核心任务，实现构建与使用。",
   "tags": [
     "AutoGPT",
     "AI工具",
@@ -14,8 +14,8 @@
     "自动化",
     "任务聚焦"
   ],
-  "score": 0.92,
-  "reason": "AutoGPT是一个广受关注的开源项目，旨在降低AI使用门槛，提供自动化工具帮助用户聚焦核心任务，具有较高的实用价值和社区影响力。",
+  "score": 0.88,
+  "reason": "根据审核反馈，摘要清晰但略显简略，原创性评分适当降低，整体质量仍较高。",
   "id": "article-20260515-004",
-  "updated_at": "2026-05-15T08:52:45.695726+00:00"
+  "updated_at": "2026-05-15T09:52:08.029243+00:00"
 }

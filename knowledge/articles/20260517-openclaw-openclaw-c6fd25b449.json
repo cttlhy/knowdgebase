@@ -1,0 +1,31 @@
+{
+  "title": "openclaw/openclaw",
+  "url": "https://github.com/openclaw/openclaw",
+  "source": "github",
+  "date": "2026-05-17T02:22:17.123532+00:00",
+  "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+  "language": "TypeScript",
+  "popularity": "stars:372463",
+  "summary": "OpenClaw是一款跨平台个人AI助手，支持任意操作系统与平台，以“龙虾方式”提供个性化智能服务，但摘要未提及具体功能如任务自动化或对话能力，细节不足。",
+  "tags": [
+    "AI助手",
+    "跨平台",
+    "开源",
+    "个性化服务"
+  ],
+  "score": 0.8,
+  "reason": "根据审核反馈，摘要清晰、技术深度适中、相关性好，但缺乏具体细节（如功能描述），因此适当降低原创性评分至0.8。",
+  "id": "article-20260517-001",
+  "updated_at": "2026-05-17T02:22:47.962438+00:00",
+  "source_url": "https://github.com/openclaw/openclaw",
+  "collected_at": "2026-05-17T02:22:17.123532+00:00",
+  "status": "published",
+  "distribution": {
+    "telegram": false,
+    "feishu": false
+  },
+  "metadata": {
+    "language": "TypeScript",
+    "popularity": "stars:372463"
+  }
+}

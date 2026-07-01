@@ -1,0 +1,23 @@
+{
+  "id": "rss-01202605-011",
+  "title": "Teaching digiKam to Understand You: Natural Language Search with Local LLMs",
+  "source": "rss",
+  "source_url": "http://srirupa19.github.io/gsoc/2026/06/28/gsoc1.html",
+  "status": "draft",
+  "url": "http://srirupa19.github.io/gsoc/2026/06/28/gsoc1.html",
+  "date": "Wed, 01 Jul 2026 05:22:01 -0500",
+  "popularity": "",
+  "summary": "本文介绍了如何通过本地LLM为digiKam添加自然语言搜索功能，使用户能够用日常语言查询图片。",
+  "highlights": [
+    "Teaching digiKam to Understand You: Natural Language Search with Local LLMs",
+    "Comments"
+  ],
+  "score": 7,
+  "tags": [
+    "digiKam",
+    "自然语言搜索",
+    "本地LLM",
+    "图像管理",
+    "开源"
+  ]
+}

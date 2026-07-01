@@ -1,0 +1,24 @@
+{
+  "id": "rss-30202600-014",
+  "title": "Introducing GeneBench-Pro",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-genebench-pro",
+  "status": "draft",
+  "url": "https://openai.com/index/introducing-genebench-pro",
+  "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "GeneBench-Pro 是一个新的基准测试，用于评估AI在基因组学、生物学和科学研究中的性能，使用复杂真实世界数据集。",
+  "highlights": [
+    "Introducing GeneBench-Pro",
+    "a new benchmark testing AI performance in genomics, biology, and scientific research",
+    "using complex, real-world datasets"
+  ],
+  "score": 8,
+  "tags": [
+    "AI",
+    "基准测试",
+    "基因组学",
+    "生物学",
+    "科学研究"
+  ]
+}

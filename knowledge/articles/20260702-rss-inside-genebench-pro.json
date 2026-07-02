@@ -1,0 +1,22 @@
+{
+  "id": "rss-30202600-015",
+  "title": "Inside Genebench-Pro",
+  "source": "rss",
+  "source_url": "https://openai.com/index/genebench-pro/case-studies",
+  "status": "draft",
+  "url": "https://openai.com/index/genebench-pro/case-studies",
+  "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文介绍了Genebench-Pro，一个用于评估AI模型在基因相关任务上性能的基准测试，包含多个案例研究。",
+  "highlights": [
+    "Genebench-Pro是一个专门针对基因领域AI模型性能的基准测试平台。",
+    "文章通过多个案例展示了该基准测试的应用和评估结果。"
+  ],
+  "score": 8,
+  "tags": [
+    "AI评估",
+    "基因基准测试",
+    "Genebench-Pro",
+    "案例研究"
+  ]
+}

@@ -1,0 +1,364 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-07-02",
+    "popularity": "stars:381409",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾为象征，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-07-02",
+    "popularity": "stars:243901",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个基于智能体技能的框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "智能体",
+      "技能框架",
+      "软件开发方法论",
+      "GitHub"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-07-02",
+    "popularity": "stars:224839",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先开发。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "编码工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system.",
+      "Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-07-02",
+    "popularity": "stars:207659",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能代理项目，托管在 GitHub 上。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "自适应系统",
+      "开源项目"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-07-02",
+    "popularity": "stars:194881",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-07-02",
+    "popularity": "stars:194507",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由AI代理管理的博物馆展览项目，使用Rust语言和Gajae-Code / LazyCodex构建，完全无需人工干预即可开发和维护。",
+    "score": 7,
+    "tags": [
+      "Rust",
+      "AI代理",
+      "自动化",
+      "博物馆展览",
+      "无人工干预"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-07-02",
+    "popularity": "stars:186404",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱观察的CLAUDE.md文件，用于改善Claude Code的行为。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "编码",
+      "Claude Code",
+      "CLAUDE.md",
+      "Andrej Karpathy"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-07-02",
+    "popularity": "stars:185252",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用 AI，提供工具以便用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-07-02",
+    "popularity": "stars:181532",
+    "content": "The open source coding agent.",
+    "summary": "Anomalyco/OpenCode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-07-02",
+    "popularity": "stars:175274",
+    "content": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，支持快速运行多种大语言模型，包括 Kimi-K2.6、GLM-5.1、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 9,
+    "tags": [
+      "大语言模型",
+      "开源",
+      "模型运行",
+      "AI",
+      "GitHub"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+    ]
+  },
+  {
+    "title": "Godot will no longer accept AI-authored code contributions",
+    "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Wed, 01 Jul 2026 07:43:22 +0000",
+    "popularity": "",
+    "content": "Article URL: https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/ Comments URL: https://news.ycombinator.com/item?id=48743472 Points: 541 # Comments: 381",
+    "summary": "Godot游戏引擎宣布不再接受AI生成的代码贡献，理由是重度AI用户可能无法充分理解代码以进行后续修复。",
+    "score": 8,
+    "tags": [
+      "Godot",
+      "AI",
+      "开源",
+      "代码贡献",
+      "游戏引擎"
+    ],
+    "highlights": [
+      "Godot will no longer accept AI-authored code contributions",
+      "we can't trust heavy users of AI to understand their code enough to fix it"
+    ]
+  },
+  {
+    "title": "The Control Plane Was the Point: Revisiting autofz in the LLM Era",
+    "url": "https://yfu.tw/blog/en/autofz-revisited/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 02 Jul 2026 00:19:10 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gwxqmh/control_plane_was_point_revisiting\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章重新审视了autofz在LLM时代的意义，强调控制平面（control plane）才是关键，而非单纯依赖LLM生成代码。",
+    "score": 8,
+    "tags": [
+      "autofz",
+      "LLM",
+      "控制平面",
+      "软件测试",
+      "模糊测试"
+    ],
+    "highlights": [
+      "The Control Plane Was the Point",
+      "Revisiting autofz in the LLM Era"
+    ]
+  },
+  {
+    "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+    "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 01 Jul 2026 08:04:01 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/k9qw5n/matrix_orthogonalization_improves\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章探讨了矩阵正交化如何提升循环模型中的记忆能力，通过保持权重矩阵的正交性来缓解梯度消失问题，从而增强长期依赖的捕获。",
+    "score": 8,
+    "tags": [
+      "矩阵正交化",
+      "循环神经网络",
+      "记忆增强",
+      "梯度消失",
+      "深度学习"
+    ],
+    "highlights": [
+      "Matrix orthogonalization improves memory in recurrent models",
+      "通过正交化权重矩阵缓解梯度消失",
+      "增强长期依赖的捕获能力"
+    ]
+  },
+  {
+    "title": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 30 Jun 2026 09:00:00 GMT",
+    "popularity": "",
+    "content": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "summary": "OpenAI Signals数据显示ChatGPT在全球范围内的采用率正在增长，用户使用频率增加，探索更多功能，并推动各地区和语言的增长。",
+    "score": 8,
+    "tags": [
+      "ChatGPT",
+      "采用率",
+      "全球增长",
+      "用户行为",
+      "OpenAI"
+    ],
+    "highlights": [
+      "New OpenAI Signals data shows how ChatGPT adoption is growing globally",
+      "users increasing usage, exploring more capabilities",
+      "driving growth across regions and languages"
+    ]
+  },
+  {
+    "title": "Inside Genebench-Pro",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了Genebench-Pro，一个用于评估AI模型在基因相关任务上性能的基准测试，包含多个案例研究。",
+    "score": 8,
+    "tags": [
+      "AI评估",
+      "基因基准测试",
+      "Genebench-Pro",
+      "案例研究"
+    ],
+    "highlights": [
+      "Genebench-Pro是一个专门针对基因领域AI模型性能的基准测试平台。",
+      "文章通过多个案例展示了该基准测试的应用和评估结果。"
+    ]
+  },
+  {
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 01 Jul 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face与Cerebras合作，将Gemma 4模型应用于实时语音AI领域，旨在提升语音交互的响应速度与性能。",
+    "score": 8,
+    "tags": [
+      "Hugging Face",
+      "Cerebras",
+      "Gemma 4",
+      "实时语音AI",
+      "合作"
+    ],
+    "highlights": [
+      "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "旨在提升语音交互的响应速度与性能"
+    ]
+  },
+  {
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 30 Jun 2026 18:32:50 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "ScarfBench是一个用于评估AI代理在企业Java框架迁移任务中性能的基准测试平台，旨在衡量AI在复杂代码迁移场景下的准确性和效率。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "Java框架迁移",
+      "基准测试",
+      "企业级应用",
+      "代码迁移"
+    ],
+    "highlights": [
+      "ScarfBench专门针对企业Java框架迁移设计，填补了AI在复杂代码迁移评估中的空白。",
+      "该基准测试通过模拟真实迁移任务，评估AI代理的代码理解与重构能力。",
+      "研究结果揭示了当前AI代理在框架迁移中的优势与局限性，为未来优化提供了方向。"
+    ]
+  }
+]

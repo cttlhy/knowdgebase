@@ -1,0 +1,24 @@
+{
+  "id": "rss-01202608-013",
+  "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+  "source": "rss",
+  "source_url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+  "status": "draft",
+  "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+  "date": "Wed, 01 Jul 2026 08:04:01 -0500",
+  "popularity": "",
+  "summary": "文章探讨了矩阵正交化如何提升循环模型中的记忆能力，通过保持权重矩阵的正交性来缓解梯度消失问题，从而增强长期依赖的捕获。",
+  "highlights": [
+    "Matrix orthogonalization improves memory in recurrent models",
+    "通过正交化权重矩阵缓解梯度消失",
+    "增强长期依赖的捕获能力"
+  ],
+  "score": 8,
+  "tags": [
+    "矩阵正交化",
+    "循环神经网络",
+    "记忆增强",
+    "梯度消失",
+    "深度学习"
+  ]
+}

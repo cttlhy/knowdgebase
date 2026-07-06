@@ -1,0 +1,25 @@
+{
+  "id": "rss-30202600-014",
+  "title": "Inside Genebench-Pro",
+  "source": "rss",
+  "source_url": "https://openai.com/index/genebench-pro/case-studies",
+  "status": "draft",
+  "url": "https://openai.com/index/genebench-pro/case-studies",
+  "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "Genebench-Pro是OpenAI推出的一个基准测试平台，用于评估AI模型在基因相关任务上的表现，包括基因功能预测、变异解读等。该页面通过案例研究展示了平台的设计、评估方法和实际应用效果。",
+  "highlights": [
+    "Genebench-Pro is a benchmark for evaluating AI models on gene-related tasks.",
+    "The platform includes case studies demonstrating its design and evaluation methods.",
+    "It focuses on tasks like gene function prediction and variant interpretation."
+  ],
+  "score": 8,
+  "tags": [
+    "OpenAI",
+    "Genebench-Pro",
+    "基准测试",
+    "基因",
+    "AI评估",
+    "案例研究"
+  ]
+}

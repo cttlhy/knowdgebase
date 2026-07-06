@@ -1,0 +1,24 @@
+{
+  "id": "rss-06202600-016",
+  "title": "🤗 Kernels: Major Updates",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/revamped-kernels",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/revamped-kernels",
+  "date": "Mon, 06 Jul 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "Hugging Face 对 Kernels 功能进行了重大更新，包括性能优化、新特性添加和用户体验改进。",
+  "highlights": [
+    "Kernels 功能迎来重大更新，显著提升运行速度和稳定性。",
+    "新增多种内核选项，支持更广泛的机器学习框架和库。",
+    "改进了用户界面，使内核管理和切换更加直观便捷。"
+  ],
+  "score": 8,
+  "tags": [
+    "Hugging Face",
+    "Kernels",
+    "更新",
+    "性能优化",
+    "用户体验"
+  ]
+}

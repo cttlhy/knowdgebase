@@ -1,0 +1,23 @@
+{
+  "id": "rss-02202600-012",
+  "title": "The Control Plane Was the Point: Revisiting autofz in the LLM Era",
+  "source": "rss",
+  "source_url": "https://yfu.tw/blog/en/autofz-revisited/",
+  "status": "draft",
+  "url": "https://yfu.tw/blog/en/autofz-revisited/",
+  "date": "Thu, 02 Jul 2026 00:19:10 -0500",
+  "popularity": "",
+  "summary": "文章回顾了autofz工具在LLM时代的价值，强调控制平面（control plane）才是关键，而非仅仅依赖LLM生成代码。",
+  "highlights": [
+    "The Control Plane Was the Point",
+    "Revisiting autofz in the LLM Era"
+  ],
+  "score": 8,
+  "tags": [
+    "autofz",
+    "LLM",
+    "控制平面",
+    "模糊测试",
+    "软件工程"
+  ]
+}

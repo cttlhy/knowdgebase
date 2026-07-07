@@ -1,0 +1,24 @@
+{
+  "id": "rss-06202615-016",
+  "title": "PRX Part 4: Our Data Strategy",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+  "date": "Mon, 06 Jul 2026 15:30:55 GMT",
+  "popularity": "",
+  "summary": "本文介绍了Photoroom在PRX项目第四部分中的数据策略，重点讨论了如何通过数据收集、标注和增强来提升模型性能，并分享了实际应用中的经验与教训。",
+  "highlights": [
+    "数据策略是PRX项目成功的关键，我们通过系统化的数据收集和标注流程确保模型训练质量。",
+    "数据增强技术显著提升了模型的泛化能力，尤其是在低资源场景下。",
+    "我们分享了在数据管理中的常见陷阱及解决方案，为类似项目提供参考。"
+  ],
+  "score": 8,
+  "tags": [
+    "数据策略",
+    "机器学习",
+    "数据增强",
+    "数据标注",
+    "PRX项目"
+  ]
+}

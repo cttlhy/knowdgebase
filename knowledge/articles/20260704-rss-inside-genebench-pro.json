@@ -20,5 +20,10 @@
     "基准测试",
     "基因",
     "AI评估"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260707"
+  }
 }

@@ -21,5 +21,10 @@
     "基因",
     "AI评估",
     "案例研究"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260707"
+  }
 }

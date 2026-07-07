@@ -20,5 +20,10 @@
     "OpenAI",
     "模型评估",
     "生物信息学"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260707"
+  }
 }

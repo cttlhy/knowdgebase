@@ -20,5 +20,10 @@
     "基因组学",
     "生物学",
     "科学研究"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260707"
+  }
 }

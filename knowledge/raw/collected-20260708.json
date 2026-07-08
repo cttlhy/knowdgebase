@@ -1,0 +1,388 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-07-08",
+    "popularity": "stars:382145",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾为象征，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源"
+    ],
+    "highlights": [
+      "Your own personal AI assistant",
+      "Any OS. Any Platform",
+      "The lobster way"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-07-08",
+    "popularity": "stars:249324",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "效率提升",
+      "协作"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-07-08",
+    "popularity": "stars:227221",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "开发工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system.",
+      "Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-07-08",
+    "popularity": "stars:211266",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能体项目，旨在提供持续适应和进化的交互体验。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "自适应系统",
+      "开源项目",
+      "NousResearch"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-07-08",
+    "popularity": "stars:195630",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-07-08",
+    "popularity": "stars:194661",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由AI代理管理的博物馆展览项目，使用Rust语言和Gajae-Code/LazyCodex构建，完全无需人工干预进行开发和维护。",
+    "score": 7,
+    "tags": [
+      "Rust",
+      "AI代理",
+      "自动化",
+      "博物馆展览",
+      "无人工干预"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-07-08",
+    "popularity": "stars:189290",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱观察的CLAUDE.md文件，用于改善Claude Code的行为。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "Claude Code",
+      "编码陷阱",
+      "配置文件",
+      "AI辅助编程"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-07-08",
+    "popularity": "stars:185432",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让AI对所有人可访问、可使用的开源项目，提供工具帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "to use and to build on",
+      "provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-07-08",
+    "popularity": "stars:183552",
+    "content": "The open source coding agent.",
+    "summary": "Anomalyco/OpenCode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-07-08",
+    "popularity": "stars:175707",
+    "content": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，支持快速运行多种大型语言模型，包括 Kimi-K2.6、GLM-5.1、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 9,
+    "tags": [
+      "开源",
+      "大语言模型",
+      "AI",
+      "模型部署",
+      "GitHub"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "支持多种主流大语言模型的一键运行"
+    ]
+  },
+  {
+    "title": "We charge $10k a week to delete AI-generated code",
+    "url": "https://odra.dev/slopfix/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Tue, 07 Jul 2026 20:35:42 +0000",
+    "popularity": "",
+    "content": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 274 # Comments: 174",
+    "summary": "一家公司以每周1万美元的价格提供删除AI生成代码的服务，引发关于AI代码质量和维护成本的讨论。",
+    "score": 7,
+    "tags": [
+      "AI代码",
+      "代码质量",
+      "商业服务",
+      "维护成本"
+    ],
+    "highlights": [
+      "We charge $10k a week to delete AI-generated code",
+      "AI-generated code often introduces technical debt and maintenance challenges"
+    ]
+  },
+  {
+    "title": "GLM 5.2 and the coming AI margin collapse",
+    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Mon, 06 Jul 2026 20:14:55 +0000",
+    "popularity": "",
+    "content": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 671 # Comments: 455",
+    "summary": "文章探讨了GLM 5.2模型发布对AI行业的影响，预测AI利润率将因模型商品化和竞争加剧而崩溃。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "GLM 5.2",
+      "利润率崩溃",
+      "模型商品化",
+      "行业竞争"
+    ],
+    "highlights": [
+      "GLM 5.2 marks a turning point in AI model commoditization.",
+      "The margin collapse is inevitable as open-source alternatives catch up.",
+      "Profit margins for proprietary AI models are expected to shrink dramatically."
+    ]
+  },
+  {
+    "title": "A global workspace in language models",
+    "url": "https://www.anthropic.com/research/global-workspace",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 07 Jul 2026 13:26:18 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xgtzrp/global_workspace_language_models\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文探讨了语言模型中的全局工作空间概念，可能涉及认知架构或信息处理机制。",
+    "score": 7,
+    "tags": [
+      "语言模型",
+      "全局工作空间",
+      "认知架构"
+    ],
+    "highlights": [
+      "https://lobste.rs/s/xgtzrp/global_workspace_language_models"
+    ]
+  },
+  {
+    "title": "Google’s exponential path to climate-wrecking digital bloat",
+    "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 07 Jul 2026 02:33:16 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/v8hk8q/google_s_exponential_path_climate\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章探讨谷歌因指数级增长的数字服务（如搜索、广告、云存储等）导致能源消耗剧增，进而加剧气候危机的路径，并批评其缺乏可持续性措施。",
+    "score": 8,
+    "tags": [
+      "谷歌",
+      "气候变化",
+      "数字膨胀",
+      "能源消耗",
+      "可持续性"
+    ],
+    "highlights": [
+      "Google's exponential growth in digital services is driving massive energy consumption.",
+      "The company's path is described as 'climate-wrecking' due to lack of sustainable practices.",
+      "The article criticizes the environmental impact of data centers and AI expansion."
+    ]
+  },
+  {
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "url": "https://openai.com/index/australian-payments-plus",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+    "summary": "Australian Payments Plus 利用 ChatGPT Enterprise 和 Codex 加速处理支付复杂性，节省时间、提升质量，并保持人类判断的核心地位。",
+    "score": 8,
+    "tags": [
+      "ChatGPT Enterprise",
+      "Codex",
+      "支付",
+      "效率提升",
+      "人工智能"
+    ],
+    "highlights": [
+      "Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity.",
+      "AP+ saves time, improves quality, and keeps human judgment central."
+    ]
+  },
+  {
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "summary": "MUFG利用ChatGPT Enterprise构建AI原生组织，优化工作流程并规模化提供AI驱动的金融服务。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "金融",
+      "ChatGPT Enterprise",
+      "MUFG",
+      "数字化转型"
+    ],
+    "highlights": [
+      "MUFG aims to become AI-native with OpenAI",
+      "MUFG uses ChatGPT Enterprise to build an AI-native organization",
+      "improve workflows",
+      "deliver new AI-powered financial services at scale"
+    ]
+  },
+  {
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 07 Jul 2026 21:15:33 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了如何一键将Hugging Face上的模型和Notebook部署到Amazon SageMaker Studio，简化了从实验到生产的流程。",
+    "score": 8,
+    "tags": [
+      "Hugging Face",
+      "Amazon SageMaker",
+      "模型部署",
+      "机器学习",
+      "云计算"
+    ],
+    "highlights": [
+      "一键将Hugging Face模型迁移到SageMaker Studio",
+      "简化了从实验到生产的部署流程",
+      "支持Notebook和模型的直接集成"
+    ]
+  },
+  {
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 07 Jul 2026 15:20:06 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了如何在Microsoft Foundry托管计算平台上部署和使用Hugging Face模型，包括模型选择、配置步骤和性能优化建议。",
+    "score": 8,
+    "tags": [
+      "Hugging Face",
+      "Microsoft Foundry",
+      "托管计算",
+      "模型部署",
+      "性能优化"
+    ],
+    "highlights": [
+      "Foundry Managed Compute 支持 Hugging Face 模型的快速部署。",
+      "用户可以通过简单的配置在托管环境中运行大规模模型。",
+      "文章提供了详细的步骤和最佳实践以优化模型性能。"
+    ]
+  }
+]

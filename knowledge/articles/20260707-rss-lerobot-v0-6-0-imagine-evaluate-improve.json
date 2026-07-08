@@ -20,5 +20,10 @@
     "版本更新",
     "LeRobot",
     "AI"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260708"
+  }
 }

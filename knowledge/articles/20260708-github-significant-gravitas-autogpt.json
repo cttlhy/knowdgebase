@@ -1,0 +1,28 @@
+{
+  "id": "github-20260708-008",
+  "title": "Significant-Gravitas/AutoGPT",
+  "source": "github",
+  "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "status": "draft",
+  "url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "date": "2026-07-08",
+  "popularity": "stars:185432",
+  "summary": "AutoGPT 是一个旨在让AI对所有人可访问、可使用的开源项目，提供工具帮助用户专注于重要事务。",
+  "highlights": [
+    "AutoGPT is the vision of accessible AI for everyone",
+    "to use and to build on",
+    "provide the tools, so that you can focus on what matters"
+  ],
+  "score": 9,
+  "tags": [
+    "AI",
+    "开源",
+    "自动化",
+    "工具"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260708"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-07202615-018",
+  "title": "Hugging Face Models on Foundry Managed Compute",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+  "date": "Tue, 07 Jul 2026 15:20:06 GMT",
+  "popularity": "",
+  "summary": "本文介绍了如何在Microsoft Foundry托管计算平台上部署和使用Hugging Face模型，包括模型选择、配置步骤和性能优化建议。",
+  "highlights": [
+    "Foundry Managed Compute 支持 Hugging Face 模型的快速部署。",
+    "用户可以通过简单的配置在托管环境中运行大规模模型。",
+    "文章提供了详细的步骤和最佳实践以优化模型性能。"
+  ],
+  "score": 8,
+  "tags": [
+    "Hugging Face",
+    "Microsoft Foundry",
+    "托管计算",
+    "模型部署",
+    "性能优化"
+  ]
+}

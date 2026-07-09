@@ -1,0 +1,23 @@
+{
+  "id": "rss-08202613-015",
+  "title": "Separating signal from noise in coding evaluations",
+  "source": "rss",
+  "source_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+  "status": "draft",
+  "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+  "date": "Wed, 08 Jul 2026 13:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI的新分析揭示了流行编码基准SWE-Bench Pro中的问题，引发了对AI模型评估可靠性和准确性的担忧。",
+  "highlights": [
+    "A new analysis from OpenAI reveals issues in SWE-Bench Pro",
+    "raising concerns about reliability and accuracy in evaluating AI models"
+  ],
+  "score": 8,
+  "tags": [
+    "OpenAI",
+    "SWE-Bench Pro",
+    "编码评估",
+    "AI模型",
+    "基准测试"
+  ]
+}

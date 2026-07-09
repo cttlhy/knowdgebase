@@ -1,0 +1,28 @@
+{
+  "id": "rss-08202605-011",
+  "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+  "source": "rss",
+  "source_url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+  "status": "draft",
+  "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+  "date": "Wed, 08 Jul 2026 05:25:35 +0000",
+  "popularity": "",
+  "summary": "文章揭示了如何通过欺骗GitHub的AI代理，导致其泄露私有仓库内容的安全漏洞。",
+  "highlights": [
+    "We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "GitLost: How we tricked GitHub's AI agent into leaking private repos"
+  ],
+  "score": 9,
+  "tags": [
+    "GitHub",
+    "AI安全",
+    "数据泄露",
+    "漏洞利用",
+    "私有仓库"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260709"
+  }
+}

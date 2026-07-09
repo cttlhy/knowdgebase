@@ -1,0 +1,358 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-07-09",
+    "popularity": "stars:382293",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾风格为特色。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源"
+    ],
+    "highlights": [
+      "Your own personal AI assistant",
+      "Any OS. Any Platform",
+      "The lobster way"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-07-09",
+    "popularity": "stars:250406",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率和质量。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "GitHub"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-07-09",
+    "popularity": "stars:227606",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "编码工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "Skills, instincts, memory, security, and research-first development",
+      "For Claude Code, Codex, Opencode, Cursor and beyond",
+      "The agent harness performance optimization system"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-07-09",
+    "popularity": "stars:211891",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能代理项目，托管在 GitHub 上。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "智能代理",
+      "开源",
+      "GitHub"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-07-09",
+    "popularity": "stars:195781",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities.",
+      "Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-07-09",
+    "popularity": "stars:194674",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由AI代理管理的博物馆展品，使用Rust和Gajae-Code / LazyCodex构建，完全无需人工干预开发和维护。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI代理",
+      "博物馆展品",
+      "无人工干预",
+      "Gajae-Code",
+      "LazyCodex"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-07-09",
+    "popularity": "stars:189766",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱的观察而生成的CLAUDE.md文件，用于优化Claude Code的行为表现。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "编码优化",
+      "Claude Code",
+      "CLAUDE.md",
+      "Andrej Karpathy"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-07-09",
+    "popularity": "stars:185433",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用人工智能，提供工具以便用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-07-09",
+    "popularity": "stars:184013",
+    "content": "The open source coding agent.",
+    "summary": "OpenCode 是一个开源的编码代理工具，旨在辅助开发者进行代码生成和自动化任务。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "代码生成",
+      "自动化"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-07-09",
+    "popularity": "stars:175782",
+    "content": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，支持快速运行多种大语言模型，包括 Kimi-K2.6、GLM-5.1、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 9,
+    "tags": [
+      "大语言模型",
+      "开源",
+      "模型运行",
+      "AI"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+    ]
+  },
+  {
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Wed, 08 Jul 2026 05:25:35 +0000",
+    "popularity": "",
+    "content": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?id=48827858 Points: 521 # Comments: 196",
+    "summary": "文章揭示了如何通过欺骗GitHub的AI代理，导致其泄露私有仓库内容的安全漏洞。",
+    "score": 9,
+    "tags": [
+      "GitHub",
+      "AI安全",
+      "数据泄露",
+      "漏洞利用",
+      "私有仓库"
+    ],
+    "highlights": [
+      "We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "GitLost: How we tricked GitHub's AI agent into leaking private repos"
+    ]
+  },
+  {
+    "title": "Native-speed vLLM transformers modeling backend",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 08 Jul 2026 11:30:29 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/az2jfb/native_speed_vllm_transformers_modeling\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "vLLM 推出了原生速度的 transformers 建模后端，旨在提升推理性能。",
+    "score": 8,
+    "tags": [
+      "vLLM",
+      "transformers",
+      "推理加速",
+      "后端"
+    ],
+    "highlights": [
+      "Native-speed vLLM transformers modeling backend"
+    ]
+  },
+  {
+    "title": "A global workspace in language models",
+    "url": "https://www.anthropic.com/research/global-workspace",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 07 Jul 2026 13:26:18 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xgtzrp/global_workspace_language_models\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文探讨了语言模型中的全局工作空间概念，可能涉及认知架构或信息处理机制。",
+    "score": 7,
+    "tags": [
+      "语言模型",
+      "全局工作空间",
+      "认知架构"
+    ],
+    "highlights": [
+      "https://lobste.rs/s/xgtzrp/global_workspace_language_models"
+    ]
+  },
+  {
+    "title": "Our approach to government and national security partnerships",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 08 Jul 2026 13:30:00 GMT",
+    "popularity": "",
+    "content": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+    "summary": "OpenAI 阐述了其在政府与国家安全合作中的原则，强调负责任地使用AI、民主问责制和公共安全。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "政府合作",
+      "国家安全",
+      "负责任AI",
+      "民主问责",
+      "公共安全"
+    ],
+    "highlights": [
+      "Learn how OpenAI approaches government and national security partnerships",
+      "principles for responsible AI use, democratic accountability, and public safety"
+    ]
+  },
+  {
+    "title": "Separating signal from noise in coding evaluations",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 08 Jul 2026 13:00:00 GMT",
+    "popularity": "",
+    "content": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+    "summary": "OpenAI的新分析揭示了流行编码基准SWE-Bench Pro中的问题，引发了对AI模型评估可靠性和准确性的担忧。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "SWE-Bench Pro",
+      "编码评估",
+      "AI模型",
+      "基准测试"
+    ],
+    "highlights": [
+      "A new analysis from OpenAI reveals issues in SWE-Bench Pro",
+      "raising concerns about reliability and accuracy in evaluating AI models"
+    ]
+  },
+  {
+    "title": "Data for Agents",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 08 Jul 2026 17:16:05 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客介绍了NVIDIA为AI代理开发提供的开放数据集，强调了数据质量、多样性和规模对代理性能的重要性，并提供了相关资源和最佳实践。",
+    "score": 8,
+    "tags": [
+      "NVIDIA",
+      "AI代理",
+      "开放数据",
+      "数据集",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "NVIDIA发布了专门为AI代理设计的高质量开放数据集。",
+      "数据集的多样性和规模是提升代理性能的关键因素。",
+      "博客提供了使用这些数据的最佳实践和资源链接。"
+    ]
+  },
+  {
+    "title": "Native-speed vLLM transformers modeling backend",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 08 Jul 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "文章介绍了vLLM项目推出的原生速度Transformers建模后端，旨在通过优化推理引擎显著提升大语言模型的运行效率，并保持与Hugging Face Transformers库的兼容性。",
+    "score": 8,
+    "tags": [
+      "vLLM",
+      "Transformers",
+      "推理优化",
+      "大语言模型",
+      "性能提升"
+    ],
+    "highlights": [
+      "vLLM introduces a native-speed modeling backend for Transformers.",
+      "The backend achieves significant performance improvements for LLM inference.",
+      "It maintains compatibility with the Hugging Face Transformers library."
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "rss-08202611-012",
+  "title": "Native-speed vLLM transformers modeling backend",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+  "date": "Wed, 08 Jul 2026 11:30:29 -0500",
+  "popularity": "",
+  "summary": "vLLM 推出原生速度的 Transformers 建模后端，旨在提升推理性能。",
+  "highlights": [
+    "Native-speed vLLM transformers modeling backend",
+    "提升推理性能"
+  ],
+  "score": 8,
+  "tags": [
+    "vLLM",
+    "Transformers",
+    "推理加速",
+    "模型后端"
+  ]
+}

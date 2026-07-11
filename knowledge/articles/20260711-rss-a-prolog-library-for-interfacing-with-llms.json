@@ -1,0 +1,22 @@
+{
+  "id": "rss-09202608-014",
+  "title": "A Prolog library for interfacing with LLMs",
+  "source": "rss",
+  "source_url": "https://github.com/vagos/llmpl",
+  "status": "draft",
+  "url": "https://github.com/vagos/llmpl",
+  "date": "Thu, 09 Jul 2026 08:52:12 -0500",
+  "popularity": "",
+  "summary": "一个用于与大型语言模型（LLMs）交互的Prolog库，托管在GitHub上。",
+  "highlights": [
+    "A Prolog library for interfacing with LLMs",
+    "https://github.com/vagos/llmpl"
+  ],
+  "score": 7,
+  "tags": [
+    "Prolog",
+    "LLM",
+    "库",
+    "接口"
+  ]
+}

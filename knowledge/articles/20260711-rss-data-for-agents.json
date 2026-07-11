@@ -1,0 +1,24 @@
+{
+  "id": "rss-08202617-018",
+  "title": "Data for Agents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+  "date": "Wed, 08 Jul 2026 17:16:05 GMT",
+  "popularity": "",
+  "summary": "文章介绍了为AI代理提供高质量开放数据的重要性，并讨论了NVIDIA在构建和共享此类数据方面的努力，以推动代理系统的研究和应用。",
+  "highlights": [
+    "高质量开放数据是训练AI代理的关键基础。",
+    "NVIDIA致力于创建和共享用于代理系统的开放数据集。",
+    "文章强调了数据多样性对代理性能的影响。"
+  ],
+  "score": 8,
+  "tags": [
+    "AI代理",
+    "开放数据",
+    "NVIDIA",
+    "数据构建",
+    "代理系统"
+  ]
+}

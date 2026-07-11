@@ -1,0 +1,395 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-07-11",
+    "popularity": "stars:382555",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾（🦞）为象征，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-07-11",
+    "popularity": "stars:252063",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率和质量。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "GitHub"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-07-11",
+    "popularity": "stars:228378",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等AI编码代理的性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "编码工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system.",
+      "Skills, instincts, memory, security, and research-first development.",
+      "For Claude Code, Codex, Opencode, Cursor and beyond."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-07-11",
+    "popularity": "stars:212959",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能体项目，托管在 GitHub 上。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "智能体",
+      "开源",
+      "GitHub",
+      "NousResearch"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-07-11",
+    "popularity": "stars:196020",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-07-11",
+    "popularity": "stars:194710",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由智能体管理的博物馆展品，使用 Rust 和 Gajae-Code / LazyCodex 构建，完全无需人工干预开发和维护。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "智能体",
+      "博物馆展品",
+      "无人工干预",
+      "Gajae-Code",
+      "LazyCodex"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-07-11",
+    "popularity": "stars:190735",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱观察的CLAUDE.md文件，用于改善Claude Code的行为。",
+    "score": 8,
+    "tags": [
+      "LLM",
+      "Claude Code",
+      "编码陷阱",
+      "AI辅助编程",
+      "配置文件"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-07-11",
+    "popularity": "stars:185463",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用 AI，提供工具以便用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-07-11",
+    "popularity": "stars:184656",
+    "content": "The open source coding agent.",
+    "summary": "OpenCode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
+    "score": 8,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-07-11",
+    "popularity": "stars:175903",
+    "content": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，支持快速运行多种大型语言模型，包括 Kimi-K2.6、GLM-5.1、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 9,
+    "tags": [
+      "开源",
+      "大语言模型",
+      "AI",
+      "模型部署",
+      "GitHub"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "支持多种主流大语言模型",
+      "开源项目，易于部署和使用"
+    ]
+  },
+  {
+    "title": "AI-generated videos to maximally drive a target brain region",
+    "url": "https://nevo-project.epfl.ch/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Fri, 10 Jul 2026 07:39:11 +0000",
+    "popularity": "",
+    "content": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 278 # Comments: 230",
+    "summary": "该项目利用AI生成视频，旨在最大化刺激特定脑区，探索神经活动与视觉感知的关系。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "神经科学",
+      "脑机接口",
+      "视频生成",
+      "视觉刺激"
+    ],
+    "highlights": [
+      "AI-generated videos to maximally drive a target brain region",
+      "https://nevo-project.epfl.ch/"
+    ]
+  },
+  {
+    "title": "AI 2040: Plan A",
+    "url": "https://ai-2040.com/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Thu, 09 Jul 2026 16:21:44 +0000",
+    "popularity": "",
+    "content": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 259 # Comments: 274",
+    "summary": "文章探讨了到2040年人工智能发展的可能路径，提出了Plan A作为应对策略，并引发了关于AI未来影响的广泛讨论。",
+    "score": 8,
+    "tags": [
+      "人工智能",
+      "未来预测",
+      "2040",
+      "技术策略",
+      "社会影响"
+    ],
+    "highlights": [
+      "AI 2040: Plan A",
+      "Points: 259",
+      "# Comments: 274"
+    ]
+  },
+  {
+    "title": "Tau: An Educational Coding Agent",
+    "url": "https://twotimespi.dev/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 09 Jul 2026 16:53:03 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/glngfn/tau_educational_coding_agent\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Tau是一个教育编程代理，旨在帮助学习编码，相关链接指向Lobste.rs的讨论页面。",
+    "score": 7,
+    "tags": [
+      "教育",
+      "编程",
+      "代理",
+      "学习工具"
+    ],
+    "highlights": [
+      "Tau: An Educational Coding Agent",
+      "Comments"
+    ]
+  },
+  {
+    "title": "A Prolog library for interfacing with LLMs",
+    "url": "https://github.com/vagos/llmpl",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 09 Jul 2026 08:52:12 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ad7cm6/prolog_library_for_interfacing_with_llms\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "一个用于与大型语言模型（LLMs）交互的Prolog库，托管在GitHub上。",
+    "score": 7,
+    "tags": [
+      "Prolog",
+      "LLM",
+      "库",
+      "接口"
+    ],
+    "highlights": [
+      "A Prolog library for interfacing with LLMs",
+      "https://github.com/vagos/llmpl"
+    ]
+  },
+  {
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 10 Jul 2026 07:00:00 GMT",
+    "popularity": "",
+    "content": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "summary": "Deutsche Telekom is leveraging OpenAI to transform into an AI-native telecommunications company, enhancing customer service, employee workflows, network operations, and the future of voice technology.",
+    "score": 8,
+    "tags": [
+      "Deutsche Telekom",
+      "AI",
+      "telecommunications",
+      "OpenAI",
+      "customer service",
+      "network operations",
+      "voice technology"
+    ],
+    "highlights": [
+      "Deutsche Telekom is becoming an AI-native telco with OpenAI",
+      "Transforming customer service, employee workflows, network operations, and the future of voice"
+    ]
+  },
+  {
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 09 Jul 2026 13:00:00 GMT",
+    "popularity": "",
+    "content": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+    "summary": "GPT-5.6 成为 Microsoft 365 Copilot 的首选模型，增强了 Word、Excel、PowerPoint、Chat 和 Cowork 等应用的 AI 能力，实现更快速、高质量的工作。",
+    "score": 8,
+    "tags": [
+      "GPT-5.6",
+      "Microsoft 365",
+      "Copilot",
+      "AI",
+      "生产力"
+    ],
+    "highlights": [
+      "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork",
+      "faster, higher-quality work"
+    ]
+  },
+  {
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 10 Jul 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文是PyTorch性能分析系列第三部分，聚焦于注意力机制的性能分析。通过使用PyTorch Profiler和TensorBoard，详细展示了如何分析Transformer模型中自注意力层的计算和内存瓶颈，并提供了优化建议。",
+    "score": 8,
+    "tags": [
+      "PyTorch",
+      "性能分析",
+      "注意力机制",
+      "Transformer",
+      "Profiler",
+      "TensorBoard"
+    ],
+    "highlights": [
+      "注意力机制是Transformer模型的核心，其性能分析对优化至关重要。",
+      "使用PyTorch Profiler可以精确测量注意力层的计算时间和内存占用。",
+      "通过TensorBoard可视化，可以直观识别注意力计算中的瓶颈。",
+      "文章提供了具体的代码示例和优化策略，如使用FlashAttention减少内存访问。"
+    ]
+  },
+  {
+    "title": "Data for Agents",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 08 Jul 2026 17:16:05 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "文章介绍了为AI代理提供高质量开放数据的重要性，并讨论了NVIDIA在构建和共享此类数据方面的努力，以推动代理系统的研究和应用。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "开放数据",
+      "NVIDIA",
+      "数据构建",
+      "代理系统"
+    ],
+    "highlights": [
+      "高质量开放数据是训练AI代理的关键基础。",
+      "NVIDIA致力于创建和共享用于代理系统的开放数据集。",
+      "文章强调了数据多样性对代理性能的影响。"
+    ]
+  }
+]

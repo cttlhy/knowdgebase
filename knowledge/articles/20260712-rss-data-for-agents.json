@@ -1,0 +1,25 @@
+{
+  "id": "rss-08202617-018",
+  "title": "Data for Agents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+  "date": "Wed, 08 Jul 2026 17:16:05 GMT",
+  "popularity": "",
+  "summary": "本文介绍了NVIDIA为AI代理开发提供的开放数据资源，包括数据集、工具和最佳实践，旨在加速智能代理的构建与部署。",
+  "highlights": [
+    "NVIDIA发布了专门为AI代理设计的数据集和工具。",
+    "开放数据资源有助于降低AI代理开发的门槛。",
+    "文章提供了构建高效代理的实践指南。"
+  ],
+  "score": 8,
+  "tags": [
+    "NVIDIA",
+    "AI代理",
+    "开放数据",
+    "数据集",
+    "工具",
+    "最佳实践"
+  ]
+}

@@ -1,0 +1,397 @@
+[
+  {
+    "title": "re4/LibreCode",
+    "url": "https://github.com/re4/LibreCode",
+    "source": "github",
+    "date": "2026-07-12",
+    "popularity": "stars:619062",
+    "content": "LibreCode - A Ollama cursor like coding / Reversing Interface",
+    "summary": "LibreCode 是一个类似 Cursor 的编码与逆向工程界面，基于 Ollama 构建。",
+    "score": 7,
+    "tags": [
+      "编码工具",
+      "逆向工程",
+      "Ollama",
+      "开源"
+    ],
+    "highlights": [
+      "类似 Cursor 的编码界面",
+      "支持逆向工程",
+      "基于 Ollama"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-07-12",
+    "popularity": "stars:382649",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾为象征，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-07-12",
+    "popularity": "stars:252702",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "效率提升",
+      "协作"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-07-12",
+    "popularity": "stars:228735",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC 是一个针对 Claude Code、Codex、Opencode、Cursor 等 AI 代理的性能优化系统，专注于技能、本能、记忆、安全及研究优先的开发。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "开发工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system.",
+      "Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-07-12",
+    "popularity": "stars:213435",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能体项目，托管在 GitHub 上。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "自适应系统",
+      "开源"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-07-12",
+    "popularity": "stars:196131",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有超过 400 个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform",
+      "native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-07-12",
+    "popularity": "stars:194727",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由AI代理管理的博物馆展览项目，使用Rust语言和Gajae-Code/LazyCodex构建，完全无需人工干预开发和维护。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI代理",
+      "无人工干预",
+      "博物馆展览",
+      "Gajae-Code",
+      "LazyCodex"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-07-12",
+    "popularity": "stars:191037",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱的观察而生成的CLAUDE.md文件，用于改善Claude Code的行为表现。",
+    "score": 8,
+    "tags": [
+      "LLM",
+      "编码",
+      "Claude Code",
+      "最佳实践",
+      "配置文件"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-07-12",
+    "popularity": "stars:185487",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用AI，提供工具以便用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-07-12",
+    "popularity": "stars:184922",
+    "content": "The open source coding agent.",
+    "summary": "OpenCode 是一个开源编码代理项目，旨在提供自动化代码生成和辅助编程功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "Mesh LLM: distributed AI computing on iroh",
+    "url": "https://www.iroh.computer/blog/mesh-llm",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Sat, 11 Jul 2026 22:38:57 +0000",
+    "popularity": "",
+    "content": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 257 # Comments: 58",
+    "summary": "Mesh LLM 是一个基于 iroh 的分布式 AI 计算项目，旨在通过去中心化网络实现大语言模型的协作推理与训练，提升计算效率与隐私保护。",
+    "score": 8,
+    "tags": [
+      "分布式计算",
+      "AI",
+      "大语言模型",
+      "iroh",
+      "去中心化"
+    ],
+    "highlights": [
+      "Mesh LLM enables distributed AI computing on iroh",
+      "Leverages peer-to-peer network for collaborative LLM inference",
+      "Aims to improve efficiency and privacy in AI workloads"
+    ]
+  },
+  {
+    "title": "AI 2040 and the cult of intelligence",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Sat, 11 Jul 2026 18:04:01 +0000",
+    "popularity": "",
+    "content": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 203 # Comments: 233",
+    "summary": "文章探讨了AI在2040年的发展前景，批判了当前对AI的盲目崇拜，认为AI技术被过度神化，实际进展可能不如预期，并呼吁理性看待AI的能力与局限。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "2040",
+      "批判",
+      "技术崇拜",
+      "未来预测"
+    ],
+    "highlights": [
+      "The cult of intelligence blinds us to the real limitations of AI.",
+      "By 2040, we may realize that AI is not the omnipotent force we imagined.",
+      "We need to demystify AI and focus on practical, grounded progress."
+    ]
+  },
+  {
+    "title": "An Agent in 100 Lines of Lisp",
+    "url": "https://thebeach.dev/posts/lisp-agent/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 11 Jul 2026 22:36:08 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wsw7tq/agent_100_lines_lisp\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文展示了如何用100行Lisp代码实现一个智能代理，并提供了相关讨论链接。",
+    "score": 8,
+    "tags": [
+      "Lisp",
+      "智能代理",
+      "编程",
+      "代码实现"
+    ],
+    "highlights": [
+      "An Agent in 100 Lines of Lisp",
+      "https://lobste.rs/s/wsw7tq/agent_100_lines_lisp"
+    ]
+  },
+  {
+    "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 11 Jul 2026 18:22:20 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/srdtlp/full_pipeline_inference_optimization\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文介绍了MiMo-V2.5系列的全流水线推理优化方法，旨在提升模型推理效率。",
+    "score": 8,
+    "tags": [
+      "推理优化",
+      "MiMo-V2.5",
+      "全流水线",
+      "模型效率"
+    ],
+    "highlights": [
+      "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+      "Comments"
+    ]
+  },
+  {
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 10 Jul 2026 07:00:00 GMT",
+    "popularity": "",
+    "content": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "summary": "Deutsche Telekom is leveraging OpenAI to transform into an AI-native telecommunications company, enhancing customer service, employee workflows, network operations, and the future of voice technology.",
+    "score": 9,
+    "tags": [
+      "Deutsche Telekom",
+      "AI",
+      "telecommunications",
+      "OpenAI",
+      "customer service",
+      "network operations",
+      "voice technology"
+    ],
+    "highlights": [
+      "Deutsche Telekom is becoming an AI-native telco with OpenAI",
+      "transforming customer service, employee workflows, network operations, and the future of voice"
+    ]
+  },
+  {
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 09 Jul 2026 13:00:00 GMT",
+    "popularity": "",
+    "content": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+    "summary": "GPT-5.6 现已成为 Microsoft 365 Copilot 的首选模型，增强了 Word、Excel、PowerPoint、Chat 和 Cowork 等应用的 AI 能力，旨在提升工作效率和质量。",
+    "score": 8,
+    "tags": [
+      "GPT-5.6",
+      "Microsoft 365 Copilot",
+      "AI",
+      "生产力",
+      "办公软件"
+    ],
+    "highlights": [
+      "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork",
+      "faster, higher-quality work"
+    ]
+  },
+  {
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 10 Jul 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文是PyTorch性能分析系列第三部分，聚焦于注意力机制的剖析与优化。通过使用PyTorch Profiler和TensorBoard，作者详细分析了Transformer模型中自注意力层的计算瓶颈，并展示了如何通过算子融合、内存优化和内核调优来提升性能。文章提供了具体的代码示例和性能对比数据，强调了注意力机制在深度学习中的关键作用及优化潜力。",
+    "score": 9,
+    "tags": [
+      "PyTorch",
+      "性能分析",
+      "注意力机制",
+      "Transformer",
+      "Profiler",
+      "TensorBoard",
+      "算子融合",
+      "内存优化"
+    ],
+    "highlights": [
+      "Attention is all you need, but profiling is all you need to optimize it.",
+      "通过PyTorch Profiler，我们可以精确识别注意力层中的计算热点和内存瓶颈。",
+      "算子融合技术将多个小操作合并为一个大内核，显著减少了内核启动开销。",
+      "优化后的注意力实现相比原始版本在A100 GPU上实现了2.3倍的加速。"
+    ]
+  },
+  {
+    "title": "Data for Agents",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 08 Jul 2026 17:16:05 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了NVIDIA为AI代理开发提供的开放数据资源，包括数据集、工具和最佳实践，旨在加速智能代理的构建与部署。",
+    "score": 8,
+    "tags": [
+      "NVIDIA",
+      "AI代理",
+      "开放数据",
+      "数据集",
+      "工具",
+      "最佳实践"
+    ],
+    "highlights": [
+      "NVIDIA发布了专门为AI代理设计的数据集和工具。",
+      "开放数据资源有助于降低AI代理开发的门槛。",
+      "文章提供了构建高效代理的实践指南。"
+    ]
+  }
+]

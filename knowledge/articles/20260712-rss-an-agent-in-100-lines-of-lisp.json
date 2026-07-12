@@ -1,0 +1,22 @@
+{
+  "id": "rss-11202622-013",
+  "title": "An Agent in 100 Lines of Lisp",
+  "source": "rss",
+  "source_url": "https://thebeach.dev/posts/lisp-agent/",
+  "status": "draft",
+  "url": "https://thebeach.dev/posts/lisp-agent/",
+  "date": "Sat, 11 Jul 2026 22:36:08 -0500",
+  "popularity": "",
+  "summary": "本文展示了如何用100行Lisp代码实现一个智能代理，并提供了相关讨论链接。",
+  "highlights": [
+    "An Agent in 100 Lines of Lisp",
+    "https://lobste.rs/s/wsw7tq/agent_100_lines_lisp"
+  ],
+  "score": 8,
+  "tags": [
+    "Lisp",
+    "智能代理",
+    "编程",
+    "代码实现"
+  ]
+}

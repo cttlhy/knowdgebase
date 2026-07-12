@@ -1,0 +1,33 @@
+{
+  "id": "rss-10202600-017",
+  "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/torch-attention-profile",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/torch-attention-profile",
+  "date": "Fri, 10 Jul 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文是PyTorch性能分析系列第三部分，聚焦于注意力机制的剖析与优化。通过使用PyTorch Profiler和TensorBoard，作者详细分析了Transformer模型中自注意力层的计算瓶颈，并展示了如何通过算子融合、内存优化和内核调优来提升性能。文章提供了具体的代码示例和性能对比数据，强调了注意力机制在深度学习中的关键作用及优化潜力。",
+  "highlights": [
+    "Attention is all you need, but profiling is all you need to optimize it.",
+    "通过PyTorch Profiler，我们可以精确识别注意力层中的计算热点和内存瓶颈。",
+    "算子融合技术将多个小操作合并为一个大内核，显著减少了内核启动开销。",
+    "优化后的注意力实现相比原始版本在A100 GPU上实现了2.3倍的加速。"
+  ],
+  "score": 9,
+  "tags": [
+    "PyTorch",
+    "性能分析",
+    "注意力机制",
+    "Transformer",
+    "Profiler",
+    "TensorBoard",
+    "算子融合",
+    "内存优化"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260712"
+  }
+}

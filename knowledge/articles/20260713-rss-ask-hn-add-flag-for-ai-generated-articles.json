@@ -1,0 +1,25 @@
+{
+  "id": "rss-13202601-011",
+  "title": "Ask HN: Add flag for AI-generated articles",
+  "source": "rss",
+  "source_url": "https://news.ycombinator.com/item?id=48886741",
+  "status": "draft",
+  "url": "https://news.ycombinator.com/item?id=48886741",
+  "date": "Mon, 13 Jul 2026 01:24:20 +0000",
+  "popularity": "",
+  "summary": "用户提议在Hacker News上为AI生成的文章添加标记功能，以便不喜欢AI文本的人可以跳过，同时讨论现有投票系统是否足够以及HN是否应适应生成AI时代。",
+  "highlights": [
+    "Should HN add the ability to flag articles as AI-generated?",
+    "it could just show up as an indicator, allowing others (like myself) who don't like reading AI-generated text, to skip it",
+    "Why is the regular voting system not enough?",
+    "Should HN change in response to the gen AI era?"
+  ],
+  "score": 8,
+  "tags": [
+    "AI生成内容",
+    "平台功能",
+    "用户偏好",
+    "Hacker News",
+    "内容标记"
+  ]
+}

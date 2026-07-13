@@ -1,0 +1,26 @@
+{
+  "id": "rss-10202600-017",
+  "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/torch-attention-profile",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/torch-attention-profile",
+  "date": "Fri, 10 Jul 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文是PyTorch性能分析系列第三部分，聚焦于注意力机制的性能分析，通过使用PyTorch Profiler和TensorBoard等工具，详细展示了如何分析和优化Transformer模型中的注意力层，包括内存使用、计算时间和内核执行效率。",
+  "highlights": [
+    "Attention mechanisms are at the core of modern transformer models, and profiling them is crucial for performance optimization.",
+    "Using PyTorch Profiler, we can identify bottlenecks in attention computation, such as memory bandwidth and kernel launch overhead.",
+    "The blog demonstrates step-by-step how to visualize attention layer performance with TensorBoard and apply optimizations like flash attention."
+  ],
+  "score": 8,
+  "tags": [
+    "PyTorch",
+    "性能分析",
+    "注意力机制",
+    "Transformer",
+    "Profiler",
+    "TensorBoard",
+    "优化"
+  ]
+}

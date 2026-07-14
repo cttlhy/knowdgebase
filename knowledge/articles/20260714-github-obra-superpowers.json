@@ -1,0 +1,26 @@
+{
+  "id": "github-20260714-002",
+  "title": "obra/superpowers",
+  "source": "github",
+  "source_url": "https://github.com/obra/superpowers",
+  "status": "draft",
+  "url": "https://github.com/obra/superpowers",
+  "date": "2026-07-14",
+  "popularity": "stars:254295",
+  "summary": "obra/superpowers 是一个代理技能框架和软件开发方法论，强调实用性。",
+  "highlights": [
+    "An agentic skills framework",
+    "software development methodology that works"
+  ],
+  "score": 8,
+  "tags": [
+    "代理技能框架",
+    "软件开发方法论",
+    "实用工具"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260714"
+  }
+}

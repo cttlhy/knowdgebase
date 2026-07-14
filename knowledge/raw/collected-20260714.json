@@ -1,0 +1,346 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-07-14",
+    "popularity": "stars:382891",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾（lobster）为象征，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-07-14",
+    "popularity": "stars:254295",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架和软件开发方法论，强调实用性。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "实用工具"
+    ],
+    "highlights": [
+      "An agentic skills framework",
+      "software development methodology that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-07-14",
+    "popularity": "stars:229435",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC 是一个针对 Claude Code、Codex、Opencode、Cursor 等 AI 编码代理的性能优化系统，专注于技能、本能、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "编码工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system.",
+      "Skills, instincts, memory, security, and research-first development.",
+      "For Claude Code, Codex, Opencode, Cursor and beyond."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-07-14",
+    "popularity": "stars:214559",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能代理项目，托管在 GitHub 上。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "智能代理",
+      "GitHub",
+      "开源"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-07-14",
+    "popularity": "stars:196369",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-07-14",
+    "popularity": "stars:194757",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由智能体管理的博物馆展览项目，使用 Rust 语言结合 Gajae-Code / LazyCodex 构建，完全无需人工干预进行开发和维护。",
+    "score": 7,
+    "tags": [
+      "Rust",
+      "智能体",
+      "博物馆展览",
+      "自动化",
+      "无人工干预"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-07-14",
+    "popularity": "stars:191848",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱观察的CLAUDE.md文件，用于改进Claude Code的行为。",
+    "score": 7,
+    "tags": [
+      "CLAUDE.md",
+      "LLM",
+      "coding pitfalls",
+      "Andrej Karpathy",
+      "Claude Code"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-07-14",
+    "popularity": "stars:185636",
+    "content": "The open source coding agent.",
+    "summary": "Anomalyco/opencode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-07-14",
+    "popularity": "stars:185523",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能使用和构建 AI，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "accessible AI for everyone",
+      "focus on what matters"
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-07-14",
+    "popularity": "stars:176084",
+    "content": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，支持快速运行多种大语言模型，包括 Kimi-K2.6、GLM-5.1、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 9,
+    "tags": [
+      "大语言模型",
+      "开源",
+      "模型运行",
+      "AI",
+      "GitHub"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+    ]
+  },
+  {
+    "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 11 Jul 2026 18:22:20 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/srdtlp/full_pipeline_inference_optimization\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "小米MiMo-V2.5系列的全流水线推理优化方法，涵盖模型压缩、算子融合、内存管理等技术，旨在提升推理效率并降低延迟。",
+    "score": 8,
+    "tags": [
+      "推理优化",
+      "模型压缩",
+      "算子融合",
+      "内存管理",
+      "MiMo-V2.5"
+    ],
+    "highlights": [
+      "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+      "Comments"
+    ]
+  },
+  {
+    "title": "AI Surveillance and Social Progress",
+    "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 11 Jul 2026 04:40:40 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qvu1m0/ai_surveillance_social_progress\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章讨论了AI监控技术对社会进步的影响，分析了其潜在利弊。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "监控",
+      "社会进步",
+      "技术伦理"
+    ],
+    "highlights": [
+      "AI监控技术对社会进步的影响",
+      "潜在利弊分析"
+    ]
+  },
+  {
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 10 Jul 2026 07:00:00 GMT",
+    "popularity": "",
+    "content": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "summary": "Deutsche Telekom is leveraging OpenAI to transform into an AI-native telecommunications company, enhancing customer service, employee workflows, network operations, and the future of voice technology.",
+    "score": 9,
+    "tags": [
+      "Deutsche Telekom",
+      "AI",
+      "telecommunications",
+      "OpenAI",
+      "customer service",
+      "network operations",
+      "voice technology"
+    ],
+    "highlights": [
+      "Deutsche Telekom is becoming an AI-native telco with OpenAI",
+      "transforming customer service, employee workflows, network operations",
+      "and the future of voice"
+    ]
+  },
+  {
+    "title": "Getting started with ChatGPT",
+    "url": "https://openai.com/academy/getting-started",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 10 Jul 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "summary": "本文介绍了如何开始使用ChatGPT，包括启动首次对话、利用AI进行写作、头脑风暴和解决问题的方法。",
+    "score": 7,
+    "tags": [
+      "ChatGPT",
+      "AI入门",
+      "对话技巧",
+      "问题解决"
+    ],
+    "highlights": [
+      "Learn how to use ChatGPT",
+      "start your first conversation",
+      "discover simple ways to write, brainstorm, and solve problems with AI"
+    ]
+  },
+  {
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 10 Jul 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文是PyTorch性能分析系列第三部分，聚焦于注意力机制的优化与性能分析，通过实际案例展示如何使用PyTorch Profiler工具识别和解决Transformer模型中的性能瓶颈。",
+    "score": 8,
+    "tags": [
+      "PyTorch",
+      "性能分析",
+      "注意力机制",
+      "Transformer",
+      "模型优化"
+    ],
+    "highlights": [
+      "Attention is all you profile 标题暗示注意力机制是性能分析的核心",
+      "文章属于PyTorch Profiling系列，提供实用优化技巧",
+      "通过具体案例展示如何利用Profiler工具提升模型效率"
+    ]
+  },
+  {
+    "title": "Data for Agents",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 08 Jul 2026 17:16:05 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "文章介绍了NVIDIA为AI代理开发提供的开放数据资源，包括数据集、工具和最佳实践，旨在加速智能代理的构建与部署。",
+    "score": 8,
+    "tags": [
+      "NVIDIA",
+      "AI代理",
+      "开放数据",
+      "数据集",
+      "工具",
+      "最佳实践"
+    ],
+    "highlights": [
+      "NVIDIA发布开放数据资源以支持AI代理开发",
+      "涵盖数据集、工具和最佳实践",
+      "旨在加速智能代理的构建与部署"
+    ]
+  }
+]

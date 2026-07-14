@@ -1,0 +1,23 @@
+{
+  "id": "rss-11202618-011",
+  "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+  "source": "rss",
+  "source_url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+  "status": "draft",
+  "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+  "date": "Sat, 11 Jul 2026 18:22:20 -0500",
+  "popularity": "",
+  "summary": "小米MiMo-V2.5系列的全流水线推理优化方法，涵盖模型压缩、算子融合、内存管理等技术，旨在提升推理效率并降低延迟。",
+  "highlights": [
+    "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+    "Comments"
+  ],
+  "score": 8,
+  "tags": [
+    "推理优化",
+    "模型压缩",
+    "算子融合",
+    "内存管理",
+    "MiMo-V2.5"
+  ]
+}

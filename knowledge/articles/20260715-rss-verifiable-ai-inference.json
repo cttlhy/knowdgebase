@@ -1,0 +1,22 @@
+{
+  "id": "rss-14202613-012",
+  "title": "Verifiable AI inference",
+  "source": "rss",
+  "source_url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+  "status": "draft",
+  "url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+  "date": "Tue, 14 Jul 2026 13:31:07 -0500",
+  "popularity": "",
+  "summary": "文章讨论了可验证AI推理的概念，即确保AI模型输出结果的可信度和完整性，可能涉及技术实现和挑战。",
+  "highlights": [
+    "Verifiable AI inference",
+    "确保AI模型输出结果的可信度和完整性"
+  ],
+  "score": 7,
+  "tags": [
+    "AI",
+    "可验证推理",
+    "可信度",
+    "技术挑战"
+  ]
+}

@@ -21,5 +21,10 @@
     "数据集",
     "工具",
     "最佳实践"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260715"
+  }
 }

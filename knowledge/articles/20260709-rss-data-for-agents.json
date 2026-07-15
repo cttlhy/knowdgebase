@@ -20,5 +20,10 @@
     "开放数据",
     "数据集",
     "Hugging Face"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260715"
+  }
 }

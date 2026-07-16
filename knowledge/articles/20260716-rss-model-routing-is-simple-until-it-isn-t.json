@@ -1,0 +1,23 @@
+{
+  "id": "rss-15202617-017",
+  "title": "Model Routing Is Simple. Until It Isn’t.",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "date": "Wed, 15 Jul 2026 17:27:01 GMT",
+  "popularity": "",
+  "summary": "本文探讨了模型路由的复杂性，指出虽然概念简单，但在实际应用中面临诸多挑战，如模型选择、性能权衡和动态调整等。",
+  "highlights": [
+    "Model routing is simple. Until it isn’t.",
+    "The complexity arises from balancing accuracy, latency, and cost across diverse models.",
+    "Dynamic routing strategies are essential for real-world deployment."
+  ],
+  "score": 8,
+  "tags": [
+    "模型路由",
+    "机器学习",
+    "系统设计",
+    "性能优化"
+  ]
+}

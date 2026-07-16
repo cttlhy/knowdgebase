@@ -1,0 +1,26 @@
+{
+  "id": "rss-15202617-016",
+  "title": "What building Shippy taught us about building agents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "date": "Wed, 15 Jul 2026 17:29:41 GMT",
+  "popularity": "",
+  "summary": "本文介绍了Shippy项目在构建AI代理过程中的经验教训，强调了模块化设计、迭代开发、用户反馈循环以及错误处理的重要性，并分享了如何通过实际应用场景优化代理性能。",
+  "highlights": [
+    "模块化设计是构建可靠代理的基础，允许独立测试和替换组件。",
+    "早期用户反馈循环显著加速了代理的改进过程。",
+    "错误处理机制需要从实际部署中不断学习并优化。",
+    "迭代开发比一次性完美设计更有效，尤其是在复杂代理系统中。"
+  ],
+  "score": 8,
+  "tags": [
+    "AI代理",
+    "模块化设计",
+    "迭代开发",
+    "用户反馈",
+    "错误处理",
+    "经验教训"
+  ]
+}

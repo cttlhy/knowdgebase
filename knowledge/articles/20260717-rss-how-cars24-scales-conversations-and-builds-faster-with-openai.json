@@ -1,0 +1,31 @@
+{
+  "id": "rss-16202600-016",
+  "title": "How Cars24 scales conversations and builds faster with OpenAI",
+  "source": "rss",
+  "source_url": "https://openai.com/index/cars24",
+  "status": "draft",
+  "url": "https://openai.com/index/cars24",
+  "date": "Thu, 16 Jul 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "Cars24利用OpenAI驱动的语音和聊天代理，每月处理超过100万分钟的对话，挽回12%的流失线索，并在公司各团队中引入代理工作流。",
+  "highlights": [
+    "handle 1M+ monthly conversation minutes",
+    "recover 12% of lost leads",
+    "bring agentic workflows to teams across the company"
+  ],
+  "score": 9,
+  "tags": [
+    "OpenAI",
+    "Cars24",
+    "语音代理",
+    "聊天代理",
+    "对话量",
+    "线索挽回",
+    "代理工作流"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260717"
+  }
+}

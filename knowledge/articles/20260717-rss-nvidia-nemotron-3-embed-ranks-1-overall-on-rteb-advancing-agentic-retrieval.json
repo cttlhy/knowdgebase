@@ -1,0 +1,28 @@
+{
+  "id": "rss-16202616-017",
+  "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+  "date": "Thu, 16 Jul 2026 16:01:21 GMT",
+  "popularity": "",
+  "summary": "NVIDIA的Nemotron 3 Embed模型在RTEB基准测试中整体排名第一，推动了智能体检索技术的发展。",
+  "highlights": [
+    "NVIDIA Nemotron 3 Embed ranks #1 overall on RTEB",
+    "Advancing agentic retrieval"
+  ],
+  "score": 9,
+  "tags": [
+    "NVIDIA",
+    "Nemotron 3 Embed",
+    "RTEB",
+    "智能体检索",
+    "模型排名"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260717"
+  }
+}

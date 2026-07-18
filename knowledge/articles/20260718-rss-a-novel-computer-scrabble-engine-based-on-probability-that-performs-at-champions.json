@@ -1,0 +1,28 @@
+{
+  "id": "rss-16202610-014",
+  "title": "A novel computer Scrabble engine based on probability that performs at championship level (2021)",
+  "source": "rss",
+  "source_url": "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content",
+  "status": "draft",
+  "url": "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content",
+  "date": "Thu, 16 Jul 2026 10:29:48 -0500",
+  "popularity": "",
+  "summary": "该论文介绍了一种基于概率的新型计算机Scrabble引擎，能够在锦标赛级别表现。",
+  "highlights": [
+    "基于概率的新型Scrabble引擎",
+    "锦标赛级别表现"
+  ],
+  "score": 8,
+  "tags": [
+    "Scrabble",
+    "计算机引擎",
+    "概率",
+    "锦标赛",
+    "2021"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260718"
+  }
+}

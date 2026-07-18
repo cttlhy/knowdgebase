@@ -1,0 +1,386 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-07-18",
+    "popularity": "stars:383344",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾为标志，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-07-18",
+    "popularity": "stars:256829",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Obra/Superpowers 是一个代理技能框架和软件开发方法论，旨在提高开发效率。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "GitHub"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-07-18",
+    "popularity": "stars:230761",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC 是一个针对 Claude Code、Codex、Opencode、Cursor 等 AI 编码代理的性能优化系统，专注于技能、本能、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "编码工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system.",
+      "Skills, instincts, memory, security, and research-first development.",
+      "For Claude Code, Codex, Opencode, Cursor and beyond."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-07-18",
+    "popularity": "stars:216612",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能代理项目，托管在 GitHub 上。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "智能代理",
+      "开源",
+      "GitHub"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-07-18",
+    "popularity": "stars:196889",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或云部署，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自定义代码",
+      "自托管",
+      "云部署",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-07-18",
+    "popularity": "stars:194814",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由AI代理管理的博物馆展览项目，使用Rust语言和Gajae-Code/LazyCodex构建，完全无需人工干预进行开发和维护。",
+    "score": 7,
+    "tags": [
+      "Rust",
+      "AI代理",
+      "自动化",
+      "博物馆展览",
+      "无人工干预"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-07-18",
+    "popularity": "stars:193721",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱观察的CLAUDE.md文件，用于改进Claude Code行为。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "编码",
+      "Claude Code",
+      "最佳实践",
+      "AI辅助开发"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-07-18",
+    "popularity": "stars:187059",
+    "content": "The open source coding agent.",
+    "summary": "OpenCode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-07-18",
+    "popularity": "stars:185589",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能使用和构建 AI，提供工具以使用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "to use and to build on",
+      "provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-07-18",
+    "popularity": "stars:176361",
+    "content": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，支持快速运行多种大型语言模型，包括 Kimi-K2.6、GLM-5.2、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 9,
+    "tags": [
+      "开源",
+      "大语言模型",
+      "AI",
+      "工具",
+      "GitHub"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+    ]
+  },
+  {
+    "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Fri, 17 Jul 2026 22:26:30 +0000",
+    "popularity": "",
+    "content": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 506 # Comments: 324",
+    "summary": "Kaiser护士表示，AI和工作场所监控正在恶化他们的工作条件和患者护理质量。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "工作场所监控",
+      "护士",
+      "患者护理",
+      "Kaiser"
+    ],
+    "highlights": [
+      "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "AI and workplace surveillance are making their jobs and patient care worse"
+    ]
+  },
+  {
+    "title": "The state of open source AI",
+    "url": "https://stateofopensource.ai/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Fri, 17 Jul 2026 14:31:10 +0000",
+    "popularity": "",
+    "content": "Article URL: https://stateofopensource.ai/ Comments URL: https://news.ycombinator.com/item?id=48947825 Points: 436 # Comments: 315",
+    "summary": "文章讨论了开源人工智能的现状，分析了其发展、挑战和社区反馈，来自Hacker News的高热度讨论。",
+    "score": 8,
+    "tags": [
+      "开源",
+      "人工智能",
+      "社区讨论",
+      "技术趋势"
+    ],
+    "highlights": [
+      "Points: 436",
+      "# Comments: 315",
+      "Article URL: https://stateofopensource.ai/"
+    ]
+  },
+  {
+    "title": "How does Pangram work?",
+    "url": "https://pangram.substack.com/p/how-does-pangram-work",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 18 Jul 2026 01:17:08 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/femw5f/how_does_pangram_work\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章介绍了Pangram的工作原理，并提供了评论链接。",
+    "score": 5,
+    "tags": [
+      "Pangram",
+      "工作原理",
+      "评论"
+    ],
+    "highlights": [
+      "https://lobste.rs/s/femw5f/how_does_pangram_work"
+    ]
+  },
+  {
+    "title": "A novel computer Scrabble engine based on probability that performs at championship level (2021)",
+    "url": "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 16 Jul 2026 10:29:48 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/srir6m/novel_computer_scrabble_engine_based_on\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该论文介绍了一种基于概率的新型计算机Scrabble引擎，能够在锦标赛级别表现。",
+    "score": 8,
+    "tags": [
+      "Scrabble",
+      "计算机引擎",
+      "概率",
+      "锦标赛",
+      "2021"
+    ],
+    "highlights": [
+      "基于概率的新型Scrabble引擎",
+      "锦标赛级别表现"
+    ]
+  },
+  {
+    "title": "A scorecard for the AI age",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 17 Jul 2026 10:00:00 GMT",
+    "popularity": "",
+    "content": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+    "summary": "OpenAI首席财务官Sarah Friar提出AI时代记分卡，通过有用工作、成功任务成本、可靠性和计算回报来衡量AI投资回报率。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "投资回报率",
+      "记分卡",
+      "OpenAI",
+      "成本效益"
+    ],
+    "highlights": [
+      "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard",
+      "measure ROI through useful work, cost per successful task, dependability, and return on compute"
+    ]
+  },
+  {
+    "title": "Why teens deserve access to safe AI",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 16 Jul 2026 16:00:00 GMT",
+    "popularity": "",
+    "content": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+    "summary": "OpenAI 正在通过年龄适宜的保护措施、学习工具、家长控制和专家合作，使 ChatGPT 对青少年更安全。",
+    "score": 8,
+    "tags": [
+      "AI安全",
+      "青少年保护",
+      "家长控制",
+      "教育工具",
+      "OpenAI"
+    ],
+    "highlights": [
+      "OpenAI is making ChatGPT safer for teens with age-appropriate protections",
+      "learning tools, parental controls, and expert partnerships"
+    ]
+  },
+  {
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 17 Jul 2026 15:57:54 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了如何使用NVIDIA NeMo Automodel和Hugging Face Diffusers库大规模微调视频和图像模型，提供了技术细节和最佳实践。",
+    "score": 8,
+    "tags": [
+      "NVIDIA NeMo",
+      "Diffusers",
+      "模型微调",
+      "大规模训练",
+      "视频模型",
+      "图像模型"
+    ],
+    "highlights": [
+      "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "结合NVIDIA NeMo Automodel和Hugging Face Diffusers实现高效微调",
+      "支持大规模分布式训练，优化资源利用"
+    ]
+  },
+  {
+    "title": "Newer Models, Same Advantage",
+    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 16 Jul 2026 11:49:48 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "文章探讨了新一代AI模型在保持原有优势的同时，如何通过技术创新进一步提升性能，并分析了这些模型在多个应用场景中的表现。",
+    "score": 8,
+    "tags": [
+      "AI模型",
+      "技术创新",
+      "性能提升",
+      "应用场景"
+    ],
+    "highlights": [
+      "Newer models demonstrate consistent advantages over previous versions.",
+      "Key innovations include improved efficiency and scalability.",
+      "Real-world applications show significant performance gains."
+    ]
+  }
+]

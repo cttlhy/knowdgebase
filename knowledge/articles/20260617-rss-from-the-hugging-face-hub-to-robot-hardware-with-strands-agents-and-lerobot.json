@@ -20,5 +20,10 @@
     "LeRobot",
     "机器人部署",
     "硬件集成"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260719"
+  }
 }

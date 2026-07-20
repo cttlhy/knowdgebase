@@ -1,0 +1,24 @@
+{
+  "id": "rss-19202606-011",
+  "title": "Triton language for Alibaba SAIL",
+  "source": "rss",
+  "source_url": "https://github.com/t-head/triton-for-sail",
+  "status": "draft",
+  "url": "https://github.com/t-head/triton-for-sail",
+  "date": "Sun, 19 Jul 2026 06:43:23 -0500",
+  "popularity": "",
+  "summary": "Triton language for Alibaba SAIL 是一个针对阿里巴巴 SAIL 架构的 Triton 语言实现，托管在 GitHub 上，并附有 Lobste.rs 讨论链接。",
+  "highlights": [
+    "Triton language for Alibaba SAIL",
+    "https://github.com/t-head/triton-for-sail",
+    "Comments on Lobste.rs"
+  ],
+  "score": 7,
+  "tags": [
+    "Triton",
+    "Alibaba",
+    "SAIL",
+    "GitHub",
+    "编程语言"
+  ]
+}

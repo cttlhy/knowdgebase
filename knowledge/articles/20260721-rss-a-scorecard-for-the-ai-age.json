@@ -1,0 +1,31 @@
+{
+  "id": "rss-17202610-014",
+  "title": "A scorecard for the AI age",
+  "source": "rss",
+  "source_url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+  "status": "draft",
+  "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+  "date": "Fri, 17 Jul 2026 10:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI首席财务官Sarah Friar提出AI时代记分卡，通过有用工作、每成功任务成本、可靠性和计算回报来衡量AI投资回报率。",
+  "highlights": [
+    "Sarah Friar introduces a practical AI scorecard",
+    "measure ROI through useful work",
+    "cost per successful task",
+    "dependability",
+    "return on compute"
+  ],
+  "score": 8,
+  "tags": [
+    "AI",
+    "投资回报率",
+    "记分卡",
+    "OpenAI",
+    "成本效益"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260721"
+  }
+}

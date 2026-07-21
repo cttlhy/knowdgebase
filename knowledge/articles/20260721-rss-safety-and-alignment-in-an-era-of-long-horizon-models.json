@@ -1,0 +1,24 @@
+{
+  "id": "rss-20202610-013",
+  "title": "Safety and alignment in an era of long-horizon models",
+  "source": "rss",
+  "source_url": "https://openai.com/index/safety-alignment-long-horizon-models",
+  "status": "draft",
+  "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+  "date": "Mon, 20 Jul 2026 10:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI分享了在部署长时间运行的AI模型时获得的经验，强调了新的安全风险、观察到的失败案例，以及通过迭代部署改进的安全措施。",
+  "highlights": [
+    "OpenAI shares lessons from deploying long-running AI models",
+    "highlighting new safety risks, observed failures",
+    "improved safeguards through iterative deployment"
+  ],
+  "score": 8,
+  "tags": [
+    "AI安全",
+    "长期模型",
+    "迭代部署",
+    "风险缓解",
+    "OpenAI"
+  ]
+}

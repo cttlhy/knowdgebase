@@ -1,0 +1,24 @@
+{
+  "id": "rss-20202615-016",
+  "title": "Introducing Cosmos 3 Edge",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+  "date": "Mon, 20 Jul 2026 15:58:51 GMT",
+  "popularity": "",
+  "summary": "NVIDIA 发布 Cosmos 3 Edge 模型，专为边缘设备优化，提供高效推理与低延迟性能，支持多种视觉任务。",
+  "highlights": [
+    "Cosmos 3 Edge 专为边缘设备设计，实现高效推理。",
+    "模型在低延迟场景下表现优异，适用于实时应用。",
+    "支持多种视觉任务，如目标检测与图像分类。"
+  ],
+  "score": 8,
+  "tags": [
+    "NVIDIA",
+    "Cosmos 3 Edge",
+    "边缘计算",
+    "AI模型",
+    "推理优化"
+  ]
+}

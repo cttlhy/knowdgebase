@@ -1,0 +1,27 @@
+{
+  "id": "github-20260722-010",
+  "title": "mattpocock/skills",
+  "source": "github",
+  "source_url": "https://github.com/mattpocock/skills",
+  "status": "draft",
+  "url": "https://github.com/mattpocock/skills",
+  "date": "2026-07-22",
+  "popularity": "stars:181391",
+  "summary": "这是一个名为mattpocock/skills的GitHub仓库，内容为面向真实工程师的技能集合，直接来自作者的.agents目录。",
+  "highlights": [
+    "Skills for Real Engineers",
+    "Straight from my .agents directory"
+  ],
+  "score": 8,
+  "tags": [
+    "GitHub",
+    "技能",
+    "工程师",
+    "开发工具"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260722"
+  }
+}

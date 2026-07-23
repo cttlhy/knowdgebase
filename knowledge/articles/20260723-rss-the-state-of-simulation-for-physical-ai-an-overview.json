@@ -1,0 +1,24 @@
+{
+  "id": "rss-21202620-016",
+  "title": "The State of Simulation for Physical AI: An Overview",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+  "date": "Tue, 21 Jul 2026 20:00:27 GMT",
+  "popularity": "",
+  "summary": "本文概述了物理AI仿真的现状，探讨了仿真技术在训练和测试物理AI系统（如机器人、自动驾驶）中的关键作用，并分析了当前挑战与未来方向。",
+  "highlights": [
+    "物理AI仿真对于在安全、可控环境中训练和验证AI系统至关重要。",
+    "当前仿真面临真实感与计算效率之间的权衡挑战。",
+    "NVIDIA在推动物理AI仿真平台发展方面处于领先地位。"
+  ],
+  "score": 8,
+  "tags": [
+    "物理AI",
+    "仿真技术",
+    "机器人",
+    "自动驾驶",
+    "NVIDIA"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-22202605-012",
+  "title": "Two years of vector search at Notion: 10x scale, 1/10th cost",
+  "source": "rss",
+  "source_url": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+  "status": "draft",
+  "url": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+  "date": "Wed, 22 Jul 2026 05:09:50 -0500",
+  "popularity": "",
+  "summary": "Notion分享了其向量搜索系统两年来的演进，实现了10倍规模扩展和成本降低至原来的十分之一。",
+  "highlights": [
+    "Two years of vector search at Notion: 10x scale, 1/10th cost",
+    "实现了10倍规模扩展和成本降低至原来的十分之一"
+  ],
+  "score": 8,
+  "tags": [
+    "向量搜索",
+    "Notion",
+    "系统扩展",
+    "成本优化"
+  ]
+}

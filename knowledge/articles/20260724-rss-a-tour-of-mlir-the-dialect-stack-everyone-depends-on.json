@@ -1,0 +1,23 @@
+{
+  "id": "rss-23202623-011",
+  "title": "A tour of MLIR: The Dialect Stack Everyone Depends On",
+  "source": "rss",
+  "source_url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
+  "status": "draft",
+  "url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
+  "date": "Thu, 23 Jul 2026 23:54:16 -0500",
+  "popularity": "",
+  "summary": "本文介绍了MLIR的多层方言栈架构，强调其作为编译器基础设施如何通过分层抽象支持不同领域的优化，并指出这种设计已成为许多项目依赖的核心技术。",
+  "highlights": [
+    "MLIR通过多层方言栈实现领域特定优化",
+    "该架构被广泛依赖，成为编译器生态的关键组件"
+  ],
+  "score": 8,
+  "tags": [
+    "MLIR",
+    "编译器",
+    "方言栈",
+    "抽象层次",
+    "基础设施"
+  ]
+}

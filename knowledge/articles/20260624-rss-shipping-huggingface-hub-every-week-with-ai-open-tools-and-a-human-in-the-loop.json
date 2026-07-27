@@ -20,5 +20,10 @@
     "开源工具",
     "人工审核",
     "发布流程"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260727"
+  }
 }

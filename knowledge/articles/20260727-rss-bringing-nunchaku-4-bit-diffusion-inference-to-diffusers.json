@@ -1,0 +1,30 @@
+{
+  "id": "rss-23202600-016",
+  "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nunchaku-diffusers",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/nunchaku-diffusers",
+  "date": "Thu, 23 Jul 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文介绍了将Nunchaku 4-bit扩散模型推理集成到Diffusers库中的方法，旨在通过量化技术提升推理效率并降低显存占用。",
+  "highlights": [
+    "Nunchaku 4-bit diffusion inference 现已集成到 Diffusers 中",
+    "通过4-bit量化显著减少模型大小和推理时间",
+    "支持在消费级GPU上运行大型扩散模型"
+  ],
+  "score": 8,
+  "tags": [
+    "Nunchaku",
+    "4-bit量化",
+    "扩散模型",
+    "Diffusers",
+    "推理优化",
+    "显存压缩"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260727"
+  }
+}

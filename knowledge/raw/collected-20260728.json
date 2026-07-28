@@ -1,0 +1,343 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-07-28",
+    "popularity": "stars:384394",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾为象征，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-07-28",
+    "popularity": "stars:262430",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架和软件开发方法论，强调其有效性。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "GitHub项目"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-07-28",
+    "popularity": "stars:234390",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个针对 Claude Code、Codex、Opencode、Cursor 等工具的代理工具性能优化系统，涵盖技能、本能、记忆、安全及研究优先的开发特性。",
+    "score": 7,
+    "tags": [
+      "代理工具",
+      "性能优化",
+      "AI开发",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system.",
+      "Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-07-28",
+    "popularity": "stars:221654",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户成长而发展的智能体项目，托管在 GitHub 上。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "成长型系统",
+      "开源项目"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-07-28",
+    "popularity": "stars:198350",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-07-28",
+    "popularity": "stars:196981",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱的观察而生成的CLAUDE.md文件，用于改善Claude Code的行为。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "编码",
+      "Claude Code",
+      "CLAUDE.md",
+      "Andrej Karpathy"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-07-28",
+    "popularity": "stars:194937",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由智能体管理的博物馆展品，使用 Rust 和 Gajae-Code / LazyCodex 构建，完全无需人工干预开发和维护。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "智能体",
+      "博物馆展品",
+      "自动化",
+      "无人工干预"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-07-28",
+    "popularity": "stars:192202",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "一个面向真实工程师的技能集合，直接来自作者的.agents目录。",
+    "score": 8,
+    "tags": [
+      "技能",
+      "工程师",
+      "开发工具"
+    ],
+    "highlights": [
+      "Skills for Real Engineers",
+      "Straight from my .agents directory"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-07-28",
+    "popularity": "stars:190401",
+    "content": "The open source coding agent.",
+    "summary": "OpenCode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助编程功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-07-28",
+    "popularity": "stars:185733",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能使用和构建 AI，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "accessible AI for everyone",
+      "focus on what matters"
+    ]
+  },
+  {
+    "title": "Languages as designed latent spaces",
+    "url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 25 Jul 2026 10:13:27 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章探讨了语言作为设计潜在空间的概念，强调语言结构如何影响思维和表达，并引用相关评论。",
+    "score": 7,
+    "tags": [
+      "语言设计",
+      "潜在空间",
+      "认知科学",
+      "编程语言"
+    ],
+    "highlights": [
+      "Languages as designed latent spaces",
+      "语言结构影响思维"
+    ]
+  },
+  {
+    "title": "Open Weights and American AI Leadership",
+    "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 24 Jul 2026 09:01:24 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gqgbrz/open_weights_american_ai_leadership\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章讨论了开放权重模型对美国AI领导地位的影响，强调其在促进创新和透明度方面的作用，同时指出需要平衡安全与竞争力。",
+    "score": 8,
+    "tags": [
+      "开放权重",
+      "AI领导力",
+      "美国",
+      "创新",
+      "透明度",
+      "安全"
+    ],
+    "highlights": [
+      "开放权重模型有助于推动AI领域的创新和透明度。",
+      "美国在AI领导地位上需要平衡开放与安全风险。",
+      "文章来自微软的企业责任主题页面。"
+    ]
+  },
+  {
+    "title": "How AI is expanding what people do at work",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 27 Jul 2026 03:30:00 GMT",
+    "popularity": "",
+    "content": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+    "summary": "OpenAI的研究表明，AI正在扩展工作者的职责范围，ChatGPT用户在不同角色中承担任务，并重塑工作边界。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "工作变革",
+      "ChatGPT",
+      "OpenAI",
+      "职业边界"
+    ],
+    "highlights": [
+      "AI is expanding what workers do",
+      "ChatGPT users taking on tasks across roles",
+      "reshaping job boundaries"
+    ]
+  },
+  {
+    "title": "Launching Health in ChatGPT",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 23 Jul 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+    "summary": "OpenAI 宣布在 ChatGPT 中推出健康功能，允许符合条件的美国用户安全连接医疗记录和 Apple Health，以获得更个性化的健康洞察。",
+    "score": 8,
+    "tags": [
+      "ChatGPT",
+      "健康",
+      "Apple Health",
+      "个性化",
+      "医疗记录",
+      "美国"
+    ],
+    "highlights": [
+      "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health",
+      "get more personalized insights and better understand their health"
+    ]
+  },
+  {
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Mon, 27 Jul 2026 09:32:20 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "NVIDIA Cosmos-H-Dreams 将实时生成式仿真引入手术机器人领域，通过AI生成高保真手术场景，提升机器人训练效率和手术安全性。",
+    "score": 8,
+    "tags": [
+      "NVIDIA",
+      "生成式仿真",
+      "手术机器人",
+      "实时仿真",
+      "AI训练"
+    ],
+    "highlights": [
+      "实时生成式仿真技术应用于手术机器人",
+      "高保真手术场景提升训练效率",
+      "NVIDIA Cosmos-H-Dreams 推动手术机器人智能化"
+    ]
+  },
+  {
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 23 Jul 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了将Nunchaku 4-bit扩散模型推理集成到Diffusers库中的方法，旨在通过量化技术提升推理效率并降低内存占用。",
+    "score": 8,
+    "tags": [
+      "Nunchaku",
+      "4-bit量化",
+      "扩散模型",
+      "Diffusers",
+      "推理优化",
+      "模型压缩"
+    ],
+    "highlights": [
+      "Nunchaku 4-bit diffusion inference 被集成到 Diffusers 中，显著加速推理并减少显存需求。",
+      "该方法通过低精度量化保持生成质量，同时实现高效部署。",
+      "提供了详细的集成指南和性能对比数据，展示实际应用效果。"
+    ]
+  }
+]

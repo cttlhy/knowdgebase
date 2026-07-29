@@ -1,0 +1,347 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-07-29",
+    "popularity": "stars:384464",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾为象征，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-07-29",
+    "popularity": "stars:262997",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "效率提升",
+      "协作"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-07-29",
+    "popularity": "stars:235202",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "一个针对Claude Code、Codex、Opencode、Cursor等工具的性能优化系统，涵盖技能、直觉、记忆、安全及研究优先的开发方法。",
+    "score": 7,
+    "tags": [
+      "性能优化",
+      "AI开发工具",
+      "安全",
+      "记忆管理",
+      "研究优先"
+    ],
+    "highlights": [
+      "Skills, instincts, memory, security, and research-first development",
+      "for Claude Code, Codex, Opencode, Cursor and beyond"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-07-29",
+    "popularity": "stars:222120",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户使用而不断成长的智能代理项目。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "智能代理",
+      "成长型",
+      "开源"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-07-29",
+    "popularity": "stars:198510",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-07-29",
+    "popularity": "stars:197453",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱观察的CLAUDE.md文件，用于改善Claude Code的行为。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "Claude Code",
+      "编码陷阱",
+      "CLAUDE.md",
+      "Andrej Karpathy"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-07-29",
+    "popularity": "stars:194947",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由AI代理管理的博物馆展品，使用Rust和Gajae-Code / LazyCodex构建，完全无需人工干预开发和维护。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI代理",
+      "博物馆展品",
+      "自动化",
+      "无人工干预"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-07-29",
+    "popularity": "stars:193837",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "GitHub仓库mattpocock/skills，提供面向真实工程师的技能集合，内容源自作者的.agents目录。",
+    "score": 7,
+    "tags": [
+      "技能",
+      "工程师",
+      "GitHub",
+      "mattpocock"
+    ],
+    "highlights": [
+      "Skills for Real Engineers",
+      "Straight from my .agents directory"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-07-29",
+    "popularity": "stars:190752",
+    "content": "The open source coding agent.",
+    "summary": "Anomalyco/opencode 是一个开源编码代理项目，旨在提供自动化的代码生成和辅助功能。",
+    "score": 7,
+    "tags": [
+      "开源",
+      "编码代理",
+      "自动化",
+      "代码生成"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-07-29",
+    "popularity": "stars:185745",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能访问和使用 AI，提供工具以便用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "Languages as designed latent spaces",
+    "url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 25 Jul 2026 10:13:27 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章探讨语言作为设计的潜在空间的概念，类比机器学习中的潜在空间，强调语言结构如何影响思维和表达。",
+    "score": 7,
+    "tags": [
+      "语言设计",
+      "潜在空间",
+      "认知科学",
+      "机器学习"
+    ],
+    "highlights": [
+      "Languages as designed latent spaces",
+      "类比机器学习中的潜在空间",
+      "语言结构影响思维"
+    ]
+  },
+  {
+    "title": "Open Weights and American AI Leadership",
+    "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 24 Jul 2026 09:01:24 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gqgbrz/open_weights_american_ai_leadership\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章探讨开放权重模型对美国AI领导地位的影响，强调其在促进创新、透明度和全球合作方面的作用，同时指出需平衡安全与竞争力。",
+    "score": 7,
+    "tags": [
+      "开放权重",
+      "AI领导力",
+      "美国",
+      "创新",
+      "透明度",
+      "安全"
+    ],
+    "highlights": [
+      "开放权重模型有助于推动AI领域的创新和透明度。",
+      "美国需在开放与安全之间找到平衡以维持AI领导地位。",
+      "全球合作是确保AI技术负责任发展的关键。"
+    ]
+  },
+  {
+    "title": "Scientific computing in the age of agentic AI",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 28 Jul 2026 17:00:00 GMT",
+    "popularity": "",
+    "content": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "summary": "该报告展示了科学家如何利用AI编程代理来现代化科学计算，加速基因组学及其他领域的软件开发和发现。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "科学计算",
+      "基因组学",
+      "软件开发",
+      "代理"
+    ],
+    "highlights": [
+      "科学家使用AI编码代理来现代化科学计算",
+      "加速软件开发和发现",
+      "在基因组学及其他领域的应用"
+    ]
+  },
+  {
+    "title": "How AI is expanding what people do at work",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 27 Jul 2026 03:30:00 GMT",
+    "popularity": "",
+    "content": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+    "summary": "OpenAI研究显示AI正在扩展工作内容，ChatGPT用户跨角色承担任务，重塑工作边界。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "工作扩展",
+      "ChatGPT",
+      "角色重塑",
+      "OpenAI研究"
+    ],
+    "highlights": [
+      "AI is expanding what workers do",
+      "ChatGPT users taking on tasks across roles",
+      "reshaping job boundaries"
+    ]
+  },
+  {
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 28 Jul 2026 16:27:42 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "OlmoEarth是一个用于行星尺度地理空间推理的平台，通过整合大规模地理数据与机器学习模型，支持高效的环境监测、城市规划等应用。",
+    "score": 8,
+    "tags": [
+      "地理空间推理",
+      "行星尺度",
+      "机器学习",
+      "环境监测",
+      "城市规划"
+    ],
+    "highlights": [
+      "OlmoEarth平台旨在实现行星尺度的地理空间推理",
+      "整合大规模地理数据与机器学习模型",
+      "支持环境监测和城市规划等应用"
+    ]
+  },
+  {
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 28 Jul 2026 15:01:45 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "LFM2.5-Encoders 是专为 CPU 上快速长上下文推理设计的编码器模型，通过优化架构和推理流程，在保持高精度的同时显著提升长序列处理速度。",
+    "score": 8,
+    "tags": [
+      "编码器",
+      "长上下文",
+      "CPU推理",
+      "模型优化",
+      "高效推理"
+    ],
+    "highlights": [
+      "LFM2.5-Encoders 针对长上下文场景在 CPU 上实现快速推理",
+      "通过架构优化平衡速度与精度",
+      "适用于资源受限环境下的长序列处理"
+    ]
+  }
+]

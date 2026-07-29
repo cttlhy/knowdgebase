@@ -1,0 +1,29 @@
+{
+  "id": "rss-27202603-014",
+  "title": "How AI is expanding what people do at work",
+  "source": "rss",
+  "source_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+  "status": "draft",
+  "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+  "date": "Mon, 27 Jul 2026 03:30:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI研究显示AI正在扩展工作内容，ChatGPT用户跨角色承担任务，重塑工作边界。",
+  "highlights": [
+    "AI is expanding what workers do",
+    "ChatGPT users taking on tasks across roles",
+    "reshaping job boundaries"
+  ],
+  "score": 8,
+  "tags": [
+    "AI",
+    "工作扩展",
+    "ChatGPT",
+    "角色重塑",
+    "OpenAI研究"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260729"
+  }
+}

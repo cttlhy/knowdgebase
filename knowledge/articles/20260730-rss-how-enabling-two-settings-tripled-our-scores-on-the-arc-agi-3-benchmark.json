@@ -1,0 +1,24 @@
+{
+  "id": "rss-29202615-013",
+  "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+  "source": "rss",
+  "source_url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+  "status": "draft",
+  "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+  "date": "Wed, 29 Jul 2026 15:00:00 GMT",
+  "popularity": "",
+  "summary": "本文介绍了如何通过启用两个API设置（保留推理和启用压缩）将GPT-5.6在ARC-AGI-3基准测试中的得分提升三倍，同时提高了效率。",
+  "highlights": [
+    "How two API settings improved GPT-5.6 performance on ARC-AGI-3",
+    "boosting scores and efficiency by retaining reasoning and enabling compaction"
+  ],
+  "score": 8,
+  "tags": [
+    "GPT-5.6",
+    "ARC-AGI-3",
+    "API设置",
+    "推理保留",
+    "压缩",
+    "性能提升"
+  ]
+}

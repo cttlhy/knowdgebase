@@ -1,0 +1,28 @@
+{
+  "id": "rss-29202610-014",
+  "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+  "source": "rss",
+  "source_url": "https://openai.com/index/chatgpt-for-academic-researchers",
+  "status": "draft",
+  "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+  "date": "Wed, 29 Jul 2026 10:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI 向10万名学术研究人员免费提供ChatGPT最先进的AI模型，以加速科学研究、协作和发现。",
+  "highlights": [
+    "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models",
+    "to accelerate scientific research, collaboration, and discovery"
+  ],
+  "score": 9,
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "学术研究",
+    "AI模型",
+    "科学发现"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260730"
+  }
+}

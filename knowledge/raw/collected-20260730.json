@@ -1,0 +1,344 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-07-30",
+    "popularity": "stars:384546",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，以龙虾为象征，强调自由和灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助手"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-07-30",
+    "popularity": "stars:263656",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率与协作能力。",
+    "score": 8,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "效率提升",
+      "协作"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-07-30",
+    "popularity": "stars:235931",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC 是一个针对 Claude Code、Codex、Opencode、Cursor 等 AI 编码代理的性能优化系统，专注于技能、本能、记忆、安全及研究优先的开发。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "编码工具",
+      "安全",
+      "记忆管理"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system.",
+      "Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-07-30",
+    "popularity": "stars:222603",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随用户成长而发展的智能体项目。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "智能体",
+      "成长型",
+      "NousResearch"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-07-30",
+    "popularity": "stars:198664",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，拥有400多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "公平代码",
+      "AI能力",
+      "可视化构建",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-07-30",
+    "popularity": "stars:197794",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱观察的CLAUDE.md文件，用于改善Claude Code的行为。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "Claude Code",
+      "编码优化",
+      "AI辅助编程"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-07-30",
+    "popularity": "stars:195426",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "GitHub仓库mattpocock/skills，提供面向真实工程师的技能集合，内容源自作者的.agents目录。",
+    "score": 7,
+    "tags": [
+      "技能",
+      "工程师",
+      "GitHub",
+      "mattpocock"
+    ],
+    "highlights": [
+      "Skills for Real Engineers",
+      "Straight from my .agents directory"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-07-30",
+    "popularity": "stars:194946",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由代理管理的博物馆展品，使用 Rust 和 Gajae-Code / LazyCodex 构建，完全无需人工干预开发和维护。",
+    "score": 7,
+    "tags": [
+      "Rust",
+      "Gajae-Code",
+      "LazyCodex",
+      "agent-managed",
+      "museum exhibit",
+      "no human intervention"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-07-30",
+    "popularity": "stars:191061",
+    "content": "The open source coding agent.",
+    "summary": "An open source coding agent project hosted on GitHub under anomalyco/opencode.",
+    "score": 7,
+    "tags": [
+      "open source",
+      "coding agent",
+      "GitHub"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-07-30",
+    "popularity": "stars:185745",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 致力于让每个人都能使用和构建 AI，提供工具以使用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "to use and to build on",
+      "provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "Languages as designed latent spaces",
+    "url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 25 Jul 2026 10:13:27 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章探讨语言作为设计的潜在空间的概念，类比机器学习中的潜在空间，分析语言如何通过结构化和抽象化来编码和传递信息。",
+    "score": 7,
+    "tags": [
+      "语言设计",
+      "潜在空间",
+      "机器学习",
+      "抽象化",
+      "信息编码"
+    ],
+    "highlights": [
+      "Languages as designed latent spaces",
+      "类比机器学习中的潜在空间",
+      "语言通过结构化和抽象化编码信息"
+    ]
+  },
+  {
+    "title": "Open Weights and American AI Leadership",
+    "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 24 Jul 2026 09:01:24 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gqgbrz/open_weights_american_ai_leadership\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章探讨了开放权重模型对美国AI领导地位的影响，分析了其优势与风险，并提出了政策建议。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "开放权重",
+      "美国领导力",
+      "政策"
+    ],
+    "highlights": [
+      "Open weights models can accelerate innovation and democratize AI access.",
+      "Balancing openness with security is crucial for maintaining American AI leadership."
+    ]
+  },
+  {
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 29 Jul 2026 15:00:00 GMT",
+    "popularity": "",
+    "content": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "summary": "本文介绍了如何通过启用两个API设置（保留推理和启用压缩）将GPT-5.6在ARC-AGI-3基准测试中的得分提升三倍，同时提高了效率。",
+    "score": 8,
+    "tags": [
+      "GPT-5.6",
+      "ARC-AGI-3",
+      "API设置",
+      "推理保留",
+      "压缩",
+      "性能提升"
+    ],
+    "highlights": [
+      "How two API settings improved GPT-5.6 performance on ARC-AGI-3",
+      "boosting scores and efficiency by retaining reasoning and enabling compaction"
+    ]
+  },
+  {
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 29 Jul 2026 10:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "summary": "OpenAI 向10万名学术研究人员免费提供ChatGPT最先进的AI模型，以加速科学研究、协作和发现。",
+    "score": 9,
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "学术研究",
+      "AI模型",
+      "科学发现"
+    ],
+    "highlights": [
+      "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models",
+      "to accelerate scientific research, collaboration, and discovery"
+    ]
+  },
+  {
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 28 Jul 2026 16:27:42 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "The OlmoEarth platform enables geospatial inference at planetary scale, leveraging large-scale AI models and distributed infrastructure to process Earth observation data efficiently.",
+    "score": 8,
+    "tags": [
+      "geospatial AI",
+      "planetary-scale inference",
+      "Earth observation",
+      "distributed infrastructure",
+      "AI platform"
+    ],
+    "highlights": [
+      "OlmoEarth enables geospatial inference at planetary scale",
+      "Leverages large-scale AI models for Earth observation data",
+      "Designed for efficient distributed processing"
+    ]
+  },
+  {
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 28 Jul 2026 15:01:45 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "LFM2.5-Encoders 是 Liquid AI 推出的高效编码器系列，专为在 CPU 上实现快速长上下文推理而设计，通过优化架构显著提升推理速度并降低内存占用。",
+    "score": 8,
+    "tags": [
+      "长上下文推理",
+      "CPU优化",
+      "编码器",
+      "高效推理",
+      "Liquid AI"
+    ],
+    "highlights": [
+      "LFM2.5-Encoders 针对 CPU 上的长上下文推理进行了专门优化。",
+      "该系列编码器在保持高精度的同时，大幅提升了推理速度。",
+      "通过创新的架构设计，有效降低了内存占用。"
+    ]
+  }
+]

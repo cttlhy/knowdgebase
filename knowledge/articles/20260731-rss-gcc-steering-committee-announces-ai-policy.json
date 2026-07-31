@@ -1,0 +1,23 @@
+{
+  "id": "rss-30202611-012",
+  "title": "GCC steering committee announces AI policy",
+  "source": "rss",
+  "source_url": "https://lwn.net/Articles/1086041/",
+  "status": "draft",
+  "url": "https://lwn.net/Articles/1086041/",
+  "date": "Thu, 30 Jul 2026 11:45:44 +0000",
+  "popularity": "",
+  "summary": "GCC指导委员会宣布了关于人工智能的新政策，涉及AI生成代码的版权和贡献指南。",
+  "highlights": [
+    "GCC指导委员会正式宣布了AI相关政策",
+    "政策涉及AI生成代码的版权和贡献指南"
+  ],
+  "score": 8,
+  "tags": [
+    "GCC",
+    "AI政策",
+    "开源",
+    "版权",
+    "编程"
+  ]
+}

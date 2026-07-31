@@ -1,0 +1,27 @@
+{
+  "id": "rss-30202615-017",
+  "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+  "date": "Thu, 30 Jul 2026 15:09:09 GMT",
+  "popularity": "",
+  "summary": "The article discusses the growing problem of idle GPUs in data centers, comparing them to grounded aircraft that incur costs without generating value. It highlights the inefficiencies in current GPU management practices, the financial and environmental impact of underutilized hardware, and proposes strategies for better scheduling, sharing, and monitoring to maximize GPU utilization.",
+  "highlights": [
+    "Idle GPUs represent a significant financial drain, akin to grounded aircraft that still incur costs.",
+    "Current GPU management often leads to underutilization, with many GPUs running at low occupancy rates.",
+    "Implementing dynamic scheduling and workload sharing can dramatically improve GPU efficiency.",
+    "Better monitoring and predictive analytics are essential to identify and reduce idle time.",
+    "Optimizing GPU usage not only cuts costs but also reduces the environmental footprint of data centers."
+  ],
+  "score": 8,
+  "tags": [
+    "GPU",
+    "resource management",
+    "data center",
+    "utilization",
+    "cost optimization",
+    "sustainability"
+  ]
+}

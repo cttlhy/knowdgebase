@@ -1,0 +1,25 @@
+{
+  "id": "rss-29202609-014",
+  "title": "Writing the PHP Virtual Machine in Rust (with a lot of help from AI)",
+  "source": "rss",
+  "source_url": "https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai",
+  "status": "draft",
+  "url": "https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai",
+  "date": "Wed, 29 Jul 2026 09:02:35 -0500",
+  "popularity": "",
+  "summary": "本文介绍了作者在AI辅助下使用Rust编写PHP虚拟机的过程，重点讨论了技术挑战、AI工具的应用以及性能优化策略。",
+  "highlights": [
+    "作者利用AI工具辅助编写Rust代码，显著提高了开发效率。",
+    "文章详细描述了PHP虚拟机核心组件的实现，包括执行引擎和内存管理。",
+    "通过Rust的安全特性，虚拟机在内存安全方面得到了增强。",
+    "性能测试显示，该虚拟机在特定基准测试中优于传统PHP实现。"
+  ],
+  "score": 8,
+  "tags": [
+    "Rust",
+    "PHP",
+    "虚拟机",
+    "AI辅助开发",
+    "性能优化"
+  ]
+}

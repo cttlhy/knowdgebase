@@ -1,0 +1,24 @@
+{
+  "id": "rss-01202607-012",
+  "title": "AI doesn't generate working products, that's still your job",
+  "source": "rss",
+  "source_url": "https://weeraman.com/the-prototype-isnt-the-product/",
+  "status": "draft",
+  "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+  "date": "Sat, 01 Aug 2026 07:52:10 +0000",
+  "popularity": "",
+  "summary": "文章指出AI生成的代码或原型并不等同于可交付的产品，开发者仍需负责集成、测试、部署和维护等关键工作。作者强调AI工具能加速原型制作，但真正的产品需要人类工程师的工程判断、质量保证和持续迭代。",
+  "highlights": [
+    "AI doesn't generate working products, that's still your job",
+    "The prototype isn't the product",
+    "AI tools accelerate prototyping, but human engineers ensure production quality"
+  ],
+  "score": 8,
+  "tags": [
+    "AI",
+    "软件开发",
+    "原型",
+    "产品工程",
+    "开发者角色"
+  ]
+}

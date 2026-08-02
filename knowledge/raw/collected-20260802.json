@@ -1,0 +1,404 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-02",
+    "popularity": "stars:384883",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人 AI 助手项目，以龙虾为吉祥物，强调灵活性和自主性。",
+    "score": 8,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助理"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-02",
+    "popularity": "stars:264924",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "An agentic skills framework and software development methodology designed to be effective in practice.",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "skills-framework",
+      "software-development",
+      "methodology",
+      "github"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-02",
+    "popularity": "stars:236900",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance AI coding agents like Claude Code, Codex, Opencode, and Cursor. It focuses on skills, instincts, memory, security, and research-first development to improve agent efficiency and reliability.",
+    "score": 8,
+    "tags": [
+      "AI agent",
+      "performance optimization",
+      "harness",
+      "Claude Code",
+      "Codex",
+      "Opencode",
+      "Cursor",
+      "memory"
+    ],
+    "highlights": [
+      "Agent harness performance optimization system",
+      "Supports multiple AI coding agents (Claude Code, Codex, Opencode, Cursor)",
+      "Focuses on skills, instincts, memory, security, and research-first development"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-02",
+    "popularity": "stars:224014",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个智能体项目，强调其能够随着用户的使用而成长和适应。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "自适应",
+      "开源"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-02",
+    "popularity": "stars:199336",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库，包含从个人 .agents 目录中提取的、面向真实工程师的技能集合，旨在提供实用、直接的工程技能参考。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "engineering",
+      "agents",
+      "github",
+      "mattpocock"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-02",
+    "popularity": "stars:199025",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，并提供超过400个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "集成",
+      "可视化编程"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform",
+      "native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-02",
+    "popularity": "stars:198625",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 8,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "best practices"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-02",
+    "popularity": "stars:194957",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "ultraworkers/claw-code 是一个由智能体完全自主管理和维护的博物馆展品项目，使用 Rust 语言构建，并基于 Gajae-Code / LazyCodex 技术，全程无人工干预。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI Agent",
+      "自主开发",
+      "博物馆展品",
+      "Gajae-Code",
+      "LazyCodex",
+      "无人工干预"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-02",
+    "popularity": "stars:192209",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理，旨在帮助开发者自动完成编程任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-02",
+    "popularity": "stars:185762",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具",
+      "AutoGPT"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone, to use and to build on.",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Sat, 01 Aug 2026 22:25:12 +0000",
+    "popularity": "",
+    "content": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 297 # Comments: 272",
+    "summary": "MIT研究显示，AI（如ChatGPT）提供的财务建议质量出乎意料地高，尤其在用户提出正确问题时；文章探讨了AI在金融咨询中的潜力与局限。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "金融建议",
+      "MIT研究",
+      "ChatGPT",
+      "财务咨询"
+    ],
+    "highlights": [
+      "AI financial advice is surprisingly good, especially if you ask right questions",
+      "Points: 297 # Comments: 272"
+    ]
+  },
+  {
+    "title": "AI doesn't generate working products, that's still your job",
+    "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Sat, 01 Aug 2026 07:52:10 +0000",
+    "popularity": "",
+    "content": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 255 # Comments: 270",
+    "summary": "文章指出AI生成的代码或原型并不等同于可交付的产品，开发者仍需负责集成、测试、部署和维护等关键工作。作者强调AI工具能加速原型制作，但真正的产品需要人类工程师的工程判断、质量保证和持续迭代。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "软件开发",
+      "原型",
+      "产品工程",
+      "开发者角色"
+    ],
+    "highlights": [
+      "AI doesn't generate working products, that's still your job",
+      "The prototype isn't the product",
+      "AI tools accelerate prototyping, but human engineers ensure production quality"
+    ]
+  },
+  {
+    "title": "Why we write our own C and C++ inference engines",
+    "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 31 Jul 2026 11:17:44 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/t7zdif/why_we_write_our_own_c_c_inference_engines\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "LocalAI 团队解释了为何选择自研 C 和 C++ 推理引擎，而非依赖现有框架，主要出于性能优化、硬件适配、依赖控制及长期维护的考量。",
+    "score": 8,
+    "tags": [
+      "C++",
+      "推理引擎",
+      "性能优化",
+      "硬件适配",
+      "自研技术"
+    ],
+    "highlights": [
+      "自研引擎可针对特定硬件进行深度优化，提升推理速度。",
+      "减少外部依赖，增强代码可控性和可维护性。",
+      "团队强调对底层技术的掌握，以应对未来需求变化。"
+    ]
+  },
+  {
+    "title": "You Could Have Come Up With Kimi Delta Attention",
+    "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 28 Jul 2026 12:01:39 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jjap0n/you_could_have_come_up_with_kimi_delta\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文探讨了Kimi Delta Attention机制的推导过程，强调其创新性源于对现有注意力机制的深入理解和改进，并鼓励读者通过逻辑推理自行发现该机制。",
+    "score": 8,
+    "tags": [
+      "Kimi",
+      "Delta Attention",
+      "注意力机制",
+      "深度学习",
+      "创新推导"
+    ],
+    "highlights": [
+      "Kimi Delta Attention的提出并非偶然，而是基于对注意力机制本质的深刻洞察。",
+      "文章展示了如何从基础概念出发，逐步推导出Delta Attention的改进方案。",
+      "作者强调，通过系统思考和实验验证，任何人都可能独立提出类似创新。"
+    ]
+  },
+  {
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "url": "https://openai.com/index/ten-advances-in-mathematics",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Sat, 01 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+    "summary": "OpenAI 分享了在数学和理论计算机科学领域取得的十项进展，涵盖几何、密码学和复杂性理论等长期未解问题。",
+    "score": 8,
+    "tags": [
+      "数学",
+      "理论计算机科学",
+      "几何",
+      "密码学",
+      "复杂性理论",
+      "OpenAI"
+    ],
+    "highlights": [
+      "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science",
+      "including advances in geometry, cryptography, and complexity"
+    ]
+  },
+  {
+    "title": "Advancing responsible AI across Europe",
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 31 Jul 2026 15:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+    "summary": "OpenAI outlines its commitment to responsible AI governance in Europe, detailing safety, security, transparency, and provenance practices aligned with the EU AI Act.",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "responsible AI",
+      "EU AI Act",
+      "AI governance",
+      "safety",
+      "transparency",
+      "Europe"
+    ],
+    "highlights": [
+      "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe.",
+      "The work will continue as the EU AI Act advances."
+    ]
+  },
+  {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 30 Jul 2026 15:09:09 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文探讨了GPU管理的重要性，将闲置GPU比作停飞的飞机，强调高效利用GPU资源对降低成本、提升AI训练效率的关键作用，并提出了优化GPU调度的策略。",
+    "score": 8,
+    "tags": [
+      "GPU管理",
+      "资源优化",
+      "AI基础设施",
+      "成本控制",
+      "调度策略"
+    ],
+    "highlights": [
+      "闲置GPU如同停飞的飞机，是巨大的资源浪费。",
+      "高效的GPU管理能显著降低AI训练成本并加速迭代。",
+      "动态调度和共享机制是提升GPU利用率的核心手段。"
+    ]
+  },
+  {
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 28 Jul 2026 16:27:42 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "OlmoEarth is a geospatial inference platform by AI2 that enables planetary-scale analysis by combining a large-scale geospatial data infrastructure with a family of vision-language models. It supports tasks like flood detection, land cover classification, and disaster response through a flexible API and open datasets.",
+    "score": 8,
+    "tags": [
+      "geospatial",
+      "vision-language model",
+      "planetary scale",
+      "AI2",
+      "remote sensing",
+      "infrastructure"
+    ],
+    "highlights": [
+      "OlmoEarth provides a unified platform for geospatial inference at planetary scale.",
+      "It integrates a massive geospatial data pipeline with fine-tuned vision-language models.",
+      "The platform supports diverse applications including flood mapping and land cover analysis.",
+      "Open datasets and model weights are released to foster reproducibility and research."
+    ]
+  }
+]

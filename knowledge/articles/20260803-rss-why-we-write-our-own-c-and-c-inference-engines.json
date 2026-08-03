@@ -1,0 +1,23 @@
+{
+  "id": "rss-31202611-011",
+  "title": "Why we write our own C and C++ inference engines",
+  "source": "rss",
+  "source_url": "https://localai.io/blog/why-we-write-our-own-engines/",
+  "status": "draft",
+  "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+  "date": "Fri, 31 Jul 2026 11:17:44 -0500",
+  "popularity": "",
+  "summary": "文章解释了为什么团队选择自行编写C和C++推理引擎，而非依赖现成框架，主要出于性能优化、控制力和特定需求满足的考虑。",
+  "highlights": [
+    "自行编写引擎以获得更好的性能和控制力",
+    "针对特定模型和硬件进行优化",
+    "避免通用框架的局限性"
+  ],
+  "score": 7,
+  "tags": [
+    "C++",
+    "推理引擎",
+    "性能优化",
+    "自主开发"
+  ]
+}

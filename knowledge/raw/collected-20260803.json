@@ -1,0 +1,352 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-03",
+    "popularity": "stars:385004",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw is a personal AI assistant project that emphasizes cross-platform compatibility, allowing users to deploy it on any operating system and platform, with a playful lobster-themed branding.",
+    "score": 7,
+    "tags": [
+      "AI assistant",
+      "cross-platform",
+      "personal assistant",
+      "open source"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-03",
+    "popularity": "stars:265447",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "An agentic skills framework and software development methodology that works, presented as a GitHub repository.",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "skills-framework",
+      "software-development",
+      "methodology",
+      "github"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-03",
+    "popularity": "stars:237200",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance AI coding agents like Claude Code, Codex, Opencode, and Cursor. It focuses on skills, instincts, memory, security, and research-first development to improve agent efficiency and reliability.",
+    "score": 8,
+    "tags": [
+      "AI agents",
+      "performance optimization",
+      "developer tools",
+      "Claude Code",
+      "Codex",
+      "Opencode",
+      "Cursor",
+      "memory"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple AI coding tools",
+      "Emphasizes skills, instincts, memory, and security for robust agent behavior",
+      "Research-first development approach for continuous improvement"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-03",
+    "popularity": "stars:224622",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个智能体项目，强调其能够随着用户的使用而成长和适应。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "自适应",
+      "开源"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-03",
+    "popularity": "stars:200695",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库，包含从个人 .agents 目录中提取的面向真实工程师的技能集合，可能涉及 TypeScript、开发工具或工程实践。",
+    "score": 7,
+    "tags": [
+      "skills",
+      "engineering",
+      "typescript",
+      "developer-tools",
+      "github"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-03",
+    "popularity": "stars:199158",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，并提供超过400个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "集成",
+      "可视化编程"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities.",
+      "Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-03",
+    "popularity": "stars:198975",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 7,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-03",
+    "popularity": "stars:194967",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust using Gajae-Code / LazyCodex, developed and maintained entirely without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI",
+      "autonomous",
+      "museum",
+      "exhibit",
+      "agent"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-03",
+    "popularity": "stars:192668",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理，旨在帮助开发者自动完成编码任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-03",
+    "popularity": "stars:185783",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "Why we write our own C and C++ inference engines",
+    "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 31 Jul 2026 11:17:44 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/t7zdif/why_we_write_our_own_c_c_inference_engines\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章解释了为什么团队选择自行编写C和C++推理引擎，而非依赖现成框架，主要出于性能优化、控制力和特定需求满足的考虑。",
+    "score": 7,
+    "tags": [
+      "C++",
+      "推理引擎",
+      "性能优化",
+      "自主开发"
+    ],
+    "highlights": [
+      "自行编写引擎以获得更好的性能和控制力",
+      "针对特定模型和硬件进行优化",
+      "避免通用框架的局限性"
+    ]
+  },
+  {
+    "title": "You Could Have Come Up With Kimi Delta Attention",
+    "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 28 Jul 2026 12:01:39 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jjap0n/you_could_have_come_up_with_kimi_delta\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文探讨了Kimi Delta Attention机制的推导过程，强调其并非高不可攀的创新，而是基于现有注意力机制的合理演进。文章通过逐步拆解，展示了如何从标准注意力出发，引入Delta规则来改进键值缓存更新，从而提升长上下文处理的效率与性能。",
+    "score": 8,
+    "tags": [
+      "Kimi",
+      "Delta Attention",
+      "注意力机制",
+      "长上下文",
+      "模型优化"
+    ],
+    "highlights": [
+      "Kimi Delta Attention的推导过程被清晰呈现，降低了理解门槛。",
+      "文章强调创新源于对现有机制的深入思考与改进。",
+      "Delta规则在注意力中的应用显著提升了长上下文处理的效率。"
+    ]
+  },
+  {
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "url": "https://openai.com/index/ten-advances-in-mathematics",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Sat, 01 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+    "summary": "OpenAI 分享了在数学和理论计算机科学领域取得的十项进展，涵盖几何、密码学和复杂性理论等方向，解决了多个长期未解的开放问题。",
+    "score": 8,
+    "tags": [
+      "数学",
+      "理论计算机科学",
+      "几何",
+      "密码学",
+      "复杂性理论",
+      "OpenAI",
+      "开放问题"
+    ],
+    "highlights": [
+      "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science",
+      "including advances in geometry, cryptography, and complexity"
+    ]
+  },
+  {
+    "title": "Advancing responsible AI across Europe",
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 31 Jul 2026 15:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+    "summary": "OpenAI outlines its commitment to responsible AI governance in Europe, detailing safety, security, transparency, and provenance practices aligned with the EU AI Act.",
+    "score": 8,
+    "tags": [
+      "AI safety",
+      "EU AI Act",
+      "responsible AI",
+      "governance",
+      "transparency",
+      "provenance"
+    ],
+    "highlights": [
+      "OpenAI emphasizes safety and security measures to support responsible AI deployment.",
+      "The company highlights transparency and provenance as key pillars for trust.",
+      "Work aligns with the evolving EU AI Act regulatory framework."
+    ]
+  },
+  {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 30 Jul 2026 15:09:09 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文探讨了GPU管理的重要性，将闲置GPU比作停飞的飞机，强调高效利用GPU资源对降低成本、提升AI训练效率的关键作用，并提出了优化GPU调度的策略。",
+    "score": 8,
+    "tags": [
+      "GPU管理",
+      "资源优化",
+      "AI基础设施",
+      "成本控制",
+      "调度策略"
+    ],
+    "highlights": [
+      "闲置GPU如同停飞的飞机，是巨大的资源浪费。",
+      "高效的GPU管理能显著降低AI训练成本。",
+      "动态调度和共享是提升GPU利用率的核心手段。"
+    ]
+  },
+  {
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 28 Jul 2026 16:27:42 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "OlmoEarth is a geospatial inference platform by AI2 that processes planetary-scale satellite imagery, combining a vision-language model with a distributed inference engine to enable efficient, scalable analysis of Earth observation data.",
+    "score": 8,
+    "tags": [
+      "geospatial",
+      "satellite imagery",
+      "vision-language model",
+      "distributed inference",
+      "AI2",
+      "planetary scale"
+    ],
+    "highlights": [
+      "OlmoEarth enables geospatial inference at planetary scale, processing vast amounts of satellite imagery.",
+      "The platform integrates a vision-language model with a distributed inference engine for efficient analysis.",
+      "It is designed to handle Earth observation data at unprecedented scale, supporting diverse applications."
+    ]
+  }
+]

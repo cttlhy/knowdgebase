@@ -1,0 +1,23 @@
+{
+  "id": "github-20260803-005",
+  "title": "mattpocock/skills",
+  "source": "github",
+  "source_url": "https://github.com/mattpocock/skills",
+  "status": "draft",
+  "url": "https://github.com/mattpocock/skills",
+  "date": "2026-08-03",
+  "popularity": "stars:200695",
+  "summary": "Matt Pocock 的 GitHub 仓库，包含从个人 .agents 目录中提取的面向真实工程师的技能集合，可能涉及 TypeScript、开发工具或工程实践。",
+  "highlights": [
+    "Skills for Real Engineers.",
+    "Straight from my .agents directory."
+  ],
+  "score": 7,
+  "tags": [
+    "skills",
+    "engineering",
+    "typescript",
+    "developer-tools",
+    "github"
+  ]
+}

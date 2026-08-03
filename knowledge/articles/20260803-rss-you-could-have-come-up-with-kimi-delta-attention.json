@@ -1,0 +1,24 @@
+{
+  "id": "rss-28202612-012",
+  "title": "You Could Have Come Up With Kimi Delta Attention",
+  "source": "rss",
+  "source_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+  "status": "draft",
+  "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+  "date": "Tue, 28 Jul 2026 12:01:39 -0500",
+  "popularity": "",
+  "summary": "本文探讨了Kimi Delta Attention机制的推导过程，强调其并非高不可攀的创新，而是基于现有注意力机制的合理演进。文章通过逐步拆解，展示了如何从标准注意力出发，引入Delta规则来改进键值缓存更新，从而提升长上下文处理的效率与性能。",
+  "highlights": [
+    "Kimi Delta Attention的推导过程被清晰呈现，降低了理解门槛。",
+    "文章强调创新源于对现有机制的深入思考与改进。",
+    "Delta规则在注意力中的应用显著提升了长上下文处理的效率。"
+  ],
+  "score": 8,
+  "tags": [
+    "Kimi",
+    "Delta Attention",
+    "注意力机制",
+    "长上下文",
+    "模型优化"
+  ]
+}

@@ -1,0 +1,373 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-04",
+    "popularity": "stars:385106",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw is a personal AI assistant project that aims to be cross-platform, supporting any operating system and platform, with a lobster-themed branding.",
+    "score": 7,
+    "tags": [
+      "AI assistant",
+      "cross-platform",
+      "personal assistant",
+      "open source"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-04",
+    "popularity": "stars:266025",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "A framework and methodology for agentic software development, emphasizing practical skills and workflows.",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "framework",
+      "methodology",
+      "software-development",
+      "skills"
+    ],
+    "highlights": [
+      "An agentic skills framework",
+      "software development methodology that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-04",
+    "popularity": "stars:237486",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance coding agents like Claude Code, Codex, Opencode, and Cursor through skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent harness",
+      "performance optimization",
+      "Claude Code",
+      "Codex",
+      "Opencode",
+      "Cursor",
+      "skills",
+      "memory"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple coding platforms",
+      "Includes skills, instincts, memory, and security features",
+      "Research-first development approach for continuous improvement"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-04",
+    "popularity": "stars:225177",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个与用户共同成长的智能体项目，强调持续进化和适应性。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "成长型系统"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-04",
+    "popularity": "stars:202413",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库，包含从个人 .agents 目录中提取的面向真实工程师的技能集合。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "engineering",
+      "agents",
+      "github",
+      "mattpocock"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-04",
+    "popularity": "stars:199327",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 8,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "behavior improvement"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-04",
+    "popularity": "stars:199291",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，并提供超过400个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI能力",
+      "公平代码",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud, 400+ integrations"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-04",
+    "popularity": "stars:194964",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "ultraworkers/claw-code 是一个由智能体完全自主管理和维护的博物馆展品项目，使用 Rust 语言及 Gajae-Code / LazyCodex 工具链构建，全程无人工干预。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI Agent",
+      "自主开发",
+      "博物馆展品",
+      "无人工干预"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-04",
+    "popularity": "stars:193149",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理，旨在帮助开发者自动完成编码任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-04",
+    "popularity": "stars:185805",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+    "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Mon, 03 Aug 2026 02:30:30 +0000",
+    "popularity": "",
+    "content": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda Comments URL: https://news.ycombinator.com/item?id=49150561 Points: 205 # Comments: 106",
+    "summary": "OpenAI的超级政治行动委员会（super PAC）被曝资助一个由AI机器人撰写文章的新闻网站，该网站发布内容攻击行业批评者，以推进其政治议程。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "超级PAC",
+      "AI生成内容",
+      "政治宣传",
+      "新闻伦理",
+      "行业批评"
+    ],
+    "highlights": [
+      "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+      "The reporters at this news site are AI bots. OpenAI's super PAC appears to be using it to advance its political agenda"
+    ]
+  },
+  {
+    "title": "Categorization with NLP",
+    "url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 03 Aug 2026 13:10:54 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/yndrxm/categorization_with_nlp\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "The article discusses using NLP for categorization, likely covering techniques, challenges, and practical applications, though the provided content is minimal.",
+    "score": 5,
+    "tags": [
+      "NLP",
+      "categorization",
+      "machine learning"
+    ],
+    "highlights": [
+      "The article is about categorization with NLP, but the content snippet is too brief to extract specific highlights."
+    ]
+  },
+  {
+    "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+    "url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 03 Aug 2026 12:45:39 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/vytqfi/why_do_cognitive_scientists_hate_llms\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "This article explores the tension between cognitive scientists and large language models (LLMs), arguing that the former often dismiss LLMs due to fundamental differences in how they model cognition, such as lacking embodiment, grounding, and causal reasoning, while also highlighting potential bridges between the two fields.",
+    "score": 8,
+    "tags": [
+      "cognitive science",
+      "LLMs",
+      "AI",
+      "philosophy of mind",
+      "embodiment",
+      "grounding"
+    ],
+    "highlights": [
+      "Cognitive scientists criticize LLMs for lacking embodied and grounded understanding, which they see as essential to human cognition.",
+      "The article suggests that LLMs may still offer valuable insights into language processing and statistical learning, despite their limitations.",
+      "It discusses the potential for interdisciplinary collaboration to advance both AI and cognitive science."
+    ]
+  },
+  {
+    "title": "Apple is getting this wrong",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 03 Aug 2026 22:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "summary": "OpenAI回应苹果公司无根据的诉讼，纠正关于其员工的不实指控，并分享相关消息记录以澄清事实。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "Apple",
+      "诉讼",
+      "澄清",
+      "法律纠纷"
+    ],
+    "highlights": [
+      "OpenAI addresses Apple’s baseless lawsuit",
+      "corrects claims about its employees",
+      "shares messages documenting what happened"
+    ]
+  },
+  {
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 03 Aug 2026 07:00:00 GMT",
+    "popularity": "",
+    "content": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "summary": "OpenAI 在六个月内构建了 GPT-Live 实时语音 AI 系统，采用无轮次语音模型和低延迟架构，实现了更快速、更自然的连续语音交互。",
+    "score": 8,
+    "tags": [
+      "语音AI",
+      "实时系统",
+      "低延迟",
+      "GPT-Live",
+      "架构设计"
+    ],
+    "highlights": [
+      "GPT-Live enables continuous voice interaction with AI",
+      "using a turnless speech model and low-latency architecture",
+      "faster, more natural conversations"
+    ]
+  },
+  {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 30 Jul 2026 15:09:09 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文以飞机停飞类比GPU闲置问题，探讨GPU管理的重要性，指出闲置GPU如同停飞飞机造成资源浪费，并分析原因、影响及解决方案，强调高效调度与利用GPU资源的关键性。",
+    "score": 8,
+    "tags": [
+      "GPU管理",
+      "资源优化",
+      "闲置资源",
+      "调度策略",
+      "数据中心",
+      "效率提升"
+    ],
+    "highlights": [
+      "Idle GPUs are the new grounded aircraft, representing significant wasted compute capacity.",
+      "Effective GPU management requires dynamic scheduling and workload consolidation to minimize idle time.",
+      "Organizations lose millions in potential compute value when GPUs sit unused, similar to airlines with grounded planes."
+    ]
+  },
+  {
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 28 Jul 2026 16:27:42 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "OlmoEarth is a geospatial inference platform by AI2 that enables planetary-scale analysis by combining satellite imagery with language models, offering a scalable infrastructure for environmental and social applications.",
+    "score": 8,
+    "tags": [
+      "geospatial",
+      "AI",
+      "satellite imagery",
+      "planetary scale",
+      "inference",
+      "platform"
+    ],
+    "highlights": [
+      "OlmoEarth enables geospatial inference at planetary scale.",
+      "The platform integrates satellite data with language models for broad applications.",
+      "It provides scalable infrastructure for environmental and social analysis."
+    ]
+  }
+]

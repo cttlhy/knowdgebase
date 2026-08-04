@@ -1,0 +1,24 @@
+{
+  "id": "rss-03202607-015",
+  "title": "How we built a realtime system for responsive voice AI in six months",
+  "source": "rss",
+  "source_url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+  "status": "draft",
+  "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+  "date": "Mon, 03 Aug 2026 07:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI 在六个月内构建了 GPT-Live 实时语音 AI 系统，采用无轮次语音模型和低延迟架构，实现了更快速、更自然的连续语音交互。",
+  "highlights": [
+    "GPT-Live enables continuous voice interaction with AI",
+    "using a turnless speech model and low-latency architecture",
+    "faster, more natural conversations"
+  ],
+  "score": 8,
+  "tags": [
+    "语音AI",
+    "实时系统",
+    "低延迟",
+    "GPT-Live",
+    "架构设计"
+  ]
+}

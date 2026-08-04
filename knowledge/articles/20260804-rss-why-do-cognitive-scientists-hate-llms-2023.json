@@ -1,0 +1,25 @@
+{
+  "id": "rss-03202612-013",
+  "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+  "source": "rss",
+  "source_url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+  "status": "draft",
+  "url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+  "date": "Mon, 03 Aug 2026 12:45:39 -0500",
+  "popularity": "",
+  "summary": "This article explores the tension between cognitive scientists and large language models (LLMs), arguing that the former often dismiss LLMs due to fundamental differences in how they model cognition, such as lacking embodiment, grounding, and causal reasoning, while also highlighting potential bridges between the two fields.",
+  "highlights": [
+    "Cognitive scientists criticize LLMs for lacking embodied and grounded understanding, which they see as essential to human cognition.",
+    "The article suggests that LLMs may still offer valuable insights into language processing and statistical learning, despite their limitations.",
+    "It discusses the potential for interdisciplinary collaboration to advance both AI and cognitive science."
+  ],
+  "score": 8,
+  "tags": [
+    "cognitive science",
+    "LLMs",
+    "AI",
+    "philosophy of mind",
+    "embodiment",
+    "grounding"
+  ]
+}

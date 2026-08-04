@@ -1,0 +1,25 @@
+{
+  "id": "rss-30202615-016",
+  "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+  "date": "Thu, 30 Jul 2026 15:09:09 GMT",
+  "popularity": "",
+  "summary": "本文以飞机停飞类比GPU闲置问题，探讨GPU管理的重要性，指出闲置GPU如同停飞飞机造成资源浪费，并分析原因、影响及解决方案，强调高效调度与利用GPU资源的关键性。",
+  "highlights": [
+    "Idle GPUs are the new grounded aircraft, representing significant wasted compute capacity.",
+    "Effective GPU management requires dynamic scheduling and workload consolidation to minimize idle time.",
+    "Organizations lose millions in potential compute value when GPUs sit unused, similar to airlines with grounded planes."
+  ],
+  "score": 8,
+  "tags": [
+    "GPU管理",
+    "资源优化",
+    "闲置资源",
+    "调度策略",
+    "数据中心",
+    "效率提升"
+  ]
+}

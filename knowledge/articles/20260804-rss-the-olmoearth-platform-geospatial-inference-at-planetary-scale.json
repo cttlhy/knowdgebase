@@ -1,0 +1,25 @@
+{
+  "id": "rss-28202616-017",
+  "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+  "date": "Tue, 28 Jul 2026 16:27:42 GMT",
+  "popularity": "",
+  "summary": "OlmoEarth is a geospatial inference platform by AI2 that enables planetary-scale analysis by combining satellite imagery with language models, offering a scalable infrastructure for environmental and social applications.",
+  "highlights": [
+    "OlmoEarth enables geospatial inference at planetary scale.",
+    "The platform integrates satellite data with language models for broad applications.",
+    "It provides scalable infrastructure for environmental and social analysis."
+  ],
+  "score": 8,
+  "tags": [
+    "geospatial",
+    "AI",
+    "satellite imagery",
+    "planetary scale",
+    "inference",
+    "platform"
+  ]
+}

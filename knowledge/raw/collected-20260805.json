@@ -1,0 +1,357 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-05",
+    "popularity": "stars:385205",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人 AI 助手项目，以‘龙虾方式’为特色，旨在提供灵活、自主的智能辅助体验。",
+    "score": 8,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助理",
+      "自主智能"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-05",
+    "popularity": "stars:266891",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "A framework and methodology for agentic software development, emphasizing practical skills and workflows.",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "framework",
+      "methodology",
+      "software development",
+      "skills"
+    ],
+    "highlights": [
+      "An agentic skills framework",
+      "software development methodology that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-05",
+    "popularity": "stars:237867",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance coding agents like Claude Code, Codex, Opencode, and Cursor. It focuses on skills, instincts, memory, security, and research-first development to improve agent efficiency and reliability.",
+    "score": 8,
+    "tags": [
+      "agent harness",
+      "performance optimization",
+      "coding agents",
+      "Claude Code",
+      "Codex",
+      "Opencode",
+      "Cursor",
+      "memory"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple coding platforms",
+      "Emphasizes skills, instincts, memory, and security for robust agent behavior",
+      "Research-first development approach for continuous improvement"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-05",
+    "popularity": "stars:225777",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个描述为‘与你共同成长的代理’的 GitHub 项目，但内容非常简短，未提供具体功能、技术细节或使用说明。",
+    "score": 2,
+    "tags": [
+      "AI agent",
+      "GitHub",
+      "NousResearch",
+      "成长型代理"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-05",
+    "popularity": "stars:204076",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库，包含从个人 .agents 目录中提取的面向真实工程师的技能集合。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "engineering",
+      "agents",
+      "github",
+      "mattpocock"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-05",
+    "popularity": "stars:199736",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 8,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "best practices"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-05",
+    "popularity": "stars:199403",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供400多种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform",
+      "native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-05",
+    "popularity": "stars:194972",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust using Gajae-Code / LazyCodex, developed and maintained entirely without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI",
+      "autonomous",
+      "museum",
+      "exhibit",
+      "agent"
+    ],
+    "highlights": [
+      "Built in Rust with Gajae-Code / LazyCodex",
+      "Developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-05",
+    "popularity": "stars:193592",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理，旨在提供自动化的代码生成和编辑功能。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-05",
+    "popularity": "stars:185824",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具",
+      "AutoGPT"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "Categorization with NLP",
+    "url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 03 Aug 2026 13:10:54 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/yndrxm/categorization_with_nlp\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文讨论了使用自然语言处理（NLP）进行文本分类的方法，可能涉及技术实现和实际应用。",
+    "score": 5,
+    "tags": [
+      "NLP",
+      "文本分类",
+      "技术博客"
+    ],
+    "highlights": [
+      "Categorization with NLP",
+      "Comments"
+    ]
+  },
+  {
+    "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+    "url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 03 Aug 2026 12:45:39 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/vytqfi/why_do_cognitive_scientists_hate_llms\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "This article explores the tension between cognitive scientists and large language models (LLMs), arguing that the criticism stems from fundamental differences in how human cognition and LLMs operate, and that understanding these differences is crucial for advancing AI.",
+    "score": 8,
+    "tags": [
+      "cognitive science",
+      "LLMs",
+      "AI criticism",
+      "human cognition",
+      "AI limitations"
+    ],
+    "highlights": [
+      "Cognitive scientists often criticize LLMs for lacking true understanding, grounding, and causal reasoning.",
+      "The article suggests that LLMs are statistical pattern matchers, not cognitive models, and this distinction is key to the debate.",
+      "It argues that the hate is partly due to LLMs' success challenging traditional theories of cognition.",
+      "The piece calls for interdisciplinary collaboration to bridge the gap between AI and cognitive science."
+    ]
+  },
+  {
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 04 Aug 2026 19:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "cybersecurity",
+      "third-party evaluation",
+      "AI safety",
+      "model testing",
+      "safeguards"
+    ],
+    "highlights": [
+      "OpenAI explains recent third-party cybersecurity evaluation incidents",
+      "outlines new safeguards to strengthen AI model testing and evaluation"
+    ]
+  },
+  {
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 04 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "summary": "OpenAI发布了针对教育领域的新插件，旨在通过ChatGPT Work和Codex帮助K-12教师、大学教育者和学生进行学习、教学、研究和构建。",
+    "score": 8,
+    "tags": [
+      "教育",
+      "ChatGPT",
+      "Codex",
+      "插件",
+      "K-12",
+      "大学",
+      "教学",
+      "学习"
+    ],
+    "highlights": [
+      "Explore new education plugins for ChatGPT Work and Codex",
+      "help K–12 teachers, college educators, and students learn, teach, research, and build"
+    ]
+  },
+  {
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 04 Aug 2026 13:58:29 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Liquid AI 发布了 LFM2.5-2.6B，一个高效的小型语言模型，旨在实现本地部署和边缘计算，支持多模态和长上下文，性能优于同类模型。",
+    "score": 8,
+    "tags": [
+      "LFM2.5",
+      "小型语言模型",
+      "本地部署",
+      "边缘计算",
+      "多模态",
+      "长上下文",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "LFM2.5-2.6B 专为本地和边缘部署设计，提供高效推理。",
+      "该模型支持多模态输入和长上下文处理，扩展了应用场景。",
+      "在性能上，LFM2.5-2.6B 超越了同尺寸的其他模型。"
+    ]
+  },
+  {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 30 Jul 2026 15:09:09 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文探讨了GPU管理的重要性，将闲置GPU比作停飞飞机，强调高效利用GPU资源对降低成本、提升AI训练效率的关键作用，并提出了优化GPU调度的策略。",
+    "score": 8,
+    "tags": [
+      "GPU管理",
+      "资源优化",
+      "AI基础设施",
+      "成本控制",
+      "调度策略"
+    ],
+    "highlights": [
+      "闲置GPU如同停飞的飞机，是巨大的资源浪费。",
+      "高效的GPU管理能显著降低AI训练成本。",
+      "动态调度和共享机制是提升GPU利用率的核心手段。"
+    ]
+  }
+]

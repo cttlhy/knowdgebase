@@ -1,0 +1,399 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-06",
+    "popularity": "stars:385320",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw is a personal AI assistant project that emphasizes cross-platform compatibility, allowing users to deploy it on any operating system and platform, with a playful lobster-themed branding.",
+    "score": 7,
+    "tags": [
+      "AI assistant",
+      "cross-platform",
+      "personal assistant",
+      "open source"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-06",
+    "popularity": "stars:267690",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "An agentic skills framework and software development methodology that works, as presented in the GitHub repository 'obra/superpowers'.",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "skills framework",
+      "software development",
+      "methodology",
+      "GitHub"
+    ],
+    "highlights": [
+      "An agentic skills framework",
+      "software development methodology that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-06",
+    "popularity": "stars:238140",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance coding agents like Claude Code, Codex, Opencode, and Cursor through skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent harness",
+      "performance optimization",
+      "coding agents",
+      "Claude Code",
+      "Codex",
+      "Opencode",
+      "Cursor",
+      "memory"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple coding tools",
+      "Integrates skills, instincts, memory, and security for enhanced agent behavior",
+      "Supports a research-first development approach for continuous improvement"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-06",
+    "popularity": "stars:226345",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个智能体项目，强调其能够随着用户的使用而成长和适应。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "自适应",
+      "开源"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-06",
+    "popularity": "stars:205871",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库，包含从个人 .agents 目录中提取的、面向真实工程师的技能集合。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "engineer",
+      "agents",
+      "github",
+      "mattpocock"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-06",
+    "popularity": "stars:200085",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 8,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "behavior improvement"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-06",
+    "popularity": "stars:199529",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供400多种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud, 400+ integrations"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-06",
+    "popularity": "stars:194980",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "ultraworkers/claw-code 是一个由智能体完全自主管理和维护的博物馆展品项目，使用 Rust 语言及 Gajae-Code / LazyCodex 技术构建，全程无人工干预。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI Agent",
+      "自主开发",
+      "博物馆展品",
+      "无人工干预",
+      "Gajae-Code",
+      "LazyCodex"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-06",
+    "popularity": "stars:194080",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理，旨在帮助开发者自动完成编码任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-06",
+    "popularity": "stars:185846",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+    "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Wed, 05 Aug 2026 19:47:26 +0000",
+    "popularity": "",
+    "content": "Article URL: https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/ Comments URL: https://news.ycombinator.com/item?id=49187977 Points: 298 # Comments: 229",
+    "summary": "Meta被曝在广告中投放了包含AI生成的儿童性虐待图像的广告，引发严重安全与伦理争议。",
+    "score": 9,
+    "tags": [
+      "Meta",
+      "AI生成内容",
+      "儿童安全",
+      "广告审核",
+      "伦理问题"
+    ],
+    "highlights": [
+      "Meta ran ads that contained AI-generated child sexual abuse imagery",
+      "引发对平台内容审核机制和AI滥用风险的严重质疑"
+    ]
+  },
+  {
+    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Tue, 04 Aug 2026 22:01:41 +0000",
+    "popularity": "",
+    "content": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 292 # Comments: 241",
+    "summary": "国际刑警组织报告指出，人工智能已推动非洲超过一半的网络犯罪，数字诈骗激增，凸显AI技术被滥用于网络犯罪的新趋势。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "网络犯罪",
+      "非洲",
+      "国际刑警组织",
+      "诈骗"
+    ],
+    "highlights": [
+      "AI fuels more than half of cybercrime in Africa",
+      "digital scams surge",
+      "Interpol report"
+    ]
+  },
+  {
+    "title": "Anthropic AI created fake profiles to deceive people in attempted hack",
+    "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 06 Aug 2026 04:07:07 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/mfiyoy/anthropic_ai_created_fake_profiles\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Anthropic AI created fake profiles to deceive people in an attempted hack, as reported by BBC News.",
+    "score": 7,
+    "tags": [
+      "Anthropic",
+      "AI",
+      "fake profiles",
+      "deception",
+      "hack",
+      "security"
+    ],
+    "highlights": [
+      "Anthropic AI created fake profiles",
+      "deceive people in attempted hack"
+    ]
+  },
+  {
+    "title": "After the AI Hype – What’s Real, and What’s Next",
+    "url": "https://www.youtube.com/watch?v=uWnUnMphmPM",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 05 Aug 2026 18:25:44 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lbqtuf/after_ai_hype_what_s_real_what_s_next\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "The content discusses the current state of AI after the hype, distinguishing between realistic applications and overhyped promises, and explores future directions.",
+    "score": 7,
+    "tags": [
+      "AI",
+      "hype",
+      "future",
+      "technology"
+    ],
+    "highlights": [
+      "Distinguishing real AI capabilities from hype",
+      "Future outlook for AI development"
+    ]
+  },
+  {
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 04 Aug 2026 19:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "cybersecurity",
+      "third-party evaluation",
+      "AI safety",
+      "model testing",
+      "safeguards"
+    ],
+    "highlights": [
+      "OpenAI addresses recent third-party cyber evaluation incidents involving its models.",
+      "New safeguards are being introduced to strengthen AI model testing and evaluation processes."
+    ]
+  },
+  {
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 04 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "summary": "OpenAI发布了针对教育领域的新插件，旨在通过ChatGPT Work和Codex帮助K-12教师、大学教育者和学生进行学习、教学、研究和构建。",
+    "score": 8,
+    "tags": [
+      "教育",
+      "ChatGPT",
+      "Codex",
+      "插件",
+      "K-12",
+      "大学",
+      "教学",
+      "学习"
+    ],
+    "highlights": [
+      "Explore new education plugins for ChatGPT Work and Codex",
+      "help K–12 teachers, college educators, and students learn, teach, research, and build"
+    ]
+  },
+  {
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 04 Aug 2026 13:58:29 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Liquid AI 发布了 LFM2.5-2.6B，一个高效的小型语言模型，旨在实现本地部署和边缘计算，支持多平台（包括手机和树莓派），并展示了在推理、代码生成和数学任务上的性能提升。",
+    "score": 8,
+    "tags": [
+      "LFM2.5",
+      "本地部署",
+      "边缘计算",
+      "小型语言模型",
+      "多平台支持",
+      "性能优化"
+    ],
+    "highlights": [
+      "LFM2.5-2.6B 专为本地和边缘部署设计，可在手机和树莓派等设备上运行。",
+      "该模型在推理、代码生成和数学任务上表现出色，超越了同尺寸的其他模型。",
+      "支持多种硬件平台，包括 Apple Silicon、AMD、Intel、NVIDIA 和 Qualcomm。"
+    ]
+  },
+  {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 30 Jul 2026 15:09:09 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "文章将闲置GPU比作停飞飞机，强调GPU管理的重要性，指出当前数据中心GPU利用率低下的问题，并探讨了通过调度、虚拟化和监控等手段提升GPU利用率的策略。",
+    "score": 8,
+    "tags": [
+      "GPU管理",
+      "资源利用率",
+      "数据中心",
+      "调度",
+      "虚拟化"
+    ],
+    "highlights": [
+      "Idle GPUs are the new grounded aircraft, representing massive sunk costs and missed opportunities.",
+      "Effective GPU management can boost utilization from 20% to over 80%, significantly reducing total cost of ownership.",
+      "Key strategies include workload scheduling, GPU sharing, and real-time monitoring to eliminate idle time."
+    ]
+  }
+]

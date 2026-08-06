@@ -1,0 +1,25 @@
+{
+  "id": "rss-04202613-017",
+  "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+  "date": "Tue, 04 Aug 2026 13:58:29 GMT",
+  "popularity": "",
+  "summary": "Liquid AI 发布了 LFM2.5-2.6B，一个高效的小型语言模型，旨在实现本地部署和边缘计算，支持多平台（包括手机和树莓派），并展示了在推理、代码生成和数学任务上的性能提升。",
+  "highlights": [
+    "LFM2.5-2.6B 专为本地和边缘部署设计，可在手机和树莓派等设备上运行。",
+    "该模型在推理、代码生成和数学任务上表现出色，超越了同尺寸的其他模型。",
+    "支持多种硬件平台，包括 Apple Silicon、AMD、Intel、NVIDIA 和 Qualcomm。"
+  ],
+  "score": 8,
+  "tags": [
+    "LFM2.5",
+    "本地部署",
+    "边缘计算",
+    "小型语言模型",
+    "多平台支持",
+    "性能优化"
+  ]
+}

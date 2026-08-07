@@ -1,0 +1,25 @@
+{
+  "id": "rss-06202615-011",
+  "title": "Software development with AI is starting to feel like cooking steak",
+  "source": "rss",
+  "source_url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+  "status": "draft",
+  "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+  "date": "Thu, 06 Aug 2026 15:30:48 +0000",
+  "popularity": "",
+  "summary": "文章将AI辅助软件开发比作烹饪牛排，认为现代AI工具大幅降低了编程门槛，使开发者更像厨师而非工匠，但核心技能（如问题分解、架构设计）依然重要。作者通过个人经验讨论AI在代码生成、调试和重构中的实际效果，并指出过度依赖AI可能削弱基础能力，强调平衡使用。",
+  "highlights": [
+    "AI让编程从'写代码'转向'指导代码'，如同烹饪牛排时控制火候而非亲手切肉。",
+    "真正稀缺的是定义问题和验证结果的能力，而非机械编码。",
+    "作者发现AI在重构和测试生成上节省大量时间，但复杂逻辑仍需人工介入。",
+    "过度依赖AI会导致对错误模式的钝感，建议定期脱离工具练习基础。"
+  ],
+  "score": 8,
+  "tags": [
+    "AI编程",
+    "软件开发",
+    "工具对比",
+    "技能变化",
+    "实践反思"
+  ]
+}

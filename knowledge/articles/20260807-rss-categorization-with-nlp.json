@@ -1,0 +1,22 @@
+{
+  "id": "rss-03202613-013",
+  "title": "Categorization with NLP",
+  "source": "rss",
+  "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+  "status": "draft",
+  "url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+  "date": "Mon, 03 Aug 2026 13:10:54 -0500",
+  "popularity": "",
+  "summary": "This article discusses the application of natural language processing (NLP) techniques for categorizing content, likely focusing on automated classification methods and their practical implementation.",
+  "highlights": [
+    "The article explores NLP-based categorization approaches.",
+    "It provides insights into automated text classification."
+  ],
+  "score": 7,
+  "tags": [
+    "NLP",
+    "categorization",
+    "machine learning",
+    "text classification"
+  ]
+}

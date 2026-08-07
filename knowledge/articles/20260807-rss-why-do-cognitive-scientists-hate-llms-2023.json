@@ -1,0 +1,24 @@
+{
+  "id": "rss-03202612-014",
+  "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+  "source": "rss",
+  "source_url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+  "status": "draft",
+  "url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+  "date": "Mon, 03 Aug 2026 12:45:39 -0500",
+  "popularity": "",
+  "summary": "This article explores the reasons why cognitive scientists are critical of large language models (LLMs), highlighting fundamental differences in how these models process information compared to human cognition, and discussing the implications for understanding intelligence.",
+  "highlights": [
+    "Cognitive scientists argue that LLMs lack the embodied and grounded understanding that characterizes human cognition.",
+    "The article examines the disconnect between statistical pattern matching in LLMs and the causal, compositional reasoning in human minds.",
+    "It discusses how LLMs' performance on language tasks does not necessarily reflect genuine understanding or intelligence."
+  ],
+  "score": 7,
+  "tags": [
+    "LLMs",
+    "cognitive science",
+    "AI criticism",
+    "human cognition",
+    "artificial intelligence"
+  ]
+}

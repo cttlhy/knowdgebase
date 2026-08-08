@@ -1,0 +1,24 @@
+{
+  "id": "rss-07202618-011",
+  "title": "Managing AI Coding Costs at Scale",
+  "source": "rss",
+  "source_url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+  "status": "draft",
+  "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+  "date": "Fri, 07 Aug 2026 18:25:17 +0000",
+  "popularity": "",
+  "summary": "本文探讨了在规模化部署AI编程工具时如何有效管理成本，重点分析了Databricks在内部推广AI编码助手过程中遇到的成本挑战与解决方案，包括模型选择、缓存策略、用量监控及成本分摊机制。",
+  "highlights": [
+    "通过分层模型策略（如小型模型处理简单任务）显著降低单次调用成本。",
+    "实施缓存机制，对重复代码生成请求实现高达40%的缓存命中率。",
+    "建立按团队/项目的成本仪表盘，实现透明化分摊与预算预警。"
+  ],
+  "score": 8,
+  "tags": [
+    "AI编程",
+    "成本管理",
+    "Databricks",
+    "规模化部署",
+    "模型优化"
+  ]
+}

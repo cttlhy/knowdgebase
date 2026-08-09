@@ -1,0 +1,25 @@
+{
+  "id": "rss-07202618-011",
+  "title": "Managing AI Coding Costs at Scale",
+  "source": "rss",
+  "source_url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+  "status": "draft",
+  "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+  "date": "Fri, 07 Aug 2026 18:25:17 +0000",
+  "popularity": "",
+  "summary": "本文探讨了在规模化环境中管理AI编程成本的方法，重点分析了Databricks如何通过优化模型选择、缓存策略和资源分配来降低AI辅助开发的费用，同时保持代码质量与开发效率。",
+  "highlights": [
+    "通过分层模型选择，将简单任务分配给低成本模型，复杂任务使用高性能模型，可显著降低整体开支。",
+    "实施智能缓存机制，对重复性代码生成请求进行复用，减少了约30%的API调用量。",
+    "动态调整GPU资源池，根据开发时段负载自动伸缩，避免了空闲资源的浪费。"
+  ],
+  "score": 8,
+  "tags": [
+    "AI编程",
+    "成本管理",
+    "Databricks",
+    "模型优化",
+    "缓存策略",
+    "资源分配"
+  ]
+}

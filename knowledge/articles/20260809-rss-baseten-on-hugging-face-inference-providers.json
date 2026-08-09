@@ -1,0 +1,25 @@
+{
+  "id": "rss-06202600-018",
+  "title": "Baseten on Hugging Face Inference Providers 🔥",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/baseten",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/baseten",
+  "date": "Thu, 06 Aug 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "Baseten 现已作为 Hugging Face 推理提供者上线，用户可通过统一 API 访问其高性能 GPU 推理服务，支持多种模型和自动扩展。",
+  "highlights": [
+    "Baseten 集成到 Hugging Face 推理提供者，简化模型部署。",
+    "提供高性能 GPU 推理，支持自动扩展。",
+    "用户可通过 Hugging Face 统一接口调用 Baseten 服务。"
+  ],
+  "score": 8,
+  "tags": [
+    "Baseten",
+    "Hugging Face",
+    "推理提供者",
+    "GPU",
+    "API",
+    "模型部署"
+  ]
+}

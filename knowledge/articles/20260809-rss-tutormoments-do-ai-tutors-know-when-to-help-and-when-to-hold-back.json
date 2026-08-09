@@ -1,0 +1,25 @@
+{
+  "id": "rss-07202617-017",
+  "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/tutormoments",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/tutormoments",
+  "date": "Fri, 07 Aug 2026 17:53:32 GMT",
+  "popularity": "",
+  "summary": "TutorMoments 是一个用于训练和评估 AI 辅导系统在何时提供帮助、何时保持克制的能力的数据集和基准。该博客介绍了其构建动机、数据收集方法、评估指标以及初步结果，强调 AI 辅导系统需要具备类似人类导师的时机判断能力，以提升学习效果。",
+  "highlights": [
+    "TutorMoments 数据集旨在捕捉人类导师在辅导过程中的关键时刻，包括帮助和克制的决策。",
+    "该基准评估 AI 辅导系统在适当时间提供干预的能力，而不仅仅是回答问题的准确性。",
+    "初步实验表明，现有 AI 模型在时机判断上仍有显著不足，需要进一步研究。"
+  ],
+  "score": 8,
+  "tags": [
+    "AI教育",
+    "智能辅导系统",
+    "数据集",
+    "基准测试",
+    "教育技术",
+    "人机交互"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "github-20260809-003",
+  "title": "affaan-m/ECC",
+  "source": "github",
+  "source_url": "https://github.com/affaan-m/ECC",
+  "status": "draft",
+  "url": "https://github.com/affaan-m/ECC",
+  "date": "2026-08-09",
+  "popularity": "stars:238881",
+  "summary": "ECC is an agent harness performance optimization system designed to enhance development workflows for AI coding tools like Claude Code, Codex, Opencode, and Cursor. It focuses on skills, instincts, memory, security, and research-first development practices.",
+  "highlights": [
+    "Agent harness performance optimization system",
+    "Skills, instincts, memory, security, and research-first development",
+    "Supports multiple AI coding tools"
+  ],
+  "score": 8,
+  "tags": [
+    "AI",
+    "development",
+    "optimization",
+    "agent",
+    "harness",
+    "Claude Code",
+    "Codex",
+    "Cursor"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260809"
+  }
+}

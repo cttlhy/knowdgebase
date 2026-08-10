@@ -1,0 +1,28 @@
+{
+  "id": "github-20260810-010",
+  "title": "Significant-Gravitas/AutoGPT",
+  "source": "github",
+  "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "status": "draft",
+  "url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "date": "2026-08-10",
+  "popularity": "stars:186480",
+  "summary": "AutoGPT is an open-source project aiming to make AI accessible to everyone by providing tools for building and using autonomous AI agents. It focuses on enabling users to create and deploy AI solutions easily, with a mission to let users focus on their core tasks.",
+  "highlights": [
+    "AutoGPT is the vision of accessible AI for everyone, to use and to build on.",
+    "Our mission is to provide the tools, so that you can focus on what matters."
+  ],
+  "score": 9,
+  "tags": [
+    "AI",
+    "Open Source",
+    "Autonomous Agents",
+    "Developer Tools",
+    "GitHub"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260810"
+  }
+}

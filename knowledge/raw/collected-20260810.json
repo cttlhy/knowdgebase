@@ -1,0 +1,356 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-10",
+    "popularity": "stars:385741",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人 AI 助手项目，以龙虾为标志，强调灵活性和自主性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助理"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-10",
+    "popularity": "stars:269949",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "A framework and methodology for agentic software development, emphasizing practical skills and workflows.",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "framework",
+      "methodology",
+      "software development",
+      "skills"
+    ],
+    "highlights": [
+      "An agentic skills framework",
+      "software development methodology that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-10",
+    "popularity": "stars:239098",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance AI coding agents like Claude Code, Codex, Opencode, and Cursor. It focuses on skills, instincts, memory, security, and research-first development to improve agent efficiency and reliability.",
+    "score": 8,
+    "tags": [
+      "AI agents",
+      "performance optimization",
+      "developer tools",
+      "Claude Code",
+      "Codex",
+      "Cursor",
+      "memory",
+      "security"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple AI coding tools",
+      "Emphasizes skills, instincts, memory, and security for agent development",
+      "Supports research-first development approach"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-10",
+    "popularity": "stars:228136",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个强调与用户共同成长的智能体项目，旨在提供可扩展和自适应的代理解决方案。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "开源项目",
+      "自适应"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-10",
+    "popularity": "stars:211845",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享其个人 .agents 目录中的技能集合，面向真实工程师，提供实用开发技能。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "developer-tools",
+      "agents",
+      "engineering",
+      "github"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-10",
+    "popularity": "stars:201051",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 7,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "behavior improvement"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-10",
+    "popularity": "stars:200048",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n is a fair-code workflow automation platform with native AI capabilities, offering visual building, custom code, self-hosting or cloud options, and over 400 integrations.",
+    "score": 9,
+    "tags": [
+      "workflow automation",
+      "AI",
+      "fair-code",
+      "self-hosted",
+      "integrations",
+      "visual builder"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform",
+      "native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-10",
+    "popularity": "stars:195610",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理项目，旨在提供自动化的代码生成和编辑能力，支持多种编程语言和开发环境。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation",
+      "developer tools"
+    ],
+    "highlights": [
+      "The open source coding agent.",
+      "提供自动化的代码生成和编辑能力。"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-10",
+    "popularity": "stars:195021",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust using Gajae-Code / LazyCodex, developed and maintained entirely without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI",
+      "autonomous",
+      "museum",
+      "exhibit",
+      "agent"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-10",
+    "popularity": "stars:186480",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT is an open-source project aiming to make AI accessible to everyone by providing tools for building and using autonomous AI agents. It focuses on enabling users to create and deploy AI solutions easily, with a mission to let users focus on their core tasks.",
+    "score": 9,
+    "tags": [
+      "AI",
+      "Open Source",
+      "Autonomous Agents",
+      "Developer Tools",
+      "GitHub"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone, to use and to build on.",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "How do programming languages impact token efficiency and correctness?",
+    "url": "https://danluu.com/pl-tokens/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 10 Aug 2026 02:47:36 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/4waghh/how_do_programming_languages_impact\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文探讨了编程语言对token效率和正确性的影响，分析了不同语言在token使用上的差异及其对代码正确性的潜在影响。",
+    "score": 7,
+    "tags": [
+      "编程语言",
+      "token效率",
+      "正确性",
+      "代码分析"
+    ],
+    "highlights": [
+      "编程语言的设计直接影响token的使用效率。",
+      "token效率与代码正确性之间存在权衡关系。",
+      "不同语言在相同功能实现上的token数量差异显著。"
+    ]
+  },
+  {
+    "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+    "url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 07 Aug 2026 16:22:54 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文探讨社交媒体中的信息茧房和随机游走混合时间，将社交网络比作高中食堂而非城镇广场，分析用户如何陷入内容集群。",
+    "score": 7,
+    "tags": [
+      "社交媒体",
+      "信息茧房",
+      "随机游走",
+      "网络分析"
+    ],
+    "highlights": [
+      "社交媒体不是城镇广场，而是高中食堂",
+      "随机游走混合时间揭示内容集群的隔离性",
+      "用户容易陷入特定话题的兔子洞"
+    ]
+  },
+  {
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 07 Aug 2026 15:20:00 GMT",
+    "popularity": "",
+    "content": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+    "summary": "OpenAI发布了针对Astra的初步网络安全评估，并介绍了为加强安全防护和控制所采取的措施。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "网络安全",
+      "Astra",
+      "安全评估",
+      "安全控制"
+    ],
+    "highlights": [
+      "OpenAI is sharing preliminary cybersecurity evaluations for Astra",
+      "the steps we’re taking to strengthen safeguards and security controls"
+    ]
+  },
+  {
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "url": "https://openai.com/index/hsp-gruppe",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 07 Aug 2026 09:00:00 GMT",
+    "popularity": "",
+    "content": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+    "summary": "HSP GRUPPE 利用 ChatGPT Enterprise 提升税务咨询的生产力、工作质量，并为客户服务创造更多容量。",
+    "score": 8,
+    "tags": [
+      "ChatGPT Enterprise",
+      "税务咨询",
+      "生产力提升",
+      "AI应用",
+      "客户服务"
+    ],
+    "highlights": [
+      "HSP GRUPPE 使用 ChatGPT Enterprise 提高生产力。",
+      "通过 AI 改善工作质量。",
+      "为税务咨询和客户服务创造更多容量。"
+    ]
+  },
+  {
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "url": "https://huggingface.co/blog/allenai/tutormoments",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 07 Aug 2026 17:53:32 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "TutorMoments 是一个用于训练和评估 AI 辅导系统在何时提供帮助、何时保持克制的能力的数据集和基准。该博客介绍了其构建动机、数据规模、任务定义以及初步实验结果，旨在推动 AI 辅导系统向更人性化、更有效的交互发展。",
+    "score": 8,
+    "tags": [
+      "AI教育",
+      "智能辅导",
+      "数据集",
+      "基准测试",
+      "教育技术",
+      "人机交互"
+    ],
+    "highlights": [
+      "TutorMoments 专注于 AI 辅导中的关键决策：何时介入帮助，何时保持沉默。",
+      "该数据集包含大量真实辅导会话，用于训练和评估模型。",
+      "博客展示了初步实验结果，并讨论了未来方向。"
+    ]
+  },
+  {
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "url": "https://huggingface.co/blog/baseten",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 06 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Baseten 现已作为 Hugging Face 的推理提供商上线，用户可以直接在 Hugging Face 上使用 Baseten 的 GPU 基础设施运行模型，享受低延迟和高性能。",
+    "score": 8,
+    "tags": [
+      "Baseten",
+      "Hugging Face",
+      "推理提供商",
+      "GPU",
+      "模型部署"
+    ],
+    "highlights": [
+      "Baseten 成为 Hugging Face 推理提供商，简化模型部署流程。",
+      "提供低延迟、高性能的 GPU 推理服务。",
+      "用户可通过 Hugging Face 界面直接调用 Baseten 的推理端点。"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "id": "rss-10202602-011",
+  "title": "How do programming languages impact token efficiency and correctness?",
+  "source": "rss",
+  "source_url": "https://danluu.com/pl-tokens/",
+  "status": "draft",
+  "url": "https://danluu.com/pl-tokens/",
+  "date": "Mon, 10 Aug 2026 02:47:36 -0500",
+  "popularity": "",
+  "summary": "本文探讨了编程语言对token效率和正确性的影响，分析了不同语言在token使用上的差异及其对代码正确性的潜在影响。",
+  "highlights": [
+    "编程语言的设计直接影响token的使用效率。",
+    "token效率与代码正确性之间存在权衡关系。",
+    "不同语言在相同功能实现上的token数量差异显著。"
+  ],
+  "score": 7,
+  "tags": [
+    "编程语言",
+    "token效率",
+    "正确性",
+    "代码分析"
+  ]
+}

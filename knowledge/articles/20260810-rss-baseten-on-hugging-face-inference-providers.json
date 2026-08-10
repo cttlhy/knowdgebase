@@ -1,0 +1,24 @@
+{
+  "id": "rss-06202600-016",
+  "title": "Baseten on Hugging Face Inference Providers 🔥",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/baseten",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/baseten",
+  "date": "Thu, 06 Aug 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "Baseten 现已作为 Hugging Face 的推理提供商上线，用户可以直接在 Hugging Face 上使用 Baseten 的 GPU 基础设施运行模型，享受低延迟和高性能。",
+  "highlights": [
+    "Baseten 成为 Hugging Face 推理提供商，简化模型部署流程。",
+    "提供低延迟、高性能的 GPU 推理服务。",
+    "用户可通过 Hugging Face 界面直接调用 Baseten 的推理端点。"
+  ],
+  "score": 8,
+  "tags": [
+    "Baseten",
+    "Hugging Face",
+    "推理提供商",
+    "GPU",
+    "模型部署"
+  ]
+}

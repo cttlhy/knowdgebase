@@ -1,0 +1,32 @@
+{
+  "id": "github-20260810-007",
+  "title": "n8n-io/n8n",
+  "source": "github",
+  "source_url": "https://github.com/n8n-io/n8n",
+  "status": "draft",
+  "url": "https://github.com/n8n-io/n8n",
+  "date": "2026-08-10",
+  "popularity": "stars:200048",
+  "summary": "n8n is a fair-code workflow automation platform with native AI capabilities, offering visual building, custom code, self-hosting or cloud options, and over 400 integrations.",
+  "highlights": [
+    "Fair-code workflow automation platform",
+    "native AI capabilities",
+    "Combine visual building with custom code",
+    "self-host or cloud",
+    "400+ integrations"
+  ],
+  "score": 9,
+  "tags": [
+    "workflow automation",
+    "AI",
+    "fair-code",
+    "self-hosted",
+    "integrations",
+    "visual builder"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260810"
+  }
+}

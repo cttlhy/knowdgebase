@@ -1,0 +1,25 @@
+{
+  "id": "rss-11202613-017",
+  "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+  "date": "Tue, 11 Aug 2026 13:37:10 GMT",
+  "popularity": "",
+  "summary": "IBM Research 提出一种名为 ALTK 的方法，通过将 ACE（Automatic Code Evaluation）任务分解为多个子任务并利用 SLDD（Structured Language-Driven Decomposition）技术，显著减少 token 消耗，同时保持或提升代码评估性能。",
+  "highlights": [
+    "ALTK 方法通过任务分解减少 token 使用，实现高效代码评估。",
+    "SLDD 技术将复杂评估任务结构化，降低推理成本。",
+    "实验表明，在保持准确率的同时，token 消耗大幅降低。"
+  ],
+  "score": 8,
+  "tags": [
+    "ACE",
+    "token efficiency",
+    "code evaluation",
+    "IBM Research",
+    "SLDD",
+    "ALTK"
+  ]
+}

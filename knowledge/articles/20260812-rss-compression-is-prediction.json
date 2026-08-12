@@ -1,0 +1,23 @@
+{
+  "id": "rss-11202614-014",
+  "title": "Compression is prediction",
+  "source": "rss",
+  "source_url": "https://ngrok.com/blog/compression-is-prediction",
+  "status": "draft",
+  "url": "https://ngrok.com/blog/compression-is-prediction",
+  "date": "Tue, 11 Aug 2026 14:35:12 -0500",
+  "popularity": "",
+  "summary": "文章探讨了压缩与预测之间的紧密联系，指出压缩本质上是一种预测过程，并可能对人工智能和机器学习领域产生深远影响。",
+  "highlights": [
+    "Compression is fundamentally a form of prediction.",
+    "The relationship between compression and prediction has implications for AI and machine learning."
+  ],
+  "score": 8,
+  "tags": [
+    "compression",
+    "prediction",
+    "AI",
+    "machine learning",
+    "information theory"
+  ]
+}

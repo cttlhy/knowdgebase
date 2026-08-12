@@ -1,0 +1,397 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-12",
+    "popularity": "stars:386021",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人 AI 助手项目，以龙虾为标志，强调灵活性和自主性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助理"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-12",
+    "popularity": "stars:270962",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "superpowers 是一个代理技能框架和软件开发方法论，旨在提供有效的开发实践。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "skills",
+      "framework",
+      "methodology",
+      "software development"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-12",
+    "popularity": "stars:239586",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance coding agents like Claude Code, Codex, Opencode, and Cursor through skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent harness",
+      "performance optimization",
+      "AI coding",
+      "Claude Code",
+      "Codex",
+      "Opencode",
+      "Cursor",
+      "memory"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple coding tools",
+      "Focuses on skills, instincts, memory, and security for AI agents",
+      "Supports research-first development approach"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-12",
+    "popularity": "stars:229267",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个与用户共同成长的智能体项目，强调持续进化和适应性。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "开源项目",
+      "成长型智能体"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-12",
+    "popularity": "stars:214383",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享了他个人 .agents 目录中的技能集合，旨在为真实工程师提供实用工具。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "engineering",
+      "agents",
+      "developer-tools"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-12",
+    "popularity": "stars:201717",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 7,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "behavior improvement"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-12",
+    "popularity": "stars:200315",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供400多种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI能力",
+      "公平代码",
+      "自托管",
+      "云服务",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud, 400+ integrations"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-12",
+    "popularity": "stars:196387",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理工具，旨在帮助开发者自动化和简化编码任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation",
+      "developer tools"
+    ],
+    "highlights": [
+      "The open source coding agent.",
+      "提供自动化编码能力，提升开发效率。"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-12",
+    "popularity": "stars:195055",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust using Gajae-Code / LazyCodex, developed and maintained entirely without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI",
+      "autonomous",
+      "museum",
+      "exhibit",
+      "agent"
+    ],
+    "highlights": [
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-12",
+    "popularity": "stars:186545",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个致力于让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "Go is an ideal language for AI-assisted software engineering",
+    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Tue, 11 Aug 2026 16:57:09 +0000",
+    "popularity": "",
+    "content": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=49261133 Points: 373 # Comments: 425",
+    "summary": "Google开发者博客文章指出，Go语言因其简洁性、强类型、显式错误处理和内置并发原语，非常适合AI辅助软件工程，能够提高AI生成代码的准确性和可维护性。",
+    "score": 8,
+    "tags": [
+      "Go",
+      "AI辅助开发",
+      "软件工程",
+      "编程语言",
+      "Google"
+    ],
+    "highlights": [
+      "Go的简洁语法和强类型系统使AI更容易生成正确代码",
+      "显式错误处理帮助AI模型理解并处理失败路径",
+      "内置并发支持简化了AI生成并行代码的复杂性"
+    ]
+  },
+  {
+    "title": "As AI eats the web, the internet’s collective memory is disappearing",
+    "url": "https://thewalrus.ca/google-search-is-dying/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Mon, 10 Aug 2026 22:36:30 +0000",
+    "popularity": "",
+    "content": "Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 899 # Comments: 907",
+    "summary": "文章探讨了AI技术对互联网集体记忆的侵蚀，指出搜索引擎（如Google）的衰落和AI生成内容导致网络信息质量下降、历史数据丢失，呼吁关注数字记忆的保存。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "搜索引擎",
+      "互联网记忆",
+      "信息质量",
+      "数字保存"
+    ],
+    "highlights": [
+      "As AI eats the web, the internet’s collective memory is disappearing",
+      "Google search is dying",
+      "AI生成内容正在破坏网络信息的真实性和可追溯性"
+    ]
+  },
+  {
+    "title": "Cloudflare OS, is it worth?",
+    "url": "https://blog.emre.xyz/posts/2be69f5e/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 12 Aug 2026 01:57:55 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/cdibqx/cloudflare_os_is_it_worth\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "The blog post discusses whether Cloudflare's operating system (OS) is worth using, likely evaluating its features, performance, and value proposition for developers or businesses.",
+    "score": 6,
+    "tags": [
+      "Cloudflare",
+      "Operating System",
+      "Review",
+      "Technology"
+    ],
+    "highlights": [
+      "The post questions the worth of Cloudflare OS.",
+      "It includes a link to community comments for further discussion."
+    ]
+  },
+  {
+    "title": "Compression is prediction",
+    "url": "https://ngrok.com/blog/compression-is-prediction",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 11 Aug 2026 14:35:12 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gixxh0/compression_is_prediction\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章探讨了压缩与预测之间的紧密联系，指出压缩本质上是一种预测过程，并可能对人工智能和机器学习领域产生深远影响。",
+    "score": 8,
+    "tags": [
+      "compression",
+      "prediction",
+      "AI",
+      "machine learning",
+      "information theory"
+    ],
+    "highlights": [
+      "Compression is fundamentally a form of prediction.",
+      "The relationship between compression and prediction has implications for AI and machine learning."
+    ]
+  },
+  {
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "summary": "OpenAI开始在ChatGPT中测试广告，以支持免费访问，同时确保广告明确标注、答案独立性、强隐私保护和用户控制。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "广告",
+      "免费访问",
+      "隐私保护",
+      "用户体验"
+    ],
+    "highlights": [
+      "OpenAI begins testing ads in ChatGPT to support free access",
+      "clear labeling, answer independence, strong privacy protections, and user control"
+    ]
+  },
+  {
+    "title": "Daybreak models are now available on AWS",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "summary": "OpenAI与AWS合作，通过Amazon Bedrock平台提供Daybreak网络安全模型，以支持企业安全工作流。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "AWS",
+      "Daybreak",
+      "网络安全",
+      "Amazon Bedrock",
+      "企业安全"
+    ],
+    "highlights": [
+      "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock",
+      "to support enterprise security workflows"
+    ]
+  },
+  {
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 11 Aug 2026 13:37:10 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "IBM Research 提出一种名为 ALTK 的方法，通过将 ACE（Automatic Code Evaluation）任务分解为多个子任务并利用 SLDD（Structured Language-Driven Decomposition）技术，显著减少 token 消耗，同时保持或提升代码评估性能。",
+    "score": 8,
+    "tags": [
+      "ACE",
+      "token efficiency",
+      "code evaluation",
+      "IBM Research",
+      "SLDD",
+      "ALTK"
+    ],
+    "highlights": [
+      "ALTK 方法通过任务分解减少 token 使用，实现高效代码评估。",
+      "SLDD 技术将复杂评估任务结构化，降低推理成本。",
+      "实验表明，在保持准确率的同时，token 消耗大幅降低。"
+    ]
+  },
+  {
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS",
+    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Mon, 10 Aug 2026 16:25:36 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "NVIDIA 发布 Magpie TTS，一款支持多语言、低延迟的文本转语音模型，提供开放权重和完整部署控制，适用于构建语音代理。",
+    "score": 8,
+    "tags": [
+      "TTS",
+      "NVIDIA",
+      "多语言",
+      "低延迟",
+      "开放权重",
+      "语音代理"
+    ],
+    "highlights": [
+      "NVIDIA Magpie TTS 支持多语言，实现低延迟语音合成。",
+      "提供开放权重，允许开发者完全控制部署。",
+      "专为语音代理场景设计，优化交互体验。"
+    ]
+  }
+]

@@ -1,0 +1,397 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-13",
+    "popularity": "stars:386135",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw is a personal AI assistant project that aims to be cross-platform and OS-agnostic, following 'the lobster way'.",
+    "score": 7,
+    "tags": [
+      "AI assistant",
+      "cross-platform",
+      "personal assistant",
+      "open source"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-13",
+    "popularity": "stars:271457",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "superpowers 是一个基于智能体技能框架的软件开发方法论，强调实用性和有效性。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "skills-framework",
+      "software-development",
+      "methodology"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-13",
+    "popularity": "stars:239833",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance coding agents like Claude Code, Codex, Opencode, and Cursor through skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent harness",
+      "performance optimization",
+      "coding agents",
+      "Claude Code",
+      "Codex",
+      "Opencode",
+      "Cursor",
+      "memory"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple coding tools",
+      "Focuses on skills, instincts, memory, and security for agents",
+      "Supports research-first development approach"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-13",
+    "popularity": "stars:229810",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个名为 'The agent that grows with you' 的智能体项目，旨在提供随用户成长而进化的代理服务。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "开源项目",
+      "成长型代理"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-13",
+    "popularity": "stars:215656",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享其个人 .agents 目录中的实用技能，面向真实工程师，涵盖 TypeScript、React 等现代前端开发最佳实践。",
+    "score": 8,
+    "tags": [
+      "TypeScript",
+      "React",
+      "前端开发",
+      "最佳实践",
+      "工程师技能"
+    ],
+    "highlights": [
+      "Skills for Real Engineers",
+      "Straight from my .agents directory"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-13",
+    "popularity": "stars:202017",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "CLAUDE.md",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-13",
+    "popularity": "stars:200453",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供 400 多种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "集成",
+      "可视化编程"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities.",
+      "Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-13",
+    "popularity": "stars:196846",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理工具，旨在帮助开发者自动化编码任务，提升开发效率。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation",
+      "developer tools"
+    ],
+    "highlights": [
+      "The open source coding agent.",
+      "Automates coding tasks to improve developer productivity."
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-13",
+    "popularity": "stars:195069",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust using Gajae-Code / LazyCodex, developed and maintained entirely without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "agent-managed",
+      "museum exhibit",
+      "Gajae-Code",
+      "LazyCodex",
+      "autonomous development"
+    ],
+    "highlights": [
+      "Built in Rust with Gajae-Code / LazyCodex",
+      "Developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-13",
+    "popularity": "stars:186579",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在为所有人提供可访问 AI 的开源项目，其使命是提供工具，让用户专注于重要事务。该项目在 GitHub 上托管，强调易用性和可扩展性。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具",
+      "GitHub"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+    "url": "https://knownagents.com/insights",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Wed, 12 Aug 2026 14:02:46 +0000",
+    "popularity": "",
+    "content": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 275 # Comments: 200",
+    "summary": "有人正在利用伪装成AI爬虫（如ClaudeBot）的身份进行大规模漏洞扫描，文章对此现象进行了分析。",
+    "score": 8,
+    "tags": [
+      "AI爬虫",
+      "漏洞扫描",
+      "网络安全",
+      "ClaudeBot",
+      "伪装攻击"
+    ],
+    "highlights": [
+      "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "利用AI爬虫身份进行大规模漏洞扫描",
+      "伪装成ClaudeBot等AI机器人"
+    ]
+  },
+  {
+    "title": "AI is removing the middle class of software engineering?",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Wed, 12 Aug 2026 13:20:05 +0000",
+    "popularity": "",
+    "content": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 874 # Comments: 779",
+    "summary": "文章探讨AI对软件工程职业结构的影响，认为AI正在消除中阶工程师岗位，导致行业两极分化：初级和高级工程师需求增加，而中间层被压缩。作者基于个人观察和行业趋势，分析了AI工具如何改变工作流程、团队结构及职业发展路径，并讨论了这对个人和公司的潜在影响。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "软件工程",
+      "职业发展",
+      "行业趋势",
+      "中产阶级",
+      "自动化"
+    ],
+    "highlights": [
+      "AI is removing the middle class of software engineering?",
+      "The article discusses how AI tools are reshaping the demand for engineers, potentially eliminating mid-level roles.",
+      "It highlights a polarization effect where junior and senior engineers become more valuable while middle-tier positions shrink."
+    ]
+  },
+  {
+    "title": "Introducing chestnut",
+    "url": "https://blog.comma.ai/chestnut/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 12 Aug 2026 21:43:46 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/m0ure0/introducing_chestnut\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "comma.ai 发布了一篇博客文章，介绍了名为 Chestnut 的新项目或产品，并提供了外部评论链接。",
+    "score": 6,
+    "tags": [
+      "comma.ai",
+      "Chestnut",
+      "产品发布",
+      "技术博客"
+    ],
+    "highlights": [
+      "Introducing chestnut",
+      "https://blog.comma.ai/chestnut/"
+    ]
+  },
+  {
+    "title": "AI companies destroy physical books — let’s scan rare books before it’s too late",
+    "url": "https://fr.annas-archive.gl/blog/physical-destruction.html",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 11 Aug 2026 14:00:18 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/g32zwm/ai_companies_destroy_physical_books_let_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章警告AI公司为训练模型而大规模扫描实体书，导致稀有书籍被物理销毁，呼吁在彻底消失前进行抢救性扫描。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "书籍扫描",
+      "稀有书籍",
+      "知识保存",
+      "版权"
+    ],
+    "highlights": [
+      "AI companies are destroying physical books in the process of scanning them for training data.",
+      "Rare books are being lost forever, and we need to act before it's too late.",
+      "The article urges immediate action to digitize rare books before they are destroyed."
+    ]
+  },
+  {
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 12 Aug 2026 06:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "summary": "OpenAI research shows enterprises are moving from AI assistance to autonomous execution, with agentic AI via ChatGPT and Codex leading adoption, and frontier firms gaining competitive advantage.",
+    "score": 8,
+    "tags": [
+      "enterprise AI",
+      "agentic AI",
+      "ChatGPT",
+      "Codex",
+      "AI adoption",
+      "frontier firms"
+    ],
+    "highlights": [
+      "Enterprises are shifting from AI assistance to AI execution.",
+      "Agentic AI is being adopted through ChatGPT and Codex.",
+      "Frontier firms are pulling ahead in AI adoption."
+    ]
+  },
+  {
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "url": "https://openai.com/index/ringcentral",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 12 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "summary": "RingCentral 利用 ChatGPT Work 和 Codex 加速 AI 产品开发，并在工程和运营中集中化操作智能。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "RingCentral",
+      "ChatGPT Work",
+      "Codex",
+      "工程",
+      "运营",
+      "产品开发"
+    ],
+    "highlights": [
+      "RingCentral uses ChatGPT Work and Codex to accelerate AI product development.",
+      "Centralize operational intelligence across engineering and operations."
+    ]
+  },
+  {
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 12 Aug 2026 16:14:36 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "OlmoEarth Studio 推出自定义嵌入导出功能，支持用户将地理空间数据生成的嵌入向量导出用于下游分析，提升模型灵活性与可扩展性。",
+    "score": 8,
+    "tags": [
+      "OlmoEarth",
+      "embeddings",
+      "geospatial",
+      "AI",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "Enables flexible and scalable geospatial data processing"
+    ]
+  },
+  {
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 12 Aug 2026 14:00:51 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Liquid AI 发布了 LFM2.5-VL-3B，一个专为边缘设备优化的 3B 视觉语言模型，在保持低延迟和高效率的同时，提升了视觉理解能力，适合在资源受限的环境下部署。",
+    "score": 8,
+    "tags": [
+      "Liquid AI",
+      "视觉语言模型",
+      "边缘计算",
+      "3B参数",
+      "高效推理"
+    ],
+    "highlights": [
+      "LFM2.5-VL-3B 专为边缘设备设计，兼顾速度与性能。",
+      "模型在视觉任务上表现出色，同时保持低计算开销。",
+      "适合在资源受限环境中部署，如移动设备和嵌入式系统。"
+    ]
+  }
+]

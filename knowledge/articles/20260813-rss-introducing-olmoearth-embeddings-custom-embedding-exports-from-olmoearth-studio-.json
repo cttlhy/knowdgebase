@@ -1,0 +1,23 @@
+{
+  "id": "rss-12202616-017",
+  "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+  "date": "Wed, 12 Aug 2026 16:14:36 GMT",
+  "popularity": "",
+  "summary": "OlmoEarth Studio 推出自定义嵌入导出功能，支持用户将地理空间数据生成的嵌入向量导出用于下游分析，提升模型灵活性与可扩展性。",
+  "highlights": [
+    "Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "Enables flexible and scalable geospatial data processing"
+  ],
+  "score": 8,
+  "tags": [
+    "OlmoEarth",
+    "embeddings",
+    "geospatial",
+    "AI",
+    "Hugging Face"
+  ]
+}

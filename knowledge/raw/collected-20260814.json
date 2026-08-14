@@ -1,0 +1,399 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-14",
+    "popularity": "stars:386263",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人 AI 助手项目，以龙虾为吉祥物，强调灵活性和自主性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助理"
+    ],
+    "highlights": [
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-14",
+    "popularity": "stars:271941",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架和软件开发方法论，强调实用性，旨在提升开发效率。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "skills",
+      "framework",
+      "methodology",
+      "software development"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-14",
+    "popularity": "stars:240066",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance coding agents like Claude Code, Codex, Opencode, and Cursor through skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent harness",
+      "performance optimization",
+      "coding agents",
+      "Claude Code",
+      "Codex",
+      "Opencode",
+      "Cursor",
+      "memory"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system.",
+      "Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-14",
+    "popularity": "stars:230362",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个开源项目，旨在提供一个能够随着用户使用而成长和进化的智能代理（agent）。该项目强调代理的适应性和持续学习能力，可能涉及个性化交互和长期记忆机制。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "Open Source",
+      "Adaptive Learning",
+      "Personalization",
+      "NousResearch"
+    ],
+    "highlights": [
+      "The agent that grows with you",
+      "强调代理的成长性和适应性",
+      "开源项目，可能支持社区贡献和定制"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-14",
+    "popularity": "stars:216937",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享其个人 .agents 目录中的实用技能集合，面向真实工程师，涵盖 TypeScript、React 等现代前端开发最佳实践。",
+    "score": 8,
+    "tags": [
+      "TypeScript",
+      "React",
+      "前端开发",
+      "最佳实践",
+      "工程师技能",
+      "GitHub"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-14",
+    "popularity": "stars:202338",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 8,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "best practices"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-14",
+    "popularity": "stars:200586",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供超过 400 种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "自托管",
+      "云服务",
+      "集成",
+      "公平代码",
+      "可视化编程"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities.",
+      "Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-14",
+    "popularity": "stars:197320",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理工具，旨在帮助开发者自动化和简化编码任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation",
+      "developer tools"
+    ],
+    "highlights": [
+      "The open source coding agent.",
+      "Anomalyco 开发的编码代理工具。"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-14",
+    "popularity": "stars:195079",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "A Rust-based museum exhibit managed entirely by an AI agent, built with Gajae-Code / LazyCodex and maintained without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI agent",
+      "museum exhibit",
+      "autonomous development",
+      "Gajae-Code",
+      "LazyCodex"
+    ],
+    "highlights": [
+      "Built in Rust with Gajae-Code / LazyCodex",
+      "Developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-14",
+    "popularity": "stars:186615",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+    "url": "https://knownagents.com/insights",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Wed, 12 Aug 2026 14:02:46 +0000",
+    "popularity": "",
+    "content": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 301 # Comments: 225",
+    "summary": "文章揭示有人正以AI爬虫（如ClaudeBot）的名义进行大规模漏洞扫描，伪装成合法AI代理，可能对网站安全构成威胁。",
+    "score": 8,
+    "tags": [
+      "AI爬虫",
+      "漏洞扫描",
+      "网络安全",
+      "ClaudeBot",
+      "伪装攻击"
+    ],
+    "highlights": [
+      "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "伪装成AI代理进行大规模漏洞扫描"
+    ]
+  },
+  {
+    "title": "AI is removing the middle class of software engineering?",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Wed, 12 Aug 2026 13:20:05 +0000",
+    "popularity": "",
+    "content": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 971 # Comments: 901",
+    "summary": "文章探讨AI对软件工程行业结构的影响，认为AI正在消除中阶工程师岗位，导致行业两极分化：初级和高级工程师需求增加，而中间层被压缩。作者基于个人观察和行业趋势，分析了AI工具如何改变工作流程、团队构成及职业发展路径，并讨论了这对个人和公司的潜在影响。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "软件工程",
+      "职业发展",
+      "行业趋势",
+      "中产阶级",
+      "自动化"
+    ],
+    "highlights": [
+      "AI is removing the middle class of software engineering?",
+      "The article discusses how AI tools are reshaping the demand for engineers, potentially eliminating mid-level roles.",
+      "It highlights a polarization effect: more junior and senior roles, fewer mid-level positions."
+    ]
+  },
+  {
+    "title": "Introducing chestnut",
+    "url": "https://blog.comma.ai/chestnut/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 12 Aug 2026 21:43:46 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/m0ure0/introducing_chestnut\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "comma.ai 发布了名为 Chestnut 的新产品，并提供了相关讨论链接。",
+    "score": 6,
+    "tags": [
+      "comma.ai",
+      "Chestnut",
+      "产品发布"
+    ],
+    "highlights": [
+      "Introducing chestnut",
+      "https://blog.comma.ai/chestnut/"
+    ]
+  },
+  {
+    "title": "AI companies destroy physical books — let’s scan rare books before it’s too late",
+    "url": "https://fr.annas-archive.gl/blog/physical-destruction.html",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 11 Aug 2026 14:00:18 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/g32zwm/ai_companies_destroy_physical_books_let_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章警告AI公司为训练模型而扫描图书，导致稀有实体书籍被物理销毁，呼吁在彻底消失前进行数字化保存。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "图书扫描",
+      "稀有书籍",
+      "数字化保存",
+      "文化保护"
+    ],
+    "highlights": [
+      "AI companies destroy physical books",
+      "scan rare books before it’s too late"
+    ]
+  },
+  {
+    "title": "The builder’s guide to GPT‑5.6",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 13 Aug 2026 11:00:00 GMT",
+    "popularity": "",
+    "content": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "summary": "This guide explains how startups can leverage GPT-5.6 to build faster and more cost-efficient AI agents, focusing on smarter model selection and new Responses API capabilities.",
+    "score": 8,
+    "tags": [
+      "GPT-5.6",
+      "AI agents",
+      "startups",
+      "Responses API",
+      "cost efficiency",
+      "model selection"
+    ],
+    "highlights": [
+      "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents",
+      "smarter model selection",
+      "new Responses API capabilities"
+    ]
+  },
+  {
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 13 Aug 2026 10:00:00 GMT",
+    "popularity": "",
+    "content": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "summary": "OpenAI 预览其新的 API 服务层级 Ultrafast，该层级通过 Cerebras 技术支持 GPT-5.6 Sol 模型，运行速度提升至原来的 14 倍，输出速度可达每秒 750 个 token。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "API",
+      "GPT-5.6",
+      "Cerebras",
+      "性能优化",
+      "速度提升"
+    ],
+    "highlights": [
+      "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster.",
+      "Powered by Cerebras, it delivers up to 750 output tokens per second."
+    ]
+  },
+  {
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 13 Aug 2026 17:16:04 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Strands Agents 与 Hugging Face 集成，提供从数据记录、训练到部署的一体化平台，支持 LeRobot 和 Storage Buckets，实现机器人学习的数据闭环。",
+    "score": 8,
+    "tags": [
+      "机器人学习",
+      "数据闭环",
+      "LeRobot",
+      "Hugging Face",
+      "Strands Agents",
+      "部署"
+    ],
+    "highlights": [
+      "Strands Agents 提供从记录、训练到部署的一站式解决方案。",
+      "集成 LeRobot 和 Hugging Face Storage Buckets，简化数据管理。",
+      "支持机器人学习工作流的自动化与协作。"
+    ]
+  },
+  {
+    "title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 13 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客文章总结了通过复现ICML会议2200篇论文所获得的经验教训，强调了可复现性在机器学习研究中的重要性，并提供了关于论文复现过程中常见挑战和最佳实践的见解。",
+    "score": 8,
+    "tags": [
+      "机器学习",
+      "可复现性",
+      "ICML",
+      "论文复现",
+      "研究实践"
+    ],
+    "highlights": [
+      "复现2200篇ICML论文揭示了研究可复现性的关键问题。",
+      "论文复现过程中常见的挑战包括代码缺失、环境依赖和超参数不透明。",
+      "作者提出了改进研究可复现性的具体建议，如提供完整代码和详细实验设置。"
+    ]
+  }
+]

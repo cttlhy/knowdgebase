@@ -1,0 +1,24 @@
+{
+  "id": "rss-13202600-018",
+  "title": "What We Learned by Reproducing 2,200 papers from ICML",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+  "date": "Thu, 13 Aug 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "该博客文章总结了通过复现ICML会议2200篇论文所获得的经验教训，强调了可复现性在机器学习研究中的重要性，并提供了关于论文复现过程中常见挑战和最佳实践的见解。",
+  "highlights": [
+    "复现2200篇ICML论文揭示了研究可复现性的关键问题。",
+    "论文复现过程中常见的挑战包括代码缺失、环境依赖和超参数不透明。",
+    "作者提出了改进研究可复现性的具体建议，如提供完整代码和详细实验设置。"
+  ],
+  "score": 8,
+  "tags": [
+    "机器学习",
+    "可复现性",
+    "ICML",
+    "论文复现",
+    "研究实践"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "github-20260814-005",
+  "title": "mattpocock/skills",
+  "source": "github",
+  "source_url": "https://github.com/mattpocock/skills",
+  "status": "draft",
+  "url": "https://github.com/mattpocock/skills",
+  "date": "2026-08-14",
+  "popularity": "stars:216937",
+  "summary": "Matt Pocock 分享其个人 .agents 目录中的实用技能集合，面向真实工程师，涵盖 TypeScript、React 等现代前端开发最佳实践。",
+  "highlights": [
+    "Skills for Real Engineers.",
+    "Straight from my .agents directory."
+  ],
+  "score": 8,
+  "tags": [
+    "TypeScript",
+    "React",
+    "前端开发",
+    "最佳实践",
+    "工程师技能",
+    "GitHub"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260814"
+  }
+}

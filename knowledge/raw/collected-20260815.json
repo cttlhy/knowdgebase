@@ -1,0 +1,354 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-15",
+    "popularity": "stars:386344",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人 AI 助手项目，以龙虾为标志，强调灵活性和自主性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助理"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-15",
+    "popularity": "stars:272291",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "superpowers 是一个代理技能框架和软件开发方法论，强调实用性和有效性。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "framework",
+      "methodology",
+      "software-development"
+    ],
+    "highlights": [
+      "An agentic skills framework",
+      "software development methodology that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-15",
+    "popularity": "stars:240194",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance coding agents like Claude Code, Codex, Opencode, and Cursor through skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent harness",
+      "performance optimization",
+      "coding agents",
+      "Claude Code",
+      "Codex",
+      "Opencode",
+      "Cursor",
+      "memory"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple coding tools",
+      "Integrates skills, instincts, memory, and security for enhanced agent behavior",
+      "Supports a research-first development approach"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-15",
+    "popularity": "stars:230788",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个描述为‘与你共同成长的代理’的 GitHub 项目，旨在提供可扩展、自适应的智能代理解决方案。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "Adaptive",
+      "Open Source",
+      "NousResearch"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-15",
+    "popularity": "stars:217867",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享其个人 .agents 目录中的技能集合，面向真实工程师，提供实用开发技能。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "developer-tools",
+      "agents",
+      "engineering",
+      "github"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-15",
+    "popularity": "stars:202603",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 7,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "best practices"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-15",
+    "popularity": "stars:200676",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供400多种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud, 400+ integrations"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-15",
+    "popularity": "stars:197611",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理工具，旨在帮助开发者自动化和简化编码任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation",
+      "developer tools"
+    ],
+    "highlights": [
+      "The open source coding agent.",
+      "旨在帮助开发者自动化和简化编码任务。"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-15",
+    "popularity": "stars:195047",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust using Gajae-Code / LazyCodex, developed and maintained entirely without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI",
+      "autonomous",
+      "museum",
+      "agent"
+    ],
+    "highlights": [
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-15",
+    "popularity": "stars:186608",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "The 'Breaking' News: The OpenAI–Hugging Face Incident",
+    "url": "https://youtu.be/87DyyMV0kCY",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 11 Aug 2026 11:50:09 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ahonc7/breaking_news_openai_hugging_face\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该视频报道了OpenAI与Hugging Face之间发生的一起突发事件，可能涉及技术或合作方面的争议，具体细节未在内容中展开。",
+    "score": 5,
+    "tags": [
+      "OpenAI",
+      "Hugging Face",
+      "突发事件",
+      "科技新闻"
+    ],
+    "highlights": [
+      "OpenAI–Hugging Face Incident",
+      "Breaking News"
+    ]
+  },
+  {
+    "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+    "url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 07 Aug 2026 16:22:54 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文探讨社交媒体中的信息茧房现象，通过随机游走的相对混合时间分析，指出社交平台并非公共广场，而是类似高中食堂的分散小团体结构，用户容易陷入特定话题的兔子洞。",
+    "score": 8,
+    "tags": [
+      "社交媒体",
+      "信息茧房",
+      "随机游走",
+      "网络分析",
+      "用户行为"
+    ],
+    "highlights": [
+      "社交平台的结构类似高中食堂，而非公共广场",
+      "随机游走的混合时间揭示了用户陷入特定话题的倾向",
+      "信息茧房效应与网络聚类密切相关"
+    ]
+  },
+  {
+    "title": "The builder’s guide to GPT‑5.6",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 13 Aug 2026 11:00:00 GMT",
+    "popularity": "",
+    "content": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "summary": "This guide explains how startups can leverage GPT-5.6 to build faster and more cost-efficient AI agents, focusing on smarter model selection and new Responses API capabilities.",
+    "score": 8,
+    "tags": [
+      "GPT-5.6",
+      "AI agents",
+      "startups",
+      "Responses API",
+      "cost efficiency",
+      "model selection"
+    ],
+    "highlights": [
+      "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents",
+      "smarter model selection",
+      "new Responses API capabilities"
+    ]
+  },
+  {
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 13 Aug 2026 10:00:00 GMT",
+    "popularity": "",
+    "content": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "summary": "OpenAI 预览其新的 API 服务层级 Ultrafast，该层级通过 Cerebras 技术支持，使 GPT-5.6 Sol 模型运行速度提升至原来的 14 倍，输出速度可达每秒 750 个 token。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "API",
+      "GPT-5.6",
+      "速度优化",
+      "Cerebras"
+    ],
+    "highlights": [
+      "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster.",
+      "Powered by Cerebras, it delivers up to 750 output tokens per second."
+    ]
+  },
+  {
+    "title": "State of Open Models: Summer 2026 Observations",
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 14 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "This blog post provides a comprehensive overview of the open model landscape as of summer 2026, highlighting key releases, trends, and community developments. It covers advancements in model size efficiency, multimodal capabilities, and the growing ecosystem of fine-tuned variants, while also discussing challenges such as evaluation benchmarks and licensing.",
+    "score": 8,
+    "tags": [
+      "open models",
+      "AI trends",
+      "Hugging Face",
+      "2026",
+      "multimodal",
+      "model efficiency",
+      "community"
+    ],
+    "highlights": [
+      "The open model ecosystem has seen a surge in efficient architectures that rival proprietary models in performance.",
+      "Multimodal models are becoming the norm, with several new releases integrating vision, language, and audio capabilities.",
+      "Community-driven fine-tuning has led to a proliferation of specialized models for niche domains.",
+      "Evaluation benchmarks are evolving to better capture real-world capabilities and address biases.",
+      "Licensing remains a contentious issue, with some models adopting more restrictive terms despite the 'open' label."
+    ]
+  },
+  {
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 13 Aug 2026 17:16:04 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Strands Agents 与 Hugging Face 的 LeRobot 和 Storage Buckets 集成，提供从数据记录、训练到部署的一体化平台，支持机器人学习工作流。",
+    "score": 8,
+    "tags": [
+      "机器人学习",
+      "数据流水线",
+      "Hugging Face",
+      "LeRobot",
+      "Strands Agents",
+      "部署"
+    ],
+    "highlights": [
+      "Strands Agents 提供统一平台，实现记录、训练和部署的无缝衔接。",
+      "集成 LeRobot 和 Hugging Face Storage Buckets，简化数据管理和模型迭代。",
+      "支持从真实机器人采集数据到云端训练，再到边缘部署的完整闭环。"
+    ]
+  }
+]

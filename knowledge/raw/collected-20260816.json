@@ -1,0 +1,399 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-16",
+    "popularity": "stars:386427",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人 AI 助手项目，以龙虾为标志，强调灵活性和普适性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助理"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-16",
+    "popularity": "stars:272588",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架和软件开发方法论，强调其有效性。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "skills",
+      "framework",
+      "methodology",
+      "software development"
+    ],
+    "highlights": [
+      "An agentic skills framework",
+      "software development methodology that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-16",
+    "popularity": "stars:240355",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance coding agents like Claude Code, Codex, Opencode, and Cursor through skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent harness",
+      "performance optimization",
+      "coding agents",
+      "Claude Code",
+      "Codex",
+      "Opencode",
+      "Cursor",
+      "memory"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple coding tools",
+      "Includes skills, instincts, memory, and security features",
+      "Research-first development approach for continuous improvement"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-16",
+    "popularity": "stars:231208",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个描述为‘与你一同成长的代理’的GitHub项目，旨在提供可扩展、自适应的智能代理解决方案。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "自适应系统",
+      "开源项目",
+      "NousResearch"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-16",
+    "popularity": "stars:218672",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享其个人 .agents 目录中的技能集合，面向真实工程师的实用技能。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "engineering",
+      "agents",
+      "developer-tools"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-16",
+    "popularity": "stars:202856",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 7,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-16",
+    "popularity": "stars:200816",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，并提供超过 400 种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "自托管",
+      "集成",
+      "公平代码"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud, 400+ integrations"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-16",
+    "popularity": "stars:197906",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理工具，旨在帮助开发者自动化和简化编码任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation",
+      "developer tools"
+    ],
+    "highlights": [
+      "The open source coding agent.",
+      "提供自动化编码能力，提升开发效率。"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-16",
+    "popularity": "stars:195058",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust using Gajae-Code / LazyCodex, developed and maintained entirely without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI",
+      "autonomous",
+      "museum",
+      "exhibit",
+      "agent"
+    ],
+    "highlights": [
+      "Built in Rust with Gajae-Code / LazyCodex",
+      "Developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-16",
+    "popularity": "stars:186630",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "AI has access to a vastly larger working memory than the human brain",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Sat, 15 Aug 2026 18:13:02 +0000",
+    "popularity": "",
+    "content": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 485 # Comments: 413",
+    "summary": "文章讨论AI与人类大脑在工作记忆上的差异，指出AI拥有远超人类的工作记忆容量，但并未因此超越数学家的思考能力，强调AI在推理和创造性思维上的局限。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "工作记忆",
+      "数学",
+      "认知科学",
+      "人类智能"
+    ],
+    "highlights": [
+      "AI has access to a vastly larger working memory than the human brain",
+      "AI isn't outthinking mathematicians"
+    ]
+  },
+  {
+    "title": "Working with AI feels more like leadership than coding",
+    "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Sat, 15 Aug 2026 10:39:41 +0000",
+    "popularity": "",
+    "content": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 300 # Comments: 189",
+    "summary": "作者认为与AI协作编程更像领导团队而非传统编码，强调设定目标、分解任务、审查结果和迭代反馈等领导力技能的重要性。",
+    "score": 8,
+    "tags": [
+      "AI协作",
+      "编程范式",
+      "领导力",
+      "软件开发",
+      "人机交互"
+    ],
+    "highlights": [
+      "Working with AI feels more like leadership than coding",
+      "设定目标、分解任务、审查结果和迭代反馈等领导力技能的重要性"
+    ]
+  },
+  {
+    "title": "Are Latent Reasoning Models Easily Interpretable?",
+    "url": "https://arxiv.org/abs/2604.04902",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 15 Aug 2026 11:17:13 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;Models normally do all their reasoning in a continuous hidden state instead of spitting out readable text which makes them hard to monitor. The authors tested the Coconut and CODI models and it turns out these models barely even use their hidden reasoning steps for logical tasks like PrOntoQA and ProsQA. You can force the models to stop thinking early and they almost always spit out the same response anyway. It turns out that their high performance on logical tasks actually comes from their specific training data rather than the extra thinking during inference.&lt;/p&gt; &lt;p&gt;Things get even more interesting when the models actually need those reasoning tokens for math problems. The researchers wanted to know if standard step-by-step math solutions were hidden inside the latent space, and projected the hidden states back into regular vocabulary words to check. And sure enough when the models got the math problem right the researchers found the correct intermediate math steps in their hidden states up to 93% of the time. The finding strongly suggests that the models are basically doing standard math steps in the background.&lt;/p&gt; &lt;p&gt;They confirmed the exact math operations taking place by tweaking numbers in the prompt and seeing how the hidden states reacted which allowed decoding a verified reasoning path for a large majority of correct predictions. But they could rarely do this for incorrect predictions proving that models are actually way more interpretable than the AI community assumed. And you can even use that interpretability as a signal to guess if the model is about to give a right or wrong answer.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/obo3ie/are_latent_reasoning_models_easily\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "研究发现，像Coconut和CODI这样的潜在推理模型在逻辑任务中几乎不使用隐藏推理步骤，其高性能主要来自训练数据而非推理过程。但在数学问题上，模型隐藏状态中确实包含正确的中间步骤，可解释性高达93%，且这种可解释性可用于预测答案正确性。",
+    "score": 8,
+    "tags": [
+      "潜在推理",
+      "可解释性",
+      "Coconut",
+      "CODI",
+      "逻辑任务",
+      "数学推理",
+      "隐藏状态",
+      "训练数据"
+    ],
+    "highlights": [
+      "You can force the models to stop thinking early and they almost always spit out the same response anyway.",
+      "when the models got the math problem right the researchers found the correct intermediate math steps in their hidden states up to 93% of the time.",
+      "models are actually way more interpretable than the AI community assumed.",
+      "you can even use that interpretability as a signal to guess if the model is about to give a right or wrong answer."
+    ]
+  },
+  {
+    "title": "The 'Breaking' News: The OpenAI–Hugging Face Incident",
+    "url": "https://youtu.be/87DyyMV0kCY",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 11 Aug 2026 11:50:09 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ahonc7/breaking_news_openai_hugging_face\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该视频报道了OpenAI与Hugging Face之间发生的一起突发事件，可能涉及技术或商业层面的争议，具体细节未在内容中展开。",
+    "score": 5,
+    "tags": [
+      "OpenAI",
+      "Hugging Face",
+      "事件",
+      "科技新闻"
+    ],
+    "highlights": [
+      "OpenAI–Hugging Face Incident",
+      "Breaking News"
+    ]
+  },
+  {
+    "title": "The builder’s guide to GPT‑5.6",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 13 Aug 2026 11:00:00 GMT",
+    "popularity": "",
+    "content": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "summary": "This guide explains how startups can leverage GPT-5.6 to build faster and more cost-efficient AI agents, focusing on smarter model selection and new Responses API capabilities.",
+    "score": 8,
+    "tags": [
+      "GPT-5.6",
+      "AI agents",
+      "startups",
+      "Responses API",
+      "cost efficiency",
+      "model selection"
+    ],
+    "highlights": [
+      "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents",
+      "smarter model selection",
+      "new Responses API capabilities"
+    ]
+  },
+  {
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 13 Aug 2026 10:00:00 GMT",
+    "popularity": "",
+    "content": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "summary": "OpenAI 预览了新的 API 服务层级 Ultrafast，该服务基于 Cerebras 硬件，可将 GPT-5.6 Sol 的推理速度提升至原来的 14 倍，输出速度高达每秒 750 个 token。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "API",
+      "GPT-5.6",
+      "Ultrafast",
+      "Cerebras",
+      "性能提升"
+    ],
+    "highlights": [
+      "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster.",
+      "Powered by Cerebras, it delivers up to 750 output tokens per second."
+    ]
+  },
+  {
+    "title": "State of Open Models: Summer 2026 Observations",
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 14 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "The blog post provides an overview of the open model landscape in summer 2026, highlighting key releases, trends, and community developments in open-source AI models.",
+    "score": 8,
+    "tags": [
+      "open models",
+      "AI trends",
+      "Hugging Face",
+      "2026",
+      "open source"
+    ],
+    "highlights": [
+      "The open model ecosystem continues to grow rapidly, with new releases from both established players and emerging communities.",
+      "Efficiency and specialization are key themes, with models optimized for specific tasks and hardware constraints.",
+      "Community-driven evaluation and benchmarking have become more standardized, improving transparency and comparability."
+    ]
+  },
+  {
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 13 Aug 2026 17:16:04 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Strands Agents 与 Hugging Face 的 LeRobot 和 Storage Buckets 集成，提供了一个统一的平台，用于记录、训练和部署机器人代理，简化了数据循环流程。",
+    "score": 8,
+    "tags": [
+      "机器人",
+      "数据循环",
+      "LeRobot",
+      "Strands Agents",
+      "Hugging Face",
+      "部署"
+    ],
+    "highlights": [
+      "Strands Agents 与 LeRobot 和 Hugging Face Storage Buckets 集成，实现从数据记录到部署的无缝流程。",
+      "该平台支持实时数据流和版本控制，便于团队协作和模型迭代。",
+      "通过统一的数据存储和训练环境，显著降低了机器人开发的门槛。"
+    ]
+  }
+]

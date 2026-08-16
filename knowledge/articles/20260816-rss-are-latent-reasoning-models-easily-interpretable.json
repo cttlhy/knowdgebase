@@ -1,0 +1,28 @@
+{
+  "id": "rss-15202611-013",
+  "title": "Are Latent Reasoning Models Easily Interpretable?",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2604.04902",
+  "status": "draft",
+  "url": "https://arxiv.org/abs/2604.04902",
+  "date": "Sat, 15 Aug 2026 11:17:13 -0500",
+  "popularity": "",
+  "summary": "研究发现，像Coconut和CODI这样的潜在推理模型在逻辑任务中几乎不使用隐藏推理步骤，其高性能主要来自训练数据而非推理过程。但在数学问题上，模型隐藏状态中确实包含正确的中间步骤，可解释性高达93%，且这种可解释性可用于预测答案正确性。",
+  "highlights": [
+    "You can force the models to stop thinking early and they almost always spit out the same response anyway.",
+    "when the models got the math problem right the researchers found the correct intermediate math steps in their hidden states up to 93% of the time.",
+    "models are actually way more interpretable than the AI community assumed.",
+    "you can even use that interpretability as a signal to guess if the model is about to give a right or wrong answer."
+  ],
+  "score": 8,
+  "tags": [
+    "潜在推理",
+    "可解释性",
+    "Coconut",
+    "CODI",
+    "逻辑任务",
+    "数学推理",
+    "隐藏状态",
+    "训练数据"
+  ]
+}

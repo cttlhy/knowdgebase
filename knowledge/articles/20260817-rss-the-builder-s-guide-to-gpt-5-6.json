@@ -1,0 +1,25 @@
+{
+  "id": "rss-13202611-013",
+  "title": "The builder’s guide to GPT‑5.6",
+  "source": "rss",
+  "source_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+  "status": "draft",
+  "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+  "date": "Thu, 13 Aug 2026 11:00:00 GMT",
+  "popularity": "",
+  "summary": "This guide explains how startups can leverage GPT-5.6 to build faster and more cost-efficient AI agents, focusing on smarter model selection and new Responses API capabilities.",
+  "highlights": [
+    "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents",
+    "smarter model selection",
+    "new Responses API capabilities"
+  ],
+  "score": 8,
+  "tags": [
+    "GPT-5.6",
+    "AI agents",
+    "startups",
+    "Responses API",
+    "cost efficiency",
+    "model selection"
+  ]
+}

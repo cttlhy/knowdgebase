@@ -1,0 +1,24 @@
+{
+  "id": "rss-14202600-015",
+  "title": "State of Open Models: Summer 2026 Observations",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+  "date": "Fri, 14 Aug 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "This blog post provides an overview of the open model landscape in summer 2026, highlighting key releases, trends, and community developments in the Hugging Face ecosystem.",
+  "highlights": [
+    "The open model ecosystem continues to grow rapidly, with new releases from both established labs and emerging startups.",
+    "Community-driven fine-tuning and evaluation have become standard practice, enabling rapid iteration and specialization.",
+    "Interoperability and standardization efforts are gaining traction, making it easier to deploy models across different frameworks."
+  ],
+  "score": 8,
+  "tags": [
+    "open models",
+    "Hugging Face",
+    "2026",
+    "AI trends",
+    "model releases"
+  ]
+}

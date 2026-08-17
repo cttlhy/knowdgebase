@@ -1,0 +1,28 @@
+{
+  "id": "github-20260817-002",
+  "title": "obra/superpowers",
+  "source": "github",
+  "source_url": "https://github.com/obra/superpowers",
+  "status": "draft",
+  "url": "https://github.com/obra/superpowers",
+  "date": "2026-08-17",
+  "popularity": "stars:272964",
+  "summary": "A framework and methodology for agentic software development, emphasizing practical skills and workflows.",
+  "highlights": [
+    "An agentic skills framework",
+    "software development methodology that works"
+  ],
+  "score": 8,
+  "tags": [
+    "agentic",
+    "framework",
+    "methodology",
+    "software development",
+    "skills"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260817"
+  }
+}

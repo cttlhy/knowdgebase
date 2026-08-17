@@ -1,0 +1,25 @@
+{
+  "id": "rss-13202610-014",
+  "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+  "source": "rss",
+  "source_url": "https://openai.com/index/previewing-ultrafast",
+  "status": "draft",
+  "url": "https://openai.com/index/previewing-ultrafast",
+  "date": "Thu, 13 Aug 2026 10:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI 预览了新的 API 服务层级 Ultrafast，该层级通过 Cerebras 技术支持 GPT-5.6 Sol 模型，运行速度提升至原来的 14 倍，输出速度可达每秒 750 个 token。",
+  "highlights": [
+    "Preview Ultrafast, a new OpenAI API service tier",
+    "runs GPT-5.6 Sol up to 14× faster",
+    "delivers up to 750 output tokens per second"
+  ],
+  "score": 8,
+  "tags": [
+    "OpenAI",
+    "API",
+    "GPT-5.6",
+    "Cerebras",
+    "性能优化",
+    "速度提升"
+  ]
+}

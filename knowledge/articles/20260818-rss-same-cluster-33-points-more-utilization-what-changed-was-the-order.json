@@ -1,0 +1,25 @@
+{
+  "id": "rss-17202619-017",
+  "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+  "date": "Mon, 17 Aug 2026 19:46:21 GMT",
+  "popularity": "",
+  "summary": "本文通过对比两次实验，展示了仅通过改变GPU任务调度顺序，在相同集群规模下将GPU利用率提升了33个百分点，并详细分析了调度策略、资源碎片化、任务排队等关键因素，提出了优化调度顺序的实用建议。",
+  "highlights": [
+    "相同集群，仅改变任务顺序，GPU利用率从X%提升至Y%（提升33个百分点）",
+    "调度顺序直接影响资源碎片化程度，进而影响整体利用率",
+    "通过优先调度大任务或长任务，可减少碎片化，提高GPU占用率",
+    "实际案例表明，调度策略的微调可带来显著收益，无需增加硬件投入"
+  ],
+  "score": 8,
+  "tags": [
+    "GPU管理",
+    "调度优化",
+    "资源利用率",
+    "集群计算",
+    "性能调优"
+  ]
+}

@@ -1,0 +1,398 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-18",
+    "popularity": "stars:386603",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人 AI 助手项目，以龙虾为标志，强调灵活性和自主性。",
+    "score": 8,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助理"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-18",
+    "popularity": "stars:273400",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架和软件开发方法论，强调实用性和有效性。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "skills",
+      "framework",
+      "methodology",
+      "software development"
+    ],
+    "highlights": [
+      "An agentic skills framework",
+      "software development methodology that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-18",
+    "popularity": "stars:240804",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance coding agents like Claude Code, Codex, Opencode, and Cursor through skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent-harness",
+      "performance-optimization",
+      "coding-agents",
+      "claude-code",
+      "codex",
+      "opencode",
+      "cursor",
+      "memory"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple coding tools",
+      "Integrates skills, instincts, memory, and security for enhanced agent behavior",
+      "Supports Claude Code, Codex, Opencode, Cursor and beyond"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-18",
+    "popularity": "stars:232234",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个名为 'The agent that grows with you' 的智能体项目，旨在提供随用户需求成长的自适应代理功能。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "自适应",
+      "开源项目"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-18",
+    "popularity": "stars:220785",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享其个人 .agents 目录中的实用技能，面向真实工程师，涵盖开发、协作与效率提升。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "engineer",
+      "agents",
+      "productivity",
+      "github"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-18",
+    "popularity": "stars:203471",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 8,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "best practices"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-18",
+    "popularity": "stars:201046",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供超过 400 种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "集成",
+      "可视化编程"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities.",
+      "Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-18",
+    "popularity": "stars:198630",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理工具，旨在帮助开发者自动化和简化编码任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation",
+      "developer tools"
+    ],
+    "highlights": [
+      "The open source coding agent.",
+      "Automates coding tasks for developers."
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-18",
+    "popularity": "stars:195074",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust using Gajae-Code / LazyCodex, developed and maintained entirely without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI",
+      "autonomous",
+      "museum",
+      "exhibit",
+      "agent"
+    ],
+    "highlights": [
+      "Built in Rust with Gajae-Code / LazyCodex",
+      "Developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-18",
+    "popularity": "stars:186661",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+    "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Mon, 17 Aug 2026 20:46:10 +0000",
+    "popularity": "",
+    "content": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 444 # Comments: 288",
+    "summary": "文章揭露以色列可能创建虚假智库，旨在通过发布看似权威的研究报告来影响ChatGPT等AI聊天机器人的输出，从而操纵公众舆论。",
+    "score": 8,
+    "tags": [
+      "以色列",
+      "AI安全",
+      "虚假信息",
+      "舆论操纵",
+      "智库"
+    ],
+    "highlights": [
+      "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "旨在通过发布看似权威的研究报告来影响ChatGPT等AI聊天机器人的输出"
+    ]
+  },
+  {
+    "title": "AI;DR (AI; Didn't Read)",
+    "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Mon, 17 Aug 2026 19:47:15 +0000",
+    "popularity": "",
+    "content": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 849 # Comments: 521",
+    "summary": "文章探讨了AI生成摘要工具（如AI;DR）对阅读行为的影响，指出其虽能快速提炼信息，但可能导致深度理解缺失和认知惰性，并讨论了在信息过载时代如何平衡效率与批判性思维。",
+    "score": 7,
+    "tags": [
+      "AI摘要",
+      "信息过载",
+      "认知惰性",
+      "阅读行为",
+      "批判性思维"
+    ],
+    "highlights": [
+      "AI;DR工具在提升信息获取效率的同时，可能削弱读者对原文的深度理解和独立思考能力。",
+      "文章引发了对AI辅助阅读是否会导致‘知其然不知其所以然’的广泛讨论。",
+      "作者建议在依赖AI摘要时，仍需保留对关键内容的原始阅读和验证习惯。"
+    ]
+  },
+  {
+    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 17 Aug 2026 12:54:19 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/flcpeu/we_tracked_shipment_rare_books_it_ended_at\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章追踪了一批稀有书籍的运输过程，最终发现它们被送往亚马逊的AI训练设施，揭示了科技公司为训练AI模型而获取稀有文本资料的现象。",
+    "score": 8,
+    "tags": [
+      "AI训练",
+      "稀有书籍",
+      "亚马逊",
+      "数据获取",
+      "供应链"
+    ],
+    "highlights": [
+      "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "揭示了科技公司为训练AI模型而获取稀有文本资料的现象"
+    ]
+  },
+  {
+    "title": "The Limits of AI (1985)",
+    "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sun, 16 Aug 2026 19:20:07 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xculjp/limits_ai_1985\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "This is a 1985 video discussing the limitations of artificial intelligence, likely covering early AI challenges and expectations.",
+    "score": 6,
+    "tags": [
+      "AI",
+      "1985",
+      "limitations",
+      "history"
+    ],
+    "highlights": [
+      "The video from 1985 explores the boundaries of AI technology at the time.",
+      "It provides historical context on AI's early limitations and future prospects."
+    ]
+  },
+  {
+    "title": "The Defender’s Window",
+    "url": "https://openai.com/index/the-defenders-window",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 17 Aug 2026 05:30:00 GMT",
+    "popularity": "",
+    "content": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "summary": "AI正在重塑网络安全格局，对攻击者和防御者都产生深远影响。OpenAI介绍了其如何加强自身防御体系，并为安全团队提供应对当前威胁的实用建议。",
+    "score": 8,
+    "tags": [
+      "AI安全",
+      "网络安全",
+      "OpenAI",
+      "防御策略",
+      "威胁情报"
+    ],
+    "highlights": [
+      "AI is reshaping cybersecurity for attackers and defenders alike.",
+      "Learn how OpenAI is strengthening its defenses and what security teams can do now."
+    ]
+  },
+  {
+    "title": "OpenAI joins PORTS-Pike project",
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 17 Aug 2026 05:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "summary": "OpenAI宣布加入PORTS-Pike项目，扩大社区投资并支持南俄亥俄州数千个就业岗位。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "PORTS-Pike",
+      "社区投资",
+      "就业",
+      "俄亥俄州"
+    ],
+    "highlights": [
+      "OpenAI joins PORTS-Pike project",
+      "expanding community investment",
+      "supporting thousands of Southern Ohio jobs"
+    ]
+  },
+  {
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Mon, 17 Aug 2026 19:46:21 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文通过对比两次实验，展示了仅通过改变GPU任务调度顺序，在相同集群规模下将GPU利用率提升了33个百分点，并详细分析了调度策略、资源碎片化、任务排队等关键因素，提出了优化调度顺序的实用建议。",
+    "score": 8,
+    "tags": [
+      "GPU管理",
+      "调度优化",
+      "资源利用率",
+      "集群计算",
+      "性能调优"
+    ],
+    "highlights": [
+      "相同集群，仅改变任务顺序，GPU利用率从X%提升至Y%（提升33个百分点）",
+      "调度顺序直接影响资源碎片化程度，进而影响整体利用率",
+      "通过优先调度大任务或长任务，可减少碎片化，提高GPU占用率",
+      "实际案例表明，调度策略的微调可带来显著收益，无需增加硬件投入"
+    ]
+  },
+  {
+    "title": "State of Open Models: Summer 2026 Observations",
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 14 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face 发布的 2026 年夏季开源模型状态报告，总结了开源模型在性能、规模、生态和许可方面的最新进展，并展望了未来趋势。",
+    "score": 8,
+    "tags": [
+      "开源模型",
+      "Hugging Face",
+      "2026",
+      "模型生态",
+      "许可协议",
+      "性能评测"
+    ],
+    "highlights": [
+      "开源模型在推理、编码和多模态任务上已接近或超越闭源模型。",
+      "模型规模持续增长，但高效小模型成为新趋势。",
+      "社区驱动的数据集和评估基准日益完善。",
+      "许可协议多样化，商业友好型许可增多。",
+      "开源生态工具链（如推理优化、部署）显著成熟。"
+    ]
+  }
+]

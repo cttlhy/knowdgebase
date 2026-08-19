@@ -1,0 +1,24 @@
+{
+  "id": "rss-18202623-013",
+  "title": "But what is cross-entropy? | Compression is Intelligence Part 2 - YouTube",
+  "source": "rss",
+  "source_url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+  "status": "draft",
+  "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+  "date": "Tue, 18 Aug 2026 23:49:02 -0500",
+  "popularity": "",
+  "summary": "该视频深入浅出地解释了交叉熵的概念，并将其与压缩和智能联系起来，探讨了信息论在机器学习中的应用。",
+  "highlights": [
+    "交叉熵是衡量两个概率分布差异的指标，在机器学习中常用于损失函数。",
+    "压缩与智能密切相关，交叉熵为理解这一关系提供了数学基础。",
+    "视频通过直观示例和推导，帮助观众理解交叉熵的直觉和计算方式。"
+  ],
+  "score": 8,
+  "tags": [
+    "交叉熵",
+    "信息论",
+    "压缩",
+    "智能",
+    "机器学习"
+  ]
+}

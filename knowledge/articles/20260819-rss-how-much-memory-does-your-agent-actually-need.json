@@ -1,0 +1,23 @@
+{
+  "id": "rss-18202618-017",
+  "title": "How Much Memory Does Your Agent Actually Need?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "date": "Tue, 18 Aug 2026 18:09:38 GMT",
+  "popularity": "",
+  "summary": "本文探讨了AI代理在实际应用中所需的内存大小问题，指出内存需求取决于任务复杂度和代理架构，并提出了通过自适应内存管理来优化性能的方法。",
+  "highlights": [
+    "内存需求并非越大越好，而是需要根据任务动态调整。",
+    "自适应内存管理可以显著提升代理的效率和准确性。",
+    "实验表明，过大的内存可能导致信息冗余和决策延迟。"
+  ],
+  "score": 8,
+  "tags": [
+    "AI代理",
+    "内存管理",
+    "性能优化",
+    "自适应系统"
+  ]
+}

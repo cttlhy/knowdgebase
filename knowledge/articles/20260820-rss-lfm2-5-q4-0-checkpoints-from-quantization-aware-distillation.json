@@ -1,0 +1,25 @@
+{
+  "id": "rss-19202613-015",
+  "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/LiquidAI/qad",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/LiquidAI/qad",
+  "date": "Wed, 19 Aug 2026 13:48:49 GMT",
+  "popularity": "",
+  "summary": "LiquidAI 发布 LFM2.5 Q4_0 检查点，采用量化感知蒸馏（QAD）技术，在保持性能的同时实现4-bit量化，适用于边缘部署。",
+  "highlights": [
+    "LFM2.5 Q4_0 检查点通过量化感知蒸馏实现，显著降低模型大小。",
+    "该模型在保持高精度的同时，适合资源受限环境。",
+    "博客提供了技术细节和部署指南。"
+  ],
+  "score": 8,
+  "tags": [
+    "量化",
+    "蒸馏",
+    "LFM2.5",
+    "Q4_0",
+    "边缘部署",
+    "Hugging Face"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-18202618-016",
+  "title": "How Much Memory Does Your Agent Actually Need?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "date": "Tue, 18 Aug 2026 18:09:38 GMT",
+  "popularity": "",
+  "summary": "本文探讨了AI代理在实际应用中所需的内存大小问题，指出当前模型上下文窗口的扩展并不等同于有效记忆，并提出了基于任务复杂度动态调整内存需求的评估方法。",
+  "highlights": [
+    "上下文窗口大小并非衡量代理记忆能力的唯一标准，实际需求取决于任务类型和复杂度。",
+    "提出了一种新的评估框架，用于动态确定代理在不同任务中的最佳内存配置。",
+    "通过实验证明，过大的上下文窗口可能导致性能下降和资源浪费，合理的内存分配更为关键。"
+  ],
+  "score": 8,
+  "tags": [
+    "AI代理",
+    "内存管理",
+    "上下文窗口",
+    "模型评估",
+    "Hugging Face"
+  ]
+}

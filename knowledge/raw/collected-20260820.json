@@ -1,0 +1,354 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-20",
+    "popularity": "stars:386842",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw is a personal AI assistant that operates across any operating system and platform, following 'the lobster way' philosophy.",
+    "score": 8,
+    "tags": [
+      "AI assistant",
+      "cross-platform",
+      "personal assistant",
+      "open source"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-20",
+    "popularity": "stars:274536",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "A framework and methodology for agentic software development, emphasizing practical skills and workflows.",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "framework",
+      "methodology",
+      "software-development",
+      "skills"
+    ],
+    "highlights": [
+      "An agentic skills framework",
+      "software development methodology that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-20",
+    "popularity": "stars:241260",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance coding agents like Claude Code, Codex, Opencode, and Cursor through skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent harness",
+      "performance optimization",
+      "coding agents",
+      "Claude Code",
+      "Codex",
+      "Opencode",
+      "Cursor",
+      "memory"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple coding tools",
+      "Focuses on skills, instincts, memory, and security for agents",
+      "Supports research-first development methodology"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-20",
+    "popularity": "stars:233244",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个名为 'The agent that grows with you' 的智能体项目，旨在提供随用户成长而发展的代理服务。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "开源项目",
+      "成长型代理"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-20",
+    "popularity": "stars:224455",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享其个人 .agents 目录中的技能集合，面向真实工程师，提供实用开发技能。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "developer-tools",
+      "agents",
+      "engineering",
+      "github"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-20",
+    "popularity": "stars:204104",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 7,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "best practices"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-20",
+    "popularity": "stars:201258",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供400多种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "集成",
+      "可视化编程"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities.",
+      "Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-20",
+    "popularity": "stars:199367",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理工具，旨在帮助开发者自动化和简化编码任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation",
+      "developer tools"
+    ],
+    "highlights": [
+      "The open source coding agent.",
+      "Anomalyco 开发的编码代理工具。"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-20",
+    "popularity": "stars:195084",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust using Gajae-Code / LazyCodex, developed and maintained entirely without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI",
+      "autonomous",
+      "museum",
+      "exhibit",
+      "agent"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-20",
+    "popularity": "stars:186691",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "AscendNPU-IR: MLIR for Ascend",
+    "url": "https://gitcode.com/Ascend/AscendNPU-IR",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 19 Aug 2026 18:47:50 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zpk6cj/ascendnpu_ir_mlir_for_ascend\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "AscendNPU-IR 是华为昇腾 NPU 的 MLIR 编译器项目，旨在通过 MLIR 框架为昇腾硬件提供统一的中间表示和优化能力。该项目托管在 GitCode 上，并包含相关讨论链接。",
+    "score": 7,
+    "tags": [
+      "MLIR",
+      "Ascend NPU",
+      "编译器",
+      "华为",
+      "AI 芯片"
+    ],
+    "highlights": [
+      "AscendNPU-IR 是面向昇腾 NPU 的 MLIR 实现。",
+      "项目托管于 GitCode，提供代码和讨论。",
+      "旨在利用 MLIR 框架优化昇腾硬件上的 AI 编译。"
+    ]
+  },
+  {
+    "title": "Bongard Problems",
+    "url": "https://matthodges.com/posts/2026-08-19-bongard-problems/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 19 Aug 2026 17:12:09 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/q6atrp/bongard_problems\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "The article discusses Bongard Problems, a set of visual puzzles that challenge pattern recognition and abstract reasoning, and explores their relevance to AI and cognitive science.",
+    "score": 7,
+    "tags": [
+      "Bongard Problems",
+      "visual reasoning",
+      "AI",
+      "cognitive science",
+      "pattern recognition"
+    ],
+    "highlights": [
+      "Bongard Problems are a class of visual puzzles that require identifying a rule distinguishing two sets of images.",
+      "They are used to study human and machine pattern recognition and abstract reasoning.",
+      "The article likely examines how these problems relate to AI challenges and cognitive models."
+    ]
+  },
+  {
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 19 Aug 2026 19:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "summary": "OpenAI重申对符合条件的API客户提供零数据保留，并预览了私有安全处理功能，以在不损害数据隐私的前提下实现高级AI安全。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "零数据保留",
+      "API",
+      "数据隐私",
+      "AI安全",
+      "私有安全处理"
+    ],
+    "highlights": [
+      "OpenAI reaffirms Zero Data Retention for eligible API customers",
+      "previews Private Safety Processing for advanced AI safety without compromising data privacy"
+    ]
+  },
+  {
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "url": "https://openai.com/index/replit",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "popularity": "",
+    "content": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "summary": "Replit推出免费模式，由GPT-5.6 Luna驱动，让任何人都能无顾虑地将想法转化为可运行的软件，无需担心令牌成本。",
+    "score": 8,
+    "tags": [
+      "Replit",
+      "GPT-5.6 Luna",
+      "免费模式",
+      "软件开发",
+      "AI编程"
+    ],
+    "highlights": [
+      "Replit introduces Free Mode, powered by GPT-5.6 Luna",
+      "anyone can turn ideas into working software without worrying about token costs"
+    ]
+  },
+  {
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "url": "https://huggingface.co/blog/LiquidAI/qad",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 19 Aug 2026 13:48:49 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "LiquidAI 发布 LFM2.5 Q4_0 检查点，采用量化感知蒸馏（QAD）技术，在保持性能的同时实现4-bit量化，适用于边缘部署。",
+    "score": 8,
+    "tags": [
+      "量化",
+      "蒸馏",
+      "LFM2.5",
+      "Q4_0",
+      "边缘部署",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "LFM2.5 Q4_0 检查点通过量化感知蒸馏实现，显著降低模型大小。",
+      "该模型在保持高精度的同时，适合资源受限环境。",
+      "博客提供了技术细节和部署指南。"
+    ]
+  },
+  {
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 18 Aug 2026 18:09:38 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文探讨了AI代理在实际应用中所需的内存大小问题，指出当前模型上下文窗口的扩展并不等同于有效记忆，并提出了基于任务复杂度动态调整内存需求的评估方法。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "内存管理",
+      "上下文窗口",
+      "模型评估",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "上下文窗口大小并非衡量代理记忆能力的唯一标准，实际需求取决于任务类型和复杂度。",
+      "提出了一种新的评估框架，用于动态确定代理在不同任务中的最佳内存配置。",
+      "通过实验证明，过大的上下文窗口可能导致性能下降和资源浪费，合理的内存分配更为关键。"
+    ]
+  }
+]

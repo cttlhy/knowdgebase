@@ -1,0 +1,24 @@
+{
+  "id": "rss-18202618-018",
+  "title": "How Much Memory Does Your Agent Actually Need?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "date": "Tue, 18 Aug 2026 18:09:38 GMT",
+  "popularity": "",
+  "summary": "本文探讨了AI代理在实际应用中所需的内存大小问题，指出当前模型往往过度分配内存，导致资源浪费。文章提出了一种名为ALTK-Evolve的方法，通过动态调整内存使用来优化性能，并基于实验数据给出了不同任务场景下的内存需求建议。",
+  "highlights": [
+    "AI代理的内存需求并非越大越好，过度分配会浪费资源。",
+    "ALTK-Evolve方法能够根据任务复杂度动态调整内存使用。",
+    "实验表明，合理的内存配置可提升代理效率并降低成本。"
+  ],
+  "score": 8,
+  "tags": [
+    "AI代理",
+    "内存优化",
+    "ALTK-Evolve",
+    "性能调优",
+    "Hugging Face"
+  ]
+}

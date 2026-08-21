@@ -1,0 +1,24 @@
+{
+  "id": "rss-19202618-013",
+  "title": "AscendNPU-IR: MLIR for Ascend",
+  "source": "rss",
+  "source_url": "https://gitcode.com/Ascend/AscendNPU-IR",
+  "status": "draft",
+  "url": "https://gitcode.com/Ascend/AscendNPU-IR",
+  "date": "Wed, 19 Aug 2026 18:47:50 -0500",
+  "popularity": "",
+  "summary": "AscendNPU-IR 是华为昇腾 NPU 的 MLIR 编译器项目，旨在通过 MLIR 框架为昇腾 AI 处理器提供高效、可扩展的编译支持。该项目包含从高层算子到低层硬件的 IR 转换、优化和代码生成，适用于深度学习模型的部署与推理。",
+  "highlights": [
+    "基于 MLIR 的昇腾 NPU 编译器框架",
+    "支持从高层 IR 到硬件代码生成的完整编译流程",
+    "面向 AI 推理和训练场景的优化"
+  ],
+  "score": 8,
+  "tags": [
+    "MLIR",
+    "Ascend NPU",
+    "编译器",
+    "AI 芯片",
+    "华为昇腾"
+  ]
+}

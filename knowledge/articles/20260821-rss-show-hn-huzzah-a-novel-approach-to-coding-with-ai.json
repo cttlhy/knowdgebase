@@ -1,0 +1,27 @@
+{
+  "id": "rss-20202619-012",
+  "title": "Show HN: Huzzah – a novel approach to coding with AI",
+  "source": "rss",
+  "source_url": "https://www.danielvaughn.dev/posts/huzzah/",
+  "status": "draft",
+  "url": "https://www.danielvaughn.dev/posts/huzzah/",
+  "date": "Thu, 20 Aug 2026 19:05:36 +0000",
+  "popularity": "",
+  "summary": "Huzzah is an experimental editor that introduces a novel interaction paradigm for coding with AI, allowing users to write pseudocode that is synchronized to real source code on save, with the pseudocode persisted as a record of intent. It aims to address the tedium of writing full sentences for coding agents and the complexity limits of AI-assisted coding, offering a middle ground between fully manual coding and agent-based workflows. Currently a proof of concept, it has received significant com",
+  "highlights": [
+    "I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for every change I want.",
+    "it seems there's a complexity limit for codebases - beyond a certain point the agent begins confusing itself.",
+    "write pseudocode in whatever way makes the most sense to you",
+    "on save, the editor synchronizes your work to real source code",
+    "the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent."
+  ],
+  "score": 8,
+  "tags": [
+    "AI coding",
+    "editor",
+    "pseudocode",
+    "developer tools",
+    "proof of concept",
+    "Hacker News"
+  ]
+}

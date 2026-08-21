@@ -1,0 +1,396 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-21",
+    "popularity": "stars:386983",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人 AI 助手项目，以龙虾为标志，强调自由与灵活性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助理"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-21",
+    "popularity": "stars:275249",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "superpowers 是一个代理技能框架和软件开发方法论，旨在提供有效的开发实践。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "skills-framework",
+      "software-development",
+      "methodology"
+    ],
+    "highlights": [
+      "An agentic skills framework",
+      "software development methodology that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-21",
+    "popularity": "stars:241559",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance AI coding agents like Claude Code, Codex, Opencode, and Cursor. It focuses on skills, instincts, memory, security, and research-first development to improve agent efficiency and reliability.",
+    "score": 8,
+    "tags": [
+      "AI agents",
+      "performance optimization",
+      "developer tools",
+      "Claude Code",
+      "Codex",
+      "Cursor",
+      "memory",
+      "security"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple AI coding tools",
+      "Emphasizes skills, instincts, memory, and security for robust agent behavior",
+      "Research-first development approach for continuous improvement"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-21",
+    "popularity": "stars:233722",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个强调与用户共同成长的智能体项目，旨在提供可扩展和适应性的代理解决方案。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "开源项目",
+      "成长型代理"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-21",
+    "popularity": "stars:227683",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享其个人 .agents 目录中的技能集合，面向真实工程师，提供实用开发技能。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "developer-tools",
+      "agents",
+      "engineering",
+      "github"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-21",
+    "popularity": "stars:204627",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 7,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-21",
+    "popularity": "stars:201445",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供 400 多种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "自托管",
+      "集成",
+      "公平代码"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities.",
+      "Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-21",
+    "popularity": "stars:199702",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理工具，旨在帮助开发者通过自动化方式完成编码任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-21",
+    "popularity": "stars:195090",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "claw-code 是一个由 AI 代理完全自主开发与维护的博物馆展品项目，使用 Rust 语言及 Gajae-Code / LazyCodex 工具链构建，全程无人工干预。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI代理",
+      "自主开发",
+      "博物馆展品",
+      "Gajae-Code",
+      "LazyCodex"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-21",
+    "popularity": "stars:186696",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "url": "https://annas-archive.gl/blog/physical-destruction.html",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Fri, 21 Aug 2026 02:37:47 +0000",
+    "popularity": "",
+    "content": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 310 # Comments: 220",
+    "summary": "文章警告AI公司正在大规模销毁实体书籍，呼吁在稀有书籍消失前进行扫描保存。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "书籍销毁",
+      "稀有书籍",
+      "数字化保存",
+      "版权"
+    ],
+    "highlights": [
+      "AI companies destroy physical books",
+      "let's scan rare books before it's too late"
+    ]
+  },
+  {
+    "title": "Show HN: Huzzah – a novel approach to coding with AI",
+    "url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Thu, 20 Aug 2026 19:05:36 +0000",
+    "popularity": "",
+    "content": "Hello everyone. I've been working on this experimental editor called Huzzah. I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there's a complexity limit for codebases - beyond a certain point the agent begins confusing itself. I'd like to go back to writing code, but I don't want to go all the way back to fully manual coding. So I've come up with this interaction paradigm where you: 1. write pseudocode in whatever way makes the most sense to you 2. on save, the editor synchronizes your work to real source code 3. the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent. It may not work for every use case, but in my initial playthroughs I've found it very enjoyable. Right now it's just a proof of concept - installation instructions are here in the readme: https://github.com/danielvaughn/hz You can also watch a video of it in action here: https://x.com/danielvaughn/status/2090456808431165715 Cheers! Comments URL: https://news.ycombinator.com/item?id=49378768 Points: 301 # Comments: 157",
+    "summary": "Huzzah is an experimental editor that introduces a novel interaction paradigm for coding with AI, allowing users to write pseudocode that is synchronized to real source code on save, with the pseudocode persisted as a record of intent. It aims to address the tedium of writing full sentences for coding agents and the complexity limits of AI-assisted coding, offering a middle ground between fully manual coding and agent-based workflows. Currently a proof of concept, it has received significant com",
+    "score": 8,
+    "tags": [
+      "AI coding",
+      "editor",
+      "pseudocode",
+      "developer tools",
+      "proof of concept",
+      "Hacker News"
+    ],
+    "highlights": [
+      "I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for every change I want.",
+      "it seems there's a complexity limit for codebases - beyond a certain point the agent begins confusing itself.",
+      "write pseudocode in whatever way makes the most sense to you",
+      "on save, the editor synchronizes your work to real source code",
+      "the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent."
+    ]
+  },
+  {
+    "title": "AscendNPU-IR: MLIR for Ascend",
+    "url": "https://gitcode.com/Ascend/AscendNPU-IR",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 19 Aug 2026 18:47:50 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zpk6cj/ascendnpu_ir_mlir_for_ascend\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "AscendNPU-IR 是华为昇腾 NPU 的 MLIR 编译器项目，旨在通过 MLIR 框架为昇腾 AI 处理器提供高效、可扩展的编译支持。该项目包含从高层算子到低层硬件的 IR 转换、优化和代码生成，适用于深度学习模型的部署与推理。",
+    "score": 8,
+    "tags": [
+      "MLIR",
+      "Ascend NPU",
+      "编译器",
+      "AI 芯片",
+      "华为昇腾"
+    ],
+    "highlights": [
+      "基于 MLIR 的昇腾 NPU 编译器框架",
+      "支持从高层 IR 到硬件代码生成的完整编译流程",
+      "面向 AI 推理和训练场景的优化"
+    ]
+  },
+  {
+    "title": "Bongard Problems",
+    "url": "https://matthodges.com/posts/2026-08-19-bongard-problems/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 19 Aug 2026 17:12:09 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/q6atrp/bongard_problems\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "The article discusses Bongard Problems, a set of visual reasoning puzzles that challenge pattern recognition and abstract thinking, and explores their relevance to AI and cognitive science.",
+    "score": 7,
+    "tags": [
+      "Bongard Problems",
+      "visual reasoning",
+      "AI",
+      "cognitive science",
+      "puzzles"
+    ],
+    "highlights": [
+      "Bongard Problems are a classic benchmark for visual reasoning and pattern recognition.",
+      "The article examines how these problems relate to human cognition and artificial intelligence.",
+      "It provides insights into the challenges of solving Bongard Problems computationally."
+    ]
+  },
+  {
+    "title": "Introducing AI Futures",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "popularity": "",
+    "content": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "summary": "OpenAI推出新博客系列“AI Futures”，探讨变革性AI如何重塑权力、治理、经济和个体自由。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "AI Futures",
+      "博客",
+      "治理",
+      "经济",
+      "自由"
+    ],
+    "highlights": [
+      "Introducing AI Futures, a new OpenAI blog",
+      "exploring how transformative AI could reshape power, governance, the economy, and individual freedom"
+    ]
+  },
+  {
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "url": "https://openai.com/index/stampli",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 20 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "summary": "Stampli利用Codex和ChatGPT Work将原本需要数周的发布准备工作压缩至数天，成功将启动时间缩短68%，同时设计资源被分配至其他项目。",
+    "score": 8,
+    "tags": [
+      "AI应用",
+      "效率提升",
+      "ChatGPT Work",
+      "Codex",
+      "项目管理"
+    ],
+    "highlights": [
+      "Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "cut launch hours by 68%"
+    ]
+  },
+  {
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 20 Aug 2026 16:52:57 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "LiquidAI 发布 LFM2.5-DSpark，通过稀疏注意力机制和动态路由实现最高 3.2 倍推理加速，同时保持模型质量，适用于长上下文和实时推理场景。",
+    "score": 8,
+    "tags": [
+      "推理加速",
+      "稀疏注意力",
+      "动态路由",
+      "LFM2.5",
+      "长上下文"
+    ],
+    "highlights": [
+      "LFM2.5-DSpark 实现最高 3.2 倍推理加速，同时保持模型质量。",
+      "采用稀疏注意力机制，显著降低计算复杂度。",
+      "动态路由技术优化 token 处理，提升长上下文性能。"
+    ]
+  },
+  {
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 18 Aug 2026 18:09:38 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文探讨了AI代理在实际应用中所需的内存大小问题，指出当前模型往往过度分配内存，导致资源浪费。文章提出了一种名为ALTK-Evolve的方法，通过动态调整内存使用来优化性能，并基于实验数据给出了不同任务场景下的内存需求建议。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "内存优化",
+      "ALTK-Evolve",
+      "性能调优",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "AI代理的内存需求并非越大越好，过度分配会浪费资源。",
+      "ALTK-Evolve方法能够根据任务复杂度动态调整内存使用。",
+      "实验表明，合理的内存配置可提升代理效率并降低成本。"
+    ]
+  }
+]

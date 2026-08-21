@@ -1,0 +1,24 @@
+{
+  "id": "rss-20202616-017",
+  "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+  "date": "Thu, 20 Aug 2026 16:52:57 GMT",
+  "popularity": "",
+  "summary": "LiquidAI 发布 LFM2.5-DSpark，通过稀疏注意力机制和动态路由实现最高 3.2 倍推理加速，同时保持模型质量，适用于长上下文和实时推理场景。",
+  "highlights": [
+    "LFM2.5-DSpark 实现最高 3.2 倍推理加速，同时保持模型质量。",
+    "采用稀疏注意力机制，显著降低计算复杂度。",
+    "动态路由技术优化 token 处理，提升长上下文性能。"
+  ],
+  "score": 8,
+  "tags": [
+    "推理加速",
+    "稀疏注意力",
+    "动态路由",
+    "LFM2.5",
+    "长上下文"
+  ]
+}

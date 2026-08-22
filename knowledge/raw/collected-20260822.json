@@ -1,0 +1,400 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-22",
+    "popularity": "stars:387078",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw is a personal AI assistant project that emphasizes cross-platform compatibility and a unique 'lobster way' philosophy, available on any operating system and platform.",
+    "score": 7,
+    "tags": [
+      "AI assistant",
+      "cross-platform",
+      "personal assistant",
+      "open source"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-22",
+    "popularity": "stars:275803",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "superpowers 是一个代理技能框架和软件开发方法论，强调其有效性。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "skills",
+      "framework",
+      "methodology",
+      "software development"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology",
+      "that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-22",
+    "popularity": "stars:241906",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system that enhances AI coding agents like Claude Code, Codex, Opencode, and Cursor with skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "AI",
+      "agent",
+      "optimization",
+      "harness",
+      "Claude Code",
+      "Codex",
+      "Cursor",
+      "development"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system",
+      "Skills, instincts, memory, security, and research-first development",
+      "for Claude Code, Codex, Opencode, Cursor and beyond"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-22",
+    "popularity": "stars:234129",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个强调与用户共同成长的智能体项目，提供个性化、可扩展的代理解决方案。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "开源项目",
+      "个性化"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-22",
+    "popularity": "stars:230300",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享其个人 .agents 目录中的技能集合，面向真实工程师，提供实用开发技巧与工具配置。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "developer-tools",
+      "agents",
+      "engineering",
+      "config"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-22",
+    "popularity": "stars:204977",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 7,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "best practices"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-22",
+    "popularity": "stars:201575",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供超过 400 种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "集成",
+      "可视化编程"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud, 400+ integrations"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-22",
+    "popularity": "stars:200107",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理工具，旨在帮助开发者自动化和简化编码任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation",
+      "developer tools"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-22",
+    "popularity": "stars:195110",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "A Rust-based museum exhibit managed entirely by an AI agent, developed and maintained without human intervention using Gajae-Code and LazyCodex.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI agent",
+      "museum exhibit",
+      "autonomous development",
+      "Gajae-Code",
+      "LazyCodex"
+    ],
+    "highlights": [
+      "Built in Rust with Gajae-Code / LazyCodex",
+      "Developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-22",
+    "popularity": "stars:186741",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "to use and to build on",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "I'm becoming AI-blind",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Fri, 21 Aug 2026 11:48:05 +0000",
+    "popularity": "",
+    "content": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 351 # Comments: 351",
+    "summary": "作者反思自己作为开发者，在AI辅助编程工具普及后，逐渐失去对代码细节的敏感度和判断力，变得依赖AI生成代码而难以发现其潜在问题，并担忧这种‘AI盲化’对长期技能和软件质量的影响。",
+    "score": 8,
+    "tags": [
+      "AI辅助编程",
+      "开发者技能退化",
+      "代码审查",
+      "技术依赖",
+      "软件质量"
+    ],
+    "highlights": [
+      "I'm becoming AI-blind",
+      "losing the ability to spot subtle bugs in AI-generated code",
+      "the more I rely on AI, the less I trust my own judgment",
+      "AI-generated code often looks correct but hides deep flaws"
+    ]
+  },
+  {
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "url": "https://annas-archive.pk/blog/physical-destruction.html",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Fri, 21 Aug 2026 10:05:46 +0000",
+    "popularity": "",
+    "content": "Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 703 # Comments: 2",
+    "summary": "文章警告AI公司正在大规模销毁实体书籍，呼吁在稀有书籍消失前进行扫描保存，强调数字化紧迫性。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "书籍销毁",
+      "数字化",
+      "稀有书籍",
+      "保存"
+    ],
+    "highlights": [
+      "AI companies destroy physical books",
+      "let's scan rare books before it's too late"
+    ]
+  },
+  {
+    "title": "AscendNPU-IR: MLIR for Ascend",
+    "url": "https://gitcode.com/Ascend/AscendNPU-IR",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 19 Aug 2026 18:47:50 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zpk6cj/ascendnpu_ir_mlir_for_ascend\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "AscendNPU-IR 是一个基于 MLIR 的编译器项目，专为华为昇腾 NPU 设计，提供中间表示和优化能力。",
+    "score": 7,
+    "tags": [
+      "MLIR",
+      "Ascend NPU",
+      "编译器",
+      "华为"
+    ],
+    "highlights": [
+      "基于 MLIR 的编译器",
+      "面向昇腾 NPU",
+      "提供中间表示和优化"
+    ]
+  },
+  {
+    "title": "Bongard Problems",
+    "url": "https://matthodges.com/posts/2026-08-19-bongard-problems/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 19 Aug 2026 17:12:09 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/q6atrp/bongard_problems\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "The article discusses Bongard Problems, a set of visual reasoning puzzles that challenge pattern recognition and abstract thinking, and explores their relevance to AI and cognitive science.",
+    "score": 7,
+    "tags": [
+      "Bongard Problems",
+      "visual reasoning",
+      "AI",
+      "cognitive science",
+      "puzzles"
+    ],
+    "highlights": [
+      "Bongard Problems are a classic benchmark for visual reasoning and abstraction.",
+      "The post examines how these problems relate to machine learning and human cognition.",
+      "It provides examples and discusses the difficulty of solving them computationally."
+    ]
+  },
+  {
+    "title": "Introducing AI Futures",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "popularity": "",
+    "content": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "summary": "OpenAI推出新博客系列“AI Futures”，探讨变革性AI如何重塑权力、治理、经济和个体自由。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "AI Futures",
+      "博客",
+      "治理",
+      "经济",
+      "自由"
+    ],
+    "highlights": [
+      "Introducing AI Futures, a new OpenAI blog",
+      "exploring how transformative AI could reshape power, governance, the economy, and individual freedom"
+    ]
+  },
+  {
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "url": "https://openai.com/index/stampli",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 20 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "summary": "Stampli利用Codex和ChatGPT Work将发布生产时间从数周压缩至数天，启动时间缩短68%，同时设计资源被分配至其他项目。",
+    "score": 8,
+    "tags": [
+      "AI应用",
+      "效率提升",
+      "ChatGPT Work",
+      "Codex",
+      "案例研究"
+    ],
+    "highlights": [
+      "Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "Stampli cuts launch hours by 68% using ChatGPT Work."
+    ]
+  },
+  {
+    "title": "Measuring benchmark optimization in speech recognition",
+    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 21 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "This blog post discusses the issue of benchmark optimization in automatic speech recognition (ASR), highlighting how models are often tuned to perform well on specific benchmarks rather than generalizing to real-world conditions. It provides insights into common pitfalls, evaluation practices, and recommendations for more robust ASR benchmarking.",
+    "score": 8,
+    "tags": [
+      "speech recognition",
+      "benchmark optimization",
+      "ASR evaluation",
+      "model generalization",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "Benchmark optimization can lead to overfitting on specific test sets, masking true model performance.",
+      "The post emphasizes the need for diverse and realistic evaluation datasets to assess ASR systems fairly.",
+      "It suggests using multiple metrics and human evaluation to complement standard word error rate (WER) measurements."
+    ]
+  },
+  {
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 20 Aug 2026 16:52:57 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "LiquidAI 发布 LFM2.5-DSpark，通过稀疏注意力机制和动态推理优化，在保持模型质量的同时实现最高 3.2 倍的推理加速，适用于长上下文和高吞吐场景。",
+    "score": 8,
+    "tags": [
+      "推理加速",
+      "稀疏注意力",
+      "动态推理",
+      "LFM2.5",
+      "长上下文",
+      "性能优化"
+    ],
+    "highlights": [
+      "Up to 3.2x faster inference compared to dense baselines",
+      "Sparse attention mechanism reduces computational complexity",
+      "Maintains model quality while improving throughput",
+      "Optimized for long-context and high-throughput applications"
+    ]
+  }
+]

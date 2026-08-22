@@ -1,0 +1,25 @@
+{
+  "id": "rss-21202611-011",
+  "title": "I'm becoming AI-blind",
+  "source": "rss",
+  "source_url": "https://cymerys.com/w/im-becoming-ai-blind",
+  "status": "draft",
+  "url": "https://cymerys.com/w/im-becoming-ai-blind",
+  "date": "Fri, 21 Aug 2026 11:48:05 +0000",
+  "popularity": "",
+  "summary": "作者反思自己作为开发者，在AI辅助编程工具普及后，逐渐失去对代码细节的敏感度和判断力，变得依赖AI生成代码而难以发现其潜在问题，并担忧这种‘AI盲化’对长期技能和软件质量的影响。",
+  "highlights": [
+    "I'm becoming AI-blind",
+    "losing the ability to spot subtle bugs in AI-generated code",
+    "the more I rely on AI, the less I trust my own judgment",
+    "AI-generated code often looks correct but hides deep flaws"
+  ],
+  "score": 8,
+  "tags": [
+    "AI辅助编程",
+    "开发者技能退化",
+    "代码审查",
+    "技术依赖",
+    "软件质量"
+  ]
+}

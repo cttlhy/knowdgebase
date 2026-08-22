@@ -1,0 +1,24 @@
+{
+  "id": "rss-21202600-017",
+  "title": "Measuring benchmark optimization in speech recognition",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/asr-benchmark-optimization",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+  "date": "Fri, 21 Aug 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "This blog post discusses the issue of benchmark optimization in automatic speech recognition (ASR), highlighting how models are often tuned to perform well on specific benchmarks rather than generalizing to real-world conditions. It provides insights into common pitfalls, evaluation practices, and recommendations for more robust ASR benchmarking.",
+  "highlights": [
+    "Benchmark optimization can lead to overfitting on specific test sets, masking true model performance.",
+    "The post emphasizes the need for diverse and realistic evaluation datasets to assess ASR systems fairly.",
+    "It suggests using multiple metrics and human evaluation to complement standard word error rate (WER) measurements."
+  ],
+  "score": 8,
+  "tags": [
+    "speech recognition",
+    "benchmark optimization",
+    "ASR evaluation",
+    "model generalization",
+    "Hugging Face"
+  ]
+}

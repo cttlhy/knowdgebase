@@ -1,0 +1,22 @@
+{
+  "id": "rss-19202618-013",
+  "title": "AscendNPU-IR: MLIR for Ascend",
+  "source": "rss",
+  "source_url": "https://gitcode.com/Ascend/AscendNPU-IR",
+  "status": "draft",
+  "url": "https://gitcode.com/Ascend/AscendNPU-IR",
+  "date": "Wed, 19 Aug 2026 18:47:50 -0500",
+  "popularity": "",
+  "summary": "AscendNPU-IR 是华为昇腾 NPU 的 MLIR 编译器项目，旨在通过 MLIR 框架为昇腾硬件提供统一的中间表示和优化能力。该项目托管在 GitCode 上，并包含相关讨论链接。",
+  "highlights": [
+    "AscendNPU-IR: MLIR for Ascend",
+    "https://gitcode.com/Ascend/AscendNPU-IR"
+  ],
+  "score": 7,
+  "tags": [
+    "MLIR",
+    "Ascend NPU",
+    "编译器",
+    "华为昇腾"
+  ]
+}

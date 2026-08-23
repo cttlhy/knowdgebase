@@ -1,0 +1,371 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-23",
+    "popularity": "stars:387190",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人 AI 助手项目，以龙虾为标志，强调灵活性和普适性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助理"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-23",
+    "popularity": "stars:276375",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "A framework and methodology for agentic software development, emphasizing practical skills and workflows.",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "framework",
+      "methodology",
+      "software-development",
+      "skills"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-23",
+    "popularity": "stars:242295",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance AI coding agents like Claude Code, Codex, Opencode, and Cursor. It focuses on skills, instincts, memory, security, and research-first development to improve agent efficiency and reliability.",
+    "score": 8,
+    "tags": [
+      "AI agents",
+      "performance optimization",
+      "developer tools",
+      "Claude Code",
+      "Codex",
+      "Cursor",
+      "memory management",
+      "security"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple coding tools",
+      "Emphasizes research-first development approach",
+      "Covers skills, instincts, memory, and security for agents"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-23",
+    "popularity": "stars:234508",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个描述为‘与你共同成长的代理’的GitHub项目，旨在提供一种随用户需求演进的智能代理解决方案。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "GitHub",
+      "自适应系统"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-23",
+    "popularity": "stars:232777",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享其个人 .agents 目录中的技能集合，面向真实工程师，提供实用开发技能。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "engineering",
+      "agents",
+      "developer-tools",
+      "github"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-23",
+    "popularity": "stars:205486",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 8,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "best practices"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-23",
+    "popularity": "stars:201962",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，并提供超过 400 种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "集成",
+      "可视化编程"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities.",
+      "Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-23",
+    "popularity": "stars:200451",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理工具，旨在帮助开发者自动化编程任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-23",
+    "popularity": "stars:195109",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust using Gajae-Code / LazyCodex, developed and maintained entirely without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "agent-managed",
+      "museum exhibit",
+      "Gajae-Code",
+      "LazyCodex",
+      "autonomous development"
+    ],
+    "highlights": [
+      "Built in Rust with Gajae-Code / LazyCodex",
+      "Developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-23",
+    "popularity": "stars:186791",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在为所有人提供可访问 AI 工具的开源项目，其使命是让用户能够专注于重要事务，通过提供构建和使用的工具来简化 AI 应用开发。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具",
+      "AutoGPT"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone, to use and to build on.",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "I'm becoming AI-blind",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Fri, 21 Aug 2026 11:48:05 +0000",
+    "popularity": "",
+    "content": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 480 # Comments: 484",
+    "summary": "作者反思自己因长期接触AI生成内容而逐渐丧失对AI文本的辨识能力，感到对AI的‘盲视’现象，并探讨其对信息消费和批判性思维的影响。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "内容识别",
+      "认知偏差",
+      "信息素养",
+      "技术反思"
+    ],
+    "highlights": [
+      "I'm becoming AI-blind",
+      "长期接触AI内容导致辨识能力下降",
+      "对信息消费和批判性思维的影响"
+    ]
+  },
+  {
+    "title": "Robot comment classifier",
+    "url": "https://entropicthoughts.com/ai-comment-classifier",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 22 Aug 2026 05:18:39 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;(I used both AI and vibecoding tags because the article describes training a logistic regression/SVM on LLM output. I thought there was a statistics tag that would have been appropriate but apparently not!)&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/ilfiqa/robot_comment_classifier\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章介绍了一个机器人评论分类器，使用AI和vibecoding标签，基于逻辑回归/SVM对LLM输出进行训练，并提供了相关评论链接。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "vibecoding",
+      "logistic regression",
+      "SVM",
+      "LLM",
+      "comment classifier"
+    ],
+    "highlights": [
+      "文章描述了训练逻辑回归/SVM对LLM输出进行分类",
+      "使用了AI和vibecoding标签",
+      "提供了相关评论链接"
+    ]
+  },
+  {
+    "title": "AscendNPU-IR: MLIR for Ascend",
+    "url": "https://gitcode.com/Ascend/AscendNPU-IR",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 19 Aug 2026 18:47:50 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zpk6cj/ascendnpu_ir_mlir_for_ascend\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "AscendNPU-IR 是华为昇腾 NPU 的 MLIR 编译器项目，旨在通过 MLIR 框架为昇腾硬件提供统一的中间表示和优化能力。该项目托管在 GitCode 上，并包含相关讨论链接。",
+    "score": 7,
+    "tags": [
+      "MLIR",
+      "Ascend NPU",
+      "编译器",
+      "华为昇腾"
+    ],
+    "highlights": [
+      "AscendNPU-IR: MLIR for Ascend",
+      "https://gitcode.com/Ascend/AscendNPU-IR"
+    ]
+  },
+  {
+    "title": "Introducing AI Futures",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "popularity": "",
+    "content": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "summary": "OpenAI introduces AI Futures, a new blog series exploring the potential impacts of transformative AI on power, governance, economy, and individual freedom.",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "AI Futures",
+      "transformative AI",
+      "governance",
+      "economy",
+      "freedom"
+    ],
+    "highlights": [
+      "a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom"
+    ]
+  },
+  {
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "url": "https://openai.com/index/stampli",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 20 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "summary": "Stampli利用Codex和ChatGPT Work将原本需要数周的发布准备工作压缩至数天，成功将启动时间缩短68%，同时设计资源被分配至其他项目。",
+    "score": 8,
+    "tags": [
+      "AI应用",
+      "效率提升",
+      "ChatGPT Work",
+      "Codex",
+      "项目管理"
+    ],
+    "highlights": [
+      "Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "Stampli cuts launch hours by 68% using ChatGPT Work"
+    ]
+  },
+  {
+    "title": "Measuring benchmark optimization in speech recognition",
+    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 21 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文探讨了语音识别基准测试中的优化现象，指出模型可能针对特定基准过度调优而牺牲泛化能力，并提出了衡量基准优化程度的方法与建议。",
+    "score": 8,
+    "tags": [
+      "语音识别",
+      "基准测试",
+      "模型优化",
+      "泛化能力",
+      "评估方法"
+    ],
+    "highlights": [
+      "基准测试优化可能导致模型在真实场景中性能下降。",
+      "提出使用多数据集交叉验证来检测过度拟合。",
+      "强调在追求高基准分数时需平衡模型鲁棒性。"
+    ]
+  },
+  {
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 20 Aug 2026 16:52:57 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "LiquidAI 发布 LFM2.5-DSpark，通过稀疏注意力机制和动态路由实现最高 3.2 倍推理加速，同时保持模型质量，适用于长上下文和高吞吐场景。",
+    "score": 8,
+    "tags": [
+      "推理加速",
+      "稀疏注意力",
+      "动态路由",
+      "LFM2.5",
+      "长上下文"
+    ],
+    "highlights": [
+      "LFM2.5-DSpark 实现最高 3.2 倍推理加速",
+      "采用稀疏注意力机制减少计算开销",
+      "动态路由优化资源分配，保持模型质量"
+    ]
+  }
+]

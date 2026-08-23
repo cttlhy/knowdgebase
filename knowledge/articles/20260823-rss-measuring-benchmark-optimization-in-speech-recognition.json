@@ -1,0 +1,24 @@
+{
+  "id": "rss-21202600-016",
+  "title": "Measuring benchmark optimization in speech recognition",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/asr-benchmark-optimization",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+  "date": "Fri, 21 Aug 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文探讨了语音识别基准测试中的优化现象，指出模型可能针对特定基准过度调优而牺牲泛化能力，并提出了衡量基准优化程度的方法与建议。",
+  "highlights": [
+    "基准测试优化可能导致模型在真实场景中性能下降。",
+    "提出使用多数据集交叉验证来检测过度拟合。",
+    "强调在追求高基准分数时需平衡模型鲁棒性。"
+  ],
+  "score": 8,
+  "tags": [
+    "语音识别",
+    "基准测试",
+    "模型优化",
+    "泛化能力",
+    "评估方法"
+  ]
+}

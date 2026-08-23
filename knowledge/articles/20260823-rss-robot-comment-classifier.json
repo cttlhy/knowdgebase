@@ -1,0 +1,25 @@
+{
+  "id": "rss-22202605-012",
+  "title": "Robot comment classifier",
+  "source": "rss",
+  "source_url": "https://entropicthoughts.com/ai-comment-classifier",
+  "status": "draft",
+  "url": "https://entropicthoughts.com/ai-comment-classifier",
+  "date": "Sat, 22 Aug 2026 05:18:39 -0500",
+  "popularity": "",
+  "summary": "文章介绍了一个机器人评论分类器，使用AI和vibecoding标签，基于逻辑回归/SVM对LLM输出进行训练，并提供了相关评论链接。",
+  "highlights": [
+    "文章描述了训练逻辑回归/SVM对LLM输出进行分类",
+    "使用了AI和vibecoding标签",
+    "提供了相关评论链接"
+  ],
+  "score": 7,
+  "tags": [
+    "AI",
+    "vibecoding",
+    "logistic regression",
+    "SVM",
+    "LLM",
+    "comment classifier"
+  ]
+}

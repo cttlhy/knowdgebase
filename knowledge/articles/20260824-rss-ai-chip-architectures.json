@@ -1,0 +1,23 @@
+{
+  "id": "rss-23202620-011",
+  "title": "AI Chip Architectures",
+  "source": "rss",
+  "source_url": "https://www.jepeake.com/ai-chip-architectures",
+  "status": "draft",
+  "url": "https://www.jepeake.com/ai-chip-architectures",
+  "date": "Sun, 23 Aug 2026 20:37:10 -0500",
+  "popularity": "",
+  "summary": "This article discusses various AI chip architectures, covering design considerations, trade-offs, and emerging trends in hardware for artificial intelligence workloads.",
+  "highlights": [
+    "The article provides an overview of different AI chip architectures and their key features.",
+    "It highlights the importance of balancing performance, power efficiency, and flexibility in AI hardware design.",
+    "Emerging trends such as specialized accelerators and memory-centric designs are explored."
+  ],
+  "score": 7,
+  "tags": [
+    "AI",
+    "chip architecture",
+    "hardware",
+    "semiconductors"
+  ]
+}

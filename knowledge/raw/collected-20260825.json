@@ -1,0 +1,404 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-25",
+    "popularity": "stars:387521",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人 AI 助手项目，以龙虾为标志，强调灵活性和自主性。",
+    "score": 8,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助理"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-25",
+    "popularity": "stars:277261",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "An agentic skills framework and software development methodology that works, presented as a GitHub repository.",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "skills",
+      "framework",
+      "software-development",
+      "methodology",
+      "github"
+    ],
+    "highlights": [
+      "An agentic skills framework",
+      "software development methodology that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-25",
+    "popularity": "stars:243002",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance coding agents like Claude Code, Codex, Opencode, and Cursor through skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent",
+      "harness",
+      "optimization",
+      "coding",
+      "AI",
+      "memory",
+      "security",
+      "research"
+    ],
+    "highlights": [
+      "Performance optimization system for agent harnesses",
+      "Supports multiple coding agents including Claude Code, Codex, Opencode, Cursor",
+      "Focuses on skills, instincts, memory, security, and research-first development"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-25",
+    "popularity": "stars:236078",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个与用户共同成长的智能体项目，强调持续进化和适应性。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "开源项目"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-25",
+    "popularity": "stars:235911",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库，包含他个人使用的技能定义文件，面向真实工程师，直接来自其 .agents 目录。",
+    "score": 7,
+    "tags": [
+      "skills",
+      "agents",
+      "engineering",
+      "config",
+      "github"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-25",
+    "popularity": "stars:206805",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 8,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "behavior improvement"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-25",
+    "popularity": "stars:202350",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供 400 多种集成。",
+    "score": 9,
+    "tags": [
+      "workflow automation",
+      "AI",
+      "self-hosted",
+      "integrations",
+      "fair-code"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform",
+      "native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-25",
+    "popularity": "stars:201165",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理项目，旨在提供自主的代码生成和编辑能力，支持多种编程语言和开发环境。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "AI",
+      "code generation",
+      "developer tools"
+    ],
+    "highlights": [
+      "The open source coding agent.",
+      "自主代码生成和编辑能力",
+      "支持多种编程语言和开发环境"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-25",
+    "popularity": "stars:195114",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust using Gajae-Code / LazyCodex, developed and maintained entirely without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI",
+      "autonomous",
+      "museum",
+      "exhibit",
+      "agent"
+    ],
+    "highlights": [
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-25",
+    "popularity": "stars:186854",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "Coding expertise is going to collapse from AI reliance",
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Mon, 24 Aug 2026 15:52:33 +0000",
+    "popularity": "",
+    "content": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 511 # Comments: 500",
+    "summary": "文章探讨了过度依赖AI编码工具可能导致开发者专业技能衰退的风险，认为AI虽提升效率，但会削弱问题解决能力和深层理解，最终导致行业整体专业水平下降。",
+    "score": 8,
+    "tags": [
+      "AI编程",
+      "技能退化",
+      "开发者专业能力",
+      "技术依赖",
+      "行业影响"
+    ],
+    "highlights": [
+      "AI编码工具在提高效率的同时，可能使开发者失去深入理解代码的机会。",
+      "长期依赖AI可能导致问题解决能力和创新能力的萎缩。",
+      "行业需要平衡AI辅助与人工实践，以维持专业水准。"
+    ]
+  },
+  {
+    "title": "I built a low-latency AI companion that plays Skyrim with me",
+    "url": "https://pantel.is/projects/ai-gaming-companion/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Sun, 23 Aug 2026 23:18:17 +0000",
+    "popularity": "",
+    "content": "Article URL: https://pantel.is/projects/ai-gaming-companion/ Comments URL: https://news.ycombinator.com/item?id=49413561 Points: 355 # Comments: 70",
+    "summary": "作者构建了一个低延迟AI伴侣，能够实时与作者一起玩《上古卷轴5：天际》，通过语音交互和游戏状态感知提供沉浸式陪伴体验。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "游戏",
+      "低延迟",
+      "语音交互",
+      "陪伴",
+      "Skyrim"
+    ],
+    "highlights": [
+      "I built a low-latency AI companion that plays Skyrim with me",
+      "低延迟AI伴侣",
+      "实时游戏陪伴"
+    ]
+  },
+  {
+    "title": "AI Chip Architectures",
+    "url": "https://www.jepeake.com/ai-chip-architectures",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sun, 23 Aug 2026 20:37:10 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ebpnyk/ai_chip_architectures\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章讨论了AI芯片架构的现状与未来，重点分析了不同设计在性能、功耗和成本上的权衡，并展望了专用架构的发展趋势。",
+    "score": 7,
+    "tags": [
+      "AI芯片",
+      "架构设计",
+      "性能功耗",
+      "专用硬件"
+    ],
+    "highlights": [
+      "AI芯片架构需在性能、功耗和成本之间取得平衡。",
+      "专用架构正成为提升AI计算效率的关键方向。",
+      "未来AI芯片设计将更加注重领域特定优化。"
+    ]
+  },
+  {
+    "title": "Robot comment classifier",
+    "url": "https://entropicthoughts.com/ai-comment-classifier",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 22 Aug 2026 05:18:39 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;(I used both AI and vibecoding tags because the article describes training a logistic regression/SVM on LLM output. I thought there was a statistics tag that would have been appropriate but apparently not!)&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/ilfiqa/robot_comment_classifier\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章介绍了一个机器人评论分类器，使用AI和vibecoding技术，基于逻辑回归或SVM对LLM输出进行训练，并提供了相关评论链接。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "vibecoding",
+      "logistic regression",
+      "SVM",
+      "comment classifier"
+    ],
+    "highlights": [
+      "The article describes training a logistic regression/SVM on LLM output.",
+      "I used both AI and vibecoding tags because the article describes training a logistic regression/SVM on LLM output."
+    ]
+  },
+  {
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 24 Aug 2026 12:00:00 GMT",
+    "popularity": "",
+    "content": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "summary": "OpenAI 宣布 GPT-5.6 已在 Kiro 中可用，旨在帮助开发者以更优的性价比进行软件规划、构建、审查和测试。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "GPT-5.6",
+      "Kiro",
+      "开发者工具",
+      "性价比"
+    ],
+    "highlights": [
+      "GPT-5.6 is now available in Kiro",
+      "helping developers plan, build, review, and test software",
+      "better price-performance"
+    ]
+  },
+  {
+    "title": "Introducing AI Futures",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "popularity": "",
+    "content": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "summary": "OpenAI 推出了名为“AI Futures”的新博客，旨在探讨变革性 AI 如何重塑权力、治理、经济和个人自由。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "AI Futures",
+      "博客",
+      "AI影响",
+      "治理",
+      "经济",
+      "自由"
+    ],
+    "highlights": [
+      "Introducing AI Futures, a new OpenAI blog",
+      "exploring how transformative AI could reshape power, governance, the economy, and individual freedom"
+    ]
+  },
+  {
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "url": "https://huggingface.co/blog/gradio-workflow-guide",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了如何使用Gradio构建、运行和部署AI工作流，涵盖从简单函数到多步骤流水线的实现方法，并提供了部署到Hugging Face Spaces的指南。",
+    "score": 8,
+    "tags": [
+      "Gradio",
+      "AI工作流",
+      "部署",
+      "Hugging Face",
+      "机器学习",
+      "Python"
+    ],
+    "highlights": [
+      "Gradio允许通过简单的Python函数快速创建交互式AI应用。",
+      "文章展示了如何将多个AI模型组合成复杂的工作流。",
+      "提供了将工作流部署到Hugging Face Spaces的详细步骤。"
+    ]
+  },
+  {
+    "title": "Measuring benchmark optimization in speech recognition",
+    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 21 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文探讨了语音识别基准测试中的优化现象，指出模型在特定基准上表现优异可能源于对测试集的过拟合或针对性调优，而非真实泛化能力的提升。文章分析了常见优化手段（如数据泄露、超参数调整）及其影响，并提出了更稳健的评估方法建议。",
+    "score": 8,
+    "tags": [
+      "speech recognition",
+      "benchmark optimization",
+      "overfitting",
+      "evaluation methodology",
+      "ASR"
+    ],
+    "highlights": [
+      "Benchmark scores can be misleading due to optimization for specific test sets.",
+      "Common optimization techniques include data leakage and hyperparameter tuning on test data.",
+      "The article suggests using diverse and dynamic benchmarks to better assess generalization."
+    ]
+  }
+]

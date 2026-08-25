@@ -1,0 +1,25 @@
+{
+  "id": "rss-25202600-017",
+  "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/gradio-workflow-guide",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/gradio-workflow-guide",
+  "date": "Tue, 25 Aug 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文介绍了如何使用Gradio构建、运行和部署AI工作流，涵盖从简单函数到多步骤流水线的实现方法，并提供了部署到Hugging Face Spaces的指南。",
+  "highlights": [
+    "Gradio允许通过简单的Python函数快速创建交互式AI应用。",
+    "文章展示了如何将多个AI模型组合成复杂的工作流。",
+    "提供了将工作流部署到Hugging Face Spaces的详细步骤。"
+  ],
+  "score": 8,
+  "tags": [
+    "Gradio",
+    "AI工作流",
+    "部署",
+    "Hugging Face",
+    "机器学习",
+    "Python"
+  ]
+}

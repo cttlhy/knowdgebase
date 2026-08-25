@@ -1,0 +1,24 @@
+{
+  "id": "rss-21202600-018",
+  "title": "Measuring benchmark optimization in speech recognition",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/asr-benchmark-optimization",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+  "date": "Fri, 21 Aug 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文探讨了语音识别基准测试中的优化现象，指出模型在特定基准上表现优异可能源于对测试集的过拟合或针对性调优，而非真实泛化能力的提升。文章分析了常见优化手段（如数据泄露、超参数调整）及其影响，并提出了更稳健的评估方法建议。",
+  "highlights": [
+    "Benchmark scores can be misleading due to optimization for specific test sets.",
+    "Common optimization techniques include data leakage and hyperparameter tuning on test data.",
+    "The article suggests using diverse and dynamic benchmarks to better assess generalization."
+  ],
+  "score": 8,
+  "tags": [
+    "speech recognition",
+    "benchmark optimization",
+    "overfitting",
+    "evaluation methodology",
+    "ASR"
+  ]
+}

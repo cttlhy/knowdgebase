@@ -1,0 +1,23 @@
+{
+  "id": "rss-23202620-013",
+  "title": "AI Chip Architectures",
+  "source": "rss",
+  "source_url": "https://www.jepeake.com/ai-chip-architectures",
+  "status": "draft",
+  "url": "https://www.jepeake.com/ai-chip-architectures",
+  "date": "Sun, 23 Aug 2026 20:37:10 -0500",
+  "popularity": "",
+  "summary": "文章讨论了AI芯片架构的现状与未来，重点分析了不同设计在性能、功耗和成本上的权衡，并展望了专用架构的发展趋势。",
+  "highlights": [
+    "AI芯片架构需在性能、功耗和成本之间取得平衡。",
+    "专用架构正成为提升AI计算效率的关键方向。",
+    "未来AI芯片设计将更加注重领域特定优化。"
+  ],
+  "score": 7,
+  "tags": [
+    "AI芯片",
+    "架构设计",
+    "性能功耗",
+    "专用硬件"
+  ]
+}

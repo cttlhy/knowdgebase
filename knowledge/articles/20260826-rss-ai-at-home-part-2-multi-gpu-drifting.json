@@ -1,0 +1,24 @@
+{
+  "id": "rss-25202613-011",
+  "title": "AI At Home Part 2: Multi GPU Drifting",
+  "source": "rss",
+  "source_url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+  "status": "draft",
+  "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+  "date": "Tue, 25 Aug 2026 13:20:38 -0500",
+  "popularity": "",
+  "summary": "本文是‘AI At Home’系列的第二部分，聚焦于多GPU环境下进行模型漂移（drifting）的实践与挑战，探讨了在家庭或小型集群中配置多GPU进行AI训练或推理的技术细节。",
+  "highlights": [
+    "多GPU环境下的模型漂移技术",
+    "家庭或小型集群的AI配置实践",
+    "系列文章的第二部分，延续前文主题"
+  ],
+  "score": 7,
+  "tags": [
+    "AI",
+    "多GPU",
+    "模型漂移",
+    "家庭集群",
+    "技术实践"
+  ]
+}

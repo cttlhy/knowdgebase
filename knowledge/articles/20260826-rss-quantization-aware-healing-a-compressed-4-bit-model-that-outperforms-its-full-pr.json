@@ -1,0 +1,24 @@
+{
+  "id": "rss-25202611-016",
+  "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+  "date": "Tue, 25 Aug 2026 11:39:24 GMT",
+  "popularity": "",
+  "summary": "本文介绍了一种名为Quantization-Aware Healing（QAH）的新方法，通过量化感知训练与修复技术，使4-bit压缩模型在性能上超越其全精度原始模型，实现了更高效的模型部署。",
+  "highlights": [
+    "4-bit model outperforms its full-precision original",
+    "Quantization-Aware Healing method",
+    "compressed model with superior performance"
+  ],
+  "score": 8,
+  "tags": [
+    "quantization",
+    "model compression",
+    "4-bit",
+    "quantization-aware training",
+    "performance improvement"
+  ]
+}

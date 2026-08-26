@@ -1,0 +1,359 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-26",
+    "popularity": "stars:387674",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw is a personal AI assistant that runs on any operating system and platform, following 'the lobster way' philosophy.",
+    "score": 7,
+    "tags": [
+      "AI assistant",
+      "cross-platform",
+      "personal assistant",
+      "open source"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-26",
+    "popularity": "stars:277739",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架和软件开发方法论，旨在提供有效的开发实践。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "framework",
+      "methodology",
+      "software development"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology",
+      "that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-26",
+    "popularity": "stars:243294",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance coding agents like Claude Code, Codex, Opencode, and Cursor through skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent",
+      "harness",
+      "optimization",
+      "coding",
+      "AI",
+      "memory",
+      "security",
+      "development"
+    ],
+    "highlights": [
+      "Performance optimization system for agent harnesses",
+      "Supports multiple coding agents including Claude Code, Codex, Opencode, Cursor",
+      "Focuses on skills, instincts, memory, security, and research-first development"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-26",
+    "popularity": "stars:237230",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享其个人 .agents 目录中的实用技能，面向真实工程师，涵盖开发、协作与效率提升。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "engineer",
+      "agents",
+      "developer-tools",
+      "productivity"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-26",
+    "popularity": "stars:236590",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个强调与用户共同成长的智能体项目，旨在提供可扩展和适应性的代理解决方案。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "开源项目",
+      "成长型智能体"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-26",
+    "popularity": "stars:207433",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 8,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "best practices"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-26",
+    "popularity": "stars:202457",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供 400 多种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "集成",
+      "可视化编程"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-26",
+    "popularity": "stars:201490",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理项目，旨在提供自动化的代码生成和编辑能力，支持多种编程语言和开发环境。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation",
+      "code generation"
+    ],
+    "highlights": [
+      "The open source coding agent.",
+      "提供自动化的代码生成和编辑能力。"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-26",
+    "popularity": "stars:195112",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust using Gajae-Code / LazyCodex, developed and maintained entirely without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI",
+      "autonomous",
+      "museum",
+      "exhibit",
+      "agent-managed"
+    ],
+    "highlights": [
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-26",
+    "popularity": "stars:186878",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具",
+      "AutoGPT"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "to use and to build on",
+      "Our mission is to provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "AI At Home Part 2: Multi GPU Drifting",
+    "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 25 Aug 2026 13:20:38 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qc6pjd/ai_at_home_part_2_multi_gpu_drifting\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文是‘AI At Home’系列的第二部分，聚焦于多GPU环境下进行模型漂移（drifting）的实践与挑战，探讨了在家庭或小型集群中配置多GPU进行AI训练或推理的技术细节。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "多GPU",
+      "模型漂移",
+      "家庭集群",
+      "技术实践"
+    ],
+    "highlights": [
+      "多GPU环境下的模型漂移技术",
+      "家庭或小型集群的AI配置实践",
+      "系列文章的第二部分，延续前文主题"
+    ]
+  },
+  {
+    "title": "A Manifesto for Responsible Agentic Coding",
+    "url": "https://www.techwerkers.nl/en/posts/manifesto-responsible-agentic-coding/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 25 Aug 2026 12:17:14 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/voyeoa/manifesto_for_responsible_agentic\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文提出了一份关于负责任智能体编码的宣言，强调在开发和使用AI编码代理时需遵循的原则，包括透明度、可审计性、人类监督和伦理考量，以确保技术发展符合社会价值。",
+    "score": 8,
+    "tags": [
+      "AI编码",
+      "负责任AI",
+      "智能体",
+      "伦理",
+      "软件开发"
+    ],
+    "highlights": [
+      "强调人类监督在AI编码代理中的核心地位",
+      "提出透明度与可审计性作为负责任AI的关键原则",
+      "呼吁在开发中融入伦理考量以防范潜在风险"
+    ]
+  },
+  {
+    "title": "The full stack behind abundant intelligence",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 25 Aug 2026 07:05:00 GMT",
+    "popularity": "",
+    "content": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "AI infrastructure",
+      "compute",
+      "cost reduction",
+      "scaling",
+      "full stack"
+    ],
+    "highlights": [
+      "advances across chips, compute, models, and products compound",
+      "more useful intelligence at greater scale and lower cost"
+    ]
+  },
+  {
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "popularity": "",
+    "content": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "summary": "OpenAI发布了其定制推理芯片Jalapeño的首批结果，该芯片在AI推理方面实现了行业领先的速度和效率，为现代模型提供了更高的吞吐量和更低的延迟。",
+    "score": 9,
+    "tags": [
+      "OpenAI",
+      "AI推理",
+      "定制芯片",
+      "性能",
+      "效率"
+    ],
+    "highlights": [
+      "Jalapeño is a custom inference chip from OpenAI",
+      "delivers faster, more power-efficient AI inference",
+      "higher throughput and lower latency for modern models"
+    ]
+  },
+  {
+    "title": "Granite 4.2 LLMs: How They&apos;re Built",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 25 Aug 2026 15:14:14 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "IBM 发布 Granite 4.2 系列 LLM，介绍其架构设计、训练方法、性能特点及应用场景，强调高效推理与多语言支持。",
+    "score": 8,
+    "tags": [
+      "IBM",
+      "Granite 4.2",
+      "LLM",
+      "模型架构",
+      "训练方法",
+      "多语言",
+      "推理效率"
+    ],
+    "highlights": [
+      "Granite 4.2 采用混合专家架构，提升推理效率。",
+      "支持多语言，覆盖 12 种语言。",
+      "在代码生成和数学推理任务上表现优异。",
+      "提供多种参数规模，适配不同部署需求。"
+    ]
+  },
+  {
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 25 Aug 2026 11:39:24 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了一种名为Quantization-Aware Healing（QAH）的新方法，通过量化感知训练与修复技术，使4-bit压缩模型在性能上超越其全精度原始模型，实现了更高效的模型部署。",
+    "score": 8,
+    "tags": [
+      "quantization",
+      "model compression",
+      "4-bit",
+      "quantization-aware training",
+      "performance improvement"
+    ],
+    "highlights": [
+      "4-bit model outperforms its full-precision original",
+      "Quantization-Aware Healing method",
+      "compressed model with superior performance"
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "rss-25202607-014",
+  "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+  "source": "rss",
+  "source_url": "https://openai.com/index/jalapeno-first-results",
+  "status": "draft",
+  "url": "https://openai.com/index/jalapeno-first-results",
+  "date": "Tue, 25 Aug 2026 07:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI发布了其定制推理芯片Jalapeño的首批结果，该芯片在AI推理方面实现了行业领先的速度和效率，为现代模型提供了更高的吞吐量和更低的延迟。",
+  "highlights": [
+    "Jalapeño is a custom inference chip from OpenAI",
+    "delivers faster, more power-efficient AI inference",
+    "higher throughput and lower latency for modern models"
+  ],
+  "score": 9,
+  "tags": [
+    "OpenAI",
+    "AI推理",
+    "定制芯片",
+    "性能",
+    "效率"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260826"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-25202613-012",
+  "title": "AI At Home Part 2: Multi GPU Drifting",
+  "source": "rss",
+  "source_url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+  "status": "draft",
+  "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+  "date": "Tue, 25 Aug 2026 13:20:38 -0500",
+  "popularity": "",
+  "summary": "本文是《AI At Home》系列的第二部分，聚焦于多GPU环境下的模型漂移问题，探讨了在家庭AI部署中多GPU并行计算时可能遇到的挑战及解决方案。",
+  "highlights": [
+    "多GPU并行计算在家庭AI部署中的实际应用",
+    "模型漂移问题的成因与应对策略",
+    "系列文章的第二部分，延续了第一部分的主题"
+  ],
+  "score": 7,
+  "tags": [
+    "AI",
+    "多GPU",
+    "模型漂移",
+    "家庭部署",
+    "并行计算"
+  ]
+}

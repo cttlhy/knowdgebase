@@ -1,0 +1,26 @@
+{
+  "id": "rss-25202615-016",
+  "title": "Granite 4.2 LLMs: How They&apos;re Built",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "date": "Tue, 25 Aug 2026 15:14:14 GMT",
+  "popularity": "",
+  "summary": "IBM 发布 Granite 4.2 系列 LLM，介绍其架构设计、训练方法、性能特点及开源生态，强调在代码生成、企业应用和推理效率上的优化。",
+  "highlights": [
+    "Granite 4.2 系列模型在代码生成和推理任务上表现优异，支持多种编程语言。",
+    "模型采用稀疏注意力机制和高效训练策略，显著降低推理成本。",
+    "开源权重和完整技术报告，便于企业定制和部署。"
+  ],
+  "score": 8,
+  "tags": [
+    "IBM",
+    "Granite 4.2",
+    "LLM",
+    "开源模型",
+    "代码生成",
+    "企业AI",
+    "模型架构"
+  ]
+}

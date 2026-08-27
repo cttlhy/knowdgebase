@@ -1,0 +1,25 @@
+{
+  "id": "rss-26202600-015",
+  "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/train-multi-vector-encoder",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+  "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文介绍了如何使用 Sentence Transformers 库训练和微调多向量嵌入模型，包括模型架构、训练数据准备、损失函数选择、训练流程及评估方法，并提供了代码示例和最佳实践。",
+  "highlights": [
+    "多向量嵌入模型通过为每个 token 生成独立向量，相比单向量模型能捕获更细粒度的语义信息。",
+    "训练多向量模型需要构造查询-文档对，并采用对比学习或排序损失进行优化。",
+    "文章提供了完整的训练脚本示例，涵盖数据加载、模型配置和评估指标。"
+  ],
+  "score": 8,
+  "tags": [
+    "Sentence Transformers",
+    "多向量嵌入",
+    "模型训练",
+    "微调",
+    "信息检索",
+    "Hugging Face"
+  ]
+}

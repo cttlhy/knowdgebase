@@ -1,0 +1,351 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-27",
+    "popularity": "stars:387821",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw is a personal AI assistant project that aims to be cross-platform, supporting any operating system and platform, with a lobster-themed branding.",
+    "score": 6,
+    "tags": [
+      "AI assistant",
+      "cross-platform",
+      "personal assistant",
+      "open source"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-27",
+    "popularity": "stars:278576",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "superpowers 是一个代理技能框架和软件开发方法论，旨在提供有效的开发实践。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "skills",
+      "framework",
+      "methodology",
+      "software development"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-27",
+    "popularity": "stars:243715",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance coding agents like Claude Code, Codex, Opencode, and Cursor through skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent-harness",
+      "performance-optimization",
+      "coding-agents",
+      "memory",
+      "security",
+      "research-first"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple coding tools",
+      "Focuses on skills, instincts, memory, and security for agents",
+      "Supports Claude Code, Codex, Opencode, Cursor and beyond"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-27",
+    "popularity": "stars:238908",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享其个人 .agents 目录中的实用技能，面向真实工程师，涵盖开发工具与工作流优化。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "developer-tools",
+      "workflow",
+      "agents",
+      "engineering"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-27",
+    "popularity": "stars:237272",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个强调与用户共同成长的智能体项目，旨在提供可扩展和适应性的代理解决方案。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "开源项目",
+      "成长型代理"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-27",
+    "popularity": "stars:208013",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "CLAUDE.md",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-27",
+    "popularity": "stars:202613",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供 400 多种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "自托管",
+      "集成",
+      "公平代码"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities.",
+      "Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-27",
+    "popularity": "stars:201933",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理项目，旨在提供自动化的代码生成和编辑功能，支持多种编程语言和开发环境。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation",
+      "code generation"
+    ],
+    "highlights": [
+      "The open source coding agent.",
+      "提供自动化的代码生成和编辑功能。"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-27",
+    "popularity": "stars:195131",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "ultraworkers/claw-code 是一个用 Rust 构建的、由智能体自主管理和维护的博物馆展品项目，基于 Gajae-Code / LazyCodex 技术，全程无人工干预。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI Agent",
+      "自主开发",
+      "博物馆展品",
+      "Gajae-Code",
+      "LazyCodex"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-27",
+    "popularity": "stars:186932",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "The turbulent AI era is here",
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 27 Aug 2026 00:32:18 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/aixljs/turbulent_ai_era_is_here\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章讨论了人工智能时代带来的动荡与关键选择，强调AI技术正在快速发展并影响社会各层面，需要审慎决策以最大化其益处并管理风险。",
+    "score": 8,
+    "tags": [
+      "人工智能",
+      "技术变革",
+      "社会影响",
+      "决策"
+    ],
+    "highlights": [
+      "The turbulent AI era is here",
+      "critical choices to make"
+    ]
+  },
+  {
+    "title": "AI At Home Part 2: Multi GPU Drifting",
+    "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 25 Aug 2026 13:20:38 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qc6pjd/ai_at_home_part_2_multi_gpu_drifting\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文是《AI At Home》系列的第二部分，聚焦于多GPU环境下的模型漂移问题，探讨了在家庭AI部署中多GPU并行计算时可能遇到的挑战及解决方案。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "多GPU",
+      "模型漂移",
+      "家庭部署",
+      "并行计算"
+    ],
+    "highlights": [
+      "多GPU并行计算在家庭AI部署中的实际应用",
+      "模型漂移问题的成因与应对策略",
+      "系列文章的第二部分，延续了第一部分的主题"
+    ]
+  },
+  {
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 27 Aug 2026 09:00:00 GMT",
+    "popularity": "",
+    "content": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "summary": "OpenAI发布了一项涉及1000多名学生的随机研究，探讨ChatGPT使用与批判性思维训练对大学真实作业表现、原创性和学生成绩的影响，结果显示结合训练能提升答案质量和思维广度。",
+    "score": 8,
+    "tags": [
+      "ChatGPT",
+      "批判性思维",
+      "教育研究",
+      "随机对照试验",
+      "学生表现",
+      "原创性"
+    ],
+    "highlights": [
+      "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training"
+    ]
+  },
+  {
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 27 Aug 2026 03:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+    "summary": "OpenAI is expanding its presence in Brazil to deepen engagement with developers, businesses, and communities, supporting AI adoption across the country.",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "Brazil",
+      "AI adoption",
+      "expansion",
+      "developers",
+      "businesses"
+    ],
+    "highlights": [
+      "OpenAI is expanding its presence in Brazil",
+      "deepening engagement with developers, businesses, and communities",
+      "support AI adoption across the country"
+    ]
+  },
+  {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了如何使用 Sentence Transformers 库训练和微调多向量嵌入模型，包括模型架构、训练数据准备、损失函数选择、训练流程及评估方法，并提供了代码示例和最佳实践。",
+    "score": 8,
+    "tags": [
+      "Sentence Transformers",
+      "多向量嵌入",
+      "模型训练",
+      "微调",
+      "信息检索",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "多向量嵌入模型通过为每个 token 生成独立向量，相比单向量模型能捕获更细粒度的语义信息。",
+      "训练多向量模型需要构造查询-文档对，并采用对比学习或排序损失进行优化。",
+      "文章提供了完整的训练脚本示例，涵盖数据加载、模型配置和评估指标。"
+    ]
+  },
+  {
+    "title": "Granite 4.2 LLMs: How They&apos;re Built",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 25 Aug 2026 15:14:14 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "IBM 发布 Granite 4.2 系列 LLM，介绍其架构设计、训练方法、性能特点及开源生态，强调在代码生成、企业应用和推理效率上的优化。",
+    "score": 8,
+    "tags": [
+      "IBM",
+      "Granite 4.2",
+      "LLM",
+      "开源模型",
+      "代码生成",
+      "企业AI",
+      "模型架构"
+    ],
+    "highlights": [
+      "Granite 4.2 系列模型在代码生成和推理任务上表现优异，支持多种编程语言。",
+      "模型采用稀疏注意力机制和高效训练策略，显著降低推理成本。",
+      "开源权重和完整技术报告，便于企业定制和部署。"
+    ]
+  }
+]

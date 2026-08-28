@@ -1,0 +1,402 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-28",
+    "popularity": "stars:387934",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw is a personal AI assistant that operates across any operating system and platform, following 'the lobster way' philosophy.",
+    "score": 7,
+    "tags": [
+      "AI assistant",
+      "cross-platform",
+      "personal assistant"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-28",
+    "popularity": "stars:279008",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架和软件开发方法论，旨在提供有效的开发实践。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "framework",
+      "methodology",
+      "software development"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-28",
+    "popularity": "stars:243945",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance coding agents like Claude Code, Codex, Opencode, and Cursor through skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent-harness",
+      "performance-optimization",
+      "coding-agents",
+      "claude-code",
+      "codex",
+      "opencode",
+      "cursor",
+      "memory"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple coding tools",
+      "Focuses on skills, instincts, memory, and security for agents",
+      "Supports Claude Code, Codex, Opencode, Cursor and beyond"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-28",
+    "popularity": "stars:240113",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库，包含他从个人 .agents 目录中提取的、面向真实工程师的技能配置和提示词集合。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "agents",
+      "prompts",
+      "engineering",
+      "config"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-28",
+    "popularity": "stars:237704",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个强调与用户共同成长的智能体项目，旨在提供持续进化的代理体验。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "开源项目"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-28",
+    "popularity": "stars:208385",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 8,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "best practices"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-28",
+    "popularity": "stars:202704",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供 400 多种集成。",
+    "score": 9,
+    "tags": [
+      "workflow automation",
+      "AI",
+      "self-hosted",
+      "integrations",
+      "fair-code"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform",
+      "native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-28",
+    "popularity": "stars:202170",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理项目，旨在提供自动化的代码生成和编辑功能，支持多种编程语言和开发环境。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation",
+      "code generation"
+    ],
+    "highlights": [
+      "The open source coding agent.",
+      "提供自动化的代码生成和编辑功能。"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-28",
+    "popularity": "stars:195137",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust using Gajae-Code / LazyCodex, developed and maintained entirely without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI",
+      "autonomous",
+      "museum",
+      "exhibit",
+      "agent"
+    ],
+    "highlights": [
+      "Built in Rust with Gajae-Code / LazyCodex",
+      "Developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-28",
+    "popularity": "stars:186962",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+    "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Fri, 28 Aug 2026 06:33:57 +0000",
+    "popularity": "",
+    "content": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 332 # Comments: 112",
+    "summary": "Luanti（前身为 Minetest）因一封基于 AI 生成的无根据版权通知而被 Google Play 下架。文章批评了滥用 AI 生成 DMCA 通知的行为，并呼吁平台改进审核机制。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "版权",
+      "Google Play",
+      "DMCA",
+      "开源软件"
+    ],
+    "highlights": [
+      "Luanti removed from Google Play due to baseless AI copyright notice",
+      "AI-generated copyright claims are increasingly used to target open-source projects",
+      "The notice was based on false AI-generated information, highlighting flaws in automated content moderation"
+    ]
+  },
+  {
+    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+    "url": "https://github.com/SenteLabsAI/OpenExecutive",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Thu, 27 Aug 2026 01:46:22 +0000",
+    "popularity": "",
+    "content": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 1004 # Comments: 693",
+    "summary": "文章讲述了一个讽刺性事件：CEO为引入AI解雇了开发者，而开发者随后创建了一个开源AI CEO项目作为回应。该项目在GitHub上发布，引发了大量讨论，获得1004个点赞和693条评论。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "开源",
+      "开发者",
+      "CEO",
+      "讽刺",
+      "GitHub",
+      "Hacker News"
+    ],
+    "highlights": [
+      "CEO fired developers to make room for AI.",
+      "Developers create open source AI CEO",
+      "Points: 1004 # Comments: 693"
+    ]
+  },
+  {
+    "title": "The turbulent AI era is here",
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 27 Aug 2026 00:32:18 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/aixljs/turbulent_ai_era_is_here\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章讨论了人工智能时代带来的动荡与关键选择，强调AI技术正在快速发展并深刻影响社会，需要各方做出明智决策以应对挑战和机遇。",
+    "score": 8,
+    "tags": [
+      "人工智能",
+      "技术变革",
+      "社会影响",
+      "决策"
+    ],
+    "highlights": [
+      "The turbulent AI era is here",
+      "critical choices to make"
+    ]
+  },
+  {
+    "title": "Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior",
+    "url": "https://arxiv.org/abs/2408.06602",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 25 Aug 2026 10:03:24 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/2djazj/super_intelligence_superstition\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "This paper explores psychological factors that influence people's belief in AI predictions about their personal behavior, questioning whether such beliefs are based on actual super-intelligence or are a form of superstition. It likely examines cognitive biases, trust in technology, and individual differences that shape acceptance of AI-generated insights.",
+    "score": 7,
+    "tags": [
+      "AI predictions",
+      "psychology",
+      "belief",
+      "superstition",
+      "human-AI interaction"
+    ],
+    "highlights": [
+      "Investigates psychological mechanisms behind trust in AI personal predictions",
+      "Contrasts rational assessment with superstitious thinking",
+      "Relevant to AI ethics and user acceptance"
+    ]
+  },
+  {
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 28 Aug 2026 02:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "summary": "OpenAI与泰国高等教育科研创新部合作，启动为期八周的加速器项目，支持10家健康、保健和教育领域的初创公司将AI原型转化为可信赖的产品。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "泰国",
+      "AI初创",
+      "加速器",
+      "健康",
+      "教育"
+    ],
+    "highlights": [
+      "OpenAI and Thailand’s MHESI launch an eight-week accelerator",
+      "helping 10 health, wellness, and education startups",
+      "turn AI prototypes into trusted products"
+    ]
+  },
+  {
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 27 Aug 2026 09:00:00 GMT",
+    "popularity": "",
+    "content": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "summary": "OpenAI发布了一项涉及1000多名学生的随机研究，探讨ChatGPT使用与批判性思维训练对大学真实作业表现、原创性和学生成绩的影响，结果显示结合训练能提升答案质量和思维广度。",
+    "score": 8,
+    "tags": [
+      "ChatGPT",
+      "批判性思维",
+      "教育研究",
+      "随机对照试验",
+      "学生表现",
+      "原创性"
+    ],
+    "highlights": [
+      "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training"
+    ]
+  },
+  {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了如何使用 Sentence Transformers 库训练和微调多向量嵌入模型，包括 ColBERT 等模型，涵盖数据准备、训练流程、损失函数选择及评估方法。",
+    "score": 8,
+    "tags": [
+      "multi-vector embedding",
+      "Sentence Transformers",
+      "ColBERT",
+      "fine-tuning",
+      "training"
+    ],
+    "highlights": [
+      "多向量嵌入模型（如 ColBERT）通过为每个 token 生成向量，实现更精细的语义匹配。",
+      "使用 Sentence Transformers 可以轻松加载预训练模型并微调，支持自定义数据集。",
+      "训练时需选择合适的损失函数，如 ColBERT 的 late interaction 损失。",
+      "评估阶段可使用信息检索指标（如 MRR、Recall）衡量模型性能。"
+    ]
+  },
+  {
+    "title": "Granite 4.2 LLMs: How They&apos;re Built",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 25 Aug 2026 15:14:14 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "IBM 发布 Granite 4.2 系列 LLM，介绍其架构设计、训练方法、性能特点及开源生态，强调在代码生成、推理和工具调用方面的优化，并展示与 Hugging Face 的集成。",
+    "score": 8,
+    "tags": [
+      "IBM",
+      "Granite 4.2",
+      "LLM",
+      "开源模型",
+      "代码生成",
+      "推理",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "Granite 4.2 系列模型在代码生成和推理任务上表现优异，支持多种编程语言。",
+      "模型采用创新的架构设计，结合稀疏注意力和混合专家（MoE）技术，提升效率。",
+      "开源权重和完整训练细节，便于社区复现和二次开发。",
+      "与 Hugging Face 深度集成，提供便捷的部署和微调工具。"
+    ]
+  }
+]

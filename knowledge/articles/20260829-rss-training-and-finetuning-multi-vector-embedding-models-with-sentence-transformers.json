@@ -1,0 +1,25 @@
+{
+  "id": "rss-26202600-018",
+  "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/train-multi-vector-encoder",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+  "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文介绍了如何使用 Sentence Transformers 库训练和微调多向量嵌入模型（如 ColBERT），包括数据准备、训练流程、损失函数选择、评估方法及实际示例。",
+  "highlights": [
+    "多向量嵌入模型（如 ColBERT）通过为每个 token 生成独立向量，显著提升检索精度。",
+    "文章详细说明了使用 Sentence Transformers 训练多向量模型的步骤，包括数据格式和损失函数。",
+    "提供了微调预训练模型的实践指南，涵盖评估指标和调参建议。"
+  ],
+  "score": 8,
+  "tags": [
+    "多向量嵌入",
+    "Sentence Transformers",
+    "ColBERT",
+    "模型训练",
+    "微调",
+    "信息检索"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-28202603-012",
+  "title": "Please stop flooding our projects with AI slop to furnish your CV",
+  "source": "rss",
+  "source_url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+  "status": "draft",
+  "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+  "date": "Fri, 28 Aug 2026 03:49:33 +0000",
+  "popularity": "",
+  "summary": "作者批评开发者为了充实简历而向开源项目大量提交低质量AI生成代码，呼吁停止这种行为，强调质量优先于数量。",
+  "highlights": [
+    "Please stop flooding our projects with AI slop to furnish your CV",
+    "AI-generated contributions are polluting open-source repositories",
+    "Quality over quantity: maintainers are overwhelmed by low-effort PRs"
+  ],
+  "score": 8,
+  "tags": [
+    "AI生成代码",
+    "开源社区",
+    "简历镀金",
+    "代码质量",
+    "伦理问题"
+  ]
+}

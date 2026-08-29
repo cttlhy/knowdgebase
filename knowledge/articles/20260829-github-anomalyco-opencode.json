@@ -1,0 +1,27 @@
+{
+  "id": "github-20260829-008",
+  "title": "anomalyco/opencode",
+  "source": "github",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "status": "draft",
+  "url": "https://github.com/anomalyco/opencode",
+  "date": "2026-08-29",
+  "popularity": "stars:202306",
+  "summary": "opencode 是一个开源的编码代理项目，旨在提供自动化的代码生成和编辑能力，支持多种编程任务。",
+  "highlights": [
+    "The open source coding agent.",
+    "提供自动化编码辅助功能。"
+  ],
+  "score": 8,
+  "tags": [
+    "coding agent",
+    "open source",
+    "automation",
+    "code generation"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260829"
+  }
+}

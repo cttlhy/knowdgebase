@@ -1,0 +1,23 @@
+{
+  "id": "github-20260829-001",
+  "title": "openclaw/openclaw",
+  "source": "github",
+  "source_url": "https://github.com/openclaw/openclaw",
+  "status": "draft",
+  "url": "https://github.com/openclaw/openclaw",
+  "date": "2026-08-29",
+  "popularity": "stars:387967",
+  "summary": "OpenClaw is a personal AI assistant project that emphasizes cross-platform compatibility, allowing users to run it on any operating system and platform, with a distinctive lobster-themed branding.",
+  "highlights": [
+    "Your own personal AI assistant.",
+    "Any OS. Any Platform.",
+    "The lobster way. 🦞"
+  ],
+  "score": 7,
+  "tags": [
+    "AI assistant",
+    "cross-platform",
+    "personal assistant",
+    "open source"
+  ]
+}

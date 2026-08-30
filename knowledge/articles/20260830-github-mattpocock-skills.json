@@ -1,0 +1,28 @@
+{
+  "id": "github-20260830-004",
+  "title": "mattpocock/skills",
+  "source": "github",
+  "source_url": "https://github.com/mattpocock/skills",
+  "status": "draft",
+  "url": "https://github.com/mattpocock/skills",
+  "date": "2026-08-30",
+  "popularity": "stars:241485",
+  "summary": "Matt Pocock 分享其个人 .agents 目录中的实用技能，面向真实工程师，涵盖开发、协作与效率提升。",
+  "highlights": [
+    "Straight from my .agents directory",
+    "Skills for Real Engineers"
+  ],
+  "score": 8,
+  "tags": [
+    "skills",
+    "engineer",
+    "agents",
+    "developer-tools",
+    "productivity"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260830"
+  }
+}

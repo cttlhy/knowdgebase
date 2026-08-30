@@ -1,0 +1,396 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-30",
+    "popularity": "stars:388055",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人 AI 助手项目，以龙虾为标志，强调灵活性和自主性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助理"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-30",
+    "popularity": "stars:279560",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架和软件开发方法论，强调其有效性。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "skills",
+      "framework",
+      "methodology",
+      "software development"
+    ],
+    "highlights": [
+      "An agentic skills framework",
+      "software development methodology that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-30",
+    "popularity": "stars:244501",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance coding agents like Claude Code, Codex, Opencode, and Cursor through skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent-harness",
+      "performance-optimization",
+      "coding-agents",
+      "memory",
+      "security",
+      "research-first"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple coding tools",
+      "Integrates skills, instincts, and memory for enhanced agent behavior",
+      "Emphasizes security and research-first development"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-30",
+    "popularity": "stars:241485",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享其个人 .agents 目录中的实用技能，面向真实工程师，涵盖开发、协作与效率提升。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "engineer",
+      "agents",
+      "developer-tools",
+      "productivity"
+    ],
+    "highlights": [
+      "Straight from my .agents directory",
+      "Skills for Real Engineers"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-30",
+    "popularity": "stars:238343",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个强调与用户共同成长理念的智能体项目，旨在提供可扩展、适应性的代理解决方案。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "开源项目",
+      "成长型智能体"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-30",
+    "popularity": "stars:208811",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 7,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "best practices"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-30",
+    "popularity": "stars:202839",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供超过 400 种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "自托管",
+      "集成",
+      "公平代码"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities.",
+      "Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-30",
+    "popularity": "stars:202506",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理工具，旨在帮助开发者自动化和简化编码任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation",
+      "developer tools"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-30",
+    "popularity": "stars:195151",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust using Gajae-Code / LazyCodex, developed and maintained entirely without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI",
+      "autonomous",
+      "museum",
+      "exhibit"
+    ],
+    "highlights": [
+      "Built in Rust with Gajae-Code / LazyCodex",
+      "Developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-30",
+    "popularity": "stars:187001",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+    "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Sat, 29 Aug 2026 17:19:47 +0000",
+    "popularity": "",
+    "content": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 413 # Comments: 101",
+    "summary": "文章认为良好的团队文化是最大的生产力提升因素，其重要性超过AI工具。作者通过工程管理视角，强调信任、心理安全和清晰沟通对效率的直接影响，并指出技术无法替代文化带来的协作优势。",
+    "score": 8,
+    "tags": [
+      "团队文化",
+      "生产力",
+      "工程管理",
+      "AI",
+      "心理安全"
+    ],
+    "highlights": [
+      "Good culture directly reduces friction and accelerates decision-making, which AI cannot replicate.",
+      "Investing in culture yields compounding returns, while AI tools often provide only marginal, short-term gains.",
+      "A culture of trust enables faster feedback loops and higher ownership, leading to sustainable productivity."
+    ]
+  },
+  {
+    "title": "Debian votes to allow \"responsible use of generative AI\"",
+    "url": "https://lwn.net/Articles/1091231/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Sat, 29 Aug 2026 14:02:10 +0000",
+    "popularity": "",
+    "content": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 490 # Comments: 459",
+    "summary": "Debian community voted to permit responsible use of generative AI in project activities, balancing innovation with ethical guidelines, sparking significant discussion among developers.",
+    "score": 8,
+    "tags": [
+      "Debian",
+      "generative AI",
+      "open source",
+      "community governance",
+      "ethics"
+    ],
+    "highlights": [
+      "Debian votes to allow 'responsible use of generative AI'",
+      "The decision aims to balance innovation with ethical considerations",
+      "The vote has generated substantial debate within the developer community"
+    ]
+  },
+  {
+    "title": "The turbulent AI era is here",
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 27 Aug 2026 00:32:18 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/aixljs/turbulent_ai_era_is_here\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章讨论了人工智能时代带来的动荡与关键选择，强调AI技术正在快速发展并影响社会各个层面，需要做出明智决策以应对挑战和机遇。",
+    "score": 8,
+    "tags": [
+      "人工智能",
+      "技术变革",
+      "社会影响",
+      "决策"
+    ],
+    "highlights": [
+      "The turbulent AI era is here",
+      "critical choices to make"
+    ]
+  },
+  {
+    "title": "Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior",
+    "url": "https://arxiv.org/abs/2408.06602",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 25 Aug 2026 10:03:24 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/2djazj/super_intelligence_superstition\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "This paper explores the psychological factors that influence people's belief in AI predictions about their personal behavior, questioning whether such beliefs are based on actual super-intelligence or are a form of superstition. It likely examines cognitive biases, trust in technology, and other psychological mechanisms.",
+    "score": 7,
+    "tags": [
+      "AI predictions",
+      "psychology",
+      "belief",
+      "superstition",
+      "human-AI interaction"
+    ],
+    "highlights": [
+      "Investigates psychological factors behind belief in AI predictions",
+      "Challenges the notion of AI super-intelligence in personal behavior prediction",
+      "Connects AI trust to cognitive biases and superstition"
+    ]
+  },
+  {
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 28 Aug 2026 06:00:00 GMT",
+    "popularity": "",
+    "content": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "summary": "OpenAI决定在Cursor被SpaceX收购后终止向其提供OpenAI模型的合同。",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "Cursor",
+      "SpaceX",
+      "收购",
+      "合同终止"
+    ],
+    "highlights": [
+      "Our decision to wind down our contract providing OpenAI models to Cursor",
+      "following its acquisition by SpaceX"
+    ]
+  },
+  {
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 28 Aug 2026 02:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "summary": "OpenAI与泰国高等教育科研创新部（MHESI）合作，启动为期八周的加速器项目，支持10家健康、养生和教育领域的初创企业将AI原型转化为可信赖的产品。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "泰国",
+      "AI初创企业",
+      "加速器",
+      "健康",
+      "教育",
+      "国际合作"
+    ],
+    "highlights": [
+      "OpenAI and Thailand’s MHESI launch an eight-week accelerator",
+      "helping 10 health, wellness, and education startups",
+      "turn AI prototypes into trusted products"
+    ]
+  },
+  {
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 28 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face 的 Open ASR Leaderboard 首次加入全球南方语言，旨在提升低资源语言语音识别的公平性与可见性。",
+    "score": 8,
+    "tags": [
+      "ASR",
+      "leaderboard",
+      "global south",
+      "low-resource languages",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "The Open ASR Leaderboard now includes its first Global South language, marking a step toward more inclusive speech recognition evaluation.",
+      "This addition aims to address the underrepresentation of low-resource languages in automatic speech recognition benchmarks.",
+      "The move encourages researchers to develop and benchmark models for languages often overlooked by mainstream ASR systems."
+    ]
+  },
+  {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了如何使用 Sentence Transformers 库训练和微调多向量嵌入模型（如 ColBERT），包括数据准备、训练配置、损失函数选择以及评估方法，并提供了代码示例和最佳实践。",
+    "score": 8,
+    "tags": [
+      "Sentence Transformers",
+      "多向量嵌入",
+      "ColBERT",
+      "模型微调",
+      "信息检索",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "多向量嵌入模型（如 ColBERT）通过为每个 token 生成独立向量，显著提升了检索精度，但需要更多存储和计算资源。",
+      "训练多向量模型时，推荐使用知识蒸馏（knowledge distillation）方法，从强大的交叉编码器（cross-encoder）中学习。",
+      "Sentence Transformers 提供了 `ColBERT` 类，支持 `train` 和 `fit` 方法，可方便地微调预训练模型。",
+      "数据格式要求为 `(query, passage)` 对，并可通过 `HuggingFaceDataset` 或 `ContrastiveDataset` 加载。",
+      "评估时建议使用 `InformationRetrievalEvaluator`，并关注 MRR@10 和 Recall@10 等指标。"
+    ]
+  }
+]

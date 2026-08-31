@@ -1,0 +1,353 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-08-31",
+    "popularity": "stars:388236",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw is a personal AI assistant project that aims to work across any operating system and platform, adopting a distinctive 'lobster way' approach.",
+    "score": 7,
+    "tags": [
+      "AI assistant",
+      "cross-platform",
+      "personal assistant",
+      "open source"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-08-31",
+    "popularity": "stars:279964",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架和软件开发方法论，旨在提供有效的开发实践。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "skills",
+      "framework",
+      "methodology",
+      "software-development"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology",
+      "that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-08-31",
+    "popularity": "stars:245049",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance coding agents like Claude Code, Codex, Opencode, and Cursor through skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent-harness",
+      "performance-optimization",
+      "coding-agents",
+      "memory",
+      "security",
+      "research-first"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple coding tools",
+      "Focuses on skills, instincts, memory, and security for agents",
+      "Supports Claude Code, Codex, Opencode, Cursor and beyond"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-08-31",
+    "popularity": "stars:242643",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库，包含他从个人 .agents 目录中提取的、面向真实工程师的技能集合。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "engineering",
+      "agents",
+      "mattpocock",
+      "github"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-08-31",
+    "popularity": "stars:238851",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个强调与用户共同成长理念的智能代理项目，旨在提供可扩展和适应性强的代理解决方案。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "Agent",
+      "NousResearch",
+      "开源",
+      "成长型代理"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-08-31",
+    "popularity": "stars:209072",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 7,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "best practices"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-08-31",
+    "popularity": "stars:202953",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供 400 多种集成。",
+    "score": 9,
+    "tags": [
+      "workflow automation",
+      "AI",
+      "fair-code",
+      "self-hosted",
+      "integrations"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform",
+      "native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-08-31",
+    "popularity": "stars:202758",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理工具，旨在帮助开发者自动化和简化编码任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation",
+      "developer tools"
+    ],
+    "highlights": [
+      "The open source coding agent.",
+      "Anomalyco 开发的开源项目。"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-08-31",
+    "popularity": "stars:195163",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust using Gajae-Code / LazyCodex, developed and maintained entirely without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI",
+      "autonomous",
+      "museum",
+      "exhibit",
+      "agent"
+    ],
+    "highlights": [
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-08-31",
+    "popularity": "stars:187032",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "to use and to build on",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "I attended a conference recently and AI use by academics was absurd",
+    "url": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 31 Aug 2026 10:22:00 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;As we listened to talks most people were stuck doing pointless tasks on their phones and computers. Less than 10%, likely 5%, were listening attentively. This was quite sad for me.&lt;/p&gt; &lt;p&gt;The thing I would like to share the most, that shocked me more than any AI use I've seen ever—when I was on stage receiving QA post talk among the fellow panelists, everyone but me used AI on their laptops to record their questions and then come up with a response they could use. IDK about others, but I spent a lot of time on my talk and slideshow. The professor who served as the respondent listened for two hours taking a ton of notes then formed thoughtful questions. I cannot believe the laziness and disrespect to the professor's intellect for all the other panelists to rely on AI for their response.&lt;/p&gt; &lt;p&gt;For me, the seduction of AI to do boring tasks such as translation, CV writing, and job applications, and editing papers is forever there but I choose to believe these tasks benefit me as someone trying to be a so-called intellectual. To see everyone around me choose to not think for themselves, when we presenters should be the most knowledgeable in the room about our topics, shocked me beyond anything I've seen in academic.&lt;/p&gt; &lt;p&gt;I am constantly considering the use of AI in the classroom and research and thought this reflection/rant would be relevant here.&lt;/p&gt; &lt;p&gt;I'm curious if my fellow Lobsters have seen similar uses of AI or what their opinions are.&lt;/p&gt;",
+    "summary": "作者在学术会议上观察到多数人使用AI代替思考，包括小组讨论时用AI生成问题与回答，对此感到震惊和失望，认为这体现了懒惰和对他人智力的不尊重，并反思AI在学术和课堂中的使用。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "学术会议",
+      "学术诚信",
+      "技术依赖",
+      "反思"
+    ],
+    "highlights": [
+      "Less than 10%, likely 5%, were listening attentively.",
+      "everyone but me used AI on their laptops to record their questions and then come up with a response they could use.",
+      "I cannot believe the laziness and disrespect to the professor's intellect for all the other panelists to rely on AI for their response.",
+      "To see everyone around me choose to not think for themselves, when we presenters should be the most knowledgeable in the room about our topics, shocked me beyond anything I've seen in academic."
+    ]
+  },
+  {
+    "title": "The turbulent AI era is here",
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 27 Aug 2026 00:32:18 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/aixljs/turbulent_ai_era_is_here\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章讨论了人工智能时代带来的动荡与关键选择，强调AI技术正在快速发展并深刻影响社会，需要做出明智决策以确保其造福所有人。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "技术变革",
+      "社会影响",
+      "决策"
+    ],
+    "highlights": [
+      "The turbulent AI era is here",
+      "critical choices to make"
+    ]
+  },
+  {
+    "title": "A milestone in expanding access to AI",
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 31 Aug 2026 04:00:00 GMT",
+    "popularity": "",
+    "content": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "summary": "ChatGPT Ads 达到 10 亿美元的年化收入运行率，并全球扩展，通过免费和可负担的选项支持更广泛地获取 AI。",
+    "score": 8,
+    "tags": [
+      "ChatGPT Ads",
+      "AI 普及",
+      "收入里程碑",
+      "全球扩展"
+    ],
+    "highlights": [
+      "ChatGPT Ads reaches $1 billion in annualized revenue run rate",
+      "expands globally",
+      "supporting broader access to AI through free and affordable options"
+    ]
+  },
+  {
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 28 Aug 2026 06:00:00 GMT",
+    "popularity": "",
+    "content": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "summary": "OpenAI决定在Cursor被SpaceX收购后，终止向其提供OpenAI模型的合同。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "Cursor",
+      "SpaceX",
+      "收购",
+      "合同终止"
+    ],
+    "highlights": [
+      "OpenAI决定终止向Cursor提供模型",
+      "原因是Cursor被SpaceX收购"
+    ]
+  },
+  {
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 28 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face 的 Open ASR Leaderboard 首次加入全球南方语言（如斯瓦希里语、泰卢固语等），以推动语音识别技术覆盖更多低资源语言，并公开了评测数据与模型表现。",
+    "score": 8,
+    "tags": [
+      "ASR",
+      "语音识别",
+      "全球南方",
+      "低资源语言",
+      "Hugging Face",
+      "评测基准"
+    ],
+    "highlights": [
+      "Open ASR Leaderboard 首次纳入全球南方语言，填补了语音技术在地域覆盖上的空白。",
+      "新增语言包括斯瓦希里语、泰卢固语等，旨在促进低资源语言的模型开发。",
+      "评测数据与排行榜公开，便于研究者比较和提升模型性能。"
+    ]
+  },
+  {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了如何使用 Sentence Transformers 库训练和微调多向量嵌入模型（如 ColBERT），包括数据准备、训练配置、损失函数选择及评估方法。",
+    "score": 8,
+    "tags": [
+      "Sentence Transformers",
+      "多向量嵌入",
+      "ColBERT",
+      "模型微调",
+      "信息检索"
+    ],
+    "highlights": [
+      "多向量嵌入模型通过为每个 token 生成独立向量，显著提升检索精度。",
+      "训练流程包括数据加载、模型初始化、损失函数设置（如 ColBERTLoss）和评估。",
+      "微调时需注意 batch size、学习率及负样本策略对效果的影响。"
+    ]
+  }
+]

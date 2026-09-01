@@ -1,0 +1,398 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-09-01",
+    "popularity": "stars:388455",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw is a personal AI assistant that operates across any operating system and platform, following 'the lobster way' philosophy.",
+    "score": 7,
+    "tags": [
+      "AI assistant",
+      "cross-platform",
+      "personal assistant",
+      "open source"
+    ],
+    "highlights": [
+      "Your own personal AI assistant.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-09-01",
+    "popularity": "stars:280274",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提供有效的开发实践。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "framework",
+      "methodology",
+      "software development"
+    ],
+    "highlights": [
+      "An agentic skills framework",
+      "software development methodology that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-09-01",
+    "popularity": "stars:245534",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system that enhances AI coding agents like Claude Code, Codex, Opencode, and Cursor with skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent harness",
+      "performance optimization",
+      "AI coding",
+      "Claude Code",
+      "Codex",
+      "Opencode",
+      "Cursor",
+      "memory"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance across multiple AI coding tools.",
+      "Integrates skills, instincts, memory, and security into agent workflows.",
+      "Supports Claude Code, Codex, Opencode, Cursor and beyond.",
+      "Emphasizes research-first development approach."
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-09-01",
+    "popularity": "stars:243533",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 公开的个人技能配置仓库，包含来自其 .agents 目录的工程师实用技能定义。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "agents",
+      "engineering",
+      "config",
+      "github"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-09-01",
+    "popularity": "stars:239303",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个强调与用户共同成长的智能体项目，旨在提供持续进化的代理服务。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "开源项目",
+      "智能体"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-09-01",
+    "popularity": "stars:209273",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 8,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "best practices"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-09-01",
+    "popularity": "stars:203016",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供超过 400 种集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "集成",
+      "可视化编程"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities.",
+      "Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-09-01",
+    "popularity": "stars:202975",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理项目，旨在提供自动化的代码生成和编辑能力，支持多种编程语言和开发环境。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation",
+      "developer tools"
+    ],
+    "highlights": [
+      "The open source coding agent.",
+      "提供自动化的代码生成和编辑能力。"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-09-01",
+    "popularity": "stars:195164",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust using Gajae-Code / LazyCodex, developed and maintained entirely without human intervention.",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI",
+      "autonomous",
+      "museum",
+      "agent"
+    ],
+    "highlights": [
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-09-01",
+    "popularity": "stars:187051",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+    "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Mon, 31 Aug 2026 12:41:22 +0000",
+    "popularity": "",
+    "content": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 433 # Comments: 494",
+    "summary": "Apple is facing unexpected high demand for its Mac Mini and Mac Studio models, driven by AI workloads, leading to supply constraints and longer shipping times.",
+    "score": 8,
+    "tags": [
+      "Apple",
+      "Mac Mini",
+      "Mac Studio",
+      "AI demand",
+      "supply chain"
+    ],
+    "highlights": [
+      "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "High demand for Mac Mini and Mac Studio due to AI workloads",
+      "Supply constraints and longer shipping times reported"
+    ]
+  },
+  {
+    "title": "No AI Fridays",
+    "url": "https://noaifridays.com/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Sun, 30 Aug 2026 12:31:05 +0000",
+    "popularity": "",
+    "content": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 287 # Comments: 204",
+    "summary": "No AI Fridays 是一个倡议网站，鼓励人们在每周五不使用人工智能工具，以反思AI对工作和生活的影响，并促进数字断舍离。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "数字健康",
+      "倡议",
+      "反思"
+    ],
+    "highlights": [
+      "No AI Fridays 倡议每周五暂停使用AI，以重新连接人类创造力和思考。",
+      "该运动旨在提高人们对AI依赖的认识，并鼓励有意识地使用技术。",
+      "网站提供了参与指南和社区支持，帮助人们实践无AI日。"
+    ]
+  },
+  {
+    "title": "The turbulent AI era is here",
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 27 Aug 2026 00:32:18 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/aixljs/turbulent_ai_era_is_here\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章讨论了人工智能时代带来的动荡与关键选择，强调AI技术正在快速发展并影响社会各个层面，需要审慎决策以应对挑战和机遇。",
+    "score": 8,
+    "tags": [
+      "人工智能",
+      "技术变革",
+      "社会影响",
+      "决策"
+    ],
+    "highlights": [
+      "The turbulent AI era is here",
+      "critical choices to make"
+    ]
+  },
+  {
+    "title": "Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior",
+    "url": "https://arxiv.org/abs/2408.06602",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 25 Aug 2026 10:03:24 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/2djazj/super_intelligence_superstition\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "This paper explores the psychological factors that influence people's belief in AI predictions about their personal behavior, questioning whether such beliefs are based on actual super-intelligence or are a form of superstition. It likely examines cognitive biases, trust in technology, and other psychological mechanisms.",
+    "score": 7,
+    "tags": [
+      "AI predictions",
+      "psychology",
+      "belief",
+      "superstition",
+      "human-AI interaction"
+    ],
+    "highlights": [
+      "Investigates psychological factors behind belief in AI predictions",
+      "Challenges the notion of AI super-intelligence in personal behavior prediction",
+      "Connects AI trust to cognitive biases and superstition"
+    ]
+  },
+  {
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+    "summary": "OpenAI支持加州SB 1119法案，旨在为青少年建立强有力的、适龄的AI安全保护措施，同时保留他们学习、创造和探索的机会。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "AI安全",
+      "青少年保护",
+      "加州立法",
+      "SB 1119"
+    ],
+    "highlights": [
+      "OpenAI supports California SB 1119",
+      "advancing strong, age-appropriate AI safeguards for teens",
+      "preserving opportunities to learn, create, and explore"
+    ]
+  },
+  {
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "url": "https://openai.com/index/polimill",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "popularity": "",
+    "content": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "summary": "Polimill利用OpenAI的GPT模型和Codex，帮助日本 municipalities 搜索和利用行政知识，同时加速开发下一代公共AI基础设施。",
+    "score": 8,
+    "tags": [
+      "AI基础设施",
+      "日本",
+      "OpenAI",
+      "GPT",
+      "Codex",
+      "市政服务"
+    ],
+    "highlights": [
+      "Polimill uses OpenAI GPT models and Codex",
+      "help municipalities search and use administrative knowledge",
+      "accelerating development"
+    ]
+  },
+  {
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 28 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face 的 Open ASR Leaderboard 首次加入全球南方语言，旨在推动低资源语言的语音识别技术发展，并鼓励社区贡献更多非英语数据。",
+    "score": 8,
+    "tags": [
+      "ASR",
+      "语音识别",
+      "全球南方",
+      "低资源语言",
+      "Hugging Face",
+      "开源"
+    ],
+    "highlights": [
+      "The Open ASR Leaderboard now includes its first Global South language, marking a step toward more inclusive speech technology.",
+      "This addition aims to address the underrepresentation of low-resource languages in automatic speech recognition benchmarks.",
+      "The community is encouraged to contribute datasets and models to further expand language coverage."
+    ]
+  },
+  {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了如何使用 Sentence Transformers 库训练和微调多向量嵌入模型（如 ColBERT），涵盖数据准备、训练流程、损失函数选择及评估方法，并提供了代码示例和最佳实践。",
+    "score": 8,
+    "tags": [
+      "多向量嵌入",
+      "Sentence Transformers",
+      "模型微调",
+      "ColBERT",
+      "信息检索"
+    ],
+    "highlights": [
+      "多向量嵌入模型（如 ColBERT）通过为每个 token 生成独立向量，显著提升了检索精度，但增加了存储和计算成本。",
+      "训练多向量模型时，推荐使用知识蒸馏和硬负样本挖掘来提升效果。",
+      "Sentence Transformers 提供了简化的 API 和多种损失函数（如 MultipleNegativesRankingLoss）以支持多向量模型的训练。",
+      "微调时需注意数据格式（如查询-文档对）和批次大小，以平衡内存和性能。"
+    ]
+  }
+]

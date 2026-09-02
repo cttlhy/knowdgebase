@@ -1,0 +1,24 @@
+{
+  "id": "rss-01202621-015",
+  "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/benchmirt",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/benchmirt",
+  "date": "Tue, 01 Sep 2026 21:39:07 GMT",
+  "popularity": "",
+  "summary": "本文探讨了LLM基准测试的实际测量内容，指出传统基准可能高估模型能力，并提出BenchMIRT框架以更准确评估模型推理与理解。",
+  "highlights": [
+    "Benchmarks often conflate memorization with reasoning, leading to inflated performance scores.",
+    "The proposed BenchMIRT framework separates core reasoning from auxiliary skills to provide clearer insights.",
+    "Current evaluation methods may not reflect real-world generalization, necessitating more targeted tests."
+  ],
+  "score": 8,
+  "tags": [
+    "LLM",
+    "benchmark",
+    "evaluation",
+    "reasoning",
+    "interpretability"
+  ]
+}

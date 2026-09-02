@@ -1,0 +1,351 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-09-02",
+    "popularity": "stars:388604",
+    "content": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人 AI 助手项目，以龙虾为吉祥物，强调灵活性和自主性。",
+    "score": 7,
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "开源",
+      "个人助理"
+    ],
+    "highlights": [
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-09-02",
+    "popularity": "stars:280683",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架和软件开发方法论，旨在提供有效的开发实践。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "framework",
+      "methodology",
+      "software-development"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-09-02",
+    "popularity": "stars:246004",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC 是一个面向 AI 编码代理（如 Claude Code、Codex 等）的性能优化系统，提供技能、直觉、记忆、安全与研究优先的开发支持。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Codex",
+      "安全"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system.",
+      "Skills, instincts, memory, security, and research-first development.",
+      "Supports Claude Code, Codex, Opencode, Cursor and beyond."
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-09-02",
+    "popularity": "stars:244624",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库，分享其个人 .agents 目录中的实用技能，面向真实工程师，提供可直接使用的技能配置和最佳实践。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "agents",
+      "developer-tools",
+      "best-practices",
+      "github"
+    ],
+    "highlights": [
+      "Skills for Real Engineers.",
+      "Straight from my .agents directory."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-09-02",
+    "popularity": "stars:239796",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个描述为‘与你共同成长的代理’的GitHub项目，可能涉及自适应或持续学习的AI代理。",
+    "score": 5,
+    "tags": [
+      "AI代理",
+      "自适应",
+      "GitHub项目"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-09-02",
+    "popularity": "stars:209540",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "score": 7,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "coding pitfalls",
+      "behavior improvement"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-09-02",
+    "popularity": "stars:203169",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理，旨在帮助开发者自动完成编码任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "AI",
+      "developer tool"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-09-02",
+    "popularity": "stars:203117",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供超过 400 种集成。",
+    "score": 9,
+    "tags": [
+      "workflow automation",
+      "AI",
+      "fair-code",
+      "self-hosted",
+      "integrations"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform",
+      "native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-09-02",
+    "popularity": "stars:195163",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "ultraworkers/claw-code 是一个由智能体自主管理的博物馆展品项目，使用 Rust 语言结合 Gajae-Code / LazyCodex 构建，全程无人工干预开发与维护。",
+    "score": 7,
+    "tags": [
+      "Rust",
+      "AI Agent",
+      "自主开发",
+      "博物馆展品",
+      "无人工干预"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-09-02",
+    "popularity": "stars:187076",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个开源项目，旨在为所有人提供可访问的 AI 工具，让用户能够轻松使用和构建 AI 应用。其使命是提供工具，使用户专注于重要的事情。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "开源",
+      "AutoGPT",
+      "工具",
+      "自动化"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone, to use and to build on.",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation",
+    "url": "https://arxiv.org/abs/2604.25580",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 02 Sep 2026 06:52:23 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/us078z/bye_bye_perspective_api_lessons_for\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文讨论了Perspective API的退役对NLP、CSS和LLM评估中测量基础设施的影响，并从中提炼出关于构建可持续测量系统的经验教训。",
+    "score": 8,
+    "tags": [
+      "Perspective API",
+      "测量基础设施",
+      "NLP评估",
+      "LLM评估",
+      "CSS"
+    ],
+    "highlights": [
+      "Perspective API的关闭凸显了依赖外部测量工具的脆弱性。",
+      "文章为NLP和LLM评估中的测量基础设施提供了改进建议。",
+      "讨论了CSS（计算社会科学）中测量工具的可持续性问题。"
+    ]
+  },
+  {
+    "title": "Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy",
+    "url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 01 Sep 2026 17:42:12 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/em1whz/researchers_use_ai_democratize_3d\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Researchers at Washington State University have developed an AI-based method to optimize 3D printing parameters for a critical metal alloy, making the process more accessible and cost-effective. The approach reduces the need for expensive trial-and-error experiments, potentially democratizing advanced manufacturing.",
+    "score": 8,
+    "tags": [
+      "AI",
+      "3D printing",
+      "metal alloy",
+      "manufacturing",
+      "research"
+    ],
+    "highlights": [
+      "AI optimizes 3D printing of crucial metal alloy",
+      "Democratizes access to advanced manufacturing",
+      "Reduces trial-and-error costs"
+    ]
+  },
+  {
+    "title": "How AI-native companies turn workflows into operating capability",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 01 Sep 2026 17:00:00 GMT",
+    "popularity": "",
+    "content": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "summary": "OpenAI 通过案例研究展示 AI 原生企业如何利用 AI 代理优化入职、客户管理和开发者集成，并提炼出企业领导者可借鉴的工作流转化为运营能力的方法。",
+    "score": 8,
+    "tags": [
+      "AI-native",
+      "workflow",
+      "AI agents",
+      "enterprise",
+      "onboarding",
+      "account management",
+      "developer integrations"
+    ],
+    "highlights": [
+      "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations.",
+      "See what enterprise leaders can apply."
+    ]
+  },
+  {
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "url": "https://openai.com/index/path-to-astra",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 01 Sep 2026 13:00:00 GMT",
+    "popularity": "",
+    "content": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "summary": "OpenAI 宣布其模型 Astra 成为首个在 Preparedness Framework 下达到关键网络安全能力阈值的模型，并为此加强了发布前的安全防护措施。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "Astra",
+      "网络安全",
+      "Preparedness Framework",
+      "AI安全"
+    ],
+    "highlights": [
+      "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework",
+      "with stronger safeguards for release"
+    ]
+  },
+  {
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 01 Sep 2026 21:39:07 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文探讨了LLM基准测试的实际测量内容，指出传统基准可能高估模型能力，并提出BenchMIRT框架以更准确评估模型推理与理解。",
+    "score": 8,
+    "tags": [
+      "LLM",
+      "benchmark",
+      "evaluation",
+      "reasoning",
+      "interpretability"
+    ],
+    "highlights": [
+      "Benchmarks often conflate memorization with reasoning, leading to inflated performance scores.",
+      "The proposed BenchMIRT framework separates core reasoning from auxiliary skills to provide clearer insights.",
+      "Current evaluation methods may not reflect real-world generalization, necessitating more targeted tests."
+    ]
+  },
+  {
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 01 Sep 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face 发布了 @huggingface/kernels，一个包含 200 多个 WebGPU 内核的库，用于在浏览器中加速本地 AI 推理，支持多种模型架构和算子，并提供易用的 API 和性能优化。",
+    "score": 8,
+    "tags": [
+      "WebGPU",
+      "AI 推理",
+      "Hugging Face",
+      "浏览器",
+      "内核库",
+      "本地 AI"
+    ],
+    "highlights": [
+      "200+ WebGPU kernels for local AI inference",
+      "Optimized for performance in browsers",
+      "Supports various model architectures and operators",
+      "Easy-to-use API for developers"
+    ]
+  }
+]

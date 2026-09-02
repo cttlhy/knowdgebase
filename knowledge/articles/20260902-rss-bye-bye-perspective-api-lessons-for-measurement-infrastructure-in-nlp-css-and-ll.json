@@ -1,0 +1,24 @@
+{
+  "id": "rss-02202606-011",
+  "title": "Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2604.25580",
+  "status": "draft",
+  "url": "https://arxiv.org/abs/2604.25580",
+  "date": "Wed, 02 Sep 2026 06:52:23 -0500",
+  "popularity": "",
+  "summary": "本文讨论了Perspective API的退役对NLP、CSS和LLM评估中测量基础设施的影响，并从中提炼出关于构建可持续测量系统的经验教训。",
+  "highlights": [
+    "Perspective API的关闭凸显了依赖外部测量工具的脆弱性。",
+    "文章为NLP和LLM评估中的测量基础设施提供了改进建议。",
+    "讨论了CSS（计算社会科学）中测量工具的可持续性问题。"
+  ],
+  "score": 8,
+  "tags": [
+    "Perspective API",
+    "测量基础设施",
+    "NLP评估",
+    "LLM评估",
+    "CSS"
+  ]
+}

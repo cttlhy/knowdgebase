@@ -1,0 +1,355 @@
+[
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-09-03",
+    "popularity": "stars:281108",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "A framework and methodology for agentic software development, emphasizing practical, working approaches.",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "framework",
+      "methodology",
+      "software development",
+      "github"
+    ],
+    "highlights": [
+      "An agentic skills framework",
+      "software development methodology that works"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-09-03",
+    "popularity": "stars:246716",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC 是一个面向 AI 编码代理（如 Claude Code、Codex 等）的性能优化系统，提供技能、直觉、记忆、安全与研究优先的开发支持。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Codex",
+      "安全"
+    ],
+    "highlights": [
+      "为多种 AI 编码代理提供统一的性能优化框架",
+      "涵盖技能、直觉、记忆、安全等核心模块",
+      "支持研究优先的开发方法论"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-09-03",
+    "popularity": "stars:246197",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享其个人 .agents 目录中的实用技能，面向真实工程师，涵盖 TypeScript、开发工具与工程实践。",
+    "score": 8,
+    "tags": [
+      "TypeScript",
+      "开发技能",
+      "工程师实践",
+      "GitHub",
+      "工具链"
+    ],
+    "highlights": [
+      "Skills for Real Engineers",
+      "Straight from my .agents directory"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-09-03",
+    "popularity": "stars:240519",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个能够随着用户使用而不断成长和进化的智能体项目。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "自适应",
+      "成长型",
+      "开源"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-09-03",
+    "popularity": "stars:209810",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该仓库提供了一个单一的CLAUDE.md文件，旨在根据Andrej Karpathy对LLM编码陷阱的观察，改进Claude Code的行为。",
+    "score": 7,
+    "tags": [
+      "CLAUDE.md",
+      "Claude Code",
+      "Andrej Karpathy",
+      "LLM",
+      "编码陷阱",
+      "行为改进"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-09-03",
+    "popularity": "stars:203421",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理工具，旨在帮助开发者自动化和简化编码任务。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation",
+      "developer tools"
+    ],
+    "highlights": [
+      "The open source coding agent.",
+      "提供自动化编码辅助功能。"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-09-03",
+    "popularity": "stars:203218",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，并提供超过400个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "集成"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud, 400+ integrations"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-09-03",
+    "popularity": "stars:195162",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "claw-code 是一个由 AI 代理完全自主开发与维护的博物馆展品项目，使用 Rust 语言及 Gajae-Code / LazyCodex 工具链构建，全程无人工干预。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI代理",
+      "自主开发",
+      "博物馆展品",
+      "Gajae-Code",
+      "LazyCodex"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-09-03",
+    "popularity": "stars:187097",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-09-03",
+    "popularity": "stars:180034",
+    "content": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源工具，用于在本地轻松运行和管理多种大型语言模型，包括 Kimi-K2.6、GLM-5.2、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。",
+    "score": 9,
+    "tags": [
+      "ollama",
+      "llm",
+      "本地模型",
+      "开源",
+      "模型管理"
+    ],
+    "highlights": [
+      "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+    ]
+  },
+  {
+    "title": "Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation",
+    "url": "https://arxiv.org/abs/2604.25580",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 02 Sep 2026 06:52:23 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/us078z/bye_bye_perspective_api_lessons_for\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "本文讨论了Perspective API的退役对NLP、CSS和LLM评估中测量基础设施的影响，并从中提炼出关于构建可持续测量系统的经验教训。",
+    "score": 8,
+    "tags": [
+      "Perspective API",
+      "测量基础设施",
+      "NLP评估",
+      "LLM评估",
+      "CSS"
+    ],
+    "highlights": [
+      "Perspective API的关闭凸显了依赖外部测量工具的脆弱性。",
+      "文章为NLP、CSS和LLM评估中的测量基础设施提供了改进建议。",
+      "强调需要建立更稳健、可复现的评估框架。"
+    ]
+  },
+  {
+    "title": "Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy",
+    "url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 01 Sep 2026 17:42:12 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/em1whz/researchers_use_ai_democratize_3d\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Researchers are using AI to make 3D printing of a crucial metal alloy more accessible, aiming to democratize the technology.",
+    "score": 8,
+    "tags": [
+      "AI",
+      "3D printing",
+      "metal alloy",
+      "democratization",
+      "research"
+    ],
+    "highlights": [
+      "Researchers use AI to 'democratize' 3D printing of crucial metal alloy",
+      "AI enables broader access to advanced manufacturing"
+    ]
+  },
+  {
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 02 Sep 2026 12:00:00 GMT",
+    "popularity": "",
+    "content": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+    "summary": "ATV Big Air Tour 利用 ChatGPT Work 将原本需要 3 天的工作缩短至 3 小时，并快速完成营销、商品化及库存网站搭建。",
+    "score": 8,
+    "tags": [
+      "ChatGPT",
+      "效率提升",
+      "营销",
+      "商品化",
+      "库存管理"
+    ],
+    "highlights": [
+      "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more.",
+      "It even turned merchandise photos into an inventory website in 15 minutes."
+    ]
+  },
+  {
+    "title": "How AI-native companies turn workflows into operating capability",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 01 Sep 2026 17:00:00 GMT",
+    "popularity": "",
+    "content": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "summary": "OpenAI 通过 Basis、Clay 和 Exa Labs 的案例，展示了 AI 原生企业如何利用 AI 代理优化入职、客户管理和开发者集成，并提炼出企业领导者可借鉴的工作流转化为运营能力的方法。",
+    "score": 8,
+    "tags": [
+      "AI-native",
+      "workflow",
+      "AI agents",
+      "enterprise",
+      "onboarding",
+      "account management",
+      "developer integrations"
+    ],
+    "highlights": [
+      "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations.",
+      "See what enterprise leaders can apply."
+    ]
+  },
+  {
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了如何通过仅100步GRPO（组相对策略优化）微调一个350M参数的小型语言模型，以显著提升其生成结构化输出的能力。作者使用TRL库和IFStruct数据集，展示了在少量训练步骤下，模型在JSON等格式遵循上的性能提升，并讨论了GRPO相比传统SFT的优势。",
+    "score": 8,
+    "tags": [
+      "GRPO",
+      "微调",
+      "结构化输出",
+      "350M模型",
+      "TRL",
+      "IFStruct",
+      "强化学习"
+    ],
+    "highlights": [
+      "仅需100步GRPO即可让350M模型在结构化输出任务上表现大幅提升。",
+      "GRPO通过组内相对奖励优化，比传统SFT更高效地学习格式约束。",
+      "实验基于IFStruct数据集，验证了小型模型在格式遵循上的可行性。",
+      "文章提供了使用TRL库实现GRPO的详细代码和配置示例。"
+    ]
+  },
+  {
+    "title": "Give Your Coding Agents a Memory You Own",
+    "url": "https://huggingface.co/blog/funes",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了如何为编码智能体构建一个自主可控的长期记忆系统，强调通过向量数据库和语义检索来存储和调用代码库知识，从而提升智能体的上下文理解与任务执行效率。",
+    "score": 8,
+    "tags": [
+      "coding agents",
+      "memory",
+      "vector database",
+      "semantic search",
+      "LLM",
+      "code intelligence"
+    ],
+    "highlights": [
+      "A memory you own means your coding agents can retain context across sessions without relying on external proprietary systems.",
+      "The article demonstrates a practical pipeline using embeddings and vector search to store code snippets, decisions, and project history.",
+      "Key insight: semantic memory enables agents to retrieve relevant past solutions, reducing redundant exploration and errors."
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "id": "rss-03202600-016",
+  "title": "Give Your Coding Agents a Memory You Own",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/funes",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/funes",
+  "date": "Thu, 03 Sep 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文介绍了如何为编码智能体构建一个自主可控的长期记忆系统，强调通过向量数据库和语义检索来存储和调用代码库知识，从而提升智能体的上下文理解与任务执行效率。",
+  "highlights": [
+    "A memory you own means your coding agents can retain context across sessions without relying on external proprietary systems.",
+    "The article demonstrates a practical pipeline using embeddings and vector search to store code snippets, decisions, and project history.",
+    "Key insight: semantic memory enables agents to retrieve relevant past solutions, reducing redundant exploration and errors."
+  ],
+  "score": 8,
+  "tags": [
+    "coding agents",
+    "memory",
+    "vector database",
+    "semantic search",
+    "LLM",
+    "code intelligence"
+  ]
+}

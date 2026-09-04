@@ -20,5 +20,10 @@
     "AI criticism",
     "human cognition",
     "artificial intelligence"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20260904"
+  }
 }

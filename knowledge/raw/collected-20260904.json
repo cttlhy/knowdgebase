@@ -1,0 +1,352 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-09-04",
+    "popularity": "stars:388822",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw is an AI project that emphasizes practical action across any operating system and platform, adopting a distinctive 'lobster way' approach.",
+    "score": 7,
+    "tags": [
+      "AI",
+      "cross-platform",
+      "open-source",
+      "automation"
+    ],
+    "highlights": [
+      "The AI that really does things.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-09-04",
+    "popularity": "stars:281640",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "superpowers 是一个基于代理技能的软件开发框架和方法论，旨在提供高效、可操作的开发流程。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "framework",
+      "methodology",
+      "software-development",
+      "github"
+    ],
+    "highlights": [
+      "An agentic skills framework & software development methodology that works."
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-09-04",
+    "popularity": "stars:248885",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享其个人 .agents 目录中的实用技能，面向真实工程师，涵盖开发、协作与效率提升。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "engineering",
+      "developer-tools",
+      "agents",
+      "productivity"
+    ],
+    "highlights": [
+      "Straight from my .agents directory",
+      "Skills for Real Engineers"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-09-04",
+    "popularity": "stars:247812",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC 是一个面向 Claude Code、Codex、Opencode、Cursor 等 AI 编码代理的性能优化系统，提供技能、直觉、记忆、安全及研究优先的开发支持。",
+    "score": 8,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Codex",
+      "Opencode",
+      "Cursor"
+    ],
+    "highlights": [
+      "The agent harness performance optimization system.",
+      "Skills, instincts, memory, security, and research-first development.",
+      "Supports Claude Code, Codex, Opencode, Cursor and beyond."
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-09-04",
+    "popularity": "stars:241218",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个强调与用户共同成长的智能体项目，旨在提供可扩展和适应性的代理解决方案。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "开源项目",
+      "成长型代理"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-09-04",
+    "popularity": "stars:210055",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供了一个基于Andrej Karpathy对LLM编码陷阱观察的CLAUDE.md文件，用于改善Claude Code的行为。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "Claude Code",
+      "CLAUDE.md",
+      "编码规范",
+      "Karpathy"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-09-04",
+    "popularity": "stars:203746",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理项目，旨在提供自动化的代码生成和编辑功能。",
+    "score": 7,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-09-04",
+    "popularity": "stars:203304",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，提供 400 多种集成。",
+    "score": 9,
+    "tags": [
+      "workflow automation",
+      "AI",
+      "self-hosted",
+      "integrations",
+      "fair-code"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform",
+      "native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud",
+      "400+ integrations"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-09-04",
+    "popularity": "stars:195162",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "ultraworkers/claw-code 是一个用 Rust 构建、由 Gajae-Code / LazyCodex 管理的博物馆展品项目，完全由智能体自主开发和维护，无人工干预。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI Agent",
+      "自主开发",
+      "博物馆展品",
+      "无人工干预"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-09-04",
+    "popularity": "stars:187116",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 9,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具",
+      "AutoGPT"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone, to use and to build on.",
+      "Our mission is to provide the tools, so that you can focus on what matters."
+    ]
+  },
+  {
+    "title": "The Hugging Face incident and the road ahead",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 04 Sep 2026 06:06:19 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/r8a3w9/hugging_face_incident_road_ahead\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "OpenAI 对 Hugging Face 事件进行回应，并展望未来安全与责任路径。",
+    "score": 7,
+    "tags": [
+      "AI安全",
+      "事件响应",
+      "OpenAI",
+      "Hugging Face",
+      "未来规划"
+    ],
+    "highlights": [
+      "OpenAI 承认 Hugging Face 事件的影响，并强调透明沟通的重要性。",
+      "文章提出加强模型部署前评估和持续监控的措施。",
+      "未来将推动行业合作，制定更严格的安全标准。"
+    ]
+  },
+  {
+    "title": "LLMs and self-referentiality",
+    "url": "https://scottaaronson.blog/?p=10046",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 03 Sep 2026 08:39:13 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jato3y/llms_self_referentiality\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Scott Aaronson discusses the concept of self-referentiality in large language models (LLMs), exploring how models can reason about themselves and the implications for AI safety and understanding.",
+    "score": 8,
+    "tags": [
+      "LLMs",
+      "self-referentiality",
+      "AI safety",
+      "Scott Aaronson",
+      "machine learning"
+    ],
+    "highlights": [
+      "The post examines how LLMs handle self-referential statements and the potential risks.",
+      "Aaronson connects self-referentiality to broader questions of AI consciousness and reliability.",
+      "The discussion includes practical examples and theoretical insights from a leading computer scientist."
+    ]
+  },
+  {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 03 Sep 2026 13:15:00 GMT",
+    "popularity": "",
+    "content": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "summary": "OpenAI 宣布启动“Daybreak for Frontline Defenders”计划，承诺投入10亿美元，为关键基础设施和一线防御者提供前沿网络AI、培训和支持。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "网络安全",
+      "AI",
+      "投资",
+      "关键基础设施"
+    ],
+    "highlights": [
+      "OpenAI introduces Daybreak for Frontline Defenders.",
+      "A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
+    ]
+  },
+  {
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "popularity": "",
+    "content": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "summary": "Legora 使用 GPT-6 Astra 在几分钟内审查了 41 份文档，找出了全部四个植入错误，并将财务审查工作流的性能提升了近 40%。",
+    "score": 9,
+    "tags": [
+      "GPT-6 Astra",
+      "财务审查",
+      "文档分析",
+      "效率提升",
+      "错误检测"
+    ],
+    "highlights": [
+      "在几分钟内审查了 41 份文档",
+      "找出了全部四个植入错误",
+      "性能提升近 40%"
+    ]
+  },
+  {
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "url": "https://huggingface.co/blog/Hcompany/neomme",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 03 Sep 2026 13:13:48 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "NeoMME is an efficient multimodal-native and multilingual encoder model introduced by Hcompany, designed to handle text and images jointly with strong multilingual support. The blog details its architecture, training approach, and performance benchmarks, emphasizing efficiency and versatility.",
+    "score": 8,
+    "tags": [
+      "multimodal",
+      "multilingual",
+      "encoder",
+      "efficiency",
+      "Hugging Face",
+      "model"
+    ],
+    "highlights": [
+      "NeoMME is a multimodal-native encoder that processes text and images in a unified framework.",
+      "It supports multiple languages, making it suitable for cross-lingual and multimodal tasks.",
+      "The model is designed for efficiency, reducing computational cost while maintaining high performance.",
+      "The blog provides benchmarks showing competitive results against existing models."
+    ]
+  },
+  {
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了如何使用TRL库在100步GRPO训练中微调350M参数模型，以提升其结构化输出能力，并展示了具体实现与效果。",
+    "score": 8,
+    "tags": [
+      "GRPO",
+      "微调",
+      "结构化输出",
+      "TRL",
+      "350M模型"
+    ],
+    "highlights": [
+      "在100个GRPO步骤内完成350M模型的微调，显著改善结构化输出质量。",
+      "详细说明了基于TRL库的GRPO训练流程与配置。",
+      "提供了实验对比，证明该方法在效率和效果上的优势。"
+    ]
+  }
+]

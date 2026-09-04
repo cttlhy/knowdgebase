@@ -1,0 +1,24 @@
+{
+  "id": "rss-03202608-012",
+  "title": "LLMs and self-referentiality",
+  "source": "rss",
+  "source_url": "https://scottaaronson.blog/?p=10046",
+  "status": "draft",
+  "url": "https://scottaaronson.blog/?p=10046",
+  "date": "Thu, 03 Sep 2026 08:39:13 -0500",
+  "popularity": "",
+  "summary": "Scott Aaronson discusses the concept of self-referentiality in large language models (LLMs), exploring how models can reason about themselves and the implications for AI safety and understanding.",
+  "highlights": [
+    "The post examines how LLMs handle self-referential statements and the potential risks.",
+    "Aaronson connects self-referentiality to broader questions of AI consciousness and reliability.",
+    "The discussion includes practical examples and theoretical insights from a leading computer scientist."
+  ],
+  "score": 8,
+  "tags": [
+    "LLMs",
+    "self-referentiality",
+    "AI safety",
+    "Scott Aaronson",
+    "machine learning"
+  ]
+}

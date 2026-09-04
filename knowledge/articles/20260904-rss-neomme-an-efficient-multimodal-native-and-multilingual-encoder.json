@@ -1,0 +1,26 @@
+{
+  "id": "rss-03202613-015",
+  "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/Hcompany/neomme",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/Hcompany/neomme",
+  "date": "Thu, 03 Sep 2026 13:13:48 GMT",
+  "popularity": "",
+  "summary": "NeoMME is an efficient multimodal-native and multilingual encoder model introduced by Hcompany, designed to handle text and images jointly with strong multilingual support. The blog details its architecture, training approach, and performance benchmarks, emphasizing efficiency and versatility.",
+  "highlights": [
+    "NeoMME is a multimodal-native encoder that processes text and images in a unified framework.",
+    "It supports multiple languages, making it suitable for cross-lingual and multimodal tasks.",
+    "The model is designed for efficiency, reducing computational cost while maintaining high performance.",
+    "The blog provides benchmarks showing competitive results against existing models."
+  ],
+  "score": 8,
+  "tags": [
+    "multimodal",
+    "multilingual",
+    "encoder",
+    "efficiency",
+    "Hugging Face",
+    "model"
+  ]
+}

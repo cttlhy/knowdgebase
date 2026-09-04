@@ -1,0 +1,24 @@
+{
+  "id": "rss-03202600-016",
+  "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "date": "Thu, 03 Sep 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "本文介绍了如何使用TRL库在100步GRPO训练中微调350M参数模型，以提升其结构化输出能力，并展示了具体实现与效果。",
+  "highlights": [
+    "在100个GRPO步骤内完成350M模型的微调，显著改善结构化输出质量。",
+    "详细说明了基于TRL库的GRPO训练流程与配置。",
+    "提供了实验对比，证明该方法在效率和效果上的优势。"
+  ],
+  "score": 8,
+  "tags": [
+    "GRPO",
+    "微调",
+    "结构化输出",
+    "TRL",
+    "350M模型"
+  ]
+}

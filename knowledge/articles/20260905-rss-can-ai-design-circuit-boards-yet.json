@@ -1,0 +1,24 @@
+{
+  "id": "rss-04202619-011",
+  "title": "Can AI design circuit boards yet?",
+  "source": "rss",
+  "source_url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+  "status": "draft",
+  "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+  "date": "Fri, 04 Sep 2026 19:48:29 +0000",
+  "popularity": "",
+  "summary": "文章探讨了当前AI在电路板设计领域的能力与局限，指出尽管AI在辅助布局布线等环节取得进展，但尚无法完全自主设计复杂电路板，仍需人类工程师的深度参与。",
+  "highlights": [
+    "AI在电路板设计中的角色仍是辅助而非替代。",
+    "复杂电路板的布局布线需要大量领域知识和经验，AI难以完全掌握。",
+    "当前AI工具在特定任务上表现良好，但整体设计流程的自动化仍面临瓶颈。"
+  ],
+  "score": 7,
+  "tags": [
+    "AI",
+    "电路板设计",
+    "EDA",
+    "自动化",
+    "工程挑战"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-20260905-001",
+  "title": "openclaw/openclaw",
+  "source": "github",
+  "source_url": "https://github.com/openclaw/openclaw",
+  "status": "draft",
+  "url": "https://github.com/openclaw/openclaw",
+  "date": "2026-09-05",
+  "popularity": "stars:388923",
+  "summary": "OpenClaw 是一个跨平台、跨操作系统的 AI 代理项目，强调实际执行任务的能力，以龙虾为吉祥物，口号是‘真正做事的 AI’。",
+  "highlights": [
+    "The AI that really does things.",
+    "Any OS. Any Platform.",
+    "The lobster way. 🦞"
+  ],
+  "score": 8,
+  "tags": [
+    "AI",
+    "agent",
+    "cross-platform",
+    "open-source",
+    "automation"
+  ]
+}

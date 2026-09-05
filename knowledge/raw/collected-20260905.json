@@ -1,0 +1,393 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-09-05",
+    "popularity": "stars:388923",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的 AI 代理项目，强调实际执行任务的能力，以龙虾为吉祥物，口号是‘真正做事的 AI’。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "agent",
+      "cross-platform",
+      "open-source",
+      "automation"
+    ],
+    "highlights": [
+      "The AI that really does things.",
+      "Any OS. Any Platform.",
+      "The lobster way. 🦞"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-09-05",
+    "popularity": "stars:281936",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架和软件开发方法论，强调实用性和有效性。",
+    "score": 8,
+    "tags": [
+      "agentic",
+      "skills",
+      "framework",
+      "methodology",
+      "software development"
+    ],
+    "highlights": [
+      "An agentic skills framework",
+      "software development methodology that works"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-09-05",
+    "popularity": "stars:251400",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享其个人 .agents 目录中的实用技能集合，面向真实工程师，涵盖开发、协作与工具使用等实战经验。",
+    "score": 8,
+    "tags": [
+      "skills",
+      "engineering",
+      "agents",
+      "developer-tools",
+      "best-practices"
+    ],
+    "highlights": [
+      "Straight from my .agents directory",
+      "Skills for Real Engineers"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-09-05",
+    "popularity": "stars:249022",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "ECC is an agent harness performance optimization system designed to enhance development workflows across multiple AI coding tools including Claude Code, Codex, Opencode, and Cursor. It focuses on skills, instincts, memory, security, and research-first development practices.",
+    "score": 8,
+    "tags": [
+      "agent harness",
+      "performance optimization",
+      "AI coding tools",
+      "development workflow",
+      "memory",
+      "security",
+      "research-first"
+    ],
+    "highlights": [
+      "Optimizes agent harness performance for multiple AI coding tools",
+      "Emphasizes skills, instincts, memory, and security",
+      "Supports Claude Code, Codex, Opencode, Cursor and beyond"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-09-05",
+    "popularity": "stars:241730",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个与用户共同成长的智能体项目，强调持续进化和适应性。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "NousResearch",
+      "成长型系统"
+    ],
+    "highlights": [
+      "The agent that grows with you"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-09-05",
+    "popularity": "stars:210262",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该仓库提供了一个基于Andrej Karpathy对LLM编码陷阱观察的CLAUDE.md文件，用于改善Claude Code的行为。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "Claude Code",
+      "CLAUDE.md",
+      "编码实践",
+      "Karpathy"
+    ],
+    "highlights": [
+      "A single CLAUDE.md file to improve Claude Code behavior",
+      "derived from Andrej Karpathy's observations on LLM coding pitfalls"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-09-05",
+    "popularity": "stars:204403",
+    "content": "The open source coding agent.",
+    "summary": "opencode 是一个开源的编码代理项目，旨在提供自动化的代码生成和编辑功能。",
+    "score": 8,
+    "tags": [
+      "coding agent",
+      "open source",
+      "automation"
+    ],
+    "highlights": [
+      "The open source coding agent."
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-09-05",
+    "popularity": "stars:203418",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或使用云服务，并提供超过400个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "公平代码",
+      "自托管",
+      "集成",
+      "可视化编程"
+    ],
+    "highlights": [
+      "Fair-code workflow automation platform with native AI capabilities",
+      "Combine visual building with custom code",
+      "self-host or cloud, 400+ integrations"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-09-05",
+    "popularity": "stars:195170",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "ultraworkers/claw-code 是一个用 Rust 构建的、由代理管理的博物馆展品，基于 Gajae-Code / LazyCodex 开发，全程无人工干预。",
+    "score": 8,
+    "tags": [
+      "Rust",
+      "AI代理",
+      "博物馆展品",
+      "自动化开发",
+      "无人工干预"
+    ],
+    "highlights": [
+      "An agent-managed museum exhibit",
+      "built in Rust with Gajae-Code / LazyCodex",
+      "developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-09-05",
+    "popularity": "stars:187142",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是一个旨在让 AI 对所有人可访问、可构建的开源项目，提供工具以帮助用户专注于重要事务。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "开源",
+      "自动化",
+      "工具"
+    ],
+    "highlights": [
+      "AutoGPT is the vision of accessible AI for everyone",
+      "to use and to build on",
+      "provide the tools, so that you can focus on what matters"
+    ]
+  },
+  {
+    "title": "Can AI design circuit boards yet?",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Fri, 04 Sep 2026 19:48:29 +0000",
+    "popularity": "",
+    "content": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 269 # Comments: 166",
+    "summary": "文章探讨了当前AI在电路板设计领域的能力与局限，指出尽管AI在辅助布局布线等环节取得进展，但尚无法完全自主设计复杂电路板，仍需人类工程师的深度参与。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "电路板设计",
+      "EDA",
+      "自动化",
+      "工程挑战"
+    ],
+    "highlights": [
+      "AI在电路板设计中的角色仍是辅助而非替代。",
+      "复杂电路板的布局布线需要大量领域知识和经验，AI难以完全掌握。",
+      "当前AI工具在特定任务上表现良好，但整体设计流程的自动化仍面临瓶颈。"
+    ]
+  },
+  {
+    "title": "Corporate America is getting hooked on open-source AI",
+    "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Fri, 04 Sep 2026 15:33:45 +0000",
+    "popularity": "",
+    "content": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 298 # Comments: 272",
+    "summary": "文章探讨了美国企业界日益依赖开源AI模型的趋势，分析了其背后的成本、灵活性与控制权考量，并提及Anthropic和OpenAI等主要AI公司对此现象的反应及潜在影响。",
+    "score": 8,
+    "tags": [
+      "开源AI",
+      "企业采用",
+      "AI成本",
+      "Anthropic",
+      "OpenAI",
+      "技术趋势"
+    ],
+    "highlights": [
+      "Corporate America is getting hooked on open-source AI",
+      "文章分析了企业转向开源AI的动机，包括降低成本和避免供应商锁定",
+      "提及主要AI公司如Anthropic和OpenAI对开源模型崛起的应对策略"
+    ]
+  },
+  {
+    "title": "Using machine learning on my Guitar Hero Controller",
+    "url": "https://p0ly.com/ml_strummer.html",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 04 Sep 2026 10:23:26 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hhogjo/using_machine_learning_on_my_guitar_hero\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "作者尝试将机器学习应用于吉他英雄控制器，探索如何通过ML技术改进游戏体验或控制器性能。",
+    "score": 6,
+    "tags": [
+      "machine learning",
+      "guitar hero",
+      "controller",
+      "game"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "LLMs and self-referentiality",
+    "url": "https://scottaaronson.blog/?p=10046",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 03 Sep 2026 08:39:13 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/jato3y/llms_self_referentiality\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Scott Aaronson discusses the concept of self-referentiality in large language models (LLMs), exploring how models can reason about themselves and the implications for AI safety and understanding.",
+    "score": 8,
+    "tags": [
+      "LLM",
+      "self-referentiality",
+      "AI safety",
+      "Scott Aaronson"
+    ],
+    "highlights": [
+      "The post examines how LLMs handle self-referential statements and paradoxes.",
+      "Aaronson connects self-referentiality to broader questions about machine consciousness and reasoning.",
+      "The discussion includes practical examples and theoretical insights from a leading AI researcher."
+    ]
+  },
+  {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 03 Sep 2026 13:15:00 GMT",
+    "popularity": "",
+    "content": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "summary": "OpenAI 推出 Daybreak for Frontline Defenders 计划，承诺投入 10 亿美元，扩大前沿网络 AI、培训和支持对关键服务的可及性。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "网络安全",
+      "AI",
+      "关键基础设施",
+      "投资"
+    ],
+    "highlights": [
+      "OpenAI introduces Daybreak for Frontline Defenders.",
+      "A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
+    ]
+  },
+  {
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "popularity": "",
+    "content": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "summary": "Playco 使用 GPT-6 Astra 从同一个灰盒基础构建了三个主题游戏原型，并报告称与之前的模型相比，手动修复减少了 50%。",
+    "score": 8,
+    "tags": [
+      "GPT-6 Astra",
+      "游戏原型",
+      "Playco",
+      "效率提升",
+      "AI应用"
+    ],
+    "highlights": [
+      "Playco built three themed game prototypes from one grey box foundation",
+      "reported 50% fewer manual fixes than with the previous model"
+    ]
+  },
+  {
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "url": "https://huggingface.co/blog/Hcompany/neomme",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 03 Sep 2026 13:13:48 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "NeoMME 是一个高效的多模态原生多语言编码器，由 Hcompany 发布，旨在统一处理文本、图像等多种模态，并支持多语言任务，在性能和效率上均有优化。",
+    "score": 8,
+    "tags": [
+      "多模态",
+      "多语言",
+      "编码器",
+      "NeoMME",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "NeoMME 是一个多模态原生编码器，支持文本和图像输入。",
+      "该模型强调多语言能力，适用于跨语言场景。",
+      "设计注重效率，适合实际部署。"
+    ]
+  },
+  {
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍了如何通过仅100步GRPO（组相对策略优化）微调一个350M参数的语言模型，以显著提升其结构化输出能力。作者使用TRL库和IFStruct数据集，展示了在预算受限条件下，通过精心设计的奖励函数和训练策略，模型在JSON格式生成和指令遵循方面取得了接近更大模型的性能，并提供了详细的实现代码和实验对比。",
+    "score": 8,
+    "tags": [
+      "GRPO",
+      "微调",
+      "结构化输出",
+      "TRL",
+      "IFStruct",
+      "350M模型",
+      "强化学习"
+    ],
+    "highlights": [
+      "在仅100个GRPO步骤内，350M模型的结构化输出准确率提升了超过20个百分点。",
+      "奖励函数设计是成功关键，包括格式奖励、内容匹配奖励和可解析性奖励。",
+      "实验表明，GRPO在低资源微调场景下优于传统SFT，且收敛速度快。",
+      "作者开源了完整训练脚本和配置，便于复现。"
+    ]
+  }
+]

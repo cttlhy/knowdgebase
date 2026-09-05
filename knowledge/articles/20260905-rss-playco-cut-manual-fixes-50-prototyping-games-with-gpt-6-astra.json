@@ -1,0 +1,23 @@
+{
+  "id": "rss-03202612-016",
+  "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+  "source": "rss",
+  "source_url": "https://openai.com/index/playco-game-prototyping-with-astra",
+  "status": "draft",
+  "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+  "date": "Thu, 03 Sep 2026 12:00:00 GMT",
+  "popularity": "",
+  "summary": "Playco 使用 GPT-6 Astra 从同一个灰盒基础构建了三个主题游戏原型，并报告称与之前的模型相比，手动修复减少了 50%。",
+  "highlights": [
+    "Playco built three themed game prototypes from one grey box foundation",
+    "reported 50% fewer manual fixes than with the previous model"
+  ],
+  "score": 8,
+  "tags": [
+    "GPT-6 Astra",
+    "游戏原型",
+    "Playco",
+    "效率提升",
+    "AI应用"
+  ]
+}

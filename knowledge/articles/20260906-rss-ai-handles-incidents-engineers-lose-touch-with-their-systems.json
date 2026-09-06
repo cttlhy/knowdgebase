@@ -1,0 +1,24 @@
+{
+  "id": "rss-05202607-011",
+  "title": "AI handles incidents, engineers lose touch with their systems",
+  "source": "rss",
+  "source_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+  "status": "draft",
+  "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+  "date": "Sat, 05 Sep 2026 07:52:50 +0000",
+  "popularity": "",
+  "summary": "文章探讨了AI在系统运维中处理事故的利弊，指出虽然AI能提高效率，但可能导致工程师对系统失去直接接触和理解，从而削弱其故障排查和创新能力。作者基于个人经验，分析了过度依赖AI的风险，并提出了平衡人机协作的建议。",
+  "highlights": [
+    "AI处理事故虽快，但工程师逐渐失去对系统底层逻辑的直觉。",
+    "长期依赖AI可能导致团队在异常场景下无法有效干预。",
+    "建议保留人工演练和故障复盘，以维持工程师的实战能力。"
+  ],
+  "score": 7,
+  "tags": [
+    "AI运维",
+    "事故处理",
+    "工程师技能",
+    "人机协作",
+    "系统可靠性"
+  ]
+}

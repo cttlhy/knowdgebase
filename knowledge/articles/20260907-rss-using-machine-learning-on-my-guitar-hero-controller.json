@@ -1,0 +1,23 @@
+{
+  "id": "rss-04202610-011",
+  "title": "Using machine learning on my Guitar Hero Controller",
+  "source": "rss",
+  "source_url": "https://p0ly.com/ml_strummer.html",
+  "status": "draft",
+  "url": "https://p0ly.com/ml_strummer.html",
+  "date": "Fri, 04 Sep 2026 10:23:26 -0500",
+  "popularity": "",
+  "summary": "作者尝试将机器学习应用于吉他英雄控制器，通过收集传感器数据训练模型来识别玩家的弹奏动作，并探讨了其可行性与局限性。",
+  "highlights": [
+    "Using machine learning on my Guitar Hero Controller",
+    "Comments"
+  ],
+  "score": 7,
+  "tags": [
+    "machine learning",
+    "guitar hero",
+    "controller",
+    "sensor data",
+    "gesture recognition"
+  ]
+}

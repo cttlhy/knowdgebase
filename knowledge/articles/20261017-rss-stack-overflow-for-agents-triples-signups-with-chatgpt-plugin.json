@@ -1,0 +1,24 @@
+{
+  "id": "rss-16202600-016",
+  "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+  "source": "rss",
+  "source_url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+  "status": "draft",
+  "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+  "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "Two engineers used Codex to build Stack Overflow for Agents in a few weeks, and its ChatGPT plugin drove up to 10x growth in agent creation, tripling signups.",
+  "highlights": [
+    "Built by two engineers in a few weeks with Codex",
+    "ChatGPT plugin drove up to 10x growth in agent creation",
+    "Tripled signups"
+  ],
+  "score": 7,
+  "tags": [
+    "Stack Overflow",
+    "ChatGPT plugin",
+    "Codex",
+    "agent creation",
+    "growth"
+  ]
+}

@@ -1,0 +1,308 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-10-18",
+    "popularity": "stars:392338",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调真正执行任务的能力，并以龙虾风格作为品牌特色。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调真正执行任务",
+      "龙虾风格品牌"
+    ]
+  },
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-10-18",
+    "popularity": "stars:315380",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，范围从应用行为到原生二进制文件。",
+    "score": 7,
+    "tags": [
+      "reverse-engineering",
+      "agents",
+      "binary-analysis",
+      "app-behavior",
+      "github"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-10-18",
+    "popularity": "stars:301428",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个在 GitHub 上发布的开源项目，定位为可用的智能体技能框架与软件开发方法论，旨在为 AI 智能体提供可复用的技能组织方式，并配套一套行之有效的软件开发流程。",
+    "score": 7,
+    "tags": [
+      "agentic framework",
+      "skills framework",
+      "software development methodology",
+      "AI agents",
+      "open source"
+    ],
+    "highlights": [
+      "提供智能体技能框架",
+      "包含软件开发方法论",
+      "强调实用有效"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-10-18",
+    "popularity": "stars:295662",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 .agents 目录中的技能集合，面向真正的工程师。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "AI agents",
+      "skills",
+      "developer tools"
+    ],
+    "highlights": [
+      "来自 .agents 目录的实用技能",
+      "面向真正的工程师"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-10-18",
+    "popularity": "stars:282962",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编码代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全与研究优先开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发者工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理框架性能优化系统",
+      "支持 Claude Code、Codex、Opencode、Cursor 等多种工具",
+      "涵盖技能、本能、记忆、安全与研究优先开发"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-10-18",
+    "popularity": "stars:254816",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，定位为随用户成长的智能体（agent），强调可扩展性和持续学习能力。",
+    "score": 6,
+    "tags": [
+      "agent",
+      "AI",
+      "NousResearch",
+      "GitHub",
+      "智能体"
+    ],
+    "highlights": [
+      "随用户成长的智能体",
+      "NousResearch 出品",
+      "开源 GitHub 项目"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-10-18",
+    "popularity": "stars:220826",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM 编码",
+      "提示工程",
+      "Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-10-18",
+    "popularity": "stars:215957",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，提供自动化编码辅助能力。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-10-18",
+    "popularity": "stars:207880",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 8,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "可视化编程",
+      "集成平台"
+    ],
+    "highlights": [
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-10-18",
+    "popularity": "stars:194915",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由 AI 代理自主管理的博物馆展览项目，使用 Rust 语言和 Gajae-Code / LazyCodex 构建，开发与维护全程无需人工干预。",
+    "score": 7,
+    "tags": [
+      "Rust",
+      "AI Agent",
+      "自动化开发",
+      "开源项目",
+      "博物馆展览"
+    ],
+    "highlights": [
+      "由 AI 代理自主管理博物馆展览",
+      "使用 Rust 与 Gajae-Code / LazyCodex 构建",
+      "开发与维护全程无人工干预"
+    ]
+  },
+  {
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 16 Oct 2026 19:00:00 GMT",
+    "popularity": "",
+    "content": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "summary": "Itaú is applying its AI First strategy to customers and employees through ia.i, a conversational interface, and the IARA governance platform, operating in one of Brazil's most regulated sectors.",
+    "score": 7,
+    "tags": [
+      "generative AI",
+      "banking",
+      "customer experience",
+      "AI governance",
+      "Brazil"
+    ],
+    "highlights": [
+      "ia.i conversational interface for customers",
+      "IARA governance platform",
+      "AI First strategy applied to customers and employees",
+      "Operating in a highly regulated sector"
+    ]
+  },
+  {
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "summary": "Benefit Street Partners uses OpenAI Codex to help Anant Kumar build tools for comparing loan valuations and analyzing credit agreements, enabling faster code review and follow-ups.",
+    "score": 6,
+    "tags": [
+      "OpenAI Codex",
+      "financial services",
+      "loan valuation",
+      "credit agreement analysis",
+      "code review",
+      "case study"
+    ],
+    "highlights": [
+      "Anant Kumar builds tools to compare loan valuations and analyze credit agreements.",
+      "Uses Codex for code review and faster follow-ups."
+    ]
+  },
+  {
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 16 Oct 2026 01:44:47 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "NVIDIA 发布关于扩展印度语言预训练的工作，使用 2.8 万亿 token 并开源数据生成流水线，以推动 Indic 语言模型发展。",
+    "score": 8,
+    "tags": [
+      "Indic NLP",
+      "pretraining",
+      "data pipeline",
+      "large language models",
+      "NVIDIA"
+    ],
+    "highlights": [
+      "2.8 万亿 token 的 Indic 预训练数据",
+      "开源数据生成流水线",
+      "推动印度语言大模型发展"
+    ]
+  },
+  {
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "url": "https://huggingface.co/blog/reflection-beam",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Reflection 发布 Beam，一个 501B 参数的开源模型，用户可拥有、定制和扩展。",
+    "score": 7,
+    "tags": [
+      "开源模型",
+      "大语言模型",
+      "Reflection",
+      "Beam",
+      "模型定制"
+    ],
+    "highlights": [
+      "501B 参数开源模型",
+      "可拥有、定制和扩展"
+    ]
+  }
+]

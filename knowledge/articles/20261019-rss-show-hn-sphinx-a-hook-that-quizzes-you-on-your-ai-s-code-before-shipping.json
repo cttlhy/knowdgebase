@@ -1,0 +1,25 @@
+{
+  "id": "rss-18202604-011",
+  "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+  "source": "rss",
+  "source_url": "https://sphinx-six-theta.vercel.app/",
+  "status": "draft",
+  "url": "https://sphinx-six-theta.vercel.app/",
+  "date": "Sun, 18 Oct 2026 04:33:49 +0000",
+  "popularity": "",
+  "summary": "Sphinx 是一个开源工具，可接入现有编码代理工作流，在每次推送到生产环境时弹出问卷，检验开发者是否理解所推送代码的工作原理。",
+  "highlights": [
+    "开源免费",
+    "接入现有编码代理工作流",
+    "推送生产前弹出问卷",
+    "检验开发者对代码的理解"
+  ],
+  "score": 7,
+  "tags": [
+    "开源工具",
+    "AI编码代理",
+    "代码审查",
+    "开发者工具",
+    "生产部署"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-19202607-012",
+  "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2605.00414",
+  "status": "draft",
+  "url": "https://arxiv.org/abs/2605.00414",
+  "date": "Mon, 19 Oct 2026 07:15:11 -0500",
+  "popularity": "",
+  "summary": "该论文提出了一种统一决策树与扩散模型的方法，探索树模型与基于流的生成模型之间的双向联系。",
+  "highlights": [
+    "统一决策树与扩散模型",
+    "树与流的双向转换",
+    "连接判别式与生成式建模"
+  ],
+  "score": 7,
+  "tags": [
+    "决策树",
+    "扩散模型",
+    "生成模型",
+    "机器学习",
+    "统一框架"
+  ]
+}

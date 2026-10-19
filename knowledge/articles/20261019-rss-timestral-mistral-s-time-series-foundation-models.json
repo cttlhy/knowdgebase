@@ -1,0 +1,22 @@
+{
+  "id": "rss-19202606-013",
+  "title": "Timestral: Mistral's time-series foundation models",
+  "source": "rss",
+  "source_url": "https://mistral.ai/news/timestral/",
+  "status": "draft",
+  "url": "https://mistral.ai/news/timestral/",
+  "date": "Mon, 19 Oct 2026 06:47:04 -0500",
+  "popularity": "",
+  "summary": "Mistral 发布 Timestral 时间序列基础模型的公告页面，内容主要为指向 Lobste.rs 讨论的链接。",
+  "highlights": [
+    "Mistral 推出 Timestral 时间序列基础模型",
+    "页面内容仅为 Lobste.rs 评论链接"
+  ],
+  "score": 3,
+  "tags": [
+    "Mistral",
+    "时间序列",
+    "基础模型",
+    "AI"
+  ]
+}

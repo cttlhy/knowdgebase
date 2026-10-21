@@ -1,0 +1,31 @@
+{
+  "id": "rss-21202612-013",
+  "title": "OpenAI models are coming to Google Cloud",
+  "source": "rss",
+  "source_url": "https://openai.com/index/openai-models-google-cloud",
+  "status": "draft",
+  "url": "https://openai.com/index/openai-models-google-cloud",
+  "date": "Wed, 21 Oct 2026 12:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI and Google Cloud are partnering to bring OpenAI's frontier models and Codex workflows to Gemini's Model Garden, accessible via Google Cloud Marketplace.",
+  "highlights": [
+    "OpenAI models and Codex workflows coming to Gemini's Model Garden",
+    "Available through Google Cloud Marketplace",
+    "Partnership between OpenAI and Google Cloud"
+  ],
+  "score": 8,
+  "tags": [
+    "OpenAI",
+    "Google Cloud",
+    "partnership",
+    "AI models",
+    "Codex",
+    "Gemini Model Garden",
+    "cloud marketplace"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261021"
+  }
+}

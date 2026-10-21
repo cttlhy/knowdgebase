@@ -20,5 +20,10 @@
     "工作流程优化",
     "患者护理",
     "OpenAI"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261021"
+  }
 }

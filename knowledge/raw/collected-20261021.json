@@ -1,0 +1,354 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-10-21",
+    "popularity": "stars:392647",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，并以龙虾为品牌形象。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源项目",
+      "GitHub"
+    ],
+    "highlights": [
+      "强调 AI 真正执行任务的能力",
+      "支持任意操作系统和平台",
+      "以龙虾为品牌标识"
+    ]
+  },
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-10-21",
+    "popularity": "stars:354044",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任何对象进行逆向工程的 GitHub 项目，范围从应用行为到原生二进制文件。",
+    "score": 7,
+    "tags": [
+      "reverse-engineering",
+      "agents",
+      "binary-analysis",
+      "app-behavior",
+      "github"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件的全范围"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-10-21",
+    "popularity": "stars:302904",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个在 GitHub 上发布的智能体技能框架与软件开发方法论，强调实用有效。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development",
+      "methodology",
+      "framework",
+      "GitHub"
+    ],
+    "highlights": [
+      "智能体技能框架",
+      "软件开发方法论",
+      "强调实用有效"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-10-21",
+    "popularity": "stars:299362",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库，收录其 .agents 目录中的实用技能，面向真正的工程师。",
+    "score": 7,
+    "tags": [
+      "GitHub",
+      "AI Agents",
+      "Skills",
+      "Developer Tools",
+      "Matt Pocock"
+    ],
+    "highlights": [
+      "来自 .agents 目录的实用技能",
+      "面向真正的工程师",
+      "由 Matt Pocock 维护"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-10-21",
+    "popularity": "stars:285264",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编码代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全和研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理框架性能优化系统",
+      "支持 Claude Code、Codex、Opencode、Cursor 等多种工具",
+      "涵盖技能、本能、记忆、安全与研究优先开发"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-10-21",
+    "popularity": "stars:255757",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 上的开源项目，定位为随用户成长的智能体（agent）。",
+    "score": 6,
+    "tags": [
+      "AI agent",
+      "开源项目",
+      "NousResearch",
+      "GitHub"
+    ],
+    "highlights": [
+      "随用户成长的智能体",
+      "由 NousResearch 发布"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-10-21",
+    "popularity": "stars:221724",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM编码",
+      "提示工程",
+      "Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-10-21",
+    "popularity": "stars:219483",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码智能体项目，托管于 GitHub，提供自动化编码辅助能力。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码智能体",
+      "AI编程",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码智能体",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-10-21",
+    "popularity": "stars:208213",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "集成",
+      "自托管"
+    ],
+    "highlights": [
+      "公平代码工作流自动化平台",
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-10-21",
+    "popularity": "stars:195070",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由智能体管理的博物馆展览项目，使用 Rust 和 Gajae-Code / LazyCodex 构建，开发与维护全程无人工干预。",
+    "score": 7,
+    "tags": [
+      "Rust",
+      "AI Agent",
+      "自动化开发",
+      "开源项目",
+      "博物馆展览"
+    ],
+    "highlights": [
+      "由智能体自主管理博物馆展览",
+      "使用 Rust 与 Gajae-Code / LazyCodex 构建",
+      "开发与维护全程无人工干预"
+    ]
+  },
+  {
+    "title": "Timestral: Mistral's time-series foundation models",
+    "url": "https://mistral.ai/news/timestral/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 19 Oct 2026 06:47:04 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7r9dcc/timestral_mistral_s_time_series\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Mistral 发布 Timestral 时间序列基础模型，相关讨论见 Lobste.rs。",
+    "score": 6,
+    "tags": [
+      "Mistral",
+      "时间序列",
+      "基础模型",
+      "AI"
+    ],
+    "highlights": [
+      "Mistral 推出时间序列基础模型 Timestral",
+      "Lobste.rs 上有相关讨论"
+    ]
+  },
+  {
+    "title": "Neural Networks Are Already Clean",
+    "url": "https://already-clean.goodfire.com/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 15 Oct 2026 17:25:03 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/enjlpn/neural_networks_are_already_clean\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该页面标题为“Neural Networks Are Already Clean”，链接指向 Goodfire 公司的一个项目页面，内容仅包含指向 Lobste.rs 评论区的链接，未提供实质性文章正文。",
+    "score": 3,
+    "tags": [
+      "neural networks",
+      "Goodfire",
+      "Lobste.rs",
+      "链接聚合"
+    ],
+    "highlights": [
+      "标题暗示神经网络已具备某种'清洁'特性",
+      "内容仅为 Lobste.rs 评论区链接，缺乏正文信息"
+    ]
+  },
+  {
+    "title": "OpenAI models are coming to Google Cloud",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 21 Oct 2026 12:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "summary": "OpenAI and Google Cloud are partnering to bring OpenAI's frontier models and Codex workflows to Gemini's Model Garden, accessible via Google Cloud Marketplace.",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "Google Cloud",
+      "partnership",
+      "AI models",
+      "Codex",
+      "Gemini Model Garden",
+      "cloud marketplace"
+    ],
+    "highlights": [
+      "OpenAI models and Codex workflows coming to Gemini's Model Garden",
+      "Available through Google Cloud Marketplace",
+      "Partnership between OpenAI and Google Cloud"
+    ]
+  },
+  {
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 20 Oct 2026 10:00:00 GMT",
+    "popularity": "",
+    "content": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "summary": "An independent Schlotzsky’s and Cinnabon franchisee used ChatGPT Work to cut menu repricing time by 95% and reconcile cash in 94% less time, building a workflow that could free up $100K in cash flow.",
+    "score": 8,
+    "tags": [
+      "ChatGPT Work",
+      "franchise operations",
+      "cash reconciliation",
+      "menu repricing",
+      "workflow automation",
+      "small business"
+    ],
+    "highlights": [
+      "Reconciles cash in 94% less time",
+      "Cut menu repricing time by 95%",
+      "Workflow could free up $100K in cash flow"
+    ]
+  },
+  {
+    "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+    "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 21 Oct 2026 12:51:24 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "NVIDIA Kumo Forecast 是一种时间序列预测方法，结合预训练时间序列表示、历史模式检索和可解释性，旨在提升预测准确性和模型透明度。",
+    "score": 8,
+    "tags": [
+      "时间序列预测",
+      "预训练模型",
+      "历史模式检索",
+      "可解释性",
+      "NVIDIA"
+    ],
+    "highlights": [
+      "结合预训练时间序列表示",
+      "引入历史模式检索机制",
+      "强调模型可解释性"
+    ]
+  },
+  {
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "url": "https://huggingface.co/blog/allenai/fairstress",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 20 Oct 2026 16:09:19 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "FairStress 是 AllenAI 提出的用于更深入评估大语言模型决策公平性的方法/框架，相关介绍发布在 Hugging Face 博客上。",
+    "score": 7,
+    "tags": [
+      "LLM公平性",
+      "模型评估",
+      "决策公平",
+      "AllenAI",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "提出 FairStress 用于评估 LLM 决策公平性",
+      "强调更深入的公平性评估",
+      "由 AllenAI 发布"
+    ]
+  }
+]

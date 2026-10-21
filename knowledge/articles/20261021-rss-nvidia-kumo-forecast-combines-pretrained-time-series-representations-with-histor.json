@@ -1,0 +1,29 @@
+{
+  "id": "rss-21202612-015",
+  "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+  "date": "Wed, 21 Oct 2026 12:51:24 GMT",
+  "popularity": "",
+  "summary": "NVIDIA Kumo Forecast 是一种时间序列预测方法，结合预训练时间序列表示、历史模式检索和可解释性，旨在提升预测准确性和模型透明度。",
+  "highlights": [
+    "结合预训练时间序列表示",
+    "引入历史模式检索机制",
+    "强调模型可解释性"
+  ],
+  "score": 8,
+  "tags": [
+    "时间序列预测",
+    "预训练模型",
+    "历史模式检索",
+    "可解释性",
+    "NVIDIA"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261021"
+  }
+}

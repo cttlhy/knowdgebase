@@ -1,0 +1,354 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-10-22",
+    "popularity": "stars:392753",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，并以龙虾为品牌形象。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调实际执行能力",
+      "龙虾品牌形象"
+    ]
+  },
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-10-22",
+    "popularity": "stars:362822",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，覆盖从应用行为到原生二进制文件的分析。",
+    "score": 7,
+    "tags": [
+      "reverse-engineering",
+      "agents",
+      "binary-analysis",
+      "app-behavior",
+      "github"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件",
+      "适用于多种逆向分析场景"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-10-22",
+    "popularity": "stars:303466",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个在 GitHub 上发布的代理技能框架与软件开发方法论，强调实用有效。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development",
+      "methodology",
+      "framework",
+      "GitHub"
+    ],
+    "highlights": [
+      "代理技能框架",
+      "软件开发方法论",
+      "强调实用有效"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-10-22",
+    "popularity": "stars:300484",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "mattpocock/skills 是一个 GitHub 仓库，提供面向真实工程师的技能集合，内容直接来自作者的 .agents 目录。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能",
+      "工程师",
+      "agents",
+      "开发工具"
+    ],
+    "highlights": [
+      "面向真实工程师的技能",
+      "直接来自作者的 .agents 目录"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-10-22",
+    "popularity": "stars:286136",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 Claude Code、Codex、Opencode、Cursor 等 AI 编码代理的性能优化系统，提供技能、本能、记忆、安全和研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理框架性能优化系统",
+      "支持多种 AI 编码工具",
+      "涵盖技能、本能、记忆与安全",
+      "研究优先的开发模式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-10-22",
+    "popularity": "stars:256133",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，定位为随用户成长的智能体（agent），强调可扩展与持续演进。",
+    "score": 6,
+    "tags": [
+      "agent",
+      "NousResearch",
+      "GitHub",
+      "AI"
+    ],
+    "highlights": [
+      "随用户成长的智能体",
+      "NousResearch 出品"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-10-22",
+    "popularity": "stars:222275",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM 编码",
+      "提示工程",
+      "Karpathy",
+      "开发者工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-10-22",
+    "popularity": "stars:219994",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，提供自动化编码辅助能力。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI编程",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-10-22",
+    "popularity": "stars:208317",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "集成平台",
+      "可视化编程"
+    ],
+    "highlights": [
+      "公平代码工作流自动化平台",
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-10-22",
+    "popularity": "stars:195072",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "该项目是一个由AI代理自主管理的博物馆展览，使用Rust语言和Gajae-Code/LazyCodex构建，开发与维护全程无人工干预。",
+    "score": 7,
+    "tags": [
+      "Rust",
+      "AI代理",
+      "自主开发",
+      "博物馆展览",
+      "开源项目"
+    ],
+    "highlights": [
+      "由AI代理自主管理",
+      "使用Rust构建",
+      "基于Gajae-Code/LazyCodex",
+      "开发与维护无人工干预"
+    ]
+  },
+  {
+    "title": "How to Run Turing-Complete Malware in PyTorch's Backward Pass",
+    "url": "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 21 Oct 2026 16:06:35 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/urfgc9/how_run_turing_complete_malware_pytorch_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章探讨如何在 PyTorch 的反向传播过程中运行图灵完备的恶意软件，展示了一种利用自动微分机制执行任意代码的技术。",
+    "score": 7,
+    "tags": [
+      "PyTorch",
+      "恶意软件",
+      "反向传播",
+      "图灵完备",
+      "安全"
+    ],
+    "highlights": [
+      "在 PyTorch 反向传播中运行图灵完备代码",
+      "利用自动微分机制执行任意代码",
+      "安全与机器学习交叉的技术探讨"
+    ]
+  },
+  {
+    "title": "Timestral: Mistral's time-series foundation models",
+    "url": "https://mistral.ai/news/timestral/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 19 Oct 2026 06:47:04 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7r9dcc/timestral_mistral_s_time_series\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Mistral 发布 Timestral 时间序列基础模型，相关讨论见 Lobste.rs 评论区。",
+    "score": 5,
+    "tags": [
+      "Mistral",
+      "时间序列",
+      "基础模型",
+      "AI"
+    ],
+    "highlights": [
+      "Mistral 推出时间序列基础模型 Timestral",
+      "Lobste.rs 上有相关讨论"
+    ]
+  },
+  {
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "url": "https://openai.com/index/att-legal",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 21 Oct 2026 17:00:00 GMT",
+    "popularity": "",
+    "content": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "summary": "AT&T 与 OpenAI 合作，通过其 LegalEdge 团队重新设计法律工作流程，使法律知识更易获取，并优化案件受理与法律判断的规模化应用。",
+    "score": 7,
+    "tags": [
+      "AT&T",
+      "OpenAI",
+      "法律科技",
+      "企业应用",
+      "知识管理"
+    ],
+    "highlights": [
+      "AT&T 与 OpenAI 合作提升法律知识可及性",
+      "LegalEdge 团队重新思考法律案件受理流程",
+      "规模化应用法律判断"
+    ]
+  },
+  {
+    "title": "Broad access through consistent standards",
+    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 21 Oct 2026 21:00:00 GMT",
+    "popularity": "",
+    "content": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "summary": "OpenAI 与分发合作伙伴合作，维护一致的防护措施，支持负责任的使用，并在使用政策中明确期望。",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "分发合作伙伴",
+      "安全防护",
+      "负责任使用",
+      "使用政策"
+    ],
+    "highlights": [
+      "与分发合作伙伴合作维护一致防护措施",
+      "支持负责任的使用",
+      "在使用政策中明确期望"
+    ]
+  },
+  {
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 22 Oct 2026 07:51:31 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客介绍IBM Research的Granite时间序列模型集成预测方法，涵盖模型架构、集成策略及在预测任务中的应用。",
+    "score": 7,
+    "tags": [
+      "时间序列",
+      "集成预测",
+      "IBM Granite",
+      "机器学习",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "Granite时间序列模型",
+      "集成预测方法",
+      "IBM Research发布"
+    ]
+  },
+  {
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 21 Oct 2026 18:26:30 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "NVIDIA Kumo Relational 是一种无需训练即可在关系数据上超越监督机器学习的方法。",
+    "score": 8,
+    "tags": [
+      "NVIDIA",
+      "关系数据",
+      "机器学习",
+      "无监督学习",
+      "Kumo"
+    ],
+    "highlights": [
+      "无需训练即可在关系数据上超越监督机器学习",
+      "NVIDIA Kumo Relational 方法"
+    ]
+  }
+]

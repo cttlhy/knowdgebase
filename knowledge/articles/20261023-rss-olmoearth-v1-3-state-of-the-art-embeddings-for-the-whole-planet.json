@@ -1,0 +1,29 @@
+{
+  "id": "rss-22202616-018",
+  "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+  "date": "Thu, 22 Oct 2026 16:11:31 GMT",
+  "popularity": "",
+  "summary": "OlmoEarth v1.3 发布，提供覆盖全球的先进嵌入表示，用于地球观测与遥感分析。",
+  "highlights": [
+    "覆盖全球的嵌入表示",
+    "先进的地球观测嵌入",
+    "OlmoEarth v1.3 版本发布"
+  ],
+  "score": 8,
+  "tags": [
+    "地球观测",
+    "遥感",
+    "嵌入模型",
+    "Hugging Face",
+    "AllenAI"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261023"
+  }
+}

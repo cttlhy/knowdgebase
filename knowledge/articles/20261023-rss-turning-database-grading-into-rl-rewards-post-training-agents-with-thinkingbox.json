@@ -1,0 +1,24 @@
+{
+  "id": "rss-22202622-017",
+  "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "date": "Thu, 22 Oct 2026 22:24:34 GMT",
+  "popularity": "",
+  "summary": "ThinkingBox 是微软提出的方法，将数据库评分转化为强化学习奖励，用于后训练智能体。",
+  "highlights": [
+    "将数据库评分作为RL奖励信号",
+    "用于智能体后训练",
+    "ThinkingBox方法"
+  ],
+  "score": 7,
+  "tags": [
+    "强化学习",
+    "数据库评分",
+    "智能体训练",
+    "后训练",
+    "微软"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "rss-22202617-011",
+  "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+  "source": "rss",
+  "source_url": "https://github.com/NVIDIA/OpenShell",
+  "status": "draft",
+  "url": "https://github.com/NVIDIA/OpenShell",
+  "date": "Thu, 22 Oct 2026 17:44:06 +0000",
+  "popularity": "",
+  "summary": "OpenShell 是 NVIDIA 在 GitHub 上发布的开源项目，定位为面向大规模自主 AI 智能体集群的安全、私密运行时环境。该条目在 Hacker News 上获得 433 分和 198 条评论，显示出社区对 AI 智能体安全运行基础设施的高度关注。",
+  "highlights": [
+    "NVIDIA 开源项目 OpenShell",
+    "面向自主 AI 智能体集群的安全私密运行时",
+    "Hacker News 433 分、198 条评论，社区关注度高"
+  ],
+  "score": 8,
+  "tags": [
+    "NVIDIA",
+    "OpenShell",
+    "AI agents",
+    "runtime",
+    "security",
+    "privacy",
+    "open source",
+    "GitHub"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261023"
+  }
+}

@@ -1,0 +1,397 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-10-23",
+    "popularity": "stars:392830",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，以龙虾为品牌形象。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调实际执行能力",
+      "龙虾品牌形象"
+    ]
+  },
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-10-23",
+    "popularity": "stars:370454",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的工具，覆盖从应用行为到原生二进制文件的层面。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "二进制分析",
+      "应用行为",
+      "GitHub项目"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件",
+      "适用于多种逆向场景"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-10-23",
+    "popularity": "stars:304010",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个在 GitHub 上发布的智能体技能框架与软件开发方法论，强调实用有效。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development",
+      "methodology",
+      "framework",
+      "GitHub"
+    ],
+    "highlights": [
+      "智能体技能框架",
+      "软件开发方法论",
+      "强调实用有效"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-10-23",
+    "popularity": "stars:301451",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库，分享其 .agents 目录中的实用技能，面向真正的工程师。",
+    "score": 7,
+    "tags": [
+      "GitHub",
+      "AI Agents",
+      "技能库",
+      "开发者工具"
+    ],
+    "highlights": [
+      "来自 .agents 目录的实用技能",
+      "面向真正的工程师"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-10-23",
+    "popularity": "stars:286966",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编码代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全和研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编码工具",
+      "包含技能、本能、记忆与安全模块",
+      "研究优先的开发方式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-10-23",
+    "popularity": "stars:256419",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 上的智能体项目，其核心理念是打造一个能够随用户共同成长的 agent。",
+    "score": 6,
+    "tags": [
+      "AI agent",
+      "开源项目",
+      "NousResearch",
+      "GitHub"
+    ],
+    "highlights": [
+      "项目定位为可随用户成长的智能体",
+      "由 NousResearch 发布在 GitHub 上"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-10-23",
+    "popularity": "stars:222749",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM 编码",
+      "提示工程",
+      "Karpathy",
+      "开发者工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-10-23",
+    "popularity": "stars:220447",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "GitHub",
+      "AI工具"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-10-23",
+    "popularity": "stars:208382",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "可视化编程",
+      "集成平台"
+    ],
+    "highlights": [
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-10-23",
+    "popularity": "stars:195078",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由AI代理管理的博物馆展览项目，使用Rust和Gajae-Code/LazyCodex构建，完全无需人工干预开发和维护。",
+    "score": 7,
+    "tags": [
+      "Rust",
+      "AI代理",
+      "自动化开发",
+      "博物馆展览",
+      "开源项目"
+    ],
+    "highlights": [
+      "完全由AI代理开发和维护，无人工干预",
+      "使用Rust语言构建",
+      "基于Gajae-Code/LazyCodex工具"
+    ]
+  },
+  {
+    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Thu, 22 Oct 2026 17:44:06 +0000",
+    "popularity": "",
+    "content": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 433 # Comments: 198",
+    "summary": "OpenShell 是 NVIDIA 在 GitHub 上发布的开源项目，定位为面向大规模自主 AI 智能体集群的安全、私密运行时环境。该条目在 Hacker News 上获得 433 分和 198 条评论，显示出社区对 AI 智能体安全运行基础设施的高度关注。",
+    "score": 8,
+    "tags": [
+      "NVIDIA",
+      "OpenShell",
+      "AI agents",
+      "runtime",
+      "security",
+      "privacy",
+      "open source",
+      "GitHub"
+    ],
+    "highlights": [
+      "NVIDIA 开源项目 OpenShell",
+      "面向自主 AI 智能体集群的安全私密运行时",
+      "Hacker News 433 分、198 条评论，社区关注度高"
+    ]
+  },
+  {
+    "title": "Every AI model has the same \"controversial\" take on humans",
+    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Thu, 22 Oct 2026 16:08:00 +0000",
+    "popularity": "",
+    "content": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 497 # Comments: 497",
+    "summary": "文章讨论多个AI模型对人类持有相似的所谓争议性观点，并在Hacker News上引发广泛讨论，获得497分和497条评论。",
+    "score": 7,
+    "tags": [
+      "AI模型",
+      "人类观点",
+      "Hacker News",
+      "讨论"
+    ],
+    "highlights": [
+      "多个AI模型对人类持有相似的争议性观点",
+      "Hacker News获得497分和497条评论"
+    ]
+  },
+  {
+    "title": "How to Run Turing-Complete Malware in PyTorch's Backward Pass",
+    "url": "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 21 Oct 2026 16:06:35 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/urfgc9/how_run_turing_complete_malware_pytorch_s\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章探讨了如何在 PyTorch 的反向传播过程中运行图灵完备的恶意软件，揭示了自动微分机制可能被滥用的安全风险。",
+    "score": 7,
+    "tags": [
+      "PyTorch",
+      "安全",
+      "恶意软件",
+      "自动微分",
+      "反向传播"
+    ],
+    "highlights": [
+      "利用 PyTorch 反向传播执行图灵完备代码",
+      "揭示自动微分框架的安全隐患",
+      "讨论恶意软件在深度学习框架中的运行方式"
+    ]
+  },
+  {
+    "title": "Timestral: Mistral's time-series foundation models",
+    "url": "https://mistral.ai/news/timestral/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 19 Oct 2026 06:47:04 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7r9dcc/timestral_mistral_s_time_series\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Mistral 发布名为 Timestral 的时间序列基础模型，相关讨论链接指向 Lobste.rs 评论区。",
+    "score": 5,
+    "tags": [
+      "Mistral",
+      "时间序列",
+      "基础模型",
+      "AI"
+    ],
+    "highlights": [
+      "Mistral 推出时间序列基础模型 Timestral",
+      "讨论见 Lobste.rs 评论区"
+    ]
+  },
+  {
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "summary": "OpenAI 与波兰 NASK 建立合作伙伴关系，共同推进 AI 安全、安保和技术研究，以加强防护措施并支持更具韧性的数字生态系统。",
+    "score": 7,
+    "tags": [
+      "AI安全",
+      "国际合作",
+      "技术研究",
+      "数字生态系统"
+    ],
+    "highlights": [
+      "OpenAI 与波兰 NASK 合作",
+      "聚焦 AI 安全与安保",
+      "加强防护措施",
+      "支持更具韧性的数字生态系统"
+    ]
+  },
+  {
+    "title": "Build more responsive apps with the Decisions API",
+    "url": "https://openai.com/index/decisions-api",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 22 Oct 2026 19:00:00 GMT",
+    "popularity": "",
+    "content": "Fast, focused, low-cost decisions for any application.",
+    "summary": "介绍 OpenAI 的 Decisions API，用于为各类应用提供快速、专注且低成本的决策能力。",
+    "score": 6,
+    "tags": [
+      "OpenAI",
+      "Decisions API",
+      "应用开发",
+      "API"
+    ],
+    "highlights": [
+      "快速、专注、低成本的决策",
+      "适用于任何应用"
+    ]
+  },
+  {
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 22 Oct 2026 22:24:34 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "ThinkingBox 是微软提出的方法，将数据库评分转化为强化学习奖励，用于后训练智能体。",
+    "score": 7,
+    "tags": [
+      "强化学习",
+      "数据库评分",
+      "智能体训练",
+      "后训练",
+      "微软"
+    ],
+    "highlights": [
+      "将数据库评分作为RL奖励信号",
+      "用于智能体后训练",
+      "ThinkingBox方法"
+    ]
+  },
+  {
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 22 Oct 2026 16:11:31 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "OlmoEarth v1.3 发布，提供覆盖全球的先进嵌入表示，用于地球观测与遥感分析。",
+    "score": 8,
+    "tags": [
+      "地球观测",
+      "遥感",
+      "嵌入模型",
+      "Hugging Face",
+      "AllenAI"
+    ],
+    "highlights": [
+      "覆盖全球的嵌入表示",
+      "先进的地球观测嵌入",
+      "OlmoEarth v1.3 版本发布"
+    ]
+  }
+]

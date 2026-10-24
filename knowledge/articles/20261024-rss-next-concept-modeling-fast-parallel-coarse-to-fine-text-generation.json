@@ -1,0 +1,23 @@
+{
+  "id": "rss-23202612-012",
+  "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2610.14162",
+  "status": "draft",
+  "url": "https://arxiv.org/abs/2610.14162",
+  "date": "Fri, 23 Oct 2026 12:25:34 -0500",
+  "popularity": "",
+  "summary": "该论文提出 Next-Concept Modeling，一种从粗到细的文本生成方法，旨在实现快速并行的文本生成。",
+  "highlights": [
+    "提出 Next-Concept Modeling 方法",
+    "支持从粗到细的文本生成",
+    "强调快速与并行生成"
+  ],
+  "score": 6,
+  "tags": [
+    "文本生成",
+    "并行生成",
+    "语言模型",
+    "arXiv"
+  ]
+}

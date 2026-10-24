@@ -1,0 +1,23 @@
+{
+  "id": "rss-23202610-014",
+  "title": "Securing our frontier model training environment",
+  "source": "rss",
+  "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "status": "draft",
+  "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "date": "Fri, 23 Oct 2026 10:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI explains how it strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+  "highlights": [
+    "强化前沿模型训练与评估的隔离措施",
+    "采用离线环境",
+    "开展高算力红队测试"
+  ],
+  "score": 7,
+  "tags": [
+    "AI安全",
+    "模型训练",
+    "红队测试",
+    "OpenAI"
+  ]
+}

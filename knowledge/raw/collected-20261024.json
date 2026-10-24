@@ -1,0 +1,357 @@
+[
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-10-24",
+    "popularity": "stars:392914",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，并以龙虾为品牌形象。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源项目",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调实际执行能力",
+      "龙虾品牌形象"
+    ]
+  },
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-10-24",
+    "popularity": "stars:375805",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，范围从应用行为到原生二进制文件。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "二进制分析",
+      "GitHub项目"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-10-24",
+    "popularity": "stars:304456",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个在 GitHub 上发布的代理技能框架与软件开发方法论，强调实用性和有效性。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development",
+      "methodology",
+      "framework",
+      "GitHub"
+    ],
+    "highlights": [
+      "代理技能框架",
+      "软件开发方法论",
+      "强调实用性"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-10-24",
+    "popularity": "stars:302174",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "该仓库提供了来自作者 .agents 目录的实用技能集合，面向真正的工程师。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能集合",
+      "工程师工具",
+      "agents"
+    ],
+    "highlights": [
+      "来自 .agents 目录的实用技能",
+      "面向真正的工程师"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-10-24",
+    "popularity": "stars:287664",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编码代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全与研究优先开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发者工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编码工具",
+      "包含技能、记忆与安全模块",
+      "强调研究优先的开发方式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-10-24",
+    "popularity": "stars:256671",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 上的开源项目，定位为随用户成长的智能体（agent），强调可扩展性和持续学习能力。",
+    "score": 6,
+    "tags": [
+      "AI agent",
+      "开源项目",
+      "NousResearch",
+      "智能体框架"
+    ],
+    "highlights": [
+      "随用户成长的智能体",
+      "NousResearch 出品",
+      "GitHub 开源"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-10-24",
+    "popularity": "stars:223142",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM 编码",
+      "提示工程",
+      "Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-10-24",
+    "popularity": "stars:220909",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，提供自动化编码辅助能力。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-10-24",
+    "popularity": "stars:208476",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 8,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "可视化编程",
+      "集成平台"
+    ],
+    "highlights": [
+      "公平代码工作流自动化平台",
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-10-24",
+    "popularity": "stars:195071",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "An agent-managed museum exhibit built in Rust with Gajae-Code / LazyCodex, developed and maintained with no human intervention.",
+    "score": 6,
+    "tags": [
+      "Rust",
+      "AI agent",
+      "autonomous development",
+      "museum exhibit",
+      "Gajae-Code",
+      "LazyCodex"
+    ],
+    "highlights": [
+      "Agent-managed museum exhibit",
+      "Built in Rust",
+      "Uses Gajae-Code / LazyCodex",
+      "Developed and maintained with no human intervention"
+    ]
+  },
+  {
+    "title": "Listening to Nina Simone in 2036",
+    "url": "https://punkx.org/jackdoe/nina.html",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 24 Oct 2026 05:02:51 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;Last night I thought about this world and quickly wrote a short story. Made me feel quite eerie as I was writing. Maybe it will turn into a nice video game.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/gc5cd7/listening_nina_simone_2036\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "A short blog post in which the author describes quickly writing a short story about the world after thinking about it last night, finding the experience eerie, and suggesting it might become a video game.",
+    "score": 3,
+    "tags": [
+      "short story",
+      "blog post",
+      "dystopia",
+      "video game",
+      "creative writing"
+    ],
+    "highlights": [
+      "Last night I thought about this world and quickly wrote a short story.",
+      "Made me feel quite eerie as I was writing.",
+      "Maybe it will turn into a nice video game."
+    ]
+  },
+  {
+    "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+    "url": "https://arxiv.org/abs/2610.14162",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 23 Oct 2026 12:25:34 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d1snfg/next_concept_modeling_fast_parallel\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该论文提出 Next-Concept Modeling，一种从粗到细的文本生成方法，旨在实现快速并行的文本生成。",
+    "score": 6,
+    "tags": [
+      "文本生成",
+      "并行生成",
+      "语言模型",
+      "arXiv"
+    ],
+    "highlights": [
+      "提出 Next-Concept Modeling 方法",
+      "支持从粗到细的文本生成",
+      "强调快速与并行生成"
+    ]
+  },
+  {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 23 Oct 2026 17:00:00 GMT",
+    "popularity": "",
+    "content": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "summary": "OpenAI 分享了如何通过可靠的多租户架构、全局缓存和 Azure Cosmos DB 扩展 Habitat 存储系统，为 ChatGPT 超过 10 亿用户提供服务，并实现读取速度提升 12 倍。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "存储扩展",
+      "多租户",
+      "全局缓存",
+      "Azure Cosmos DB",
+      "系统架构"
+    ],
+    "highlights": [
+      "Habitat 存储系统扩展至支持超过 10 亿 ChatGPT 用户",
+      "采用可靠的多租户架构",
+      "使用全局缓存提升性能",
+      "借助 Azure Cosmos DB 实现扩展",
+      "读取速度提升 12 倍"
+    ]
+  },
+  {
+    "title": "Securing our frontier model training environment",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 23 Oct 2026 10:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "summary": "OpenAI explains how it strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "score": 7,
+    "tags": [
+      "AI安全",
+      "模型训练",
+      "红队测试",
+      "OpenAI"
+    ],
+    "highlights": [
+      "强化前沿模型训练与评估的隔离措施",
+      "采用离线环境",
+      "开展高算力红队测试"
+    ]
+  },
+  {
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "url": "https://huggingface.co/blog/allenai/litpivot",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 23 Oct 2026 16:15:50 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "LitPivot is a method for developing research ideas by dynamically contextualizing them within the literature landscape, as described in an AllenAI blog post.",
+    "score": 7,
+    "tags": [
+      "research ideas",
+      "literature landscape",
+      "contextualization",
+      "AllenAI",
+      "NLP"
+    ],
+    "highlights": [
+      "Dynamic contextualization of research ideas",
+      "Literature landscape analysis",
+      "AllenAI blog post"
+    ]
+  },
+  {
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face 博客介绍了一个工具，用于查询模型是否支持在 AWS Trainium 上运行（通过 torch-neuronx），帮助用户确认模型兼容性。",
+    "score": 7,
+    "tags": [
+      "AWS Trainium",
+      "Hugging Face",
+      "模型兼容性",
+      "torch-neuronx"
+    ],
+    "highlights": [
+      "提供模型对 AWS Trainium 支持情况的查询功能",
+      "基于 torch-neuronx 实现",
+      "帮助用户确认模型是否可在 Trainium 上运行"
+    ]
+  }
+]

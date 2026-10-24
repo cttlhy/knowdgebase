@@ -1,0 +1,23 @@
+{
+  "id": "github-20261024-006",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "status": "draft",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "date": "2026-10-24",
+  "popularity": "stars:256671",
+  "summary": "NousResearch/hermes-agent 是一个 GitHub 上的开源项目，定位为随用户成长的智能体（agent），强调可扩展性和持续学习能力。",
+  "highlights": [
+    "随用户成长的智能体",
+    "NousResearch 出品",
+    "GitHub 开源"
+  ],
+  "score": 6,
+  "tags": [
+    "AI agent",
+    "开源项目",
+    "NousResearch",
+    "智能体框架"
+  ]
+}

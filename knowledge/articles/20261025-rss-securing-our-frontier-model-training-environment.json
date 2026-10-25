@@ -1,0 +1,24 @@
+{
+  "id": "rss-23202610-016",
+  "title": "Securing our frontier model training environment",
+  "source": "rss",
+  "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "status": "draft",
+  "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "date": "Fri, 23 Oct 2026 10:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI 介绍了如何加强前沿模型训练与评估的隔离防护，包括离线环境和高算力红队测试。",
+  "highlights": [
+    "加强前沿模型训练与评估的隔离防护",
+    "采用离线环境",
+    "开展高算力红队测试"
+  ],
+  "score": 7,
+  "tags": [
+    "AI安全",
+    "模型训练",
+    "隔离防护",
+    "红队测试",
+    "OpenAI"
+  ]
+}

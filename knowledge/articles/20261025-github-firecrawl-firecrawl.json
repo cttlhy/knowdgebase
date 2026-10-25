@@ -1,0 +1,28 @@
+{
+  "id": "github-20261025-010",
+  "title": "firecrawl/firecrawl",
+  "source": "github",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "status": "draft",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "date": "2026-10-25",
+  "popularity": "stars:195171",
+  "summary": "Firecrawl is a GitHub project that provides web data to AI agents, described as building a library for superintelligence.",
+  "highlights": [
+    "Supercharge AI agents with web data",
+    "Building a library for superintelligence"
+  ],
+  "score": 7,
+  "tags": [
+    "AI",
+    "web scraping",
+    "data",
+    "agents",
+    "open source"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261025"
+  }
+}

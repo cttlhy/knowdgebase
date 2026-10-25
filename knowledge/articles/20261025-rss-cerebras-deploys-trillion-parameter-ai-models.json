@@ -1,0 +1,23 @@
+{
+  "id": "rss-25202601-011",
+  "title": "Cerebras Deploys Trillion-Parameter AI Models",
+  "source": "rss",
+  "source_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+  "status": "draft",
+  "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+  "date": "Sun, 25 Oct 2026 01:33:49 +0000",
+  "popularity": "",
+  "summary": "Cerebras 发布博客文章，介绍如何在 Cerebras 硬件上部署万亿参数前沿 AI 模型，该文章在 Hacker News 上获得 217 分和 68 条评论。",
+  "highlights": [
+    "Cerebras 部署万亿参数前沿模型",
+    "Hacker News 热度：217 分，68 条评论"
+  ],
+  "score": 7,
+  "tags": [
+    "Cerebras",
+    "AI 模型部署",
+    "万亿参数模型",
+    "硬件加速",
+    "Hacker News"
+  ]
+}

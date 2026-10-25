@@ -1,0 +1,23 @@
+{
+  "id": "github-20261025-002",
+  "title": "morluto/rea",
+  "source": "github",
+  "source_url": "https://github.com/morluto/rea",
+  "status": "draft",
+  "url": "https://github.com/morluto/rea",
+  "date": "2026-10-25",
+  "popularity": "stars:381761",
+  "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，范围从应用行为到原生二进制文件。",
+  "highlights": [
+    "使用智能体进行逆向工程",
+    "覆盖从应用行为到原生二进制文件"
+  ],
+  "score": 7,
+  "tags": [
+    "reverse-engineering",
+    "agents",
+    "binary-analysis",
+    "app-behavior",
+    "github"
+  ]
+}

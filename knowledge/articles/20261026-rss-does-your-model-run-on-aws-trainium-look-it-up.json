@@ -1,0 +1,24 @@
+{
+  "id": "rss-23202600-016",
+  "title": "Does Your Model Run on AWS Trainium? Look It Up",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "date": "Fri, 23 Oct 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "Hugging Face 博客介绍了一个工具，用于查询模型是否支持在 AWS Trainium 上通过 torch-neuronx 运行。",
+  "highlights": [
+    "提供模型对 AWS Trainium 支持情况的查询功能",
+    "基于 torch-neuronx 框架",
+    "来自 Hugging Face 博客"
+  ],
+  "score": 6,
+  "tags": [
+    "AWS Trainium",
+    "torch-neuronx",
+    "Hugging Face",
+    "模型兼容性",
+    "机器学习"
+  ]
+}

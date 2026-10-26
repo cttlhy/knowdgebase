@@ -1,0 +1,355 @@
+[
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-10-26",
+    "popularity": "stars:303792",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库，分享其 .agents 目录中的实用技能，面向真正的工程师。",
+    "score": 7,
+    "tags": [
+      "GitHub",
+      "AI Agents",
+      "技能库",
+      "工程师工具"
+    ],
+    "highlights": [
+      "来自 .agents 目录的实用技能",
+      "面向真正的工程师"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-10-26",
+    "popularity": "stars:289379",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编程代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全和研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编程代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编程工具",
+      "涵盖技能、记忆与安全",
+      "研究优先的开发模式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-10-26",
+    "popularity": "stars:257279",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 上的智能体项目，其核心理念是“与你共同成长的智能体”，强调可扩展性和持续进化能力。",
+    "score": 6,
+    "tags": [
+      "AI Agent",
+      "GitHub",
+      "NousResearch",
+      "智能体",
+      "开源项目"
+    ],
+    "highlights": [
+      "项目定位为可随用户共同成长的智能体",
+      "由 NousResearch 发布在 GitHub 上"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-10-26",
+    "popularity": "stars:224263",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，其内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM",
+      "编码实践",
+      "Karpathy",
+      "提示工程"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-10-26",
+    "popularity": "stars:221804",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "GitHub",
+      "AI工具"
+    ],
+    "highlights": [
+      "开源编码代理"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-10-26",
+    "popularity": "stars:208641",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "可视化编程",
+      "集成平台"
+    ],
+    "highlights": [
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source": "github",
+    "date": "2026-10-26",
+    "popularity": "stars:194986",
+    "content": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "summary": "一个由AI代理自主管理的博物馆展览项目，使用Rust语言和Gajae-Code/LazyCodex构建，开发与维护全程无人工干预。",
+    "score": 7,
+    "tags": [
+      "Rust",
+      "AI代理",
+      "自主开发",
+      "博物馆展览",
+      "开源项目"
+    ],
+    "highlights": [
+      "由AI代理自主管理博物馆展览",
+      "使用Rust和Gajae-Code/LazyCodex构建",
+      "开发与维护全程无人工干预"
+    ]
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github",
+    "date": "2026-10-26",
+    "popularity": "stars:187762",
+    "content": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "summary": "AutoGPT 是 Significant-Gravitas 在 GitHub 上的开源项目，愿景是让每个人都能使用和构建 AI，并提供工具让用户专注于重要事项。",
+    "score": 8,
+    "tags": [
+      "AutoGPT",
+      "开源项目",
+      "AI 工具",
+      "GitHub",
+      "可访问 AI"
+    ],
+    "highlights": [
+      "愿景是让每个人都能使用和构建 AI",
+      "提供工具让用户专注于重要事项"
+    ]
+  },
+  {
+    "title": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "date": "2026-10-26",
+    "popularity": "stars:184848",
+    "content": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "summary": "Ollama 是一个开源项目，帮助用户快速在本地运行 Kimi、GLM、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等多种大语言模型。",
+    "score": 9,
+    "tags": [
+      "LLM",
+      "本地部署",
+      "开源工具",
+      "模型运行"
+    ],
+    "highlights": [
+      "支持多种主流大模型",
+      "快速上手本地运行",
+      "开源项目"
+    ]
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "source": "github",
+    "date": "2026-10-26",
+    "popularity": "stars:165152",
+    "content": "Stable Diffusion web UI",
+    "summary": "AUTOMATIC1111/stable-diffusion-webui 是一个基于 Stable Diffusion 的 Web 用户界面项目，托管于 GitHub，提供图形化操作界面以使用 Stable Diffusion 模型。",
+    "score": 9,
+    "tags": [
+      "Stable Diffusion",
+      "Web UI",
+      "AUTOMATIC1111",
+      "GitHub",
+      "AI 图像生成"
+    ],
+    "highlights": [
+      "Stable Diffusion 的 Web 界面",
+      "GitHub 开源项目",
+      "由 AUTOMATIC1111 维护"
+    ]
+  },
+  {
+    "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+    "url": "https://arxiv.org/abs/2610.14162",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 23 Oct 2026 12:25:34 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d1snfg/next_concept_modeling_fast_parallel\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该论文提出 Next-Concept Modeling 方法，用于快速、并行的从粗到细文本生成，相关讨论见 Lobste.rs 评论。",
+    "score": 6,
+    "tags": [
+      "文本生成",
+      "并行生成",
+      "从粗到细",
+      "语言模型",
+      "arXiv"
+    ],
+    "highlights": [
+      "提出 Next-Concept Modeling 方法",
+      "支持快速并行的从粗到细文本生成"
+    ]
+  },
+  {
+    "title": "AI: EU Member States approve “digital expropriation” of Europeans for AI companies",
+    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 23 Oct 2026 08:04:23 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zu7jjb/ai_eu_member_states_approve_digital\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "欧盟成员国批准了一项被隐私倡导组织noyb称为\"数字征收\"的AI政策，允许AI公司使用欧洲人的数据。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "EU",
+      "privacy",
+      "data protection",
+      "policy"
+    ],
+    "highlights": [
+      "EU member states approve policy criticized as digital expropriation",
+      "noyb warns of data use by AI companies"
+    ]
+  },
+  {
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 26 Oct 2026 07:00:00 GMT",
+    "popularity": "",
+    "content": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+    "summary": "Fanatics 利用 OpenAI 技术推出 Shop the Look 功能，帮助球迷搭配比赛日穿搭；在约 3 万件 MLB 商品上的测试显示互动率提升 10%。",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "Fanatics",
+      "零售科技",
+      "电商体验",
+      "AI应用"
+    ],
+    "highlights": [
+      "Fanatics 使用 OpenAI 优化球迷体验",
+      "Shop the Look 帮助球迷完成比赛日穿搭",
+      "约 3 万件 MLB 商品测试显示互动率提升 10%"
+    ]
+  },
+  {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 23 Oct 2026 17:00:00 GMT",
+    "popularity": "",
+    "content": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "summary": "OpenAI 分享了如何通过可靠的多租户架构、全局缓存和 Azure Cosmos DB 扩展 Habitat 存储系统，为超过 10 亿 ChatGPT 用户提供服务，并实现读取速度提升 12 倍。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "存储扩展",
+      "多租户",
+      "全局缓存",
+      "Azure Cosmos DB",
+      "系统架构"
+    ],
+    "highlights": [
+      "Habitat 存储系统扩展至支持超过 10 亿 ChatGPT 用户",
+      "采用可靠的多租户架构",
+      "利用全局缓存提升性能",
+      "使用 Azure Cosmos DB 作为存储后端",
+      "读取速度提升 12 倍"
+    ]
+  },
+  {
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "url": "https://huggingface.co/blog/allenai/litpivot",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 23 Oct 2026 16:15:50 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "LitPivot is a system for developing research ideas by dynamically contextualizing them within the literature landscape, as described in an AllenAI blog post.",
+    "score": 7,
+    "tags": [
+      "research ideas",
+      "literature landscape",
+      "contextualization",
+      "AllenAI",
+      "NLP"
+    ],
+    "highlights": [
+      "Dynamic contextualization within the literature landscape",
+      "Developing research ideas",
+      "AllenAI blog post"
+    ]
+  },
+  {
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face 博客介绍了一个工具，用于查询模型是否支持在 AWS Trainium 上通过 torch-neuronx 运行。",
+    "score": 6,
+    "tags": [
+      "AWS Trainium",
+      "torch-neuronx",
+      "Hugging Face",
+      "模型兼容性",
+      "机器学习"
+    ],
+    "highlights": [
+      "提供模型对 AWS Trainium 支持情况的查询功能",
+      "基于 torch-neuronx 框架",
+      "来自 Hugging Face 博客"
+    ]
+  }
+]

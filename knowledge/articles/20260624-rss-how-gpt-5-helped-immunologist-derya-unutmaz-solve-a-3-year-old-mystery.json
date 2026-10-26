@@ -21,5 +21,10 @@
     "癌症研究",
     "自身免疫",
     "AI辅助科研"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261026"
+  }
 }

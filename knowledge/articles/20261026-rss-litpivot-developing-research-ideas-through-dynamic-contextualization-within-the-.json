@@ -1,0 +1,24 @@
+{
+  "id": "rss-23202616-015",
+  "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/litpivot",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/litpivot",
+  "date": "Fri, 23 Oct 2026 16:15:50 GMT",
+  "popularity": "",
+  "summary": "LitPivot is a system for developing research ideas by dynamically contextualizing them within the literature landscape, as described in an AllenAI blog post.",
+  "highlights": [
+    "Dynamic contextualization within the literature landscape",
+    "Developing research ideas",
+    "AllenAI blog post"
+  ],
+  "score": 7,
+  "tags": [
+    "research ideas",
+    "literature landscape",
+    "contextualization",
+    "AllenAI",
+    "NLP"
+  ]
+}

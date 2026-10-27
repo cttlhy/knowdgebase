@@ -1,0 +1,28 @@
+{
+  "id": "github-20261027-004",
+  "title": "open-webui/open-webui",
+  "source": "github",
+  "source_url": "https://github.com/open-webui/open-webui",
+  "status": "draft",
+  "url": "https://github.com/open-webui/open-webui",
+  "date": "2026-10-27",
+  "popularity": "stars:156931",
+  "summary": "open-webui/open-webui 是一个用户友好的 AI 界面，支持 Ollama、OpenAI API 等多种后端。",
+  "highlights": [
+    "用户友好的 AI 界面",
+    "支持 Ollama 和 OpenAI API 等多种后端"
+  ],
+  "score": 8,
+  "tags": [
+    "AI界面",
+    "开源",
+    "Ollama",
+    "OpenAI API",
+    "Web UI"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261027"
+  }
+}

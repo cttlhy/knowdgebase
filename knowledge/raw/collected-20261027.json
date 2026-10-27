@@ -1,0 +1,228 @@
+[
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-10-27",
+    "popularity": "stars:225240",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "一个基于 Andrej Karpathy 对 LLM 编码陷阱的观察而编写的 CLAUDE.md 文件，旨在改善 Claude Code 的行为。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM 编码",
+      "提示工程",
+      "CLAUDE.md",
+      "Andrej Karpathy"
+    ],
+    "highlights": [
+      "单个 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "源自 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "source": "github",
+    "date": "2026-10-27",
+    "popularity": "stars:174727",
+    "content": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "summary": "f/prompts.chat 是一个前身为 Awesome ChatGPT Prompts 的开源项目，用于分享、发现和收集社区提示词，支持免费自托管以保障组织隐私。",
+    "score": 7,
+    "tags": [
+      "prompts",
+      "ChatGPT",
+      "开源",
+      "社区",
+      "自托管"
+    ],
+    "highlights": [
+      "分享、发现和收集社区提示词",
+      "免费且开源",
+      "支持组织自托管，完全隐私"
+    ]
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "source": "github",
+    "date": "2026-10-27",
+    "popularity": "stars:168238",
+    "content": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "summary": "Hugging Face Transformers 是一个用于文本、视觉、音频和多模态模型的开源模型定义框架，支持推理和训练。",
+    "score": 9,
+    "tags": [
+      "机器学习",
+      "深度学习",
+      "自然语言处理",
+      "计算机视觉",
+      "音频处理",
+      "多模态",
+      "开源框架"
+    ],
+    "highlights": [
+      "支持文本、视觉、音频和多模态模型",
+      "同时支持推理和训练",
+      "提供最先进的机器学习模型"
+    ]
+  },
+  {
+    "title": "open-webui/open-webui",
+    "url": "https://github.com/open-webui/open-webui",
+    "source": "github",
+    "date": "2026-10-27",
+    "popularity": "stars:156931",
+    "content": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "summary": "open-webui/open-webui 是一个用户友好的 AI 界面，支持 Ollama、OpenAI API 等多种后端。",
+    "score": 8,
+    "tags": [
+      "AI界面",
+      "开源",
+      "Ollama",
+      "OpenAI API",
+      "Web UI"
+    ],
+    "highlights": [
+      "用户友好的 AI 界面",
+      "支持 Ollama 和 OpenAI API 等多种后端"
+    ]
+  },
+  {
+    "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+    "url": "https://arxiv.org/abs/2610.14162",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 23 Oct 2026 12:25:34 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d1snfg/next_concept_modeling_fast_parallel\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该论文提出 Next-Concept Modeling，一种从粗到细的快速并行文本生成方法，相关讨论见 lobste.rs。",
+    "score": 6,
+    "tags": [
+      "文本生成",
+      "并行生成",
+      "语言模型",
+      "论文"
+    ],
+    "highlights": [
+      "提出 Next-Concept Modeling 方法",
+      "支持从粗到细的快速并行文本生成"
+    ]
+  },
+  {
+    "title": "AI: EU Member States approve “digital expropriation” of Europeans for AI companies",
+    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 23 Oct 2026 08:04:23 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zu7jjb/ai_eu_member_states_approve_digital\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "EU member states have approved a measure described by noyb as 'digital expropriation' of Europeans' data for AI companies, according to the linked article.",
+    "score": 6,
+    "tags": [
+      "EU",
+      "AI",
+      "data privacy",
+      "digital expropriation",
+      "noyb"
+    ],
+    "highlights": [
+      "EU member states approve 'digital expropriation' of Europeans for AI companies",
+      "noyb criticizes the approval as digital expropriation"
+    ]
+  },
+  {
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 26 Oct 2026 22:00:00 GMT",
+    "popularity": "",
+    "content": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "summary": "Greptile 利用 GPT-6 Astra 测试用户工作流，借助 Daybreak 强化安全性，并通过 Codex 减少返工，将缺陷检测能力从代码审查扩展到更广泛的场景。",
+    "score": 7,
+    "tags": [
+      "Greptile",
+      "GPT-6 Astra",
+      "Codex",
+      "缺陷检测",
+      "代码审查",
+      "安全"
+    ],
+    "highlights": [
+      "Greptile 使用 GPT-6 Astra 测试用户工作流",
+      "Daybreak 用于强化安全性",
+      "Codex 帮助减少返工",
+      "缺陷检测能力超越传统代码审查"
+    ]
+  },
+  {
+    "title": "Working with academic communities to build scientific understanding",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 26 Oct 2026 14:30:00 GMT",
+    "popularity": "",
+    "content": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics, and explains how researchers can verify and build on them.",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "academic communities",
+      "scientific understanding",
+      "Kakeya conjecture",
+      "Exponential Time Hypothesis",
+      "quantum chromodynamics",
+      "research verification"
+    ],
+    "highlights": [
+      "Shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics",
+      "Explains how researchers can verify and build on the results"
+    ]
+  },
+  {
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "url": "https://huggingface.co/blog/allenai/litpivot",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 23 Oct 2026 16:15:50 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "LitPivot is a method for developing research ideas by dynamically contextualizing them within the literature landscape, as described in an AllenAI blog post.",
+    "score": 7,
+    "tags": [
+      "research ideas",
+      "literature landscape",
+      "contextualization",
+      "AllenAI",
+      "NLP"
+    ],
+    "highlights": [
+      "Dynamic contextualization within literature",
+      "Supports research idea development",
+      "Published on Hugging Face blog by AllenAI"
+    ]
+  },
+  {
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face 博客介绍了一个工具，用于查询模型是否支持在 AWS Trainium 上通过 torch-neuronx 运行。",
+    "score": 7,
+    "tags": [
+      "AWS Trainium",
+      "torch-neuronx",
+      "Hugging Face",
+      "模型支持",
+      "机器学习"
+    ],
+    "highlights": [
+      "查询模型对 AWS Trainium 的支持情况",
+      "基于 torch-neuronx 的模型兼容性",
+      "Hugging Face 提供的模型支持查询工具"
+    ]
+  }
+]

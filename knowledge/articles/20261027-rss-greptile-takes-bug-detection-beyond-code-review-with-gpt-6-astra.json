@@ -1,0 +1,26 @@
+{
+  "id": "rss-26202622-007",
+  "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+  "source": "rss",
+  "source_url": "https://openai.com/index/greptile-code-review-codex-astra",
+  "status": "draft",
+  "url": "https://openai.com/index/greptile-code-review-codex-astra",
+  "date": "Mon, 26 Oct 2026 22:00:00 GMT",
+  "popularity": "",
+  "summary": "Greptile 利用 GPT-6 Astra 测试用户工作流，借助 Daybreak 强化安全性，并通过 Codex 减少返工，将缺陷检测能力从代码审查扩展到更广泛的场景。",
+  "highlights": [
+    "Greptile 使用 GPT-6 Astra 测试用户工作流",
+    "Daybreak 用于强化安全性",
+    "Codex 帮助减少返工",
+    "缺陷检测能力超越传统代码审查"
+  ],
+  "score": 7,
+  "tags": [
+    "Greptile",
+    "GPT-6 Astra",
+    "Codex",
+    "缺陷检测",
+    "代码审查",
+    "安全"
+  ]
+}

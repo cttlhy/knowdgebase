@@ -1,0 +1,22 @@
+{
+  "id": "rss-27202617-015",
+  "title": "Build specialized multimodal models with LFM3",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "date": "Tue, 27 Oct 2026 17:16:52 GMT",
+  "popularity": "",
+  "summary": "LiquidAI 发布 LFM3 系列多模态模型，支持构建专用多模态应用。",
+  "highlights": [
+    "LFM3 系列多模态模型",
+    "面向专用多模态应用构建"
+  ],
+  "score": 7,
+  "tags": [
+    "多模态模型",
+    "LFM3",
+    "LiquidAI",
+    "Hugging Face"
+  ]
+}

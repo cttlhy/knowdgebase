@@ -1,0 +1,351 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-10-28",
+    "popularity": "stars:400715",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的工具，覆盖从应用行为到原生二进制文件的层面。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "二进制分析",
+      "应用行为",
+      "GitHub"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-10-28",
+    "popularity": "stars:393257",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，以龙虾为品牌形象。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调实际执行能力",
+      "龙虾品牌形象"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-10-28",
+    "popularity": "stars:307075",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架与软件开发方法论，强调实用有效。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development",
+      "methodology",
+      "framework"
+    ],
+    "highlights": [
+      "代理技能框架",
+      "软件开发方法论",
+      "实用有效"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-10-28",
+    "popularity": "stars:305423",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库，分享其 .agents 目录中的实用技能，面向真正的工程师。",
+    "score": 7,
+    "tags": [
+      "GitHub",
+      "AI Agents",
+      "开发者工具",
+      "技能库"
+    ],
+    "highlights": [
+      "来自 .agents 目录的实用技能",
+      "面向真正的工程师"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-10-28",
+    "popularity": "stars:291433",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编码代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全和研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编码工具",
+      "包含技能、记忆与安全模块",
+      "研究优先的开发方式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-10-28",
+    "popularity": "stars:257965",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，描述为“与你共同成长的智能体”，暗示其具备持续学习或自适应能力。",
+    "score": 6,
+    "tags": [
+      "AI agent",
+      "GitHub",
+      "NousResearch",
+      "自适应智能体"
+    ],
+    "highlights": [
+      "项目定位为随用户成长的智能体",
+      "由 NousResearch 发布"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-10-28",
+    "popularity": "stars:225802",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM 编码",
+      "提示工程",
+      "Andrej Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-10-28",
+    "popularity": "stars:222627",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，提供自动化编码辅助能力。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI编程",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-10-28",
+    "popularity": "stars:208872",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "低代码",
+      "集成平台"
+    ],
+    "highlights": [
+      "公平代码工作流自动化平台",
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端部署",
+      "400 多个集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-10-28",
+    "popularity": "stars:196285",
+    "content": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+    "summary": "Firecrawl 是一个为 AI 智能体提供网络及更广泛数据源的项目，旨在通过网页数据增强 AI 能力，并致力于构建超级智能库。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "数据抓取",
+      "网页数据",
+      "智能体",
+      "开源"
+    ],
+    "highlights": [
+      "为 AI 智能体提供网络数据",
+      "构建超级智能库",
+      "增强 AI 智能体的数据能力"
+    ]
+  },
+  {
+    "title": "The Benchmarking Crisis",
+    "url": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 28 Oct 2026 03:32:09 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/smtpje/benchmarking_crisis\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "The article discusses a benchmarking crisis, likely in database systems, with community comments linked from Lobsters.",
+    "score": 5,
+    "tags": [
+      "benchmarking",
+      "databases",
+      "performance",
+      "crisis"
+    ],
+    "highlights": [
+      "Discusses a benchmarking crisis",
+      "Community discussion on Lobsters"
+    ]
+  },
+  {
+    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 27 Oct 2026 14:08:23 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该文章比较了模糊测试工具 Fuzzilli 与 AI 工具 BigSleep 在 JavaScript 引擎漏洞发现上的表现，来自 Google Project Zero 博客。",
+    "score": 7,
+    "tags": [
+      "模糊测试",
+      "AI",
+      "JavaScript引擎",
+      "漏洞挖掘",
+      "Fuzzilli",
+      "BigSleep"
+    ],
+    "highlights": [
+      "对比 Fuzzilli 与 BigSleep 在 JavaScript 引擎上的效果",
+      "来自 Google Project Zero 博客"
+    ]
+  },
+  {
+    "title": "Legora is building the agentic operating system for legal work",
+    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 28 Oct 2026 09:30:00 GMT",
+    "popularity": "",
+    "content": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "summary": "Legora 利用 OpenAI 模型、ChatGPT 和 Codex 加速法律工作流程，扩展合同分析，并让律师专注于更高价值的工作。",
+    "score": 7,
+    "tags": [
+      "法律科技",
+      "OpenAI",
+      "工作流自动化",
+      "合同分析",
+      "AI代理"
+    ],
+    "highlights": [
+      "Legora 使用 OpenAI 模型、ChatGPT 和 Codex 加速法律工作流程",
+      "扩展合同分析能力",
+      "让律师专注于更高价值的工作"
+    ]
+  },
+  {
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "url": "https://openai.com/index/retell-ai",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 27 Oct 2026 15:00:00 GMT",
+    "popularity": "",
+    "content": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "summary": "Retell leverages OpenAI models to support 100 million monthly calls, with GPT-6 Astra leading its voice agent benchmark and Codex helping achieve $1.6M annual revenue per employee.",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "Retell",
+      "voice agents",
+      "GPT-6 Astra",
+      "Codex",
+      "benchmark",
+      "revenue efficiency"
+    ],
+    "highlights": [
+      "GPT-6 Astra tops Retell's voice agent benchmark",
+      "Codex helps Retell reach $1.6M annual revenue run rate per employee",
+      "Retell uses OpenAI models to power 100M monthly calls"
+    ]
+  },
+  {
+    "title": "Build specialized multimodal models with LFM3",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 27 Oct 2026 17:16:52 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "LiquidAI 发布 LFM3 系列多模态模型，支持构建专用多模态应用。",
+    "score": 7,
+    "tags": [
+      "多模态模型",
+      "LFM3",
+      "LiquidAI",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "LFM3 系列多模态模型",
+      "面向专用多模态应用构建"
+    ]
+  },
+  {
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "url": "https://huggingface.co/blog/allenai/novelty-bench",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 27 Oct 2026 16:12:42 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客文章探讨了大型语言模型（LLM）能否可靠地判断研究想法的新颖性，介绍了Allen AI的Novelty Bench基准，并分析了LLM在评估新颖性方面的表现与局限。",
+    "score": 8,
+    "tags": [
+      "LLM",
+      "新颖性评估",
+      "基准测试",
+      "研究想法",
+      "AI评估"
+    ],
+    "highlights": [
+      "提出Novelty Bench基准用于评估LLM判断研究想法新颖性的能力",
+      "分析LLM在判断新颖性时的表现与可靠性问题",
+      "讨论LLM作为研究想法评估工具的潜在局限"
+    ]
+  }
+]

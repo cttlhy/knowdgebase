@@ -1,0 +1,29 @@
+{
+  "id": "rss-27202616-016",
+  "title": "Can we trust LLMs to judge whether a research idea is novel?",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/novelty-bench",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/novelty-bench",
+  "date": "Tue, 27 Oct 2026 16:12:42 GMT",
+  "popularity": "",
+  "summary": "该博客文章探讨了大型语言模型（LLM）能否可靠地判断研究想法的新颖性，介绍了Allen AI的Novelty Bench基准，并分析了LLM在评估新颖性方面的表现与局限。",
+  "highlights": [
+    "提出Novelty Bench基准用于评估LLM判断研究想法新颖性的能力",
+    "分析LLM在判断新颖性时的表现与可靠性问题",
+    "讨论LLM作为研究想法评估工具的潜在局限"
+  ],
+  "score": 8,
+  "tags": [
+    "LLM",
+    "新颖性评估",
+    "基准测试",
+    "研究想法",
+    "AI评估"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261028"
+  }
+}

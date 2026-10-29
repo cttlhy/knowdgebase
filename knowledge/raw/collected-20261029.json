@@ -1,0 +1,389 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-10-29",
+    "popularity": "stars:406096",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，范围从应用行为一直深入到原生二进制文件。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "GitHub",
+      "二进制分析",
+      "应用行为"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件的范围"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-10-29",
+    "popularity": "stars:393352",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，以龙虾为品牌形象。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调实际执行能力",
+      "龙虾品牌形象"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-10-29",
+    "popularity": "stars:308088",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架与软件开发方法论，旨在提供有效的实践方案。",
+    "score": 7,
+    "tags": [
+      "代理技能框架",
+      "软件开发方法论",
+      "GitHub项目"
+    ],
+    "highlights": [
+      "代理技能框架",
+      "软件开发方法论"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-10-29",
+    "popularity": "stars:306296",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库，分享其 .agents 目录中的实用技能，面向真正的工程师。",
+    "score": 7,
+    "tags": [
+      "GitHub",
+      "技能",
+      "AI代理",
+      "工程师",
+      "开发工具"
+    ],
+    "highlights": [
+      "来自 .agents 目录的实用技能",
+      "面向真正的工程师"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-10-29",
+    "popularity": "stars:292360",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编码代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全和研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理框架性能优化系统",
+      "支持 Claude Code、Codex、Opencode、Cursor 等多种工具",
+      "涵盖技能、本能、记忆、安全与研究优先开发"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-10-29",
+    "popularity": "stars:258395",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，定位为随用户成长的智能体。",
+    "score": 5,
+    "tags": [
+      "AI agent",
+      "GitHub",
+      "NousResearch"
+    ],
+    "highlights": [
+      "随用户成长的智能体"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-10-29",
+    "popularity": "stars:226262",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编程陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM 编程",
+      "提示工程",
+      "Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编程陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-10-29",
+    "popularity": "stars:222970",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码智能体项目，托管于 GitHub。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码智能体",
+      "GitHub",
+      "AI编程"
+    ],
+    "highlights": [
+      "开源编码智能体",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-10-29",
+    "popularity": "stars:208993",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "可视化编程",
+      "集成平台"
+    ],
+    "highlights": [
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-10-29",
+    "popularity": "stars:196638",
+    "content": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+    "summary": "Firecrawl 是一个为 AI 智能体提供网络及更广泛数据源的项目，旨在构建面向超级智能的库。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "数据抓取",
+      "智能体",
+      "开源"
+    ],
+    "highlights": [
+      "为 AI 智能体提供网络数据",
+      "构建超级智能库"
+    ]
+  },
+  {
+    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+    "url": "https://surgehq.ai/blog/dayjob-tax",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Wed, 28 Oct 2026 15:46:30 +0000",
+    "popularity": "",
+    "content": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 248 # Comments: 159",
+    "summary": "Surge HQ 博客文章介绍 Dayjob: Tax，一个用于评估 AI 代理在 50 个专业税务任务上表现的基准，在 Hacker News 上获得 248 分和 159 条评论。",
+    "score": 7,
+    "tags": [
+      "AI agents",
+      "tax",
+      "benchmark",
+      "evaluation",
+      "professional tasks"
+    ],
+    "highlights": [
+      "评估 AI 代理在 50 个专业税务任务上的表现",
+      "Hacker News 获得 248 分和 159 条评论"
+    ]
+  },
+  {
+    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+    "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Wed, 28 Oct 2026 13:41:30 +0000",
+    "popularity": "",
+    "content": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 473 # Comments: 509",
+    "summary": "A Kentucky man has become the first humanist to be granted a religious exemption from using AI, as reported by Religion News Service. The story gained significant attention on Hacker News with 473 points and 509 comments.",
+    "score": 7,
+    "tags": [
+      "humanism",
+      "AI exemption",
+      "religious exemption",
+      "Kentucky",
+      "technology ethics",
+      "Religion News Service"
+    ],
+    "highlights": [
+      "First humanist granted religious exemption from AI use",
+      "Kentucky man at center of precedent-setting case",
+      "High engagement on Hacker News (473 points, 509 comments)"
+    ]
+  },
+  {
+    "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "url": "https://divagr.com/blog/qwenputer",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 29 Oct 2026 05:00:04 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zftely/qwenputer_fully_functioning\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "A blog post titled 'Qwenputer' describing a fully functioning, deterministic RISC-V CPU implemented inside Qwen3.5, with a link to Lobste.rs comments.",
+    "score": 6,
+    "tags": [
+      "RISC-V",
+      "Qwen3.5",
+      "CPU emulation",
+      "LLM",
+      "deterministic computing"
+    ],
+    "highlights": [
+      "Fully functioning RISC-V CPU inside Qwen3.5",
+      "Deterministic implementation",
+      "Discussion on Lobste.rs"
+    ]
+  },
+  {
+    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 27 Oct 2026 14:08:23 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该文章比较了模糊测试工具Fuzzilli与AI工具BigSleep在JavaScript引擎漏洞发现方面的表现，探讨传统模糊测试与AI方法在安全测试中的差异。",
+    "score": 7,
+    "tags": [
+      "模糊测试",
+      "AI安全",
+      "JavaScript引擎",
+      "漏洞挖掘",
+      "Fuzzilli",
+      "BigSleep"
+    ],
+    "highlights": [
+      "对比Fuzzilli与BigSleep在JavaScript引擎上的效果",
+      "探讨传统模糊测试与AI方法的优劣"
+    ]
+  },
+  {
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 28 Oct 2026 13:15:00 GMT",
+    "popularity": "",
+    "content": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+    "summary": "OpenAI and ServiceNow expand their partnership to integrate OpenAI models and agents into ServiceNow, and bring ServiceNow workflows into ChatGPT and Codex.",
+    "score": 6,
+    "tags": [
+      "OpenAI",
+      "ServiceNow",
+      "partnership",
+      "enterprise workflows",
+      "ChatGPT",
+      "Codex",
+      "AI agents"
+    ],
+    "highlights": [
+      "OpenAI models and agents integrated into ServiceNow",
+      "ServiceNow workflows brought into ChatGPT and Codex"
+    ]
+  },
+  {
+    "title": "The future of the firm",
+    "url": "https://openai.com/index/the-future-of-the-firm",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 28 Oct 2026 10:00:00 GMT",
+    "popularity": "",
+    "content": "How AI might enter the org chart—beneath, beside, and between us.",
+    "summary": "文章探讨人工智能如何融入企业组织架构，可能位于员工之下、旁边以及之间，从而改变公司运作方式。",
+    "score": 7,
+    "tags": [
+      "人工智能",
+      "组织架构",
+      "企业未来",
+      "工作方式"
+    ],
+    "highlights": [
+      "AI可能进入组织架构",
+      "AI位于员工之下、旁边和之间"
+    ]
+  },
+  {
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 29 Oct 2026 13:37:07 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Granite Switch 4.1.1 是 IBM 在 Hugging Face 博客上发布的一篇介绍性文章，提出像更新软件一样更新模型的理念，可能涉及模型切换或版本管理机制。",
+    "score": 6,
+    "tags": [
+      "IBM Granite",
+      "模型更新",
+      "Hugging Face",
+      "版本管理"
+    ],
+    "highlights": [
+      "提出像更新软件一样更新模型的理念",
+      "Granite Switch 4.1.1 版本发布"
+    ]
+  },
+  {
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face 宣布 Project ProtoStar，旨在将公共资助的科学研究成果转化为 AI 就绪的数据与模型，以促进科学领域的开放 AI 发展。",
+    "score": 7,
+    "tags": [
+      "Hugging Face",
+      "开放科学",
+      "AI 就绪数据",
+      "公共资助研究",
+      "科学 AI"
+    ],
+    "highlights": [
+      "Project ProtoStar 由 Hugging Face 发起",
+      "聚焦公共资助科学的 AI 就绪化",
+      "推动科学领域开放 AI 生态"
+    ]
+  }
+]

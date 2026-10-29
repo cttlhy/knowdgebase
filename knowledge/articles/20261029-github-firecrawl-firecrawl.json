@@ -1,0 +1,27 @@
+{
+  "id": "github-20261029-010",
+  "title": "firecrawl/firecrawl",
+  "source": "github",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "status": "draft",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "date": "2026-10-29",
+  "popularity": "stars:196638",
+  "summary": "Firecrawl 是一个为 AI 智能体提供网络及更广泛数据源的项目，旨在构建面向超级智能的库。",
+  "highlights": [
+    "为 AI 智能体提供网络数据",
+    "构建超级智能库"
+  ],
+  "score": 7,
+  "tags": [
+    "AI",
+    "数据抓取",
+    "智能体",
+    "开源"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261029"
+  }
+}

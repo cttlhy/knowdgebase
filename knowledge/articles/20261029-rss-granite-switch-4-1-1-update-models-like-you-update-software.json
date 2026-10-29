@@ -1,0 +1,22 @@
+{
+  "id": "rss-29202613-017",
+  "title": "Granite Switch 4.1.1 — Update models like you update software",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "date": "Thu, 29 Oct 2026 13:37:07 GMT",
+  "popularity": "",
+  "summary": "Granite Switch 4.1.1 是 IBM 在 Hugging Face 博客上发布的一篇介绍性文章，提出像更新软件一样更新模型的理念，可能涉及模型切换或版本管理机制。",
+  "highlights": [
+    "提出像更新软件一样更新模型的理念",
+    "Granite Switch 4.1.1 版本发布"
+  ],
+  "score": 6,
+  "tags": [
+    "IBM Granite",
+    "模型更新",
+    "Hugging Face",
+    "版本管理"
+  ]
+}

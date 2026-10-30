@@ -1,0 +1,352 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-10-30",
+    "popularity": "stars:410830",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，范围从应用行为到原生二进制文件。",
+    "score": 7,
+    "tags": [
+      "reverse-engineering",
+      "agents",
+      "binary-analysis",
+      "app-behavior",
+      "github"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件的范围"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-10-30",
+    "popularity": "stars:393443",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，以龙虾为品牌形象。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调实际执行能力",
+      "龙虾品牌形象"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-10-30",
+    "popularity": "stars:309168",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个在 GitHub 上发布的智能体技能框架与软件开发方法论，强调实用有效。",
+    "score": 7,
+    "tags": [
+      "agentic framework",
+      "software development",
+      "methodology",
+      "GitHub"
+    ],
+    "highlights": [
+      "智能体技能框架",
+      "软件开发方法论",
+      "强调实用性"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-10-30",
+    "popularity": "stars:307133",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "mattpocock/skills 是一个 GitHub 仓库，提供面向真正工程师的技能集合，内容直接来自作者的 .agents 目录。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能",
+      "工程师",
+      "agents"
+    ],
+    "highlights": [
+      "面向真正工程师的技能",
+      "内容直接来自作者的 .agents 目录"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-10-30",
+    "popularity": "stars:293122",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编码代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全与研究优先开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Codex",
+      "Cursor",
+      "记忆系统",
+      "安全"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编码工具",
+      "包含技能、本能、记忆与安全模块",
+      "研究优先的开发方式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-10-30",
+    "popularity": "stars:258750",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，描述为“与你共同成长的智能体”，强调智能体具备随用户或使用过程持续演进的能力。",
+    "score": 6,
+    "tags": [
+      "AI Agent",
+      "GitHub",
+      "NousResearch",
+      "智能体"
+    ],
+    "highlights": [
+      "描述为“与你共同成长的智能体”",
+      "由 NousResearch 发布"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-10-30",
+    "popularity": "stars:226673",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM 编码",
+      "提示工程",
+      "Andrej Karpathy",
+      "开发者工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-10-30",
+    "popularity": "stars:223199",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，提供自动化编码辅助能力。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI编程",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-10-30",
+    "popularity": "stars:209110",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "集成",
+      "可视化编程"
+    ],
+    "highlights": [
+      "公平代码工作流自动化平台",
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-10-30",
+    "popularity": "stars:196966",
+    "content": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+    "summary": "Firecrawl 是一个为 AI 智能体提供网络及更广泛数据来源的项目，旨在构建面向超级智能的库。",
+    "score": 6,
+    "tags": [
+      "AI agents",
+      "web data",
+      "data library",
+      "superintelligence"
+    ],
+    "highlights": [
+      "为 AI 智能体提供网络数据",
+      "构建超级智能库"
+    ]
+  },
+  {
+    "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "url": "https://divagr.com/blog/qwenputer",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 29 Oct 2026 05:00:04 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zftely/qwenputer_fully_functioning\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "A blog post titled 'Qwenputer' describing a fully functioning, deterministic RISC-V CPU implemented inside Qwen3.5, with a link to Lobste.rs comments.",
+    "score": 6,
+    "tags": [
+      "RISC-V",
+      "Qwen3.5",
+      "CPU emulation",
+      "LLM",
+      "deterministic computing"
+    ],
+    "highlights": [
+      "Fully functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "Discussion available on Lobste.rs"
+    ]
+  },
+  {
+    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 27 Oct 2026 14:08:23 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章比较了模糊测试工具Fuzzilli与AI工具BigSleep在JavaScript引擎漏洞发现上的表现，并附有社区评论链接。",
+    "score": 6,
+    "tags": [
+      "模糊测试",
+      "AI",
+      "JavaScript引擎",
+      "漏洞挖掘",
+      "Fuzzilli",
+      "BigSleep"
+    ],
+    "highlights": [
+      "对比Fuzzilli与BigSleep在JavaScript引擎上的效果",
+      "来自Google Project Zero博客"
+    ]
+  },
+  {
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "url": "https://openai.com/index/updated-model-spec",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 29 Oct 2026 17:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "summary": "OpenAI 更新了 Model Spec，概述五项核心价值，以引导更强大的 AI 走向健全判断、人类能动性和对人类意图的忠实。",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "Model Spec",
+      "AI 对齐",
+      "AI 治理",
+      "核心价值"
+    ],
+    "highlights": [
+      "更新后的 Model Spec 概述五项核心价值",
+      "引导更强大的 AI 走向健全判断",
+      "强调人类能动性",
+      "强调对人类意图的忠实"
+    ]
+  },
+  {
+    "title": "How we detect frontier model misalignment",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 29 Oct 2026 09:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "summary": "OpenAI describes its layered monitoring approach for detecting frontier model misalignment and unauthorized agent behavior, enabling responders to intervene before incidents escalate.",
+    "score": 7,
+    "tags": [
+      "AI safety",
+      "misalignment detection",
+      "frontier models",
+      "monitoring",
+      "OpenAI"
+    ],
+    "highlights": [
+      "Layered monitoring to detect frontier model misalignment",
+      "Detection of unauthorized agent behavior",
+      "Early intervention before incidents escalate"
+    ]
+  },
+  {
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 29 Oct 2026 13:37:07 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "IBM Granite Switch 4.1.1 是一篇关于以软件更新方式更新模型的博客文章，介绍该版本在模型切换与更新流程上的改进。",
+    "score": 6,
+    "tags": [
+      "IBM Granite",
+      "模型更新",
+      "Hugging Face",
+      "机器学习"
+    ],
+    "highlights": [
+      "以软件更新的方式更新模型",
+      "Granite Switch 4.1.1 版本发布"
+    ]
+  },
+  {
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face 宣布 Project ProtoStar，旨在将公共资助的科学研究成果转化为 AI 就绪的数据与模型，以促进科学领域的开放 AI 发展。",
+    "score": 7,
+    "tags": [
+      "Hugging Face",
+      "开放科学",
+      "AI 就绪数据",
+      "公共资助研究",
+      "科学 AI"
+    ],
+    "highlights": [
+      "Project ProtoStar 由 Hugging Face 发起",
+      "聚焦公共资助科学的 AI 就绪化",
+      "推动科学领域开放 AI 生态"
+    ]
+  }
+]

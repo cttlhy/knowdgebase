@@ -1,0 +1,28 @@
+{
+  "id": "github-20261030-003",
+  "title": "obra/superpowers",
+  "source": "github",
+  "source_url": "https://github.com/obra/superpowers",
+  "status": "draft",
+  "url": "https://github.com/obra/superpowers",
+  "date": "2026-10-30",
+  "popularity": "stars:309168",
+  "summary": "obra/superpowers 是一个在 GitHub 上发布的智能体技能框架与软件开发方法论，强调实用有效。",
+  "highlights": [
+    "智能体技能框架",
+    "软件开发方法论",
+    "强调实用性"
+  ],
+  "score": 7,
+  "tags": [
+    "agentic framework",
+    "software development",
+    "methodology",
+    "GitHub"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261030"
+  }
+}

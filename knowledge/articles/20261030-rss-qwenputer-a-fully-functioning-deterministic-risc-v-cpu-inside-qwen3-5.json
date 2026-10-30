@@ -1,0 +1,23 @@
+{
+  "id": "rss-29202605-011",
+  "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
+  "source": "rss",
+  "source_url": "https://divagr.com/blog/qwenputer",
+  "status": "draft",
+  "url": "https://divagr.com/blog/qwenputer",
+  "date": "Thu, 29 Oct 2026 05:00:04 -0500",
+  "popularity": "",
+  "summary": "A blog post titled 'Qwenputer' describing a fully functioning, deterministic RISC-V CPU implemented inside Qwen3.5, with a link to Lobste.rs comments.",
+  "highlights": [
+    "Fully functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "Discussion available on Lobste.rs"
+  ],
+  "score": 6,
+  "tags": [
+    "RISC-V",
+    "Qwen3.5",
+    "CPU emulation",
+    "LLM",
+    "deterministic computing"
+  ]
+}

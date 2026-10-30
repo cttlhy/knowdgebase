@@ -1,0 +1,24 @@
+{
+  "id": "rss-29202609-014",
+  "title": "How we detect frontier model misalignment",
+  "source": "rss",
+  "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+  "status": "draft",
+  "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+  "date": "Thu, 29 Oct 2026 09:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI describes its layered monitoring approach for detecting frontier model misalignment and unauthorized agent behavior, enabling responders to intervene before incidents escalate.",
+  "highlights": [
+    "Layered monitoring to detect frontier model misalignment",
+    "Detection of unauthorized agent behavior",
+    "Early intervention before incidents escalate"
+  ],
+  "score": 7,
+  "tags": [
+    "AI safety",
+    "misalignment detection",
+    "frontier models",
+    "monitoring",
+    "OpenAI"
+  ]
+}

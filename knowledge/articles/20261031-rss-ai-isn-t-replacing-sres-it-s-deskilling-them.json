@@ -1,0 +1,28 @@
+{
+  "id": "rss-30202615-012",
+  "title": "AI isn't replacing SREs, it's deskilling them",
+  "source": "rss",
+  "source_url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+  "status": "draft",
+  "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+  "date": "Fri, 30 Oct 2026 15:52:18 +0000",
+  "popularity": "",
+  "summary": "文章讨论 AI 对站点可靠性工程师（SRE）的影响，认为 AI 并非取代 SRE，而是导致其技能退化（deskilling）。",
+  "highlights": [
+    "AI 不会取代 SRE，而是使其技能退化",
+    "文章在 Hacker News 获得 615 分和 459 条评论"
+  ],
+  "score": 8,
+  "tags": [
+    "AI",
+    "SRE",
+    "deskilling",
+    "站点可靠性工程",
+    "职业影响"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261031"
+  }
+}

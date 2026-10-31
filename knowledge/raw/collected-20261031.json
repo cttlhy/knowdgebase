@@ -1,0 +1,397 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-10-31",
+    "popularity": "stars:414262",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，范围从应用行为到原生二进制文件。",
+    "score": 7,
+    "tags": [
+      "reverse-engineering",
+      "agents",
+      "binary-analysis",
+      "app-behavior",
+      "github"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件的范围"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-10-31",
+    "popularity": "stars:393526",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调真正执行任务的能力，并以龙虾为品牌形象。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源项目",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调真正执行任务",
+      "龙虾品牌形象"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-10-31",
+    "popularity": "stars:309786",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个有效的智能体技能框架与软件开发方法论。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development",
+      "framework",
+      "methodology"
+    ],
+    "highlights": [
+      "智能体技能框架",
+      "软件开发方法论"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-10-31",
+    "popularity": "stars:307967",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "mattpocock/skills 是一个 GitHub 仓库，提供面向真正工程师的技能集合，内容直接来自作者的 .agents 目录。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能",
+      "工程师",
+      "agents"
+    ],
+    "highlights": [
+      "面向真正工程师的技能",
+      "直接来自作者的 .agents 目录"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-10-31",
+    "popularity": "stars:293748",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编码代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全和研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Codex",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编码工具",
+      "涵盖技能、记忆与安全",
+      "研究优先的开发模式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-10-31",
+    "popularity": "stars:259060",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，描述为“与你共同成长的智能体”，暗示其具备持续学习或自适应能力。",
+    "score": 5,
+    "tags": [
+      "AI Agent",
+      "GitHub",
+      "NousResearch",
+      "自适应智能体"
+    ],
+    "highlights": [
+      "项目定位为可随用户成长的智能体",
+      "由 NousResearch 发布"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-10-31",
+    "popularity": "stars:227240",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM 编码",
+      "提示工程",
+      "Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-10-31",
+    "popularity": "stars:223468",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，提供自动化编码辅助能力。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI编程",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-10-31",
+    "popularity": "stars:209190",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "可视化编程",
+      "集成平台"
+    ],
+    "highlights": [
+      "公平代码工作流自动化平台",
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-10-31",
+    "popularity": "stars:197282",
+    "content": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+    "summary": "Firecrawl 是一个为 AI 智能体提供网络及更广泛数据源的项目，旨在通过网页数据增强 AI 能力，并构建面向超级智能的库。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "web scraping",
+      "data",
+      "agents",
+      "open source"
+    ],
+    "highlights": [
+      "为 AI 智能体提供网络数据",
+      "构建超级智能库"
+    ]
+  },
+  {
+    "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+    "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Fri, 30 Oct 2026 17:24:45 +0000",
+    "popularity": "",
+    "content": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 285 # Comments: 237",
+    "summary": "Proton CEO cancels AI-driven 're-interviews' following backlash, as reported by 404 Media and discussed on Hacker News.",
+    "score": 7,
+    "tags": [
+      "Proton",
+      "AI",
+      "privacy",
+      "tech news",
+      "Hacker News"
+    ],
+    "highlights": [
+      "Proton CEO cancels AI 're-interviews'",
+      "285 points and 237 comments on Hacker News",
+      "Reported by 404 Media"
+    ]
+  },
+  {
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Fri, 30 Oct 2026 15:52:18 +0000",
+    "popularity": "",
+    "content": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 615 # Comments: 459",
+    "summary": "文章讨论 AI 对站点可靠性工程师（SRE）的影响，认为 AI 并非取代 SRE，而是导致其技能退化（deskilling）。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "SRE",
+      "deskilling",
+      "站点可靠性工程",
+      "职业影响"
+    ],
+    "highlights": [
+      "AI 不会取代 SRE，而是使其技能退化",
+      "文章在 Hacker News 获得 615 分和 459 条评论"
+    ]
+  },
+  {
+    "title": "Building fine-grained version control for agents with Rust and Durable Objects",
+    "url": "https://delta.dev/blog/fine-grained-version-control-for-agents",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 30 Oct 2026 11:50:44 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/cctbcu/building_fine_grained_version_control\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该文章介绍如何使用 Rust 和 Durable Objects 为 AI 代理构建细粒度版本控制，内容来自 delta.dev 博客，并在 Lobsters 上有讨论。",
+    "score": 6,
+    "tags": [
+      "Rust",
+      "Durable Objects",
+      "版本控制",
+      "AI代理",
+      "博客"
+    ],
+    "highlights": [
+      "使用 Rust 和 Durable Objects 实现细粒度版本控制",
+      "面向 AI 代理的版本控制方案",
+      "文章在 Lobsters 上有讨论"
+    ]
+  },
+  {
+    "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "url": "https://divagr.com/blog/qwenputer",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 29 Oct 2026 05:00:04 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/zftely/qwenputer_fully_functioning\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "A blog post titled 'Qwenputer' describing a fully functioning, deterministic RISC-V CPU implemented inside Qwen3.5, with discussion on Lobsters.",
+    "score": 7,
+    "tags": [
+      "RISC-V",
+      "Qwen3.5",
+      "CPU emulation",
+      "LLM",
+      "deterministic computing"
+    ],
+    "highlights": [
+      "Fully functioning RISC-V CPU inside Qwen3.5",
+      "Deterministic implementation",
+      "Community discussion on Lobsters"
+    ]
+  },
+  {
+    "title": "Making it easier for websites to express AI training preferences",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 30 Oct 2026 09:30:00 GMT",
+    "popularity": "",
+    "content": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+    "summary": "OpenAI 将遵循共享的 robots.txt 信号，帮助网站运营者向参与提供商传达其 AI 训练偏好。",
+    "score": 7,
+    "tags": [
+      "AI训练",
+      "robots.txt",
+      "网站偏好",
+      "OpenAI",
+      "数据使用"
+    ],
+    "highlights": [
+      "OpenAI 将遵循共享的 robots.txt 信号",
+      "帮助网站运营者传达 AI 训练偏好",
+      "面向参与提供商"
+    ]
+  },
+  {
+    "title": "Community safety report and new protections for teens",
+    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 30 Oct 2026 09:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+    "summary": "OpenAI 正在加强 ChatGPT 的暴力预防措施，通过扩展防护机制、更早干预以及新的公共安全报告承诺来提升安全性。",
+    "score": 7,
+    "tags": [
+      "AI安全",
+      "ChatGPT",
+      "暴力预防",
+      "青少年保护",
+      "公共安全"
+    ],
+    "highlights": [
+      "扩展 ChatGPT 的防护机制",
+      "更早的干预措施",
+      "新的公共安全报告承诺"
+    ]
+  },
+  {
+    "title": "nemotron-halloween",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 30 Oct 2026 17:57:24 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客文章由NVIDIA发布，介绍Nemotron模型在万圣节主题下的应用或演示，可能涉及生成式AI在节日场景中的创意使用。",
+    "score": 6,
+    "tags": [
+      "NVIDIA",
+      "Nemotron",
+      "生成式AI",
+      "万圣节",
+      "博客"
+    ],
+    "highlights": [
+      "NVIDIA Nemotron模型",
+      "万圣节主题应用",
+      "Hugging Face博客"
+    ]
+  },
+  {
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 29 Oct 2026 13:37:07 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "IBM Granite Switch 4.1.1 提出将模型更新类比为软件更新的理念，强调模型版本迭代应像软件一样便捷、可管理。",
+    "score": 7,
+    "tags": [
+      "IBM Granite",
+      "模型更新",
+      "软件工程",
+      "版本管理",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "将模型更新类比为软件更新",
+      "Granite Switch 4.1.1 版本发布",
+      "强调模型版本迭代的便捷性与可管理性"
+    ]
+  }
+]

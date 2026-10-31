@@ -1,0 +1,24 @@
+{
+  "id": "rss-30202617-017",
+  "title": "nemotron-halloween",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+  "date": "Fri, 30 Oct 2026 17:57:24 GMT",
+  "popularity": "",
+  "summary": "该博客文章由NVIDIA发布，介绍Nemotron模型在万圣节主题下的应用或演示，可能涉及生成式AI在节日场景中的创意使用。",
+  "highlights": [
+    "NVIDIA Nemotron模型",
+    "万圣节主题应用",
+    "Hugging Face博客"
+  ],
+  "score": 6,
+  "tags": [
+    "NVIDIA",
+    "Nemotron",
+    "生成式AI",
+    "万圣节",
+    "博客"
+  ]
+}

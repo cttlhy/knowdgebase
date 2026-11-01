@@ -1,0 +1,23 @@
+{
+  "id": "rss-29202613-018",
+  "title": "Granite Switch 4.1.1 — Update models like you update software",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "date": "Thu, 29 Oct 2026 13:37:07 GMT",
+  "popularity": "",
+  "summary": "IBM Granite Switch 4.1.1 提出将模型更新像软件更新一样管理，通过可切换的模型版本机制简化升级流程。",
+  "highlights": [
+    "模型更新类比软件更新",
+    "Granite Switch 4.1.1 版本发布",
+    "支持模型切换机制"
+  ],
+  "score": 7,
+  "tags": [
+    "IBM Granite",
+    "模型更新",
+    "版本管理",
+    "机器学习工程"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-02202609-014",
+  "title": "LifeVal",
+  "source": "rss",
+  "source_url": "https://openai.com/index/lifeval",
+  "status": "draft",
+  "url": "https://openai.com/index/lifeval",
+  "date": "Mon, 02 Nov 2026 09:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI 推出 LifeVal 基准，用于衡量 AI 在帮助人们完成日常任务（如寻找托儿服务、管理财务和处理政府文书）方面的表现。",
+  "highlights": [
+    "LifeVal 是一个衡量 AI 帮助人们完成日常任务能力的基准",
+    "涵盖寻找托儿服务、管理财务和处理政府文书等任务"
+  ],
+  "score": 7,
+  "tags": [
+    "AI benchmark",
+    "everyday tasks",
+    "OpenAI",
+    "AI evaluation"
+  ]
+}

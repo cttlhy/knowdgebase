@@ -1,0 +1,335 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-02",
+    "popularity": "stars:422046",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的工具，覆盖从应用行为到原生二进制文件的层面。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "二进制分析",
+      "应用行为",
+      "GitHub"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖应用行为到原生二进制",
+      "开源项目"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-02",
+    "popularity": "stars:393735",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，以龙虾为品牌形象。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调实际执行能力",
+      "龙虾品牌形象"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-02",
+    "popularity": "stars:311088",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个在 GitHub 上发布的智能体技能框架与软件开发方法论，强调实用有效。",
+    "score": 7,
+    "tags": [
+      "智能体框架",
+      "软件开发方法论",
+      "GitHub",
+      "AI Agent"
+    ],
+    "highlights": [
+      "智能体技能框架",
+      "软件开发方法论",
+      "强调实用性"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-02",
+    "popularity": "stars:309996",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库 'skills'，收录其 .agents 目录中的实用技能，面向真正的工程师。",
+    "score": 7,
+    "tags": [
+      "GitHub",
+      "AI Agents",
+      "开发者工具",
+      "技能库"
+    ],
+    "highlights": [
+      "来自 .agents 目录的实用技能",
+      "面向真正的工程师"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-02",
+    "popularity": "stars:295412",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编程代理的 harness 性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全与研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI agent",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理 harness 性能优化系统",
+      "支持 Claude Code、Codex、Opencode、Cursor 等多种工具",
+      "涵盖技能、本能、记忆、安全与研究优先开发"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-02",
+    "popularity": "stars:259742",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，定位为随用户成长的智能体。",
+    "score": 6,
+    "tags": [
+      "AI Agent",
+      "GitHub",
+      "NousResearch",
+      "开源项目"
+    ],
+    "highlights": [
+      "随用户成长的智能体",
+      "由 NousResearch 发布"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-02",
+    "popularity": "stars:228451",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM",
+      "编码实践",
+      "Karpathy",
+      "提示工程"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件",
+      "改善 Claude Code 行为",
+      "基于 Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-02",
+    "popularity": "stars:224050",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，提供自动化编码辅助能力。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI编程",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-02",
+    "popularity": "stars:209369",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "集成",
+      "可视化编程",
+      "自托管"
+    ],
+    "highlights": [
+      "公平代码工作流自动化平台",
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-02",
+    "popularity": "stars:197897",
+    "content": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+    "summary": "Firecrawl 是一个为 AI 智能体提供网络及更广泛数据抓取能力的开源库，目标是构建面向超级智能的数据基础设施。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "数据抓取",
+      "开源",
+      "智能体",
+      "Web数据"
+    ],
+    "highlights": [
+      "为 AI 智能体提供网络数据",
+      "定位为超级智能的数据库",
+      "开源项目"
+    ]
+  },
+  {
+    "title": "Let’s Build a Brain",
+    "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 31 Oct 2026 10:09:27 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/bmmj1e/let_s_build_brain\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该页面是一个指向 Lobsters 讨论帖的链接，标题为“Let's Build a Brain”，内容本身没有提供实质信息。",
+    "score": 2,
+    "tags": [
+      "链接",
+      "讨论",
+      "神经科学"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Building fine-grained version control for agents with Rust and Durable Objects",
+    "url": "https://delta.dev/blog/fine-grained-version-control-for-agents",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 30 Oct 2026 11:50:44 -0500",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/cctbcu/building_fine_grained_version_control\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该文章介绍如何使用 Rust 和 Durable Objects 为 AI 代理构建细粒度版本控制，内容来自 delta.dev 博客，并在 Lobste.rs 上有相关讨论。",
+    "score": 6,
+    "tags": [
+      "Rust",
+      "Durable Objects",
+      "版本控制",
+      "AI代理",
+      "博客"
+    ],
+    "highlights": [
+      "使用 Rust 和 Durable Objects 实现细粒度版本控制",
+      "面向 AI 代理的版本控制方案",
+      "Lobste.rs 上有相关讨论"
+    ]
+  },
+  {
+    "title": "Introducing the Grid Protectors Program",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 02 Nov 2026 15:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "summary": "OpenAI 推出 Grid Protectors Program，与公用事业公司合作，帮助未来的计算园区支持电网可靠性并保护消费者电费。",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "电网可靠性",
+      "公用事业",
+      "能源",
+      "计算园区"
+    ],
+    "highlights": [
+      "与公用事业公司合作",
+      "支持电网可靠性",
+      "保护消费者电费"
+    ]
+  },
+  {
+    "title": "LifeVal",
+    "url": "https://openai.com/index/lifeval",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 02 Nov 2026 09:00:00 GMT",
+    "popularity": "",
+    "content": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+    "summary": "OpenAI 推出 LifeVal 基准，用于衡量 AI 在帮助人们完成日常任务（如寻找托儿服务、管理财务和处理政府文书）方面的表现。",
+    "score": 7,
+    "tags": [
+      "AI benchmark",
+      "everyday tasks",
+      "OpenAI",
+      "AI evaluation"
+    ],
+    "highlights": [
+      "LifeVal 是一个衡量 AI 帮助人们完成日常任务能力的基准",
+      "涵盖寻找托儿服务、管理财务和处理政府文书等任务"
+    ]
+  },
+  {
+    "title": "nemotron-halloween",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 30 Oct 2026 17:57:24 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "",
+    "score": 1,
+    "tags": [],
+    "highlights": []
+  },
+  {
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 29 Oct 2026 13:37:07 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "IBM Granite Switch 4.1.1 是一篇关于以软件更新方式更新模型的博客文章，介绍该版本在模型切换与更新流程上的改进。",
+    "score": 6,
+    "tags": [
+      "IBM Granite",
+      "模型更新",
+      "Hugging Face",
+      "机器学习"
+    ],
+    "highlights": [
+      "Granite Switch 4.1.1 发布",
+      "像更新软件一样更新模型"
+    ]
+  }
+]

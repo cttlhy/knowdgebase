@@ -1,0 +1,24 @@
+{
+  "id": "rss-04202607-014",
+  "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+  "source": "rss",
+  "source_url": "https://openai.com/index/daybreak-red-aws-govcloud",
+  "status": "draft",
+  "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+  "date": "Wed, 04 Nov 2026 07:00:00 GMT",
+  "popularity": "",
+  "summary": "Daybreak Red 通过 Amazon Bedrock 在 AWS GovCloud（美国东部）向获批客户提供 GPT-5.6 Cyber，用于授权的网络安全工作。",
+  "highlights": [
+    "Daybreak Red 在 AWS GovCloud（美国东部）上线",
+    "通过 Amazon Bedrock 向获批客户提供 GPT-5.6 Cyber",
+    "面向授权的网络安全工作"
+  ],
+  "score": 7,
+  "tags": [
+    "AWS GovCloud",
+    "Amazon Bedrock",
+    "GPT-5.6 Cyber",
+    "网络安全",
+    "政府云"
+  ]
+}

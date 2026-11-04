@@ -1,0 +1,24 @@
+{
+  "id": "rss-03202616-016",
+  "title": "Palette: teaching a small model to build decks in your design language",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "date": "Tue, 03 Nov 2026 16:35:36 GMT",
+  "popularity": "",
+  "summary": "Palette 是 IBM Research 在 Hugging Face 博客中介绍的方法，用于训练一个小模型，使其能够按照特定设计语言自动构建演示文稿（decks）。",
+  "highlights": [
+    "训练小模型构建设计语言一致的演示文稿",
+    "Palette 方法由 IBM Research 提出",
+    "发布在 Hugging Face 博客"
+  ],
+  "score": 7,
+  "tags": [
+    "小模型",
+    "设计语言",
+    "演示文稿生成",
+    "IBM Research",
+    "Hugging Face"
+  ]
+}

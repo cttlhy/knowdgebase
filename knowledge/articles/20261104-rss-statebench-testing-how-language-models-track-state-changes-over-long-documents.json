@@ -1,0 +1,29 @@
+{
+  "id": "rss-03202617-015",
+  "title": "StateBench: Testing how language models track state changes over long documents",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/statebench",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/statebench",
+  "date": "Tue, 03 Nov 2026 17:15:21 GMT",
+  "popularity": "",
+  "summary": "StateBench 是 AllenAI 提出的基准，用于测试语言模型在长文档中跟踪状态变化的能力，评估模型对实体状态更新的理解与维护。",
+  "highlights": [
+    "提出 StateBench 基准",
+    "测试长文档中的状态变化跟踪",
+    "评估语言模型对实体状态更新的理解"
+  ],
+  "score": 8,
+  "tags": [
+    "语言模型",
+    "长文档理解",
+    "状态跟踪",
+    "基准测试",
+    "AllenAI"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261104"
+  }
+}

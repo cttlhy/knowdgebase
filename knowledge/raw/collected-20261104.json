@@ -1,0 +1,349 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-04",
+    "popularity": "stars:429792",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，范围从应用行为到原生二进制文件。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "二进制分析",
+      "GitHub项目"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-04",
+    "popularity": "stars:393891",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调真正执行任务的能力，并以龙虾为品牌形象。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源项目",
+      "GitHub"
+    ],
+    "highlights": [
+      "真正执行任务的 AI",
+      "支持任意操作系统和平台",
+      "龙虾主题品牌"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-04",
+    "popularity": "stars:312656",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库，分享来自其 .agents 目录的实用技能，面向真正的工程师。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能",
+      "工程师",
+      "AI代理",
+      "开发工具"
+    ],
+    "highlights": [
+      "来自 .agents 目录的实用技能",
+      "面向真正的工程师"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-04",
+    "popularity": "stars:312264",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个在 GitHub 上发布的智能体技能框架与软件开发方法论，强调实用有效。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development",
+      "methodology",
+      "framework",
+      "GitHub"
+    ],
+    "highlights": [
+      "智能体技能框架",
+      "软件开发方法论",
+      "强调实用有效"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-04",
+    "popularity": "stars:296987",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编程代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全和研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编程代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Codex",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编程工具",
+      "涵盖技能、记忆与安全",
+      "研究优先的开发模式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-04",
+    "popularity": "stars:260468",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，描述为“与你共同成长的智能体”，暗示其具备持续学习或自适应能力。",
+    "score": 6,
+    "tags": [
+      "AI Agent",
+      "GitHub",
+      "NousResearch",
+      "自适应智能体"
+    ],
+    "highlights": [
+      "项目名称为 hermes-agent",
+      "由 NousResearch 发布",
+      "核心描述为“与你共同成长的智能体”"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-04",
+    "popularity": "stars:229377",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM 编码",
+      "提示工程",
+      "Andrej Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-04",
+    "popularity": "stars:224523",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，提供自动化编码辅助能力。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI编程",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-04",
+    "popularity": "stars:209548",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "可视化编程",
+      "自托管",
+      "开源"
+    ],
+    "highlights": [
+      "公平代码工作流自动化平台",
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-04",
+    "popularity": "stars:198550",
+    "content": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+    "summary": "Firecrawl 是一个为 AI 智能体提供网络及更广泛数据源的项目，旨在构建面向超级智能的库。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "数据抓取",
+      "智能体",
+      "开源"
+    ],
+    "highlights": [
+      "为 AI 智能体提供网络数据",
+      "构建超级智能库"
+    ]
+  },
+  {
+    "title": "Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights",
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 02 Nov 2026 13:24:33 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/u7wdqj/sparks_weight_space_programming_llms_can\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章探讨了大型语言模型（LLMs）能够原生读取和写入神经网络权重的可能性，提出了权重空间编程的概念，并附带了社区讨论链接。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "神经网络权重",
+      "权重空间编程",
+      "机器学习"
+    ],
+    "highlights": [
+      "LLMs可以原生读取和写入神经网络权重",
+      "提出权重空间编程的概念"
+    ]
+  },
+  {
+    "title": "An easy way to try local AI with braindead-local-intelligence",
+    "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sun, 01 Nov 2026 14:26:47 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rlmrfy/easy_way_try_local_ai_with_braindead_local\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章介绍了一种使用 braindead-local-intelligence 工具轻松尝试本地 AI 的简单方法，并附有相关讨论链接。",
+    "score": 5,
+    "tags": [
+      "local AI",
+      "braindead-local-intelligence",
+      "tutorial"
+    ],
+    "highlights": [
+      "介绍 braindead-local-intelligence 工具",
+      "提供尝试本地 AI 的简便方法"
+    ]
+  },
+  {
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 04 Nov 2026 14:30:00 GMT",
+    "popularity": "",
+    "content": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "summary": "OpenAI 宣布将收购 Pierre Computer Company，以扩展 Codex 在代码构建、理解和审查方面的工具能力。",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "收购",
+      "Codex",
+      "代码工具",
+      "软件开发"
+    ],
+    "highlights": [
+      "OpenAI 将收购 Pierre Computer Company",
+      "此次收购旨在扩展 Codex 的工具能力",
+      "覆盖代码构建、理解和审查"
+    ]
+  },
+  {
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 04 Nov 2026 07:00:00 GMT",
+    "popularity": "",
+    "content": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+    "summary": "Daybreak Red 通过 Amazon Bedrock 在 AWS GovCloud（美国东部）向获批客户提供 GPT-5.6 Cyber，用于授权的网络安全工作。",
+    "score": 7,
+    "tags": [
+      "AWS GovCloud",
+      "Amazon Bedrock",
+      "GPT-5.6 Cyber",
+      "网络安全",
+      "政府云"
+    ],
+    "highlights": [
+      "Daybreak Red 在 AWS GovCloud（美国东部）上线",
+      "通过 Amazon Bedrock 向获批客户提供 GPT-5.6 Cyber",
+      "面向授权的网络安全工作"
+    ]
+  },
+  {
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "url": "https://huggingface.co/blog/allenai/statebench",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 03 Nov 2026 17:15:21 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "StateBench 是 AllenAI 提出的基准，用于测试语言模型在长文档中跟踪状态变化的能力，评估模型对实体状态更新的理解与维护。",
+    "score": 8,
+    "tags": [
+      "语言模型",
+      "长文档理解",
+      "状态跟踪",
+      "基准测试",
+      "AllenAI"
+    ],
+    "highlights": [
+      "提出 StateBench 基准",
+      "测试长文档中的状态变化跟踪",
+      "评估语言模型对实体状态更新的理解"
+    ]
+  },
+  {
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 03 Nov 2026 16:35:36 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Palette 是 IBM Research 在 Hugging Face 博客中介绍的方法，用于训练一个小模型，使其能够按照特定设计语言自动构建演示文稿（decks）。",
+    "score": 7,
+    "tags": [
+      "小模型",
+      "设计语言",
+      "演示文稿生成",
+      "IBM Research",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "训练小模型构建设计语言一致的演示文稿",
+      "Palette 方法由 IBM Research 提出",
+      "发布在 Hugging Face 博客"
+    ]
+  }
+]

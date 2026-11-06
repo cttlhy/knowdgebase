@@ -1,0 +1,23 @@
+{
+  "id": "rss-05202611-011",
+  "title": "Reflections on Rust in the LLM Age",
+  "source": "rss",
+  "source_url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+  "status": "draft",
+  "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+  "date": "Thu, 05 Nov 2026 11:32:18 -0600",
+  "popularity": "",
+  "summary": "A discussion post linking to a YouTube video titled 'Reflections on Rust in the LLM Age', exploring the relevance and role of the Rust programming language in the era of large language models.",
+  "highlights": [
+    "Explores Rust's position in the LLM era",
+    "Discussion on Lobsters with community comments"
+  ],
+  "score": 6,
+  "tags": [
+    "Rust",
+    "LLM",
+    "programming languages",
+    "AI",
+    "software development"
+  ]
+}

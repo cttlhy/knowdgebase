@@ -1,0 +1,346 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-07",
+    "popularity": "stars:439850",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的工具，覆盖从应用行为到原生二进制文件的分析。",
+    "score": 7,
+    "tags": [
+      "reverse-engineering",
+      "agents",
+      "binary-analysis",
+      "app-behavior",
+      "github"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件",
+      "适用于多种逆向分析场景"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-07",
+    "popularity": "stars:394108",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，以龙虾为品牌形象。",
+    "score": 5,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调实际执行能力",
+      "龙虾品牌形象"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-07",
+    "popularity": "stars:317295",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "这是一个GitHub仓库，包含作者从自己的.agents目录中提取的面向真正工程师的技能集合。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能",
+      "工程师",
+      "agents"
+    ],
+    "highlights": [
+      "面向真正工程师的技能",
+      "直接来自作者的.agents目录"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-07",
+    "popularity": "stars:313919",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个在 GitHub 上开源的智能体技能框架与软件开发方法论，强调实用有效。",
+    "score": 7,
+    "tags": [
+      "agentic framework",
+      "software development",
+      "methodology",
+      "GitHub",
+      "AI agents"
+    ],
+    "highlights": [
+      "提供智能体技能框架",
+      "包含软件开发方法论",
+      "强调实用有效"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-07",
+    "popularity": "stars:298920",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编码代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全和研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Codex",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理框架性能优化系统",
+      "支持多种 AI 编码工具",
+      "涵盖技能、本能、记忆、安全与研究优先开发"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-07",
+    "popularity": "stars:261392",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 上的智能体项目，主打随用户成长而演进的 agent 能力。",
+    "score": 6,
+    "tags": [
+      "agent",
+      "GitHub",
+      "NousResearch",
+      "AI"
+    ],
+    "highlights": [
+      "随用户成长的智能体",
+      "NousResearch 出品"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-07",
+    "popularity": "stars:230493",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM编码",
+      "提示工程",
+      "Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-07",
+    "popularity": "stars:225194",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，提供自动化编码辅助能力。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI",
+      "GitHub",
+      "开发工具"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-07",
+    "popularity": "stars:209752",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "集成",
+      "自托管"
+    ],
+    "highlights": [
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-07",
+    "popularity": "stars:199410",
+    "content": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+    "summary": "Firecrawl 是一个为 AI 智能体提供网络及更广泛数据源的项目，旨在构建面向超级智能的库。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "数据抓取",
+      "智能体",
+      "开源"
+    ],
+    "highlights": [
+      "为 AI 智能体提供网络数据",
+      "构建超级智能库"
+    ]
+  },
+  {
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 07 Nov 2026 02:44:02 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wzz4u3/firecracker_vm_escape_pwnescape_part_2\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该文章是PwnEscape系列的第二部分，讨论Firecracker虚拟机逃逸漏洞。",
+    "score": 7,
+    "tags": [
+      "Firecracker",
+      "VM Escape",
+      "安全",
+      "漏洞"
+    ],
+    "highlights": [
+      "Firecracker VM Escape",
+      "PwnEscape Part 2"
+    ]
+  },
+  {
+    "title": "Reflections on Rust in the LLM Age",
+    "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 05 Nov 2026 11:32:18 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/yomksa/reflections_on_rust_llm_age\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该内容是一个指向 lobste.rs 评论页面的链接，讨论题为“Reflections on Rust in the LLM Age”的 YouTube 视频，但未提供视频本身的实质内容。",
+    "score": 2,
+    "tags": [
+      "Rust",
+      "LLM",
+      "编程语言",
+      "视频"
+    ],
+    "highlights": []
+  },
+  {
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "url": "https://openai.com/index/partnering-with-hacktron",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 06 Nov 2026 08:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "summary": "OpenAI与Hacktron合作，利用前沿AI发现系统漏洞、测试与第三方服务的连接并加强防御。",
+    "score": 6,
+    "tags": [
+      "OpenAI",
+      "Hacktron",
+      "安全合作",
+      "漏洞发现",
+      "AI安全"
+    ],
+    "highlights": [
+      "OpenAI与Hacktron合作发现漏洞",
+      "测试与第三方服务的连接",
+      "利用前沿AI加强防御"
+    ]
+  },
+  {
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 06 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "score": 7,
+    "tags": [
+      "AI agents",
+      "benchmark",
+      "wet-lab science",
+      "experimental data",
+      "OpenAI"
+    ],
+    "highlights": [
+      "BioBasicsBench is a 100-task benchmark",
+      "Measures AI agents' interpretation of raw experimental data",
+      "Focuses on everyday wet-lab science tasks"
+    ]
+  },
+  {
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "url": "https://huggingface.co/blog/allenai/toyblocks",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 06 Nov 2026 14:00:48 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "ToyBlocks 是 AllenAI 推出的受控机器人学习与评估环境，提供标准化积木操作任务，用于训练和对比机器人学习算法。",
+    "score": 7,
+    "tags": [
+      "机器人学习",
+      "评估基准",
+      "仿真环境",
+      "AllenAI",
+      "积木操作"
+    ],
+    "highlights": [
+      "提供受控的机器人学习世界",
+      "支持算法训练与评估",
+      "基于积木操作任务",
+      "由 AllenAI 发布"
+    ]
+  },
+  {
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 06 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face 的 Open ASR Leaderboard 新增埃及英语和尼日利亚英语数据集，以扩展自动语音识别评测的语言覆盖范围。",
+    "score": 6,
+    "tags": [
+      "ASR",
+      "语音识别",
+      "Hugging Face",
+      "基准评测",
+      "英语变体"
+    ],
+    "highlights": [
+      "Open ASR Leaderboard 新增埃及英语和尼日利亚英语",
+      "扩展了语音识别评测的语言多样性"
+    ]
+  }
+]

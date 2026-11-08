@@ -1,0 +1,25 @@
+{
+  "id": "rss-06202608-015",
+  "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+  "source": "rss",
+  "source_url": "https://openai.com/index/partnering-with-hacktron",
+  "status": "draft",
+  "url": "https://openai.com/index/partnering-with-hacktron",
+  "date": "Fri, 06 Nov 2026 08:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI与Hacktron合作，利用前沿AI发现系统漏洞、测试第三方服务连接并加强防御。",
+  "highlights": [
+    "OpenAI与Hacktron建立安全合作伙伴关系",
+    "合作重点为发现漏洞和测试第三方服务连接",
+    "利用前沿AI加强系统防御"
+  ],
+  "score": 7,
+  "tags": [
+    "OpenAI",
+    "Hacktron",
+    "安全合作",
+    "漏洞发现",
+    "第三方服务",
+    "AI防御"
+  ]
+}

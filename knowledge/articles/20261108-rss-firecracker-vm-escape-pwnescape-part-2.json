@@ -1,0 +1,23 @@
+{
+  "id": "rss-07202602-014",
+  "title": "Firecracker VM Escape: PwnEscape Part 2",
+  "source": "rss",
+  "source_url": "https://pwn.ai/blog/firecracker-escape",
+  "status": "draft",
+  "url": "https://pwn.ai/blog/firecracker-escape",
+  "date": "Sat, 07 Nov 2026 02:44:02 -0600",
+  "popularity": "",
+  "summary": "该文章是 PwnEscape 系列的第二部分，探讨 Firecracker 虚拟机逃逸漏洞。",
+  "highlights": [
+    "Firecracker 虚拟机逃逸",
+    "PwnEscape 系列第二部分"
+  ],
+  "score": 7,
+  "tags": [
+    "Firecracker",
+    "VM Escape",
+    "安全",
+    "漏洞",
+    "虚拟化"
+  ]
+}

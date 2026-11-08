@@ -1,0 +1,24 @@
+{
+  "id": "rss-06202614-017",
+  "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/toyblocks",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/toyblocks",
+  "date": "Fri, 06 Nov 2026 14:00:48 GMT",
+  "popularity": "",
+  "summary": "ToyBlocks 是 Allen AI 推出的受控机器人学习与评估环境，提供标准化积木操作任务，用于训练和基准测试机器人学习算法。",
+  "highlights": [
+    "提供受控的机器人学习与评估世界",
+    "基于积木操作任务",
+    "由 Allen AI 发布"
+  ],
+  "score": 7,
+  "tags": [
+    "机器人学习",
+    "基准测试",
+    "仿真环境",
+    "Allen AI",
+    "积木操作"
+  ]
+}

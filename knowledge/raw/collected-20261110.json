@@ -1,0 +1,372 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-10",
+    "popularity": "stars:449146",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的工具，覆盖从应用行为到原生二进制文件的层面。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "二进制分析",
+      "应用行为",
+      "GitHub"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-10",
+    "popularity": "stars:394294",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，以龙虾风格为特色。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调实际执行能力",
+      "龙虾风格品牌"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-10",
+    "popularity": "stars:320542",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "这是一个GitHub仓库，提供面向真正工程师的实用技能集合，内容直接来自作者的.agents目录。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能集合",
+      "工程师",
+      "agents"
+    ],
+    "highlights": [
+      "面向真正工程师的技能",
+      "直接来自.agents目录"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-10",
+    "popularity": "stars:315532",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个在 GitHub 上发布的智能体技能框架与软件开发方法论，强调实用有效。",
+    "score": 7,
+    "tags": [
+      "agentic framework",
+      "software development",
+      "methodology",
+      "GitHub"
+    ],
+    "highlights": [
+      "智能体技能框架",
+      "软件开发方法论",
+      "强调实用性"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-10",
+    "popularity": "stars:300614",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 Claude Code、Codex、Opencode、Cursor 等智能体编程工具的智能体框架性能优化系统，涵盖技能、本能、记忆、安全以及研究优先的开发方式。",
+    "score": 7,
+    "tags": [
+      "agent-harness",
+      "performance-optimization",
+      "claude-code",
+      "codex",
+      "cursor",
+      "developer-tools"
+    ],
+    "highlights": [
+      "智能体框架性能优化系统",
+      "支持 Claude Code、Codex、Opencode、Cursor 等多种工具",
+      "包含技能、本能、记忆、安全与研究优先开发"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-10",
+    "popularity": "stars:262330",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，定位为随用户成长的智能体（agent），强调可扩展与持续演进的能力。",
+    "score": 6,
+    "tags": [
+      "AI Agent",
+      "GitHub",
+      "NousResearch",
+      "开源项目"
+    ],
+    "highlights": [
+      "定位为随用户成长的智能体",
+      "来自 NousResearch 的 agent 项目"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-10",
+    "popularity": "stars:231742",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM 编码",
+      "提示工程",
+      "Andrej Karpathy",
+      "开发者工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-10",
+    "popularity": "stars:225839",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，提供自动化编码辅助能力。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI编程",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-10",
+    "popularity": "stars:209998",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "可视化编程",
+      "自托管",
+      "开源"
+    ],
+    "highlights": [
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-10",
+    "popularity": "stars:200397",
+    "content": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+    "summary": "Firecrawl 是一个为 AI 智能体提供网络及更广泛数据源的项目，旨在构建面向超级智能的库。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "数据抓取",
+      "开源",
+      "智能体"
+    ],
+    "highlights": [
+      "为 AI 智能体提供网络数据",
+      "构建超级智能库"
+    ]
+  },
+  {
+    "title": "I'm not convinced the AI bubble exists",
+    "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Sun, 08 Nov 2026 23:44:36 +0000",
+    "popularity": "",
+    "content": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 559 # Comments: 953",
+    "summary": "文章作者对AI泡沫是否存在持怀疑态度，认为当前AI热潮可能并非泡沫。该文在Hacker News上引发广泛讨论，获得559分和953条评论。",
+    "score": 7,
+    "tags": [
+      "AI泡沫",
+      "人工智能",
+      "科技趋势",
+      "Hacker News"
+    ],
+    "highlights": [
+      "作者不认为AI泡沫存在",
+      "Hacker News上获得559分和953条评论",
+      "引发关于AI行业是否过热的讨论"
+    ]
+  },
+  {
+    "title": "Catching prompt injections hidden in PDFs",
+    "url": "https://tomclancy.info/joshua-judges-ruth.html",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 07 Nov 2026 13:34:01 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hreu0b/catching_prompt_injections_hidden_pdfs\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章讨论如何检测隐藏在PDF文件中的提示注入攻击，并附有相关评论链接。",
+    "score": 6,
+    "tags": [
+      "prompt injection",
+      "PDF安全",
+      "AI安全",
+      "内容检测"
+    ],
+    "highlights": [
+      "检测PDF中隐藏的提示注入",
+      "提供相关讨论链接"
+    ]
+  },
+  {
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 07 Nov 2026 02:44:02 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/wzz4u3/firecracker_vm_escape_pwnescape_part_2\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该页面是 PwnEscape 系列第二部分，讨论 Firecracker 虚拟机逃逸，并链接到 Lobste.rs 上的评论。",
+    "score": 6,
+    "tags": [
+      "Firecracker",
+      "VM Escape",
+      "安全",
+      "虚拟化"
+    ],
+    "highlights": [
+      "Firecracker VM Escape",
+      "PwnEscape Part 2"
+    ]
+  },
+  {
+    "title": "Helping caregivers use AI in everyday life",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 10 Nov 2026 12:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "summary": "OpenAI Academy 将在美国五个城市为护理人员提供免费的 ChatGPT 实践工作坊，帮助他们掌握日常生活中的实用 AI 技能。",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "AI 教育",
+      "护理人员",
+      "ChatGPT",
+      "工作坊"
+    ],
+    "highlights": [
+      "为护理人员提供免费、动手实践的 ChatGPT 工作坊",
+      "覆盖美国五个城市",
+      "帮助护理人员培养日常生活中的实用 AI 技能"
+    ]
+  },
+  {
+    "title": "Closing the AI guidance gap in education",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 10 Nov 2026 09:00:00 GMT",
+    "popularity": "",
+    "content": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "summary": "ThinkYoung 的新研究与 OpenAI 在欧洲、中东和非洲教育合作中的经验，聚焦支持教师、AI 素养和独立学习，以弥合教育领域的 AI 指导缺口。",
+    "score": 7,
+    "tags": [
+      "AI教育",
+      "教师支持",
+      "AI素养",
+      "独立学习",
+      "OpenAI",
+      "EMEA"
+    ],
+    "highlights": [
+      "ThinkYoung 新研究",
+      "OpenAI EMEA 教育合作经验",
+      "支持教师",
+      "AI 素养",
+      "独立学习"
+    ]
+  },
+  {
+    "title": "Decision Models in Hugging Face",
+    "url": "https://huggingface.co/blog/decision",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Tue, 10 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客文章介绍了 Hugging Face 中的决策模型，涵盖决策 Transformer、强化学习与序列建模方法，以及它们在离线强化学习任务中的应用。",
+    "score": 8,
+    "tags": [
+      "Hugging Face",
+      "决策模型",
+      "强化学习",
+      "决策Transformer",
+      "离线强化学习"
+    ],
+    "highlights": [
+      "介绍 Hugging Face 中的决策模型",
+      "讨论决策 Transformer 与序列建模方法",
+      "聚焦离线强化学习应用"
+    ]
+  },
+  {
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Mon, 09 Nov 2026 15:05:57 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "NVIDIA 发布 Nemotron-Personas-Finance-Japan 合成数据集，旨在捕捉日本的人口统计特征与金融背景，用于金融领域 AI 模型训练与评估。",
+    "score": 7,
+    "tags": [
+      "合成数据集",
+      "金融",
+      "日本",
+      "人口统计",
+      "NVIDIA",
+      "AI 模型"
+    ],
+    "highlights": [
+      "NVIDIA 推出面向日本金融场景的合成数据集",
+      "聚焦日本人口统计与金融背景",
+      "可用于金融 AI 模型训练与评估"
+    ]
+  }
+]

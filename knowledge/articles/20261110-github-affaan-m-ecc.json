@@ -1,0 +1,30 @@
+{
+  "id": "github-20261110-005",
+  "title": "affaan-m/ECC",
+  "source": "github",
+  "source_url": "https://github.com/affaan-m/ECC",
+  "status": "draft",
+  "url": "https://github.com/affaan-m/ECC",
+  "date": "2026-11-10",
+  "popularity": "stars:300614",
+  "summary": "affaan-m/ECC 是一个面向 Claude Code、Codex、Opencode、Cursor 等智能体编程工具的智能体框架性能优化系统，涵盖技能、本能、记忆、安全以及研究优先的开发方式。",
+  "highlights": [
+    "智能体框架性能优化系统",
+    "支持 Claude Code、Codex、Opencode、Cursor 等多种工具",
+    "包含技能、本能、记忆、安全与研究优先开发"
+  ],
+  "score": 7,
+  "tags": [
+    "agent-harness",
+    "performance-optimization",
+    "claude-code",
+    "codex",
+    "cursor",
+    "developer-tools"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261110"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-10202600-016",
+  "title": "Decision Models in Hugging Face",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/decision",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/decision",
+  "date": "Tue, 10 Nov 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "该博客文章介绍了 Hugging Face 中的决策模型，涵盖决策 Transformer、强化学习与序列建模方法，以及它们在离线强化学习任务中的应用。",
+  "highlights": [
+    "介绍 Hugging Face 中的决策模型",
+    "讨论决策 Transformer 与序列建模方法",
+    "聚焦离线强化学习应用"
+  ],
+  "score": 8,
+  "tags": [
+    "Hugging Face",
+    "决策模型",
+    "强化学习",
+    "决策Transformer",
+    "离线强化学习"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261110"
+  }
+}

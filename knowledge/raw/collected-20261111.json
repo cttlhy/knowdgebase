@@ -1,0 +1,349 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-11",
+    "popularity": "stars:451910",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的工具，范围从应用行为到原生二进制文件。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "二进制分析",
+      "应用行为",
+      "GitHub"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-11",
+    "popularity": "stars:394339",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调真正执行任务的能力，并以龙虾风格作为品牌特色。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源项目",
+      "GitHub"
+    ],
+    "highlights": [
+      "真正执行任务的 AI",
+      "支持任意操作系统和平台",
+      "龙虾风格品牌"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-11",
+    "popularity": "stars:321670",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "mattpocock/skills 是一个 GitHub 仓库，提供面向真正工程师的技能集合，内容直接来自作者的 .agents 目录。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能",
+      "工程师",
+      "agents",
+      "开发工具"
+    ],
+    "highlights": [
+      "Skills for Real Engineers",
+      "Straight from my .agents directory"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-11",
+    "popularity": "stars:316100",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架与软件开发方法论，强调实用有效。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development",
+      "methodology",
+      "framework"
+    ],
+    "highlights": [
+      "代理技能框架",
+      "软件开发方法论",
+      "实用有效"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-11",
+    "popularity": "stars:301144",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编码代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全和研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编码工具",
+      "涵盖技能、记忆与安全",
+      "研究优先的开发模式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-11",
+    "popularity": "stars:262640",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 上的智能体项目，其核心理念是“与你共同成长的智能体”，强调可扩展性和持续学习能力。",
+    "score": 7,
+    "tags": [
+      "AI Agent",
+      "开源项目",
+      "NousResearch",
+      "智能体框架"
+    ],
+    "highlights": [
+      "核心理念为随用户共同成长",
+      "由 NousResearch 发布",
+      "托管于 GitHub 开源平台"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-11",
+    "popularity": "stars:232128",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM编码",
+      "提示工程",
+      "Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-11",
+    "popularity": "stars:226081",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，提供自动化编码辅助能力。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-11",
+    "popularity": "stars:210148",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个 fair-code 工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400+ 集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "自托管",
+      "集成平台"
+    ],
+    "highlights": [
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-11",
+    "popularity": "stars:200815",
+    "content": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+    "summary": "Firecrawl 是一个为 AI 智能体提供网络及更广泛数据源的项目，旨在构建面向超级智能的库。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "数据抓取",
+      "智能体",
+      "开源"
+    ],
+    "highlights": [
+      "为 AI 智能体提供网络数据",
+      "构建超级智能库"
+    ]
+  },
+  {
+    "title": "What are some \"No AI\" apps/companies/resources you know of?",
+    "url": "https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 11 Nov 2026 07:13:51 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;Hey everyone I'm wondering if there's any useful/helpful list of apps, companies, or resources in general that avoid AI (they don't have to be vocally or openly \"anti\", but at least explicitly avoid it) that you know of?&lt;/p&gt; &lt;p&gt;I'm not looking to start a discussion on what's good/bad or (un)worthy about AI, or who's for/against, just links and/or communities promoting this sentiment/position.&lt;/p&gt; &lt;p&gt;For example, &lt;a href=\"https://www.rebeltechalliance.org\" rel=\"ugc\"&gt;https://www.rebeltechalliance.org&lt;/a&gt; would be one of those resources.&lt;/p&gt; &lt;p&gt;Thank you!&lt;/p&gt;",
+    "summary": "A Lobsters post asking for lists of apps, companies, or resources that explicitly avoid AI, with the author clarifying they want links and communities rather than debate about AI's merits, and giving Rebel Tech Alliance as an example.",
+    "score": 5,
+    "tags": [
+      "no-ai",
+      "technology",
+      "community",
+      "resources",
+      "lobsters"
+    ],
+    "highlights": [
+      "Seeks useful lists of apps, companies, or resources that avoid AI",
+      "Not looking to debate AI's good/bad or for/against positions",
+      "Wants links and communities promoting the no-AI sentiment",
+      "Cites rebeltechalliance.org as an example resource"
+    ]
+  },
+  {
+    "title": "Online learning on the programmable dataplane (2022)",
+    "url": "https://theses.gla.ac.uk/83235/3/2022SimpsonPhD.pdf",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 10 Nov 2026 14:22:46 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/tj73bq/online_learning_on_programmable\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该论文探讨了在可编程数据平面上进行在线学习的方法，属于网络与机器学习交叉领域的研究。",
+    "score": 7,
+    "tags": [
+      "可编程数据平面",
+      "在线学习",
+      "网络",
+      "机器学习",
+      "博士论文"
+    ],
+    "highlights": [
+      "研究可编程数据平面上的在线学习",
+      "2022年格拉斯哥大学博士论文"
+    ]
+  },
+  {
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "summary": "Gilbert + Tobin 的合伙人兼首席执行官 Sam Nickless 讨论了律所如何利用 AI 重新思考法律业务，涉及 AI 在法律行业的应用与业务模式创新。",
+    "score": 6,
+    "tags": [
+      "法律科技",
+      "AI应用",
+      "律所管理",
+      "业务创新"
+    ],
+    "highlights": [
+      "Gilbert + Tobin 利用 AI 重新思考法律业务",
+      "Sam Nickless 是合伙人兼首席执行官"
+    ]
+  },
+  {
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 11 Nov 2026 08:00:00 GMT",
+    "popularity": "",
+    "content": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "summary": "OpenAI 为退伍军人和过渡期服役人员提供免费一年 ChatGPT Plus，已有超过 20,000 人领取，用于为平民职业做准备。",
+    "score": 7,
+    "tags": [
+      "ChatGPT Plus",
+      "退伍军人",
+      "OpenAI",
+      "职业转型",
+      "免费福利"
+    ],
+    "highlights": [
+      "超过 20,000 名退伍军人和过渡期服役人员已领取免费一年 ChatGPT Plus",
+      "用于为平民职业做准备"
+    ]
+  },
+  {
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "url": "https://huggingface.co/blog/qvac/botpsy",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 11 Nov 2026 05:01:16 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "BotPsy 是一个基于十亿参数以下代理语言模型的端侧个人助理项目，通过 Hugging Face 博客介绍其设计理念与实现方式。",
+    "score": 7,
+    "tags": [
+      "端侧AI",
+      "个人助理",
+      "小型语言模型",
+      "代理模型",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "采用十亿参数以下的代理语言模型",
+      "面向端侧部署的个人助理",
+      "在 Hugging Face 博客发布"
+    ]
+  },
+  {
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "url": "https://huggingface.co/blog/token-pooling",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 11 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客文章介绍了针对多向量嵌入模型的Token Pooling-Aware Training方法，旨在通过感知池化的训练策略优化多向量嵌入模型的表示效率与性能。",
+    "score": 7,
+    "tags": [
+      "多向量嵌入",
+      "Token Pooling",
+      "模型训练",
+      "嵌入模型",
+      "效率优化"
+    ],
+    "highlights": [
+      "提出Token Pooling-Aware Training方法",
+      "针对多向量嵌入模型",
+      "优化表示效率与性能"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "id": "rss-11202605-016",
+  "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/qvac/botpsy",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/qvac/botpsy",
+  "date": "Wed, 11 Nov 2026 05:01:16 GMT",
+  "popularity": "",
+  "summary": "BotPsy 是一个基于十亿参数以下智能体语言模型的端侧个人助理方案，介绍了其设计思路与实现方式。",
+  "highlights": [
+    "采用十亿参数以下的智能体语言模型",
+    "面向端侧部署的个人助理",
+    "强调设备本地运行"
+  ],
+  "score": 7,
+  "tags": [
+    "端侧AI",
+    "个人助理",
+    "智能体",
+    "小语言模型",
+    "Hugging Face"
+  ]
+}

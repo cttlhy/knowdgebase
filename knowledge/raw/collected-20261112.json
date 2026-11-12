@@ -1,0 +1,348 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-12",
+    "popularity": "stars:454653",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，范围从应用行为到原生二进制文件。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "二进制分析",
+      "GitHub"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-12",
+    "popularity": "stars:394407",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调真正执行任务的能力，并以龙虾为品牌形象。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源项目",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调真正执行任务",
+      "龙虾品牌形象"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-12",
+    "popularity": "stars:322761",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "mattpocock/skills 是一个 GitHub 仓库，提供面向真实工程师的技能集合，内容直接来自作者的 .agents 目录。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能",
+      "工程师",
+      "agents",
+      "开发工具"
+    ],
+    "highlights": [
+      "面向真实工程师的技能集合",
+      "内容直接来自作者的 .agents 目录"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-12",
+    "popularity": "stars:316641",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架与软件开发方法论，强调实用有效。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development",
+      "methodology",
+      "framework"
+    ],
+    "highlights": [
+      "代理技能框架",
+      "软件开发方法论",
+      "实用有效"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-12",
+    "popularity": "stars:301826",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编程代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全与研究优先开发能力。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor",
+      "记忆系统"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编程工具",
+      "包含技能、本能、记忆与安全模块",
+      "强调研究优先的开发方式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-12",
+    "popularity": "stars:262913",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，定位为随用户成长的智能体（agent），强调可扩展性和持续学习能力。",
+    "score": 6,
+    "tags": [
+      "AI agent",
+      "NousResearch",
+      "GitHub",
+      "开源项目",
+      "智能体"
+    ],
+    "highlights": [
+      "项目名称为 hermes-agent",
+      "由 NousResearch 发布",
+      "核心理念是随用户成长"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-12",
+    "popularity": "stars:232470",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM编码",
+      "提示工程",
+      "Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-12",
+    "popularity": "stars:226365",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，定位为开源 AI 编码助手。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI 编程",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-12",
+    "popularity": "stars:210304",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "自托管",
+      "集成平台"
+    ],
+    "highlights": [
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-12",
+    "popularity": "stars:201191",
+    "content": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+    "summary": "Firecrawl 是一个为 AI 智能体提供网页及更广泛数据抓取能力的开源项目，目标是构建面向超级智能的数据库。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "数据抓取",
+      "开源",
+      "智能体",
+      "网页数据"
+    ],
+    "highlights": [
+      "为 AI 智能体提供网页数据",
+      "构建超级智能数据库",
+      "开源项目"
+    ]
+  },
+  {
+    "title": "libreagi - save OS models",
+    "url": "https://libreagi.com/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 12 Nov 2026 09:35:46 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7c4iar/libreagi_save_os_models\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "LibreAGI 是一个旨在保存操作系统模型的网站，相关讨论链接指向 Lobste.rs 上的评论页面。",
+    "score": 3,
+    "tags": [
+      "LibreAGI",
+      "OS models",
+      "Lobste.rs"
+    ],
+    "highlights": [
+      "libreagi.com 网站",
+      "Lobste.rs 评论链接"
+    ]
+  },
+  {
+    "title": "AI Security Issues Are Social Engineering Issues",
+    "url": "https://www.oblomovka.com/wp/2026/11/11/ai-security-issues-are-social-engineering-issues/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 12 Nov 2026 08:41:38 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rehdv3/ai_security_issues_are_social\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章主张AI安全问题本质上是社会工程问题，强调人为因素在AI安全中的核心作用。",
+    "score": 6,
+    "tags": [
+      "AI安全",
+      "社会工程",
+      "网络安全"
+    ],
+    "highlights": [
+      "AI安全与社会工程密切相关",
+      "强调人为因素在AI安全中的重要性"
+    ]
+  },
+  {
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 12 Nov 2026 09:30:00 GMT",
+    "popularity": "",
+    "content": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+    "summary": "Holiday Extras 利用 Codex 将客户专业知识转化为更好的应用、更高的预订转化率以及新的增长可能性。",
+    "score": 7,
+    "tags": [
+      "Codex",
+      "Holiday Extras",
+      "客户案例",
+      "预订转化",
+      "应用开发"
+    ],
+    "highlights": [
+      "将客户专业知识转化为更好的应用",
+      "提高预订转化率",
+      "创造新的增长可能性"
+    ]
+  },
+  {
+    "title": "Supporting research on AI and children’s safety",
+    "url": "https://openai.com/index/children-first-declaration",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+    "summary": "OpenAI commits $2 million to research on AI and children's safety, supporting shared tools to measure risks and opportunities for young people.",
+    "score": 7,
+    "tags": [
+      "AI safety",
+      "children's safety",
+      "research funding",
+      "OpenAI",
+      "risk measurement"
+    ],
+    "highlights": [
+      "OpenAI commits $2 million to research on AI and children's safety",
+      "Supports shared tools to measure risks and opportunities for young people"
+    ]
+  },
+  {
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "url": "https://huggingface.co/blog/3d-lora-finetuning",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客文章提供了针对3D生成模型的微调指南，涵盖使用LoRA等技术进行高效适配的方法。",
+    "score": 8,
+    "tags": [
+      "3D生成",
+      "微调",
+      "LoRA",
+      "Hugging Face",
+      "深度学习"
+    ],
+    "highlights": [
+      "3D生成模型的微调指南",
+      "使用LoRA进行高效微调",
+      "Hugging Face博客文章"
+    ]
+  },
+  {
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "url": "https://huggingface.co/blog/qvac/botpsy",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 11 Nov 2026 05:01:16 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "BotPsy 是一个基于十亿参数以下智能体语言模型的端侧个人助理方案，介绍了其设计思路与实现方式。",
+    "score": 7,
+    "tags": [
+      "端侧AI",
+      "个人助理",
+      "智能体",
+      "小语言模型",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "采用十亿参数以下的智能体语言模型",
+      "面向端侧部署的个人助理",
+      "强调设备本地运行"
+    ]
+  }
+]

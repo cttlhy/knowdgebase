@@ -1,0 +1,29 @@
+{
+  "id": "rss-12202600-015",
+  "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/3d-lora-finetuning",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/3d-lora-finetuning",
+  "date": "Thu, 12 Nov 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "该博客文章提供了针对3D生成模型的微调指南，涵盖使用LoRA等技术进行高效适配的方法。",
+  "highlights": [
+    "3D生成模型的微调指南",
+    "使用LoRA进行高效微调",
+    "Hugging Face博客文章"
+  ],
+  "score": 8,
+  "tags": [
+    "3D生成",
+    "微调",
+    "LoRA",
+    "Hugging Face",
+    "深度学习"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261112"
+  }
+}

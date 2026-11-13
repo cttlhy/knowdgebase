@@ -1,0 +1,349 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-13",
+    "popularity": "stars:456925",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，范围从应用行为一直深入到原生二进制文件。",
+    "score": 7,
+    "tags": [
+      "reverse-engineering",
+      "agents",
+      "binary-analysis",
+      "github"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件的范围"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-13",
+    "popularity": "stars:394446",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调真正执行任务的能力，并以龙虾为品牌形象。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源项目",
+      "GitHub"
+    ],
+    "highlights": [
+      "真正执行任务的 AI",
+      "支持任意操作系统和平台",
+      "龙虾主题品牌"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-13",
+    "popularity": "stars:323580",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "mattpocock/skills 是一个 GitHub 仓库，提供面向真实工程师的技能集合，内容直接来自作者的 .agents 目录。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能",
+      "工程师",
+      "agents",
+      "开发工具"
+    ],
+    "highlights": [
+      "面向真实工程师的技能",
+      "直接来自作者的 .agents 目录"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-13",
+    "popularity": "stars:317111",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架与软件开发方法论，宣称其方法行之有效。",
+    "score": 6,
+    "tags": [
+      "agentic skills framework",
+      "software development methodology",
+      "GitHub project"
+    ],
+    "highlights": [
+      "提供代理技能框架",
+      "包含软件开发方法论",
+      "强调方法的有效性"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-13",
+    "popularity": "stars:302316",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编码代理的性能优化框架，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全和研究优先开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编码工具",
+      "包含技能、记忆与安全模块",
+      "研究优先的开发方式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-13",
+    "popularity": "stars:263146",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个强调随用户成长的开源智能体项目，托管于 GitHub。",
+    "score": 6,
+    "tags": [
+      "AI Agent",
+      "开源项目",
+      "NousResearch",
+      "GitHub"
+    ],
+    "highlights": [
+      "随用户成长的智能体",
+      "由 NousResearch 发布"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-13",
+    "popularity": "stars:232752",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM 编码",
+      "提示工程",
+      "Karpathy",
+      "开发者工具"
+    ],
+    "highlights": [
+      "单个 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-13",
+    "popularity": "stars:226597",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "GitHub",
+      "AI工具"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-13",
+    "popularity": "stars:210379",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "可视化编程",
+      "集成平台"
+    ],
+    "highlights": [
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-13",
+    "popularity": "stars:201484",
+    "content": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+    "summary": "Firecrawl 是一个为 AI 智能体提供网页及更广泛数据抓取能力的开源库，目标是构建面向超级智能的数据基础设施。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "数据抓取",
+      "开源",
+      "智能体",
+      "Web数据"
+    ],
+    "highlights": [
+      "为 AI 智能体提供网页数据",
+      "定位为超级智能的数据库",
+      "开源项目"
+    ]
+  },
+  {
+    "title": "e-means: 10x faster k-means at equal loss",
+    "url": "https://e-means.github.io/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 13 Nov 2026 02:37:31 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/rnmylu/e_means_10x_faster_k_means_at_equal_loss\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "e-means 是一种声称在相同损失下比标准 k-means 快 10 倍的聚类方法，链接指向其项目页面和 Lobste.rs 讨论。",
+    "score": 6,
+    "tags": [
+      "k-means",
+      "聚类",
+      "算法加速",
+      "机器学习"
+    ],
+    "highlights": [
+      "声称在相同损失下实现 10 倍加速",
+      "提供项目主页和社区讨论链接"
+    ]
+  },
+  {
+    "title": "libreagi - save OS models",
+    "url": "https://libreagi.com/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 12 Nov 2026 09:35:46 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/7c4iar/libreagi_save_os_models\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "LibreAGI 是一个旨在保存开源模型的网站，链接指向 Lobste.rs 上的相关讨论。",
+    "score": 3,
+    "tags": [
+      "LibreAGI",
+      "开源模型",
+      "AI",
+      "Lobste.rs"
+    ],
+    "highlights": [
+      "保存开源模型",
+      "Lobste.rs 讨论"
+    ]
+  },
+  {
+    "title": "Introducing ChatGPT Wallet",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 13 Nov 2026 15:00:00 GMT",
+    "popularity": "",
+    "content": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "summary": "OpenAI 推出 ChatGPT Wallet，为 ChatGPT Work、Codex 和 dots 中的智能体提供安全支付方式，可在用户批准并沿用现有银行卡保护机制的前提下完成购买。",
+    "score": 7,
+    "tags": [
+      "ChatGPT",
+      "支付",
+      "智能体",
+      "OpenAI",
+      "安全"
+    ],
+    "highlights": [
+      "ChatGPT Wallet 是面向智能体的安全支付方案",
+      "支持 ChatGPT Work、Codex 和 dots",
+      "购买需用户批准",
+      "沿用现有银行卡保护"
+    ]
+  },
+  {
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 12 Nov 2026 20:00:00 GMT",
+    "popularity": "",
+    "content": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "summary": "Amplitude uses OpenAI models to power its proactive product agent Wave, which identifies what to build, helps teams ship changes with coding agents, and measures impact, enabling product improvements in 1-2 days.",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "Amplitude",
+      "product agent",
+      "coding agents",
+      "AI in product development"
+    ],
+    "highlights": [
+      "Amplitude ships product improvements in 1-2 days",
+      "Wave identifies what to build",
+      "Teams ship changes with coding agents",
+      "Measures impact of changes"
+    ]
+  },
+  {
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 13 Nov 2026 14:05:22 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "llama.cpp 发布 v1.0.0，为本地 AI 生态奠定更坚实的基础，标志着该项目进入稳定版本阶段。",
+    "score": 8,
+    "tags": [
+      "llama.cpp",
+      "本地AI",
+      "GGML",
+      "开源",
+      "推理引擎"
+    ],
+    "highlights": [
+      "llama.cpp 发布 v1.0.0 稳定版本",
+      "为本地 AI 生态提供更强基础",
+      "由 ggml-org 在 Hugging Face 发布"
+    ]
+  },
+  {
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 12 Nov 2026 19:07:35 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "IBM Granite 团队发布 LLMON，一种面向大语言模型的原生标记语言，并已集成到 Granite 4.1 3B 和 8B 模型中。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "标记语言",
+      "IBM Granite",
+      "模型发布",
+      "自然语言处理"
+    ],
+    "highlights": [
+      "LLMON 是专为 LLM 设计的原生标记语言",
+      "已集成到 Granite 4.1 3B 和 8B 模型",
+      "由 IBM Granite 团队发布"
+    ]
+  }
+]

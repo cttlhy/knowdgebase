@@ -1,0 +1,22 @@
+{
+  "id": "rss-13202602-011",
+  "title": "e-means: 10x faster k-means at equal loss",
+  "source": "rss",
+  "source_url": "https://e-means.github.io/",
+  "status": "draft",
+  "url": "https://e-means.github.io/",
+  "date": "Fri, 13 Nov 2026 02:37:31 -0600",
+  "popularity": "",
+  "summary": "e-means 是一种声称在相同损失下比标准 k-means 快 10 倍的聚类方法，链接指向其项目页面和 Lobste.rs 讨论。",
+  "highlights": [
+    "声称在相同损失下实现 10 倍加速",
+    "提供项目主页和社区讨论链接"
+  ],
+  "score": 6,
+  "tags": [
+    "k-means",
+    "聚类",
+    "算法加速",
+    "机器学习"
+  ]
+}

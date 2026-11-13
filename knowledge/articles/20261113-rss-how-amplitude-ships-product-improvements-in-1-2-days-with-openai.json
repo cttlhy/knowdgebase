@@ -1,0 +1,25 @@
+{
+  "id": "rss-12202620-014",
+  "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+  "source": "rss",
+  "source_url": "https://openai.com/business/customer-stories/amplitude",
+  "status": "draft",
+  "url": "https://openai.com/business/customer-stories/amplitude",
+  "date": "Thu, 12 Nov 2026 20:00:00 GMT",
+  "popularity": "",
+  "summary": "Amplitude uses OpenAI models to power its proactive product agent Wave, which identifies what to build, helps teams ship changes with coding agents, and measures impact, enabling product improvements in 1-2 days.",
+  "highlights": [
+    "Amplitude ships product improvements in 1-2 days",
+    "Wave identifies what to build",
+    "Teams ship changes with coding agents",
+    "Measures impact of changes"
+  ],
+  "score": 7,
+  "tags": [
+    "OpenAI",
+    "Amplitude",
+    "product agent",
+    "coding agents",
+    "AI in product development"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-13202614-015",
+  "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "date": "Fri, 13 Nov 2026 14:05:22 GMT",
+  "popularity": "",
+  "summary": "llama.cpp 发布 v1.0.0，为本地 AI 生态奠定更坚实的基础，标志着该项目进入稳定版本阶段。",
+  "highlights": [
+    "llama.cpp 发布 v1.0.0 稳定版本",
+    "为本地 AI 生态提供更强基础",
+    "由 ggml-org 在 Hugging Face 发布"
+  ],
+  "score": 8,
+  "tags": [
+    "llama.cpp",
+    "本地AI",
+    "GGML",
+    "开源",
+    "推理引擎"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261113"
+  }
+}

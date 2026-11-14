@@ -1,0 +1,24 @@
+{
+  "id": "rss-13202622-012",
+  "title": "You could have invented transformers from memory",
+  "source": "rss",
+  "source_url": "https://alexwang.ai/posts/associative-memory/",
+  "status": "draft",
+  "url": "https://alexwang.ai/posts/associative-memory/",
+  "date": "Fri, 13 Nov 2026 22:49:47 -0600",
+  "popularity": "",
+  "summary": "文章探讨如何从联想记忆的角度理解 Transformer 架构，主张读者可以基于记忆机制自行推导出 Transformer 的核心思想。",
+  "highlights": [
+    "从联想记忆视角解释 Transformer",
+    "强调直觉推导而非死记硬背",
+    "提供理解 Transformer 的新角度"
+  ],
+  "score": 7,
+  "tags": [
+    "Transformer",
+    "联想记忆",
+    "深度学习",
+    "神经网络",
+    "机器学习"
+  ]
+}

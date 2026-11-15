@@ -1,0 +1,30 @@
+{
+  "id": "rss-13202617-012",
+  "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+  "source": "rss",
+  "source_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+  "status": "draft",
+  "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+  "date": "Fri, 13 Nov 2026 17:30:10 +0000",
+  "popularity": "",
+  "summary": "文章报道AI技术帮助解锁数学家库尔特·哥德尔的笔记本，据称其中包含数百个已证明的定理，揭示了这位改变数学领域的人物隐藏的发现。",
+  "highlights": [
+    "AI解锁哥德尔笔记本",
+    "据称包含数百个已证明定理",
+    "揭示隐藏发现"
+  ],
+  "score": 8,
+  "tags": [
+    "AI",
+    "数学",
+    "哥德尔",
+    "笔记本",
+    "定理证明",
+    "科学发现"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261115"
+  }
+}

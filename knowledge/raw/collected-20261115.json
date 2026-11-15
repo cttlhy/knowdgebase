@@ -1,0 +1,397 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-15",
+    "popularity": "stars:461209",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，范围从应用行为分析到原生二进制逆向。",
+    "score": 7,
+    "tags": [
+      "reverse-engineering",
+      "agents",
+      "binary-analysis",
+      "app-behavior",
+      "github"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制的范围"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-15",
+    "popularity": "stars:394509",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，以龙虾为品牌形象。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调实际执行能力",
+      "龙虾品牌形象"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-15",
+    "popularity": "stars:324873",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库，收录其 .agents 目录中的实用技能，面向真正的工程师。",
+    "score": 7,
+    "tags": [
+      "GitHub",
+      "AI Agents",
+      "开发工具",
+      "技能库"
+    ],
+    "highlights": [
+      "来自 .agents 目录的实用技能",
+      "面向真正的工程师"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-15",
+    "popularity": "stars:317915",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架与软件开发方法论，旨在提供可实际运作的解决方案。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development",
+      "framework",
+      "methodology",
+      "GitHub"
+    ],
+    "highlights": [
+      "代理技能框架",
+      "软件开发方法论",
+      "强调实际可用性"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-15",
+    "popularity": "stars:303596",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编程代理的性能优化框架，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全与研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编程代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor",
+      "安全"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持 Claude Code、Codex、Opencode、Cursor 等多种工具",
+      "涵盖技能、本能、记忆、安全与研究优先开发"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-15",
+    "popularity": "stars:263563",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 上的开源项目，定位为随用户成长的智能体（agent），强调可扩展性和持续学习能力。",
+    "score": 6,
+    "tags": [
+      "AI Agent",
+      "开源项目",
+      "NousResearch",
+      "智能体"
+    ],
+    "highlights": [
+      "随用户成长的智能体",
+      "NousResearch 出品",
+      "GitHub 开源"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-15",
+    "popularity": "stars:233335",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM编码",
+      "提示工程",
+      "Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-15",
+    "popularity": "stars:226986",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，定位为可辅助编程的智能代理工具。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI编程",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-15",
+    "popularity": "stars:210567",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，原生支持 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "可视化编程",
+      "集成平台"
+    ],
+    "highlights": [
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-15",
+    "popularity": "stars:201964",
+    "content": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+    "summary": "Firecrawl 是一个为 AI 智能体提供网页及更广泛数据抓取能力的开源库，目标是构建面向超级智能的数据基础设施。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "数据抓取",
+      "开源",
+      "智能体",
+      "网页数据"
+    ],
+    "highlights": [
+      "为 AI 智能体提供网页数据",
+      "定位为超级智能的数据库"
+    ]
+  },
+  {
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Sat, 14 Nov 2026 02:52:59 +0000",
+    "popularity": "",
+    "content": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1085 # Comments: 643",
+    "summary": "文章讨论了对Nvidia的指控，称其通过资助AI初创公司购买其GPU来人为制造稀缺。该内容来自TechPowerUp，在Hacker News上获得1085分和643条评论。",
+    "score": 7,
+    "tags": [
+      "Nvidia",
+      "GPU",
+      "AI",
+      "市场操纵",
+      "科技新闻"
+    ],
+    "highlights": [
+      "Nvidia被指控通过资助AI初创公司购买其GPU来人为制造稀缺",
+      "该文章在Hacker News上获得1085分和643条评论"
+    ]
+  },
+  {
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Fri, 13 Nov 2026 17:30:10 +0000",
+    "popularity": "",
+    "content": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 431 # Comments: 110",
+    "summary": "文章报道AI技术帮助解锁数学家库尔特·哥德尔的笔记本，据称其中包含数百个已证明的定理，揭示了这位改变数学领域的人物隐藏的发现。",
+    "score": 8,
+    "tags": [
+      "AI",
+      "数学",
+      "哥德尔",
+      "笔记本",
+      "定理证明",
+      "科学发现"
+    ],
+    "highlights": [
+      "AI解锁哥德尔笔记本",
+      "据称包含数百个已证明定理",
+      "揭示隐藏发现"
+    ]
+  },
+  {
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "url": "https://arxiv.org/abs/2605.29713",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 13 Nov 2026 22:51:14 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/0aungk/little_book_generative_ai_foundations\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该条目指向 arXiv 论文《The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer》，并附有 Lobsters 讨论链接，但未提供论文摘要或正文内容，仅包含评论链接。",
+    "score": 3,
+    "tags": [
+      "生成式AI",
+      "数学基础",
+      "arXiv",
+      "Lobsters"
+    ],
+    "highlights": [
+      "标题表明这是一本关于生成式AI数学基础的直观入门读物",
+      "内容仅包含 Lobsters 评论链接，缺少论文实质信息"
+    ]
+  },
+  {
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 13 Nov 2026 22:49:47 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/u2h9as/you_could_have_invented_transformers\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章探讨如何从联想记忆的角度理解 Transformer 架构，主张读者可以从记忆机制出发自行推导出 Transformer 的核心思想。",
+    "score": 7,
+    "tags": [
+      "Transformer",
+      "联想记忆",
+      "深度学习",
+      "神经网络",
+      "机器学习"
+    ],
+    "highlights": [
+      "从联想记忆视角解释 Transformer",
+      "强调从基本原理推导 Transformer 架构"
+    ]
+  },
+  {
+    "title": "Introducing ChatGPT Wallet",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 13 Nov 2026 15:00:00 GMT",
+    "popularity": "",
+    "content": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "summary": "OpenAI 推出 ChatGPT Wallet，为 ChatGPT Work、Codex 和 dots 中的智能体提供安全支付方式，可在用户批准并沿用现有卡片保护机制的前提下完成购买。",
+    "score": 7,
+    "tags": [
+      "ChatGPT",
+      "支付",
+      "智能体",
+      "OpenAI",
+      "安全"
+    ],
+    "highlights": [
+      "ChatGPT Wallet 支持智能体完成购买",
+      "需用户批准",
+      "沿用现有卡片保护机制",
+      "适用于 ChatGPT Work、Codex 和 dots"
+    ]
+  },
+  {
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "url": "https://openai.com/business/customer-stories/shield",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 13 Nov 2026 08:00:00 GMT",
+    "popularity": "",
+    "content": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+    "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals, with Forge agents navigating systems so technicians can focus on issues requiring their judgment.",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "IT support",
+      "legacy systems",
+      "automation",
+      "customer story"
+    ],
+    "highlights": [
+      "Shield uses OpenAI to help IT technicians hand off work in legacy portals",
+      "Forge agents navigate systems for technicians",
+      "Technicians can focus on issues needing their judgment"
+    ]
+  },
+  {
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 13 Nov 2026 18:00:39 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客介绍如何使用NVIDIA SimReady资产在仿真环境中构建机器人拾取与放置（pick-and-place）任务，涵盖资产准备、仿真搭建与机器人操作流程。",
+    "score": 8,
+    "tags": [
+      "机器人仿真",
+      "SimReady资产",
+      "NVIDIA",
+      "拾取与放置",
+      "机器人操作"
+    ],
+    "highlights": [
+      "使用SimReady资产构建机器人拾取与放置仿真",
+      "介绍仿真环境搭建与机器人操作流程",
+      "基于NVIDIA平台的机器人仿真实践"
+    ]
+  },
+  {
+    "title": "XYBench: Helping with the problem behind the question",
+    "url": "https://huggingface.co/blog/allenai/xybench",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 13 Nov 2026 17:02:35 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "XYBench 是 AllenAI 提出的基准，用于评估模型在回答用户问题前识别并澄清问题背后真实意图的能力，而非直接作答。",
+    "score": 7,
+    "tags": [
+      "benchmark",
+      "intent understanding",
+      "clarification",
+      "LLM evaluation",
+      "AllenAI"
+    ],
+    "highlights": [
+      "关注问题背后的真实问题",
+      "评估模型主动澄清意图的能力",
+      "由 AllenAI 发布"
+    ]
+  }
+]

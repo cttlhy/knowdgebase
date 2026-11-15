@@ -1,0 +1,24 @@
+{
+  "id": "rss-13202617-018",
+  "title": "XYBench: Helping with the problem behind the question",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/xybench",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/xybench",
+  "date": "Fri, 13 Nov 2026 17:02:35 GMT",
+  "popularity": "",
+  "summary": "XYBench 是 AllenAI 提出的基准，用于评估模型在回答用户问题前识别并澄清问题背后真实意图的能力，而非直接作答。",
+  "highlights": [
+    "关注问题背后的真实问题",
+    "评估模型主动澄清意图的能力",
+    "由 AllenAI 发布"
+  ],
+  "score": 7,
+  "tags": [
+    "benchmark",
+    "intent understanding",
+    "clarification",
+    "LLM evaluation",
+    "AllenAI"
+  ]
+}

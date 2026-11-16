@@ -1,0 +1,23 @@
+{
+  "id": "github-20261116-002",
+  "title": "openclaw/openclaw",
+  "source": "github",
+  "source_url": "https://github.com/openclaw/openclaw",
+  "status": "draft",
+  "url": "https://github.com/openclaw/openclaw",
+  "date": "2026-11-16",
+  "popularity": "stars:394585",
+  "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，并以龙虾风格作为品牌特色。",
+  "highlights": [
+    "跨操作系统和平台支持",
+    "强调 AI 实际执行任务的能力",
+    "以龙虾风格为品牌特色"
+  ],
+  "score": 6,
+  "tags": [
+    "AI",
+    "跨平台",
+    "开源项目",
+    "GitHub"
+  ]
+}

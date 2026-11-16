@@ -1,0 +1,24 @@
+{
+  "id": "rss-13202618-017",
+  "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+  "date": "Fri, 13 Nov 2026 18:00:39 GMT",
+  "popularity": "",
+  "summary": "该博客介绍如何使用NVIDIA SimReady资产在仿真环境中构建机器人抓取与放置（pick-and-place）应用，涵盖资产准备、仿真搭建与机器人操作流程。",
+  "highlights": [
+    "使用SimReady资产构建机器人抓取放置仿真",
+    "NVIDIA官方博客教程",
+    "涵盖资产准备与仿真搭建流程"
+  ],
+  "score": 7,
+  "tags": [
+    "机器人仿真",
+    "SimReady",
+    "NVIDIA",
+    "抓取放置",
+    "Isaac Sim"
+  ]
+}

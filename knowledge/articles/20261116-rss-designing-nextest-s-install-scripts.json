@@ -1,0 +1,23 @@
+{
+  "id": "rss-15202618-012",
+  "title": "Designing nextest's install scripts",
+  "source": "rss",
+  "source_url": "https://sunshowers.io/posts/nextest-install-scripts/",
+  "status": "draft",
+  "url": "https://sunshowers.io/posts/nextest-install-scripts/",
+  "date": "Sun, 15 Nov 2026 18:14:56 -0600",
+  "popularity": "",
+  "summary": "The article discusses the design of install scripts for nextest, a Rust test runner, covering considerations and implementation details. The linked content is a Lobsters comments page referencing the post.",
+  "highlights": [
+    "Designing install scripts for nextest",
+    "Discussion on Lobsters"
+  ],
+  "score": 6,
+  "tags": [
+    "nextest",
+    "install scripts",
+    "Rust",
+    "testing",
+    "software design"
+  ]
+}

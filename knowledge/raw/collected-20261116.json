@@ -1,0 +1,370 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-16",
+    "popularity": "stars:463666",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，范围从应用行为到原生二进制文件。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "二进制分析",
+      "GitHub项目"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-16",
+    "popularity": "stars:394585",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，并以龙虾风格作为品牌特色。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源项目",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台支持",
+      "强调 AI 实际执行任务的能力",
+      "以龙虾风格为品牌特色"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-16",
+    "popularity": "stars:325809",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "mattpocock/skills 是一个 GitHub 仓库，提供面向真实工程师的技能集合，内容直接来自作者的 .agents 目录。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能",
+      "工程师",
+      "agents",
+      "开发工具"
+    ],
+    "highlights": [
+      "面向真实工程师的技能集合",
+      "内容直接来自作者的 .agents 目录"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-16",
+    "popularity": "stars:318584",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架与软件开发方法论，旨在提供有效的实践指导。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development",
+      "methodology",
+      "framework"
+    ],
+    "highlights": [
+      "代理技能框架",
+      "软件开发方法论",
+      "强调实用性"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-16",
+    "popularity": "stars:304416",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编程代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全和研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编程代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编程工具",
+      "涵盖技能、记忆与安全",
+      "研究优先的开发模式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-16",
+    "popularity": "stars:263849",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，定位为随用户成长的智能体（agent），强调可扩展与持续演进的能力。",
+    "score": 6,
+    "tags": [
+      "AI agent",
+      "GitHub",
+      "NousResearch",
+      "开源项目"
+    ],
+    "highlights": [
+      "项目定位为随用户成长的智能体",
+      "由 NousResearch 发布"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-16",
+    "popularity": "stars:233682",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM编码",
+      "提示工程",
+      "Karpathy",
+      "开发者工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-16",
+    "popularity": "stars:227261",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，定位为编码智能体。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-16",
+    "popularity": "stars:210616",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "集成",
+      "可视化编程"
+    ],
+    "highlights": [
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-16",
+    "popularity": "stars:202290",
+    "content": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+    "summary": "Firecrawl 是一个为 AI 智能体提供网页及更广泛数据源抓取能力的开源库，目标是构建面向超级智能的数据基础设施。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "网页抓取",
+      "数据采集",
+      "开源",
+      "智能体"
+    ],
+    "highlights": [
+      "为 AI 智能体提供网页数据",
+      "定位为超级智能构建数据图书馆",
+      "开源项目"
+    ]
+  },
+  {
+    "title": "All AI-generated code should be Open Source",
+    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Sun, 15 Nov 2026 14:46:58 +0000",
+    "popularity": "",
+    "content": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1224 # Comments: 647",
+    "summary": "文章主张所有AI生成的代码都应当开源，并在Hacker News上引发广泛讨论，获得1224点热度与647条评论。",
+    "score": 7,
+    "tags": [
+      "AI生成代码",
+      "开源",
+      "软件许可",
+      "Hacker News"
+    ],
+    "highlights": [
+      "主张AI生成的代码应全部开源",
+      "Hacker News热度1224点",
+      "647条评论引发广泛讨论"
+    ]
+  },
+  {
+    "title": "Designing nextest's install scripts",
+    "url": "https://sunshowers.io/posts/nextest-install-scripts/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sun, 15 Nov 2026 18:14:56 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/tbpfcn/designing_nextest_s_install_scripts\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "The article discusses the design of install scripts for nextest, a Rust test runner, covering considerations and implementation details. The linked content is a Lobsters comments page referencing the post.",
+    "score": 6,
+    "tags": [
+      "nextest",
+      "install scripts",
+      "Rust",
+      "testing",
+      "software design"
+    ],
+    "highlights": [
+      "Designing install scripts for nextest",
+      "Discussion on Lobsters"
+    ]
+  },
+  {
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "url": "https://arxiv.org/abs/2605.29713",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 13 Nov 2026 22:51:14 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/0aungk/little_book_generative_ai_foundations\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该条目指向 arXiv 论文《The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer》，并附有 Lobsters 讨论链接，但未提供论文摘要或正文内容。",
+    "score": 5,
+    "tags": [
+      "生成式AI",
+      "数学基础",
+      "arXiv",
+      "Lobsters"
+    ],
+    "highlights": [
+      "标题表明这是一本面向生成式AI基础的直观数学入门读物",
+      "内容仅包含 Lobsters 评论链接，缺少论文实质信息"
+    ]
+  },
+  {
+    "title": "Broadening access to AI for scientists",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "popularity": "",
+    "content": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "summary": "OpenAI 扩大 ChatGPT for Academic Researchers 计划，向全球 20 万名研究人员免费提供前沿模型访问权限。",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "学术研究",
+      "AI 可及性",
+      "免费访问"
+    ],
+    "highlights": [
+      "向全球 20 万名研究人员免费开放前沿模型",
+      "扩大 ChatGPT for Academic Researchers 计划"
+    ]
+  },
+  {
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "url": "https://openai.com/index/strengthening-online-child-safety",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "popularity": "",
+    "content": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "summary": "OpenAI 宣布推出新工具、实用指南和合作伙伴关系，以帮助预防、检测和应对在线儿童性剥削与虐待。",
+    "score": 7,
+    "tags": [
+      "在线儿童安全",
+      "儿童性虐待防治",
+      "OpenAI",
+      "合作伙伴关系",
+      "内容安全"
+    ],
+    "highlights": [
+      "推出新工具以预防、检测和应对在线儿童性剥削与虐待",
+      "提供实用指南",
+      "建立合作伙伴关系"
+    ]
+  },
+  {
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "url": "https://huggingface.co/blog/openrouter",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face 与 OpenRouter 宣布合作，旨在让开放权重模型更易于运行和访问。",
+    "score": 7,
+    "tags": [
+      "Hugging Face",
+      "OpenRouter",
+      "开放权重模型",
+      "AI基础设施",
+      "模型部署"
+    ],
+    "highlights": [
+      "Hugging Face 与 OpenRouter 建立合作",
+      "简化开放权重模型的运行",
+      "提升开放模型的易用性"
+    ]
+  },
+  {
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 13 Nov 2026 18:00:39 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客介绍如何使用NVIDIA SimReady资产在仿真环境中构建机器人抓取与放置（pick-and-place）应用，涵盖资产准备、仿真搭建与机器人操作流程。",
+    "score": 7,
+    "tags": [
+      "机器人仿真",
+      "SimReady",
+      "NVIDIA",
+      "抓取放置",
+      "Isaac Sim"
+    ],
+    "highlights": [
+      "使用SimReady资产构建机器人抓取放置仿真",
+      "NVIDIA官方博客教程",
+      "涵盖资产准备与仿真搭建流程"
+    ]
+  }
+]

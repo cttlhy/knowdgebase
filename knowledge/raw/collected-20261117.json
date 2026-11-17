@@ -1,0 +1,358 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-17",
+    "popularity": "stars:465812",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，范围从应用行为到原生二进制文件。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "GitHub",
+      "二进制分析",
+      "应用行为"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件",
+      "GitHub 开源项目"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-17",
+    "popularity": "stars:394643",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调其能够真正执行任务，并以龙虾风格作为品牌特色。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "能够真正执行任务的 AI",
+      "龙虾风格品牌"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-17",
+    "popularity": "stars:326585",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 的 GitHub 仓库 'skills'，提供面向真实工程师的技能集合，内容直接来自其 .agents 目录。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能",
+      "AI代理",
+      "工程师",
+      "开发工具"
+    ],
+    "highlights": [
+      "面向真实工程师的技能",
+      "直接来自 .agents 目录"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-17",
+    "popularity": "stars:319124",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个在 GitHub 上开源的智能体技能框架与软件开发方法论，旨在提供一套行之有效的开发实践。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development",
+      "methodology",
+      "framework",
+      "GitHub"
+    ],
+    "highlights": [
+      "智能体技能框架",
+      "软件开发方法论",
+      "开源项目"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-17",
+    "popularity": "stars:305218",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编程代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全和研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编程代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编程工具",
+      "涵盖技能、记忆与安全",
+      "研究优先的开发模式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-17",
+    "popularity": "stars:264150",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，定位为随用户成长的智能体。",
+    "score": 6,
+    "tags": [
+      "AI Agent",
+      "GitHub",
+      "NousResearch",
+      "开源项目"
+    ],
+    "highlights": [
+      "随用户成长的智能体",
+      "由 NousResearch 发布"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-17",
+    "popularity": "stars:233949",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM 编码",
+      "提示工程",
+      "Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-17",
+    "popularity": "stars:227512",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码智能体项目，托管于 GitHub。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码智能体",
+      "GitHub",
+      "AI 编程"
+    ],
+    "highlights": [
+      "开源编码智能体",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-17",
+    "popularity": "stars:210920",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，原生支持 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "可视化编程",
+      "集成平台"
+    ],
+    "highlights": [
+      "公平代码许可",
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-17",
+    "popularity": "stars:202564",
+    "content": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+    "summary": "Firecrawl 是一个为 AI 智能体提供网页及更广泛数据来源的项目，定位为构建超级智能的库。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "数据抓取",
+      "智能体",
+      "开源"
+    ],
+    "highlights": [
+      "为 AI 智能体提供网页数据",
+      "定位为超级智能构建库"
+    ]
+  },
+  {
+    "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+    "url": "https://arxiv.org/abs/2607.02512",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 17 Nov 2026 06:55:46 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该论文提出“Program-as-Weights”编程范式，将程序表示为神经网络权重，用于实现模糊函数，并附有 Lobsters 社区讨论链接。",
+    "score": 6,
+    "tags": [
+      "programming paradigm",
+      "fuzzy functions",
+      "neural networks",
+      "program synthesis",
+      "arXiv"
+    ],
+    "highlights": [
+      "提出 Program-as-Weights 编程范式",
+      "面向模糊函数",
+      "程序以权重形式表示",
+      "附 Lobsters 讨论"
+    ]
+  },
+  {
+    "title": "\"Proof of use\" as a requirement for open source contributions?",
+    "url": "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Mon, 16 Nov 2026 16:25:45 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;As an open source maintainer, I get a lot of AI slop PRs. Some of these have genuine value. Most address edge cases that almost never occur in real life. It's not that they're not fixing real problems, it's that they're fixing problems that nobody is ever likely to encounter.&lt;/p&gt; &lt;p&gt;I'm experimenting with \"proof of use\" as a requirement for submissions. Specifically, you need to show me that your project that depends on my project before I'll look at your PR.&lt;/p&gt; &lt;p&gt;\"Proof of use\" can be an existing open source project that imports mine (show me the git history!) or a clear description starting with \"in our closed source project in production, we found that...\".&lt;/p&gt; &lt;p&gt;The specific problem that I want to address is ensuring that contributions from people genuinely depending on my software are handled, while filtering out the OpenClaw/Github green square farming/drive-by LLM noise.&lt;/p&gt; &lt;p&gt;What are lobste.rs's thoughts on this?&lt;/p&gt;",
+    "summary": "An open source maintainer discusses being overwhelmed by AI-generated pull requests that fix unlikely edge cases, and proposes requiring 'proof of use' from contributors—such as showing a dependent project or describing a real production use case—to filter out low-value, drive-by contributions while prioritizing genuine users.",
+    "score": 7,
+    "tags": [
+      "open source",
+      "maintainership",
+      "AI-generated code",
+      "contribution policy",
+      "community discussion"
+    ],
+    "highlights": [
+      "Maintainer receives many AI slop PRs, most addressing edge cases that rarely occur in real life.",
+      "Proposes 'proof of use' requirement: contributors must show a project depending on the maintainer's project before PR review.",
+      "Proof can be an existing open source project importing the library (with git history) or a clear description of a closed-source production use case.",
+      "Goal is to handle contributions from genuine dependents while filtering out GitHub green-square farming and drive-by LLM noise."
+    ]
+  },
+  {
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "summary": "OpenAI 与北约及盟国网络机构合作，利用 AI 帮助可信防御者发现漏洞、测试修复方案并保护关键系统，以加强网络防御。",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "NATO",
+      "网络安全",
+      "AI",
+      "漏洞管理"
+    ],
+    "highlights": [
+      "OpenAI 与北约及盟国网络机构合作",
+      "AI 帮助可信防御者发现漏洞",
+      "测试修复方案并保护关键系统"
+    ]
+  },
+  {
+    "title": "Introducing OpenAI for Chile",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "summary": "OpenAI 与智利政府建立合作，旨在支持负责任的人工智能应用、建设公共部门技能，并帮助本地初创企业开发 AI 应用。",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "智利",
+      "政府合作",
+      "AI 应用",
+      "公共部门",
+      "初创企业"
+    ],
+    "highlights": [
+      "OpenAI 与智利政府合作",
+      "支持负责任的人工智能应用",
+      "建设公共部门技能",
+      "帮助本地初创企业开发 AI 应用"
+    ]
+  },
+  {
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "url": "https://huggingface.co/blog/openrouter",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face 与 OpenRouter 宣布合作，旨在让开放权重模型更易于运行和访问。",
+    "score": 7,
+    "tags": [
+      "Hugging Face",
+      "OpenRouter",
+      "开放权重模型",
+      "AI 基础设施",
+      "模型部署"
+    ],
+    "highlights": [
+      "Hugging Face 与 OpenRouter 建立合作",
+      "简化开放权重模型的运行",
+      "提升模型可访问性"
+    ]
+  },
+  {
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 13 Nov 2026 18:00:39 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客介绍如何使用 NVIDIA SimReady 资产在仿真环境中构建机器人抓取与放置（pick-and-place）任务，涵盖资产准备、仿真搭建与流程演示。",
+    "score": 7,
+    "tags": [
+      "机器人仿真",
+      "SimReady",
+      "NVIDIA",
+      "抓取与放置",
+      "Isaac Sim"
+    ],
+    "highlights": [
+      "介绍 SimReady 资产在机器人仿真中的应用",
+      "演示机器人抓取与放置任务的搭建流程",
+      "基于 NVIDIA 仿真工具链的实践教程"
+    ]
+  }
+]

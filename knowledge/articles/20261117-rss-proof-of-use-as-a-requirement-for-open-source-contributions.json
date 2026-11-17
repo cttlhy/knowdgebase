@@ -1,0 +1,25 @@
+{
+  "id": "rss-16202616-012",
+  "title": "\"Proof of use\" as a requirement for open source contributions?",
+  "source": "rss",
+  "source_url": "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source",
+  "status": "draft",
+  "url": "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source",
+  "date": "Mon, 16 Nov 2026 16:25:45 -0600",
+  "popularity": "",
+  "summary": "An open source maintainer discusses being overwhelmed by AI-generated pull requests that fix unlikely edge cases, and proposes requiring 'proof of use' from contributors—such as showing a dependent project or describing a real production use case—to filter out low-value, drive-by contributions while prioritizing genuine users.",
+  "highlights": [
+    "Maintainer receives many AI slop PRs, most addressing edge cases that rarely occur in real life.",
+    "Proposes 'proof of use' requirement: contributors must show a project depending on the maintainer's project before PR review.",
+    "Proof can be an existing open source project importing the library (with git history) or a clear description of a closed-source production use case.",
+    "Goal is to handle contributions from genuine dependents while filtering out GitHub green-square farming and drive-by LLM noise."
+  ],
+  "score": 7,
+  "tags": [
+    "open source",
+    "maintainership",
+    "AI-generated code",
+    "contribution policy",
+    "community discussion"
+  ]
+}

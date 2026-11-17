@@ -1,0 +1,24 @@
+{
+  "id": "rss-16202600-015",
+  "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/openrouter",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/openrouter",
+  "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "Hugging Face 与 OpenRouter 宣布合作，旨在让开放权重模型更易于运行和访问。",
+  "highlights": [
+    "Hugging Face 与 OpenRouter 建立合作",
+    "简化开放权重模型的运行",
+    "提升模型可访问性"
+  ],
+  "score": 7,
+  "tags": [
+    "Hugging Face",
+    "OpenRouter",
+    "开放权重模型",
+    "AI 基础设施",
+    "模型部署"
+  ]
+}

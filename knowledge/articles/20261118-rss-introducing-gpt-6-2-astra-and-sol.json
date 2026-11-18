@@ -1,0 +1,30 @@
+{
+  "id": "rss-17202617-016",
+  "title": "Introducing GPT-6.2 Astra and Sol",
+  "source": "rss",
+  "source_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+  "status": "draft",
+  "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+  "date": "Tue, 17 Nov 2026 17:45:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI 发布 GPT-6.2 Astra 和 Sol，在 ChatGPT Work、Codex 和 API 中提供更专业的输出、更强的编码与计算机使用能力，并提升效率、降低成本。",
+  "highlights": [
+    "发布 GPT-6.2 Astra 和 Sol",
+    "专业输出、编码和计算机使用能力提升",
+    "效率更高、成本更低",
+    "覆盖 ChatGPT Work、Codex 和 API"
+  ],
+  "score": 8,
+  "tags": [
+    "OpenAI",
+    "GPT-6.2",
+    "模型发布",
+    "编码",
+    "API"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261118"
+  }
+}

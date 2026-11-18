@@ -1,0 +1,398 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-18",
+    "popularity": "stars:467835",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的工具，覆盖从应用行为到原生二进制文件的层面。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "二进制分析",
+      "GitHub项目"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖应用行为到原生二进制文件"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-18",
+    "popularity": "stars:394742",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调真正执行任务的能力，并以龙虾为品牌标识。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源项目",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调真正执行任务",
+      "龙虾品牌标识"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-18",
+    "popularity": "stars:327304",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "该仓库包含作者从 .agents 目录中提取的面向真正工程师的技能集合。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能",
+      "工程师",
+      "agents"
+    ],
+    "highlights": [
+      "面向真正工程师的技能",
+      "源自作者的 .agents 目录"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-18",
+    "popularity": "stars:319846",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个在 GitHub 上开源的智能体技能框架与软件开发方法论，旨在提供一套行之有效的实践体系。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development",
+      "framework",
+      "methodology",
+      "GitHub"
+    ],
+    "highlights": [
+      "智能体技能框架",
+      "软件开发方法论",
+      "开源项目"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-18",
+    "popularity": "stars:306269",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编码代理的性能优化框架，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全和研究优先开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编码工具",
+      "包含技能、记忆与安全模块",
+      "研究优先的开发方式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-18",
+    "popularity": "stars:264449",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，定位为随用户成长的智能体（agent），强调可扩展与持续演进的能力。",
+    "score": 6,
+    "tags": [
+      "agent",
+      "AI",
+      "NousResearch",
+      "GitHub",
+      "智能体"
+    ],
+    "highlights": [
+      "定位为随用户成长的智能体",
+      "由 NousResearch 发布",
+      "托管于 GitHub 开源平台"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-18",
+    "popularity": "stars:234220",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM编码",
+      "提示工程",
+      "Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-18",
+    "popularity": "stars:227778",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，定位为帮助开发者完成编码任务的智能代理工具。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI编程",
+      "GitHub",
+      "开发工具"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "托管于 GitHub",
+      "面向开发者"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-18",
+    "popularity": "stars:210921",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "可视化编程",
+      "集成平台"
+    ],
+    "highlights": [
+      "公平代码工作流自动化平台",
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端部署",
+      "400 多个集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-18",
+    "popularity": "stars:202843",
+    "content": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+    "summary": "Firecrawl 是一个知识基础设施项目，旨在让 AI 代理更智能，通过单一 API 提供搜索、抓取以及接入 550 多个数据提供商的能力。",
+    "score": 8,
+    "tags": [
+      "知识基础设施",
+      "AI代理",
+      "API",
+      "数据抓取",
+      "搜索"
+    ],
+    "highlights": [
+      "通过单一 API 实现搜索、抓取和 550+ 数据提供商接入",
+      "旨在让 AI 代理更智能的知识基础设施"
+    ]
+  },
+  {
+    "title": "AI is killing All About Berlin",
+    "url": "https://nicolasbouliane.com/blog/death-by-ai",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Wed, 18 Nov 2026 06:47:26 +0000",
+    "popularity": "",
+    "content": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 677 # Comments: 619",
+    "summary": "文章《AI is killing All About Berlin》讨论了AI对柏林生活指南网站All About Berlin的影响，该文章在Hacker News上获得677分和619条评论。",
+    "score": 7,
+    "tags": [
+      "AI",
+      "内容创作",
+      "网站运营",
+      "Hacker News"
+    ],
+    "highlights": [
+      "AI对独立内容网站的影响",
+      "Hacker News高热度讨论（677分，619条评论）"
+    ]
+  },
+  {
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Wed, 18 Nov 2026 00:17:58 +0000",
+    "popularity": "",
+    "content": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 647 # Comments: 494",
+    "summary": "文章讨论 Google 的 AI 回答导致搜索流量下降 40%，在 Hacker News 上引发热议，获得 647 分和 494 条评论。",
+    "score": 8,
+    "tags": [
+      "Google",
+      "AI",
+      "搜索流量",
+      "SEO",
+      "Hacker News"
+    ],
+    "highlights": [
+      "Google 的 AI 回答使搜索流量减少 40%",
+      "Hacker News 讨论获得 647 分和 494 条评论"
+    ]
+  },
+  {
+    "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+    "url": "https://energy-based-reasoners.github.io/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 18 Nov 2026 08:45:20 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/8mbnbd/energy_based_reasoners_your_recurrent\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该页面介绍了一种观点：循环推理器应当被设计为基于能量的模型（Energy-Based Model），并附有 Lobste.rs 上的讨论链接。",
+    "score": 5,
+    "tags": [
+      "energy-based models",
+      "recurrent neural networks",
+      "reasoning",
+      "machine learning"
+    ],
+    "highlights": [
+      "循环推理器应当是基于能量的模型",
+      "包含 Lobste.rs 讨论链接"
+    ]
+  },
+  {
+    "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+    "url": "https://arxiv.org/abs/2607.02512",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 17 Nov 2026 06:55:46 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该论文提出了一种名为 Program-as-Weights 的编程范式，旨在处理模糊函数，将程序逻辑编码为神经网络权重。",
+    "score": 7,
+    "tags": [
+      "编程范式",
+      "模糊函数",
+      "神经网络",
+      "程序合成"
+    ],
+    "highlights": [
+      "提出 Program-as-Weights 编程范式",
+      "面向模糊函数设计",
+      "将程序表示为神经网络权重"
+    ]
+  },
+  {
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 18 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "summary": "Le Groupe Figaro and OpenAI have announced a partnership to bring Le Figaro's journalism to ChatGPT through summaries and excerpts, with links to the original stories.",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "Le Groupe Figaro",
+      "ChatGPT",
+      "partnership",
+      "journalism",
+      "content licensing"
+    ],
+    "highlights": [
+      "Le Groupe Figaro partners with OpenAI",
+      "Le Figaro journalism to appear in ChatGPT via summaries and excerpts",
+      "Links provided to original stories"
+    ]
+  },
+  {
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 17 Nov 2026 17:45:00 GMT",
+    "popularity": "",
+    "content": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "summary": "OpenAI 发布 GPT-6.2 Astra 和 Sol，在 ChatGPT Work、Codex 和 API 中提供更专业的输出、更强的编码与计算机使用能力，并提升效率、降低成本。",
+    "score": 8,
+    "tags": [
+      "OpenAI",
+      "GPT-6.2",
+      "模型发布",
+      "编码",
+      "API"
+    ],
+    "highlights": [
+      "发布 GPT-6.2 Astra 和 Sol",
+      "专业输出、编码和计算机使用能力提升",
+      "效率更高、成本更低",
+      "覆盖 ChatGPT Work、Codex 和 API"
+    ]
+  },
+  {
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 18 Nov 2026 15:00:23 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该文章介绍了IBM Research在Hugging Face博客上提出的Streamhouse概念，将时间序列模型集成到流式数据处理架构中，探讨了其作为新前沿的潜力及实际应用场景。",
+    "score": 7,
+    "tags": [
+      "时间序列",
+      "流式处理",
+      "Streamhouse",
+      "IBM Research",
+      "机器学习"
+    ],
+    "highlights": [
+      "提出Streamhouse架构融合时间序列模型与流处理",
+      "探讨时间序列模型在流式场景中的新应用",
+      "由IBM Research发布的技术博客"
+    ]
+  },
+  {
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "url": "https://huggingface.co/blog/moe-expert-streaming",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 18 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "本文介绍如何利用Hugging Face Transformers的专家流式加载技术，在仅32GB内存的机器上运行180B参数的MoE模型，通过按需加载专家权重突破内存限制。",
+    "score": 8,
+    "tags": [
+      "MoE",
+      "Transformers",
+      "模型推理",
+      "内存优化",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "180B参数MoE模型在32GB RAM上运行",
+      "专家流式加载按需加载权重",
+      "基于Hugging Face Transformers实现"
+    ]
+  }
+]

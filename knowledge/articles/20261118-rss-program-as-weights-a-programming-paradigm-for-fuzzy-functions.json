@@ -1,0 +1,23 @@
+{
+  "id": "rss-17202606-014",
+  "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2607.02512",
+  "status": "draft",
+  "url": "https://arxiv.org/abs/2607.02512",
+  "date": "Tue, 17 Nov 2026 06:55:46 -0600",
+  "popularity": "",
+  "summary": "该论文提出了一种名为 Program-as-Weights 的编程范式，旨在处理模糊函数，将程序逻辑编码为神经网络权重。",
+  "highlights": [
+    "提出 Program-as-Weights 编程范式",
+    "面向模糊函数设计",
+    "将程序表示为神经网络权重"
+  ],
+  "score": 7,
+  "tags": [
+    "编程范式",
+    "模糊函数",
+    "神经网络",
+    "程序合成"
+  ]
+}

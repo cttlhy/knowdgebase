@@ -1,0 +1,22 @@
+{
+  "id": "rss-18202608-013",
+  "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+  "source": "rss",
+  "source_url": "https://energy-based-reasoners.github.io/",
+  "status": "draft",
+  "url": "https://energy-based-reasoners.github.io/",
+  "date": "Wed, 18 Nov 2026 08:45:20 -0600",
+  "popularity": "",
+  "summary": "该页面介绍了一种观点：循环推理器应当被设计为基于能量的模型（Energy-Based Model），并附有 Lobste.rs 上的讨论链接。",
+  "highlights": [
+    "循环推理器应当是基于能量的模型",
+    "包含 Lobste.rs 讨论链接"
+  ],
+  "score": 5,
+  "tags": [
+    "energy-based models",
+    "recurrent neural networks",
+    "reasoning",
+    "machine learning"
+  ]
+}

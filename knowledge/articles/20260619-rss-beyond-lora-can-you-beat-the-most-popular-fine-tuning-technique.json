@@ -20,5 +20,10 @@
     "参数高效",
     "深度学习",
     "模型优化"
-  ]
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261118"
+  }
 }

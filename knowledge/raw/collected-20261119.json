@@ -1,0 +1,346 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-19",
+    "popularity": "stars:469576",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意目标进行逆向工程的 GitHub 项目，覆盖从应用行为到原生二进制文件的层面。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "二进制分析",
+      "GitHub项目"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖应用行为到原生二进制文件"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-19",
+    "popularity": "stars:394812",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，并以“龙虾方式”作为品牌特色。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源项目",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调实际执行能力",
+      "龙虾主题品牌"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-19",
+    "popularity": "stars:327974",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "mattpocock/skills 是一个 GitHub 仓库，提供面向真实工程师的技能集合，内容直接来自作者的 .agents 目录。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能",
+      "工程师",
+      "agents",
+      "开发工具"
+    ],
+    "highlights": [
+      "面向真实工程师的技能集合",
+      "内容直接来自作者的 .agents 目录"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-19",
+    "popularity": "stars:321852",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架与软件开发方法论，宣称其方法行之有效。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development",
+      "framework",
+      "methodology"
+    ],
+    "highlights": [
+      "代理技能框架",
+      "软件开发方法论"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-19",
+    "popularity": "stars:307081",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 Claude Code、Codex、Opencode、Cursor 等 AI 编码代理的性能优化系统，涵盖技能、本能、记忆、安全与研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "面向多种 AI 编码代理的性能优化系统",
+      "涵盖技能、本能、记忆与安全能力",
+      "支持研究优先的开发流程"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-19",
+    "popularity": "stars:264700",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，定位为随用户成长的智能体。",
+    "score": 5,
+    "tags": [
+      "AI Agent",
+      "GitHub",
+      "NousResearch"
+    ],
+    "highlights": [
+      "随用户成长的智能体"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-19",
+    "popularity": "stars:234440",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM",
+      "编码实践",
+      "Karpathy",
+      "提示工程"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件",
+      "改善 Claude Code 行为",
+      "基于 Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-19",
+    "popularity": "stars:227991",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-19",
+    "popularity": "stars:211403",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "集成",
+      "自托管"
+    ],
+    "highlights": [
+      "公平代码工作流自动化平台",
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-19",
+    "popularity": "stars:203849",
+    "content": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+    "summary": "Firecrawl 是一个知识基础设施项目，旨在让 AI 智能体更智能，通过单一 API 提供搜索、抓取以及 550 多个数据提供商的访问能力。",
+    "score": 7,
+    "tags": [
+      "知识基础设施",
+      "AI 智能体",
+      "API",
+      "数据抓取",
+      "搜索"
+    ],
+    "highlights": [
+      "通过单一 API 提供搜索、抓取和 550+ 数据提供商访问",
+      "旨在让 AI 智能体更智能的知识基础设施"
+    ]
+  },
+  {
+    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 18 Nov 2026 15:53:43 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/svneem/sleep_framework_new_way_for_llms_retain\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Google Research 博客介绍了一种名为 Sleep Framework 的新方法，旨在帮助大语言模型在持续学习过程中保留知识，缓解灾难性遗忘问题。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "持续学习",
+      "知识保留",
+      "Google Research",
+      "灾难性遗忘"
+    ],
+    "highlights": [
+      "提出 Sleep Framework 用于 LLM 持续学习",
+      "目标是让模型在学习新知识时保留旧知识",
+      "来自 Google Research 博客"
+    ]
+  },
+  {
+    "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+    "url": "https://energy-based-reasoners.github.io/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 18 Nov 2026 08:45:20 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/8mbnbd/energy_based_reasoners_your_recurrent\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该页面标题为《Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model》，内容仅包含指向 Lobsters 评论页面的链接，缺乏实质技术细节。",
+    "score": 3,
+    "tags": [
+      "energy-based-models",
+      "recurrent-neural-networks",
+      "reasoning",
+      "machine-learning"
+    ],
+    "highlights": [
+      "标题提出循环推理器应采用能量基模型",
+      "内容仅含 Lobsters 评论链接，无正文细节"
+    ]
+  },
+  {
+    "title": "The Silent Consensus",
+    "url": "https://openai.com/index/the-silent-consensus",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 18 Nov 2026 10:00:00 GMT",
+    "popularity": "",
+    "content": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "summary": "OpenAI 战略未来负责人 Dean Ball 探讨更强大的 AI 如何重塑社会，以及人们如何保持对自身机构的控制。",
+    "score": 6,
+    "tags": [
+      "AI 与社会",
+      "AI 治理",
+      "机构控制",
+      "战略未来"
+    ],
+    "highlights": [
+      "更强大的 AI 可能重塑社会",
+      "人们如何保持对机构的控制"
+    ]
+  },
+  {
+    "title": "Research acceleration: The jagged frontier",
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Wed, 18 Nov 2026 08:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "summary": "OpenAI 探讨编码智能体如何加速 AI 研究，指出其表现并不均衡，并分析这对递归自我改进的启示。",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "AI研究加速",
+      "编码智能体",
+      "递归自我改进"
+    ],
+    "highlights": [
+      "衡量编码智能体对AI研究的加速作用",
+      "智能体表现存在不均衡的边界",
+      "探讨对递归自我改进的信号意义"
+    ]
+  },
+  {
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 18 Nov 2026 19:54:56 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客介绍了 DaisyRose-27B 模型，重点探讨其在后训练效率方面的突破，旨在推进后训练方法的效率前沿。",
+    "score": 7,
+    "tags": [
+      "大语言模型",
+      "后训练",
+      "效率优化",
+      "DaisyRose-27B",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "DaisyRose-27B 模型发布",
+      "聚焦后训练效率提升",
+      "推进后训练效率前沿"
+    ]
+  },
+  {
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 18 Nov 2026 18:53:43 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "文章探讨了微调任务实际耗时远超理论FLOPs估算的原因，分析了数据加载、通信开销、内存瓶颈、内核效率等非计算因素对训练时间的影响。",
+    "score": 8,
+    "tags": [
+      "微调",
+      "训练效率",
+      "FLOPs",
+      "性能分析",
+      "深度学习"
+    ],
+    "highlights": [
+      "实际微调时间与FLOPs理论值存在显著差距",
+      "数据加载和I/O可能成为瓶颈",
+      "分布式训练中的通信开销不可忽视",
+      "内存带宽和内核效率影响实际吞吐",
+      "需要综合性能分析而非仅看计算量"
+    ]
+  }
+]

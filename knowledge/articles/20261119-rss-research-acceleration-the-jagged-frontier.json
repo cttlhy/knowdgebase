@@ -1,0 +1,23 @@
+{
+  "id": "rss-18202608-014",
+  "title": "Research acceleration: The jagged frontier",
+  "source": "rss",
+  "source_url": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "status": "draft",
+  "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "date": "Wed, 18 Nov 2026 08:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI 探讨编码智能体如何加速 AI 研究，指出其表现并不均衡，并分析这对递归自我改进的启示。",
+  "highlights": [
+    "衡量编码智能体对AI研究的加速作用",
+    "智能体表现存在不均衡的边界",
+    "探讨对递归自我改进的信号意义"
+  ],
+  "score": 7,
+  "tags": [
+    "OpenAI",
+    "AI研究加速",
+    "编码智能体",
+    "递归自我改进"
+  ]
+}

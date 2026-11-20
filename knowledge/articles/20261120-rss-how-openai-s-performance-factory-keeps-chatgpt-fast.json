@@ -1,0 +1,24 @@
+{
+  "id": "rss-19202608-015",
+  "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+  "source": "rss",
+  "source_url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+  "status": "draft",
+  "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+  "date": "Thu, 19 Nov 2026 08:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI 介绍了其构建的 Performance Factory 系统，该系统利用 Codex 驱动的工作流来发现并修复性能问题，从而保持 ChatGPT 的快速响应。",
+  "highlights": [
+    "Performance Factory 是由 Codex 驱动的工作流系统",
+    "用于发现和修复性能问题",
+    "目标是保持 ChatGPT 快速运行"
+  ],
+  "score": 7,
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "性能优化",
+    "Codex",
+    "工程实践"
+  ]
+}

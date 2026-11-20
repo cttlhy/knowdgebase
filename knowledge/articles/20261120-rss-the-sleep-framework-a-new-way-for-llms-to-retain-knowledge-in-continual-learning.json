@@ -1,0 +1,24 @@
+{
+  "id": "rss-18202615-014",
+  "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+  "source": "rss",
+  "source_url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+  "status": "draft",
+  "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+  "date": "Wed, 18 Nov 2026 15:53:43 -0600",
+  "popularity": "",
+  "summary": "Google Research 博客介绍 Sleep Framework，一种让大语言模型在持续学习中保留知识的新方法。",
+  "highlights": [
+    "提出 Sleep Framework 用于 LLM 持续学习",
+    "目标是缓解灾难性遗忘、保留已有知识",
+    "来自 Google Research 博客"
+  ],
+  "score": 7,
+  "tags": [
+    "LLM",
+    "持续学习",
+    "知识保留",
+    "Google Research",
+    "Sleep Framework"
+  ]
+}

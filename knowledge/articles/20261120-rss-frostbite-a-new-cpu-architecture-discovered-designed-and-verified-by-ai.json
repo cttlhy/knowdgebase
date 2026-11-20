@@ -1,0 +1,29 @@
+{
+  "id": "rss-20202610-011",
+  "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+  "source": "rss",
+  "source_url": "https://architectlabs.com/blog/frostbite",
+  "status": "draft",
+  "url": "https://architectlabs.com/blog/frostbite",
+  "date": "Fri, 20 Nov 2026 10:01:41 +0000",
+  "popularity": "",
+  "summary": "Architect Labs 发布博客文章，介绍 Frostbite——一种由 AI 发现、设计并验证的新型 CPU 架构，在 Hacker News 上获得 440 分和 262 条评论。",
+  "highlights": [
+    "AI 发现、设计并验证了一种新型 CPU 架构",
+    "架构命名为 Frostbite",
+    "Hacker News 上获得 440 分和 262 条评论"
+  ],
+  "score": 8,
+  "tags": [
+    "CPU架构",
+    "AI设计",
+    "硬件",
+    "Architect Labs",
+    "Frostbite"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261120"
+  }
+}

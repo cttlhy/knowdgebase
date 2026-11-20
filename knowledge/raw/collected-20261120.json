@@ -1,0 +1,398 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-20",
+    "popularity": "stars:471144",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的工具，范围从应用行为到原生二进制文件。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "二进制分析",
+      "GitHub项目"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件的范围"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-20",
+    "popularity": "stars:394905",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调真正执行任务的能力，并以龙虾风格作为品牌特色。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源项目",
+      "GitHub"
+    ],
+    "highlights": [
+      "强调 AI 真正执行任务",
+      "支持任意操作系统和平台",
+      "龙虾风格品牌特色"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-20",
+    "popularity": "stars:328657",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "mattpocock/skills 是一个 GitHub 仓库，提供面向真实工程师的技能集合，内容直接来自作者的 .agents 目录。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能",
+      "工程师",
+      "agents",
+      "开发工具"
+    ],
+    "highlights": [
+      "面向真实工程师的技能集合",
+      "内容直接来自作者的 .agents 目录"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-20",
+    "popularity": "stars:322650",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个在 GitHub 上发布的代理技能框架与软件开发方法论，强调其实际有效性。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development",
+      "methodology",
+      "framework",
+      "GitHub"
+    ],
+    "highlights": [
+      "代理技能框架",
+      "软件开发方法论",
+      "强调实际有效性"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-20",
+    "popularity": "stars:307672",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编程代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全和研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编程代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编程工具",
+      "涵盖技能、记忆与安全",
+      "研究优先的开发模式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-20",
+    "popularity": "stars:264925",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，定位为随用户成长的智能体（agent），强调可扩展性与持续进化能力。",
+    "score": 6,
+    "tags": [
+      "AI Agent",
+      "GitHub",
+      "NousResearch",
+      "开源项目"
+    ],
+    "highlights": [
+      "定位为随用户成长的智能体",
+      "来自 NousResearch 的开源项目"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-20",
+    "popularity": "stars:234700",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM",
+      "编码实践",
+      "Karpathy",
+      "提示工程"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-20",
+    "popularity": "stars:228191",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "GitHub",
+      "AI工具"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-20",
+    "popularity": "stars:211529",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "可视化编程",
+      "集成平台"
+    ],
+    "highlights": [
+      "公平代码许可",
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-20",
+    "popularity": "stars:204979",
+    "content": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+    "summary": "Firecrawl 是一个知识基础设施项目，旨在让 AI 智能体更智能，通过单一 API 提供搜索、抓取以及接入 550 多个数据提供方的能力。",
+    "score": 8,
+    "tags": [
+      "知识基础设施",
+      "AI智能体",
+      "API",
+      "数据抓取",
+      "搜索"
+    ],
+    "highlights": [
+      "通过单一 API 提供搜索、抓取和 550+ 数据提供方接入",
+      "定位为让智能体更智能的知识基础设施"
+    ]
+  },
+  {
+    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+    "url": "https://architectlabs.com/blog/frostbite",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Fri, 20 Nov 2026 10:01:41 +0000",
+    "popularity": "",
+    "content": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 440 # Comments: 262",
+    "summary": "Architect Labs 发布博客文章，介绍 Frostbite——一种由 AI 发现、设计并验证的新型 CPU 架构，在 Hacker News 上获得 440 分和 262 条评论。",
+    "score": 8,
+    "tags": [
+      "CPU架构",
+      "AI设计",
+      "硬件",
+      "Architect Labs",
+      "Frostbite"
+    ],
+    "highlights": [
+      "AI 发现、设计并验证了一种新型 CPU 架构",
+      "架构命名为 Frostbite",
+      "Hacker News 上获得 440 分和 262 条评论"
+    ]
+  },
+  {
+    "title": "Fuck Your AI Safeguards",
+    "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+    "source": "rss",
+    "source_name": "Hacker News Best AI",
+    "date": "Thu, 19 Nov 2026 16:30:18 +0000",
+    "popularity": "",
+    "content": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 580 # Comments: 237",
+    "summary": "文章《Fuck Your AI Safeguards》讨论了AI安全防护措施的问题，在Hacker News上获得580分和237条评论，引发广泛关注。",
+    "score": 7,
+    "tags": [
+      "AI安全",
+      "技术讨论",
+      "Hacker News"
+    ],
+    "highlights": [
+      "文章在Hacker News上获得580分",
+      "引发237条评论讨论",
+      "主题涉及AI安全防护措施"
+    ]
+  },
+  {
+    "title": "Rebuilding my local voice assistant pipeline",
+    "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 19 Nov 2026 13:50:25 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gn5qb1/rebuilding_my_local_voice_assistant\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "The article discusses rebuilding a local voice assistant pipeline, with comments available on Lobste.rs.",
+    "score": 5,
+    "tags": [
+      "voice assistant",
+      "local pipeline",
+      "DIY",
+      "speech recognition"
+    ],
+    "highlights": [
+      "Rebuilding a local voice assistant pipeline",
+      "Comments on Lobste.rs"
+    ]
+  },
+  {
+    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Wed, 18 Nov 2026 15:53:43 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/svneem/sleep_framework_new_way_for_llms_retain\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "Google Research 博客介绍 Sleep Framework，一种让大语言模型在持续学习中保留知识的新方法。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "持续学习",
+      "知识保留",
+      "Google Research",
+      "Sleep Framework"
+    ],
+    "highlights": [
+      "提出 Sleep Framework 用于 LLM 持续学习",
+      "目标是缓解灾难性遗忘、保留已有知识",
+      "来自 Google Research 博客"
+    ]
+  },
+  {
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 19 Nov 2026 08:00:00 GMT",
+    "popularity": "",
+    "content": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "summary": "OpenAI 介绍了其构建的 Performance Factory 系统，该系统利用 Codex 驱动的工作流来发现并修复性能问题，从而保持 ChatGPT 的快速响应。",
+    "score": 7,
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "性能优化",
+      "Codex",
+      "工程实践"
+    ],
+    "highlights": [
+      "Performance Factory 是由 Codex 驱动的工作流系统",
+      "用于发现和修复性能问题",
+      "目标是保持 ChatGPT 快速运行"
+    ]
+  },
+  {
+    "title": "Deploying Daybreak Red",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "summary": "介绍 Daybreak Red 的参考架构，用于受监督的安全调查，涵盖安全控制、部署设置和监控。",
+    "score": 6,
+    "tags": [
+      "Daybreak Red",
+      "安全调查",
+      "参考架构",
+      "部署",
+      "安全控制",
+      "监控"
+    ],
+    "highlights": [
+      "受监督安全调查的参考架构",
+      "包含安全控制",
+      "包含部署设置",
+      "包含监控"
+    ]
+  },
+  {
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face 发布 harness adapters，用于将任意模型适配到评测框架（harness），以提升性能并降低成本。",
+    "score": 7,
+    "tags": [
+      "Hugging Face",
+      "harness adapters",
+      "模型适配",
+      "评测框架",
+      "性能优化",
+      "成本优化"
+    ],
+    "highlights": [
+      "提出 harness adapters 概念",
+      "支持将任意模型适配到 harness",
+      "目标为提升性能与降低成本"
+    ]
+  },
+  {
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 18 Nov 2026 19:54:56 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客介绍 DaisyRose-27B 模型，聚焦后训练效率的突破，可能涵盖训练方法、性能表现与优化策略。",
+    "score": 7,
+    "tags": [
+      "LLM",
+      "后训练",
+      "模型效率",
+      "DaisyRose-27B",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "27B 参数模型",
+      "后训练效率前沿",
+      "RadixArk 发布"
+    ]
+  }
+]

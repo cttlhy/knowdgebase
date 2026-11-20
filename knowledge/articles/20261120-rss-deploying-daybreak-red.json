@@ -1,0 +1,26 @@
+{
+  "id": "rss-19202600-016",
+  "title": "Deploying Daybreak Red",
+  "source": "rss",
+  "source_url": "https://openai.com/business/learn/deploying-daybreak-red",
+  "status": "draft",
+  "url": "https://openai.com/business/learn/deploying-daybreak-red",
+  "date": "Thu, 19 Nov 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "介绍 Daybreak Red 的参考架构，用于受监督的安全调查，涵盖安全控制、部署设置和监控。",
+  "highlights": [
+    "受监督安全调查的参考架构",
+    "包含安全控制",
+    "包含部署设置",
+    "包含监控"
+  ],
+  "score": 6,
+  "tags": [
+    "Daybreak Red",
+    "安全调查",
+    "参考架构",
+    "部署",
+    "安全控制",
+    "监控"
+  ]
+}

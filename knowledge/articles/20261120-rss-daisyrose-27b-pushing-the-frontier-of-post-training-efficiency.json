@@ -1,0 +1,24 @@
+{
+  "id": "rss-18202619-018",
+  "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "date": "Wed, 18 Nov 2026 19:54:56 GMT",
+  "popularity": "",
+  "summary": "该博客介绍 DaisyRose-27B 模型，聚焦后训练效率的突破，可能涵盖训练方法、性能表现与优化策略。",
+  "highlights": [
+    "27B 参数模型",
+    "后训练效率前沿",
+    "RadixArk 发布"
+  ],
+  "score": 7,
+  "tags": [
+    "LLM",
+    "后训练",
+    "模型效率",
+    "DaisyRose-27B",
+    "Hugging Face"
+  ]
+}

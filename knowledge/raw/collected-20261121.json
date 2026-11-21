@@ -1,0 +1,348 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-21",
+    "popularity": "stars:472382",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，范围从应用行为一直深入到原生二进制文件。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "GitHub",
+      "二进制分析",
+      "应用行为"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制的范围"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-21",
+    "popularity": "stars:394960",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，并以龙虾为品牌形象。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调实际执行能力",
+      "龙虾品牌形象"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-21",
+    "popularity": "stars:329528",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "mattpocock/skills 是一个 GitHub 仓库，提供来自作者 .agents 目录的面向真实工程师的技能。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "skills",
+      "agents",
+      "engineering"
+    ],
+    "highlights": [
+      "Skills for Real Engineers",
+      "Straight from my .agents directory"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-21",
+    "popularity": "stars:323458",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个在 GitHub 上开源的智能体技能框架与软件开发方法论，旨在提供一套行之有效的代理技能组织与开发实践。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development methodology",
+      "framework",
+      "GitHub",
+      "AI agents"
+    ],
+    "highlights": [
+      "提供智能体技能框架",
+      "包含软件开发方法论",
+      "强调实践有效性"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-21",
+    "popularity": "stars:308187",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编码代理的性能优化框架，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全与研究优先开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor",
+      "安全"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编码工具",
+      "包含技能、记忆与安全模块",
+      "研究优先的开发方式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-21",
+    "popularity": "stars:265137",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 上的开源智能体项目，主打随用户成长而进化的能力。",
+    "score": 6,
+    "tags": [
+      "AI Agent",
+      "开源项目",
+      "GitHub",
+      "NousResearch"
+    ],
+    "highlights": [
+      "随用户成长进化的智能体",
+      "由 NousResearch 发布"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-21",
+    "popularity": "stars:234867",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM 编码",
+      "提示工程",
+      "Andrej Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-21",
+    "popularity": "stars:228367",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，提供自动化编码辅助能力。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-21",
+    "popularity": "stars:211602",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个 fair-code 工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400+ 集成。",
+    "score": 8,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "可视化编程",
+      "集成平台"
+    ],
+    "highlights": [
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-21",
+    "popularity": "stars:205867",
+    "content": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+    "summary": "Firecrawl 是一个知识基础设施项目，旨在让 AI 智能体更智能，通过单一 API 提供搜索、抓取以及访问 550 多个数据提供商的能力。",
+    "score": 8,
+    "tags": [
+      "知识基础设施",
+      "AI智能体",
+      "API",
+      "数据抓取",
+      "搜索"
+    ],
+    "highlights": [
+      "通过单一 API 搜索、抓取并访问 550+ 数据提供商",
+      "让 AI 智能体更智能的知识基础设施"
+    ]
+  },
+  {
+    "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
+    "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Sat, 21 Nov 2026 09:48:50 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/fkzneu/three_breaches_endless_leaks_your_ai\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章讨论AI供应链安全，通过三个泄露事件案例说明需要部署金丝雀令牌来检测和防范数据泄露。",
+    "score": 7,
+    "tags": [
+      "AI供应链安全",
+      "数据泄露",
+      "金丝雀令牌",
+      "安全监控"
+    ],
+    "highlights": [
+      "三个泄露事件案例",
+      "AI供应链需要金丝雀令牌",
+      "检测和防范数据泄露"
+    ]
+  },
+  {
+    "title": "Rebuilding my local voice assistant pipeline",
+    "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 19 Nov 2026 13:50:25 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gn5qb1/rebuilding_my_local_voice_assistant\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "The article discusses rebuilding a local voice assistant pipeline, with comments available on Lobsters.",
+    "score": 5,
+    "tags": [
+      "voice assistant",
+      "local pipeline",
+      "Platypush"
+    ],
+    "highlights": [
+      "Rebuilding a local voice assistant pipeline",
+      "Comments available on Lobsters"
+    ]
+  },
+  {
+    "title": "Combatting adversarial distillation",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 20 Nov 2026 10:00:00 GMT",
+    "popularity": "",
+    "content": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "summary": "OpenAI describes its layered approach to combating adversarial distillation, combining model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "score": 7,
+    "tags": [
+      "adversarial distillation",
+      "model security",
+      "capability extraction",
+      "AI safeguards",
+      "OpenAI"
+    ],
+    "highlights": [
+      "Layered defense approach",
+      "Combines training, safeguards, detection, and enforcement",
+      "Protects against capability extraction"
+    ]
+  },
+  {
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "summary": "Hebbia tested GPT-6 Astra for financial research and found improvements in source coverage, citation relevance, and presentation quality in prerelease evaluations.",
+    "score": 7,
+    "tags": [
+      "GPT-6 Astra",
+      "financial research",
+      "Hebbia",
+      "OpenAI",
+      "customer story"
+    ],
+    "highlights": [
+      "Hebbia tested GPT-6 Astra for financial research",
+      "Gains in source coverage, citation relevance, and presentation quality",
+      "Prerelease evaluations showed improvements"
+    ]
+  },
+  {
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "url": "https://huggingface.co/blog/inkling2mini",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face 博客宣布推出 Inkling 2 Mini，这是一款面向本地部署的模型，主打前沿性能表现。",
+    "score": 6,
+    "tags": [
+      "Hugging Face",
+      "Inkling 2 Mini",
+      "本地部署",
+      "模型发布"
+    ],
+    "highlights": [
+      "Inkling 2 Mini 发布",
+      "面向本地环境的前沿性能"
+    ]
+  },
+  {
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "Hugging Face 发布 harness adapters，用于将任意模型适配到特定评测框架（harness），以提升性能并降低成本。",
+    "score": 7,
+    "tags": [
+      "Hugging Face",
+      "harness adapters",
+      "模型适配",
+      "评测框架",
+      "性能优化",
+      "成本优化"
+    ],
+    "highlights": [
+      "将任意模型适配到 harness",
+      "提升性能",
+      "降低成本"
+    ]
+  }
+]

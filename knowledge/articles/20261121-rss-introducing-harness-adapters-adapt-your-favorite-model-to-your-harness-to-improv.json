@@ -1,0 +1,25 @@
+{
+  "id": "rss-20202600-016",
+  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "date": "Fri, 20 Nov 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "Hugging Face 发布 harness adapters，用于将任意模型适配到特定评测框架（harness），以提升性能并降低成本。",
+  "highlights": [
+    "将任意模型适配到 harness",
+    "提升性能",
+    "降低成本"
+  ],
+  "score": 7,
+  "tags": [
+    "Hugging Face",
+    "harness adapters",
+    "模型适配",
+    "评测框架",
+    "性能优化",
+    "成本优化"
+  ]
+}

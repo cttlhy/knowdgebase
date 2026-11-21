@@ -1,0 +1,23 @@
+{
+  "id": "rss-21202609-011",
+  "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
+  "source": "rss",
+  "source_url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+  "status": "draft",
+  "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+  "date": "Sat, 21 Nov 2026 09:48:50 -0600",
+  "popularity": "",
+  "summary": "文章讨论AI供应链安全，通过三个泄露事件案例说明需要部署金丝雀令牌来检测和防范数据泄露。",
+  "highlights": [
+    "三个泄露事件案例",
+    "AI供应链需要金丝雀令牌",
+    "检测和防范数据泄露"
+  ],
+  "score": 7,
+  "tags": [
+    "AI供应链安全",
+    "数据泄露",
+    "金丝雀令牌",
+    "安全监控"
+  ]
+}

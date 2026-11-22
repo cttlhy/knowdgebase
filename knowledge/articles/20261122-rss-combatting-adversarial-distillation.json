@@ -1,0 +1,24 @@
+{
+  "id": "rss-20202610-013",
+  "title": "Combatting adversarial distillation",
+  "source": "rss",
+  "source_url": "https://openai.com/index/combatting-adversarial-distillation",
+  "status": "draft",
+  "url": "https://openai.com/index/combatting-adversarial-distillation",
+  "date": "Fri, 20 Nov 2026 10:00:00 GMT",
+  "popularity": "",
+  "summary": "OpenAI describes a layered approach to combat adversarial distillation, combining model training, safeguards, detection, and enforcement to prevent capability extraction.",
+  "highlights": [
+    "Layered defense approach",
+    "Combines training, safeguards, detection, and enforcement",
+    "Focus on preventing capability extraction"
+  ],
+  "score": 7,
+  "tags": [
+    "AI security",
+    "adversarial distillation",
+    "model protection",
+    "OpenAI",
+    "capability extraction"
+  ]
+}

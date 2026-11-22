@@ -1,0 +1,23 @@
+{
+  "id": "rss-21202620-011",
+  "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+  "source": "rss",
+  "source_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+  "status": "draft",
+  "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+  "date": "Sat, 21 Nov 2026 20:03:46 -0600",
+  "popularity": "",
+  "summary": "研究人员在 AI 供应链中植入 200 万个金丝雀标记，发现用户隐私数据以惊人速度泄露，暴露了 AI 供应链的隐私灾难。",
+  "highlights": [
+    "植入200万个金丝雀标记追踪数据泄露",
+    "AI供应链以惊人速度暴露用户隐私数据",
+    "隐私灾难浮出水面"
+  ],
+  "score": 7,
+  "tags": [
+    "AI供应链",
+    "隐私泄露",
+    "安全研究",
+    "数据保护"
+  ]
+}

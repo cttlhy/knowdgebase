@@ -1,0 +1,24 @@
+{
+  "id": "github-20261122-004",
+  "title": "obra/superpowers",
+  "source": "github",
+  "source_url": "https://github.com/obra/superpowers",
+  "status": "draft",
+  "url": "https://github.com/obra/superpowers",
+  "date": "2026-11-22",
+  "popularity": "stars:323937",
+  "summary": "obra/superpowers 是一个在 GitHub 上开源的智能体技能框架与软件开发方法论，旨在提供一套可实际运作的代理技能体系与开发流程。",
+  "highlights": [
+    "提供智能体技能框架",
+    "包含软件开发方法论",
+    "强调实际可运作性"
+  ],
+  "score": 7,
+  "tags": [
+    "agentic skills",
+    "software development methodology",
+    "framework",
+    "GitHub",
+    "AI agents"
+  ]
+}

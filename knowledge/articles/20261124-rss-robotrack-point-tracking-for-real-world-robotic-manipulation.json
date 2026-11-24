@@ -1,0 +1,22 @@
+{
+  "id": "rss-23202617-016",
+  "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/allenai/robotrack",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/allenai/robotrack",
+  "date": "Mon, 23 Nov 2026 17:20:37 GMT",
+  "popularity": "",
+  "summary": "RoboTrack 是 AllenAI 提出的面向真实世界机器人操作的点跟踪方法，旨在为机器人操作任务提供稳健的点级跟踪能力。",
+  "highlights": [
+    "面向真实世界机器人操作的点跟踪",
+    "由 AllenAI 提出"
+  ],
+  "score": 7,
+  "tags": [
+    "机器人操作",
+    "点跟踪",
+    "计算机视觉",
+    "AllenAI"
+  ]
+}

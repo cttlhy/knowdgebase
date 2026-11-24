@@ -1,0 +1,29 @@
+{
+  "id": "rss-24202616-015",
+  "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+  "date": "Tue, 24 Nov 2026 16:34:13 GMT",
+  "popularity": "",
+  "summary": "本文介绍了一个基于 Isaac Lab 和 Newton 的 Microduck 避障 Sim2Real 工作流，涵盖从仿真训练到真实部署的完整流程。",
+  "highlights": [
+    "基于 Isaac Lab 和 Newton 的仿真训练流程",
+    "Microduck 避障任务的 Sim2Real 迁移",
+    "从仿真到真实机器人的完整工作流"
+  ],
+  "score": 8,
+  "tags": [
+    "Sim2Real",
+    "Isaac Lab",
+    "Newton",
+    "避障",
+    "机器人"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261124"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-19202613-012",
+  "title": "Rebuilding my local voice assistant pipeline",
+  "source": "rss",
+  "source_url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+  "status": "draft",
+  "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+  "date": "Thu, 19 Nov 2026 13:50:25 -0600",
+  "popularity": "",
+  "summary": "The article discusses rebuilding a local voice assistant pipeline, with comments available on Lobste.rs.",
+  "highlights": [
+    "Rebuilding a local voice assistant pipeline",
+    "Comments on Lobste.rs"
+  ],
+  "score": 5,
+  "tags": [
+    "voice assistant",
+    "local pipeline",
+    "Platypush",
+    "Lobste.rs"
+  ]
+}

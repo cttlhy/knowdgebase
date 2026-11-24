@@ -1,0 +1,24 @@
+{
+  "id": "rss-24202600-013",
+  "title": "How iFood scales coding agents across 15,000 repositories",
+  "source": "rss",
+  "source_url": "https://openai.com/index/ifood",
+  "status": "draft",
+  "url": "https://openai.com/index/ifood",
+  "date": "Tue, 24 Nov 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "iFood 与 OpenAI 合作，在 15,000 个代码仓库中规模化部署编码智能体，以提升开发效率与代码质量。",
+  "highlights": [
+    "覆盖 15,000 个代码仓库",
+    "编码智能体规模化应用",
+    "提升开发效率与代码质量"
+  ],
+  "score": 7,
+  "tags": [
+    "编码智能体",
+    "规模化部署",
+    "iFood",
+    "OpenAI",
+    "软件工程"
+  ]
+}

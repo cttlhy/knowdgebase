@@ -1,0 +1,353 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-25",
+    "popularity": "stars:478197",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，覆盖从应用行为到原生二进制文件的层面。",
+    "score": 7,
+    "tags": [
+      "reverse-engineering",
+      "agents",
+      "binary-analysis",
+      "github"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖应用行为到原生二进制文件"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-25",
+    "popularity": "stars:395193",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调真正执行任务的能力，并以“龙虾方式”作为品牌特色。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源项目",
+      "GitHub"
+    ],
+    "highlights": [
+      "跨操作系统和平台",
+      "强调真正执行任务",
+      "龙虾主题品牌"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-25",
+    "popularity": "stars:332752",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "mattpocock/skills 是一个 GitHub 仓库，提供面向真实工程师的技能集合，内容直接来自作者的 .agents 目录。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能集合",
+      "AI Agent",
+      "工程师工具"
+    ],
+    "highlights": [
+      "Skills for Real Engineers",
+      "Straight from my .agents directory"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-25",
+    "popularity": "stars:326444",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个在 GitHub 上开源的智能体技能框架与软件开发方法论，强调实用有效。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "software development",
+      "methodology",
+      "framework",
+      "GitHub"
+    ],
+    "highlights": [
+      "智能体技能框架",
+      "软件开发方法论",
+      "强调实用有效"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-25",
+    "popularity": "stars:310605",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编程代理的性能优化框架，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全与研究优先开发能力。",
+    "score": 7,
+    "tags": [
+      "AI代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor",
+      "记忆系统",
+      "安全"
+    ],
+    "highlights": [
+      "代理框架性能优化系统",
+      "支持 Claude Code、Codex、Opencode、Cursor 等多种工具",
+      "涵盖技能、本能、记忆、安全与研究优先开发"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-25",
+    "popularity": "stars:266065",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，定位为随用户成长的智能体（agent），强调可扩展和持续演进的能力。",
+    "score": 6,
+    "tags": [
+      "AI Agent",
+      "GitHub",
+      "NousResearch",
+      "开源项目"
+    ],
+    "highlights": [
+      "定位为随用户成长的智能体",
+      "来自 NousResearch 的开源项目"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-25",
+    "popularity": "stars:235666",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM编码",
+      "提示工程",
+      "Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-25",
+    "popularity": "stars:229140",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管在 GitHub 上，提供自动化编码辅助能力。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI编程",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-25",
+    "popularity": "stars:212115",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，结合可视化构建与自定义代码，支持自托管或云端部署，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "集成",
+      "可视化编程"
+    ],
+    "highlights": [
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-25",
+    "popularity": "stars:209811",
+    "content": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+    "summary": "Firecrawl 是一个知识基础设施项目，旨在让 AI 智能体更智能。它通过单一 API 提供搜索、抓取以及访问 550 多个数据提供商的能力。",
+    "score": 8,
+    "tags": [
+      "知识基础设施",
+      "AI智能体",
+      "API",
+      "数据抓取",
+      "搜索"
+    ],
+    "highlights": [
+      "通过单一 API 搜索、抓取并访问 550 多个数据提供商",
+      "让 AI 智能体更智能的知识基础设施"
+    ]
+  },
+  {
+    "title": "Matrix Multiplication is Θ(n^2.25)",
+    "url": "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 24 Nov 2026 21:15:59 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/kn0pmh/matrix_multiplication_is_n_2_25\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该条目链接到一篇预印本，声称矩阵乘法的时间复杂度为 Θ(n^2.25)，并附有 Lobste.rs 上的讨论评论链接。",
+    "score": 6,
+    "tags": [
+      "矩阵乘法",
+      "计算复杂度",
+      "预印本",
+      "算法"
+    ],
+    "highlights": [
+      "标题声称矩阵乘法复杂度为 Θ(n^2.25)",
+      "链接指向 OpenAI 数学预印本仓库",
+      "包含 Lobste.rs 评论链接"
+    ]
+  },
+  {
+    "title": "9/UX: a Macintosh-inspired desktop for 9front",
+    "url": "https://progrium.github.io/9ux/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 24 Nov 2026 12:37:29 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;I have written a story about this on the Register, but of course I can't post that here.&lt;/p&gt; &lt;p&gt;I think this is a quite astonishing effort and could make 9front &lt;em&gt;considerably&lt;/em&gt; more usable... but it's bot-assisted, so I don't think they'll take it.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/vciex6/9_ux_macintosh_inspired_desktop_for\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "一个受 Macintosh 启发的 9front 桌面项目，作者认为其能显著提升 9front 的可用性，但因涉及机器人辅助而可能不被上游接受。",
+    "score": 6,
+    "tags": [
+      "9front",
+      "桌面环境",
+      "Macintosh",
+      "UX",
+      "Plan 9"
+    ],
+    "highlights": [
+      "受 Macintosh 启发的桌面设计",
+      "可能大幅提升 9front 可用性",
+      "因机器人辅助可能不被采纳"
+    ]
+  },
+  {
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 24 Nov 2026 13:00:00 GMT",
+    "popularity": "",
+    "content": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+    "summary": "GPT-6 models demonstrate intrinsic protein-design capabilities, using reasoning and code to design protein structures and sequences. Lab tests found evidence of binding across five targets.",
+    "score": 8,
+    "tags": [
+      "GPT-6",
+      "protein design",
+      "AI in biology",
+      "reasoning",
+      "code generation",
+      "lab validation"
+    ],
+    "highlights": [
+      "GPT-6 models design protein structures and sequences using reasoning and code",
+      "Lab tests found evidence of binding across five targets"
+    ]
+  },
+  {
+    "title": "Searching for distant planets with Astra",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 24 Nov 2026 11:00:00 GMT",
+    "popularity": "",
+    "content": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+    "summary": "两位业余天文学家利用 Codex 和 Astra 在 NASA 开普勒与 TESS 太空望远镜的公开数据中寻找潜在系外行星。",
+    "score": 7,
+    "tags": [
+      "系外行星",
+      "天文",
+      "Codex",
+      "Astra",
+      "NASA",
+      "开普勒",
+      "TESS",
+      "公开数据"
+    ],
+    "highlights": [
+      "两位业余天文学家使用 Codex 和 Astra 分析 NASA 公开数据",
+      "在开普勒与 TESS 数据中寻找潜在系外行星"
+    ]
+  },
+  {
+    "title": "An Indic Voice Agent with CUGA",
+    "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 25 Nov 2026 10:22:09 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客介绍IBM Research在Hugging Face上发布的CUGA，一个面向印度语系的语音智能体，旨在解决多语言语音交互中的挑战。",
+    "score": 7,
+    "tags": [
+      "语音智能体",
+      "印度语系",
+      "多语言",
+      "IBM Research",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "CUGA是面向印度语系的语音智能体",
+      "由IBM Research发布",
+      "关注多语言语音交互"
+    ]
+  },
+  {
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Wed, 25 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客介绍在单张 RTX PRO 6000 上对 Inkling 2 Mini 模型进行爬山式推理优化的实践，涵盖性能调优与部署经验。",
+    "score": 7,
+    "tags": [
+      "Inkling 2 Mini",
+      "推理优化",
+      "RTX PRO 6000",
+      "爬山算法",
+      "模型部署"
+    ],
+    "highlights": [
+      "单卡 RTX PRO 6000 上的推理实现",
+      "采用爬山式方法进行性能调优",
+      "Inkling 2 Mini 模型的部署经验"
+    ]
+  }
+]

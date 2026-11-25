@@ -1,0 +1,24 @@
+{
+  "id": "rss-25202600-016",
+  "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+  "date": "Wed, 25 Nov 2026 00:00:00 GMT",
+  "popularity": "",
+  "summary": "该博客介绍在单张 RTX PRO 6000 上对 Inkling 2 Mini 模型进行爬山式推理优化的实践，涵盖性能调优与部署经验。",
+  "highlights": [
+    "单卡 RTX PRO 6000 上的推理实现",
+    "采用爬山式方法进行性能调优",
+    "Inkling 2 Mini 模型的部署经验"
+  ],
+  "score": 7,
+  "tags": [
+    "Inkling 2 Mini",
+    "推理优化",
+    "RTX PRO 6000",
+    "爬山算法",
+    "模型部署"
+  ]
+}

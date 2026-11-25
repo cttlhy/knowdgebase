@@ -1,0 +1,23 @@
+{
+  "id": "rss-24202621-011",
+  "title": "Matrix Multiplication is Θ(n^2.25)",
+  "source": "rss",
+  "source_url": "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+  "status": "draft",
+  "url": "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+  "date": "Tue, 24 Nov 2026 21:15:59 -0600",
+  "popularity": "",
+  "summary": "该条目链接到一篇预印本，声称矩阵乘法的时间复杂度为 Θ(n^2.25)，并附有 Lobste.rs 上的讨论评论链接。",
+  "highlights": [
+    "标题声称矩阵乘法复杂度为 Θ(n^2.25)",
+    "链接指向 OpenAI 数学预印本仓库",
+    "包含 Lobste.rs 评论链接"
+  ],
+  "score": 6,
+  "tags": [
+    "矩阵乘法",
+    "计算复杂度",
+    "预印本",
+    "算法"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-25202610-015",
+  "title": "An Indic Voice Agent with CUGA",
+  "source": "rss",
+  "source_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+  "status": "draft",
+  "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+  "date": "Wed, 25 Nov 2026 10:22:09 GMT",
+  "popularity": "",
+  "summary": "该博客介绍IBM Research在Hugging Face上发布的CUGA，一个面向印度语系的语音智能体，旨在解决多语言语音交互中的挑战。",
+  "highlights": [
+    "CUGA是面向印度语系的语音智能体",
+    "由IBM Research发布",
+    "关注多语言语音交互"
+  ],
+  "score": 7,
+  "tags": [
+    "语音智能体",
+    "印度语系",
+    "多语言",
+    "IBM Research",
+    "Hugging Face"
+  ]
+}

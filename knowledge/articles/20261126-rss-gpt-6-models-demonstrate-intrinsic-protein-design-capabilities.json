@@ -1,0 +1,30 @@
+{
+  "id": "rss-24202613-013",
+  "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "source": "rss",
+  "source_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+  "status": "draft",
+  "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+  "date": "Tue, 24 Nov 2026 13:00:00 GMT",
+  "popularity": "",
+  "summary": "GPT-6 models demonstrate intrinsic protein-design capabilities by designing protein structures and sequences using reasoning and code, with lab tests showing evidence of binding across five targets.",
+  "highlights": [
+    "GPT-6 designs protein structures and sequences",
+    "Uses reasoning and code for protein design",
+    "Lab tests found binding evidence across five targets"
+  ],
+  "score": 8,
+  "tags": [
+    "GPT-6",
+    "protein design",
+    "AI in biology",
+    "reasoning",
+    "code generation",
+    "lab validation"
+  ],
+  "distribution": {
+    "telegram": false,
+    "feishu": true,
+    "feishu_digest_date": "20261126"
+  }
+}

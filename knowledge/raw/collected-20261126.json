@@ -1,0 +1,358 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-26",
+    "popularity": "stars:479524",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，范围从应用行为一直深入到原生二进制文件。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "GitHub",
+      "二进制分析",
+      "应用行为"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件的范围"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-26",
+    "popularity": "stars:395283",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，并以龙虾为品牌形象。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源项目",
+      "GitHub"
+    ],
+    "highlights": [
+      "强调AI实际执行能力",
+      "支持任意操作系统和平台",
+      "以龙虾为品牌形象"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-26",
+    "popularity": "stars:333472",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "Matt Pocock 分享的面向真实工程师的技能集合，直接来自其 .agents 目录。",
+    "score": 6,
+    "tags": [
+      "AI代理",
+      "技能集合",
+      "工程师工具",
+      "GitHub仓库"
+    ],
+    "highlights": [
+      "面向真实工程师的技能",
+      "直接来自 .agents 目录"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-26",
+    "popularity": "stars:327279",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个代理技能框架与软件开发方法论，旨在提供可落地的实践方案。",
+    "score": 7,
+    "tags": [
+      "agentic skills",
+      "软件开发方法论",
+      "框架",
+      "GitHub"
+    ],
+    "highlights": [
+      "代理技能框架",
+      "软件开发方法论",
+      "强调实用性"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-26",
+    "popularity": "stars:311182",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编码代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全和研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编码工具",
+      "涵盖技能、记忆与安全",
+      "研究优先的开发模式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-26",
+    "popularity": "stars:266330",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 项目，定位为随用户成长的智能体（agent），强调可扩展与持续演进的能力。",
+    "score": 6,
+    "tags": [
+      "agent",
+      "AI",
+      "NousResearch",
+      "GitHub",
+      "开源项目"
+    ],
+    "highlights": [
+      "项目名称为 hermes-agent",
+      "由 NousResearch 发布",
+      "核心理念是随用户成长的智能体"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-26",
+    "popularity": "stars:235897",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM编码",
+      "提示工程",
+      "Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-26",
+    "popularity": "stars:229371",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，提供自动化编码辅助能力。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-26",
+    "popularity": "stars:212264",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个公平代码的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码，可自托管或云端部署，并提供 400+ 集成。",
+    "score": 8,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "自托管",
+      "集成平台"
+    ],
+    "highlights": [
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云端",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-26",
+    "popularity": "stars:210748",
+    "content": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+    "summary": "Firecrawl 是一个知识基础设施项目，旨在让 AI 智能体更智能，通过单一 API 提供搜索、抓取以及访问 550 多个数据提供商的能力。",
+    "score": 8,
+    "tags": [
+      "知识基础设施",
+      "AI智能体",
+      "API",
+      "数据抓取",
+      "搜索"
+    ],
+    "highlights": [
+      "通过单一 API 搜索、抓取和访问 550+ 数据提供商",
+      "让智能体更智能的知识基础设施"
+    ]
+  },
+  {
+    "title": "Matrix Multiplication is Θ(n^2.25)",
+    "url": "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 24 Nov 2026 21:15:59 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/kn0pmh/matrix_multiplication_is_n_2_25\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "该条目指向一篇预印本论文，声称矩阵乘法的时间复杂度为 Θ(n^2.25)，即矩阵乘法指数为 9/4，并附有 Lobste.rs 上的讨论链接。",
+    "score": 6,
+    "tags": [
+      "矩阵乘法",
+      "计算复杂度",
+      "算法",
+      "预印本",
+      "理论计算机科学"
+    ],
+    "highlights": [
+      "声称矩阵乘法复杂度为 Θ(n^2.25)",
+      "矩阵乘法指数为 9/4",
+      "附有 Lobste.rs 讨论链接"
+    ]
+  },
+  {
+    "title": "9/UX: a Macintosh-inspired desktop for 9front",
+    "url": "https://progrium.github.io/9ux/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Tue, 24 Nov 2026 12:37:29 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;I have written a story about this on the Register, but of course I can't post that here.&lt;/p&gt; &lt;p&gt;I think this is a quite astonishing effort and could make 9front &lt;em&gt;considerably&lt;/em&gt; more usable... but it's bot-assisted, so I don't think they'll take it.&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/vciex6/9_ux_macintosh_inspired_desktop_for\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "一个为 9front 操作系统设计的 Macintosh 风格桌面环境，作者认为其显著提升了可用性，但因借助机器人辅助而可能不被上游接受。",
+    "score": 7,
+    "tags": [
+      "9front",
+      "桌面环境",
+      "Macintosh",
+      "UX",
+      "Plan 9"
+    ],
+    "highlights": [
+      "Macintosh 风格的 9front 桌面",
+      "显著提升 9front 可用性",
+      "机器人辅助开发可能影响上游采纳"
+    ]
+  },
+  {
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 24 Nov 2026 13:00:00 GMT",
+    "popularity": "",
+    "content": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+    "summary": "GPT-6 models demonstrate intrinsic protein-design capabilities by designing protein structures and sequences using reasoning and code, with lab tests showing evidence of binding across five targets.",
+    "score": 8,
+    "tags": [
+      "GPT-6",
+      "protein design",
+      "AI in biology",
+      "reasoning",
+      "code generation",
+      "lab validation"
+    ],
+    "highlights": [
+      "GPT-6 designs protein structures and sequences",
+      "Uses reasoning and code for protein design",
+      "Lab tests found binding evidence across five targets"
+    ]
+  },
+  {
+    "title": "Searching for distant planets with Astra",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 24 Nov 2026 11:00:00 GMT",
+    "popularity": "",
+    "content": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+    "summary": "两位业余天文学家利用 Codex 和 Astra 在 NASA 开普勒与 TESS 太空望远镜的公开数据中寻找潜在系外行星。",
+    "score": 7,
+    "tags": [
+      "系外行星",
+      "天文",
+      "Codex",
+      "Astra",
+      "NASA",
+      "开普勒",
+      "TESS",
+      "公民科学"
+    ],
+    "highlights": [
+      "两位业余天文学家使用 Codex 和 Astra 分析 NASA 公开数据",
+      "数据来源为开普勒与 TESS 太空望远镜",
+      "目标是寻找潜在系外行星"
+    ]
+  },
+  {
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 26 Nov 2026 11:37:17 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "介绍 llama.cpp 在 AMD Ryzen 和 Radeon 硬件上的基准测试仪表板，用于展示性能数据。",
+    "score": 7,
+    "tags": [
+      "llama.cpp",
+      "AMD",
+      "基准测试",
+      "性能",
+      "仪表板"
+    ],
+    "highlights": [
+      "llama.cpp 基准测试仪表板",
+      "支持 AMD Ryzen 和 Radeon",
+      "提供性能数据展示"
+    ]
+  },
+  {
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 26 Nov 2026 05:05:36 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客介绍如何基于 Nemotron 3.5 Parse 进行扩展，涵盖开放数据、微调以及更快的推理。",
+    "score": 7,
+    "tags": [
+      "Nemotron",
+      "开放数据",
+      "微调",
+      "推理优化",
+      "NVIDIA"
+    ],
+    "highlights": [
+      "基于 Nemotron 3.5 Parse 构建",
+      "开放数据",
+      "微调",
+      "更快的推理"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "github-20261126-003",
+  "title": "mattpocock/skills",
+  "source": "github",
+  "source_url": "https://github.com/mattpocock/skills",
+  "status": "draft",
+  "url": "https://github.com/mattpocock/skills",
+  "date": "2026-11-26",
+  "popularity": "stars:333472",
+  "summary": "Matt Pocock 分享的面向真实工程师的技能集合，直接来自其 .agents 目录。",
+  "highlights": [
+    "面向真实工程师的技能",
+    "直接来自 .agents 目录"
+  ],
+  "score": 6,
+  "tags": [
+    "AI代理",
+    "技能集合",
+    "工程师工具",
+    "GitHub仓库"
+  ]
+}

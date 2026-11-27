@@ -1,0 +1,351 @@
+[
+  {
+    "title": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "source": "github",
+    "date": "2026-11-27",
+    "popularity": "stars:480841",
+    "content": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "summary": "morluto/rea 是一个利用智能体对任意对象进行逆向工程的 GitHub 项目，范围从应用行为到原生二进制文件。",
+    "score": 7,
+    "tags": [
+      "逆向工程",
+      "智能体",
+      "二进制分析",
+      "GitHub"
+    ],
+    "highlights": [
+      "使用智能体进行逆向工程",
+      "覆盖从应用行为到原生二进制文件"
+    ]
+  },
+  {
+    "title": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "source": "github",
+    "date": "2026-11-27",
+    "popularity": "stars:395348",
+    "content": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "summary": "openclaw/openclaw 是一个跨操作系统和平台的 AI 项目，强调实际执行能力，以龙虾为品牌形象。",
+    "score": 6,
+    "tags": [
+      "AI",
+      "跨平台",
+      "开源项目",
+      "GitHub"
+    ],
+    "highlights": [
+      "强调 AI 真正执行任务",
+      "支持任意操作系统和平台",
+      "以龙虾为品牌标识"
+    ]
+  },
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github",
+    "date": "2026-11-27",
+    "popularity": "stars:334137",
+    "content": "Skills for Real Engineers. Straight from my .agents directory.",
+    "summary": "该仓库包含作者从自己的 .agents 目录中整理出的实用技能，面向真正的工程师。",
+    "score": 6,
+    "tags": [
+      "GitHub",
+      "技能",
+      "工程师",
+      "agents"
+    ],
+    "highlights": [
+      "来自 .agents 目录的实用技能",
+      "面向真正的工程师"
+    ]
+  },
+  {
+    "title": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "date": "2026-11-27",
+    "popularity": "stars:328138",
+    "content": "An agentic skills framework & software development methodology that works.",
+    "summary": "obra/superpowers 是一个在 GitHub 上发布的智能体技能框架与软件开发方法论，强调实用有效。",
+    "score": 7,
+    "tags": [
+      "智能体框架",
+      "软件开发方法论",
+      "GitHub",
+      "AI Agent"
+    ],
+    "highlights": [
+      "智能体技能框架",
+      "软件开发方法论",
+      "强调实用性"
+    ]
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "source": "github",
+    "date": "2026-11-27",
+    "popularity": "stars:311694",
+    "content": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "affaan-m/ECC 是一个面向 AI 编码代理的性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等工具提供技能、本能、记忆、安全与研究优先的开发能力。",
+    "score": 7,
+    "tags": [
+      "AI编码代理",
+      "性能优化",
+      "开发工具",
+      "Claude Code",
+      "Cursor"
+    ],
+    "highlights": [
+      "代理性能优化系统",
+      "支持多种 AI 编码工具",
+      "包含技能、记忆与安全模块",
+      "研究优先的开发方式"
+    ]
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "date": "2026-11-27",
+    "popularity": "stars:266594",
+    "content": "The agent that grows with you",
+    "summary": "NousResearch/hermes-agent 是一个 GitHub 上的开源智能体项目，其核心理念是打造一个能够随用户需求和使用不断成长进化的 AI agent。",
+    "score": 6,
+    "tags": [
+      "AI Agent",
+      "开源项目",
+      "NousResearch",
+      "GitHub"
+    ],
+    "highlights": [
+      "项目定位为可随用户成长的智能体",
+      "由 NousResearch 团队发布"
+    ]
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source": "github",
+    "date": "2026-11-27",
+    "popularity": "stars:236123",
+    "content": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "summary": "该项目提供一个单一的 CLAUDE.md 文件，用于改善 Claude Code 的行为，内容源自 Andrej Karpathy 对 LLM 编码陷阱的观察。",
+    "score": 7,
+    "tags": [
+      "Claude Code",
+      "LLM编码",
+      "提示工程",
+      "Karpathy",
+      "开发工具"
+    ],
+    "highlights": [
+      "单一 CLAUDE.md 文件即可改善 Claude Code 行为",
+      "基于 Andrej Karpathy 对 LLM 编码陷阱的观察"
+    ]
+  },
+  {
+    "title": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "source": "github",
+    "date": "2026-11-27",
+    "popularity": "stars:229606",
+    "content": "The open source coding agent.",
+    "summary": "anomalyco/opencode 是一个开源编码代理项目，托管于 GitHub，提供自动化编码辅助能力。",
+    "score": 6,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI编程",
+      "GitHub"
+    ],
+    "highlights": [
+      "开源编码代理",
+      "GitHub 托管"
+    ]
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "source": "github",
+    "date": "2026-11-27",
+    "popularity": "stars:212384",
+    "content": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "summary": "n8n 是一个采用 fair-code 许可的工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码相结合，可自托管或使用云服务，并提供 400 多个集成。",
+    "score": 9,
+    "tags": [
+      "工作流自动化",
+      "AI",
+      "开源",
+      "可视化编程",
+      "集成平台",
+      "自托管"
+    ],
+    "highlights": [
+      "原生 AI 能力",
+      "可视化构建与自定义代码结合",
+      "支持自托管或云部署",
+      "400+ 集成"
+    ]
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "date": "2026-11-27",
+    "popularity": "stars:211506",
+    "content": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+    "summary": "Firecrawl 是一个知识基础设施项目，旨在让 AI 智能体更智能，通过单一 API 提供搜索、抓取和访问 550 多个数据提供商的能力。",
+    "score": 8,
+    "tags": [
+      "知识基础设施",
+      "API",
+      "数据抓取",
+      "AI智能体",
+      "搜索"
+    ],
+    "highlights": [
+      "通过单一 API 访问 550+ 数据提供商",
+      "支持搜索和抓取功能",
+      "旨在提升 AI 智能体的智能水平"
+    ]
+  },
+  {
+    "title": "Curb impacts of AI on programming to maintain EU sovereignty",
+    "url": "https://www.draketo.de/software/curb-ai-impact",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Fri, 27 Nov 2026 01:00:03 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/lmxpfo/curb_impacts_ai_on_programming_maintain\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章讨论限制AI对编程的影响以维护欧盟主权，但提供的内容仅包含指向Lobste.rs评论的链接，缺乏实质性正文。",
+    "score": 2,
+    "tags": [
+      "AI",
+      "编程",
+      "欧盟主权",
+      "技术政策"
+    ],
+    "highlights": [
+      "标题涉及限制AI对编程的影响以维护欧盟主权",
+      "内容仅为评论链接，无实质信息"
+    ]
+  },
+  {
+    "title": "The need for a formally verifiable mainstream programming language",
+    "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "date": "Thu, 26 Nov 2026 14:06:50 -0600",
+    "popularity": "",
+    "content": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/byfdgn/need_for_formally_verifiable_mainstream\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "summary": "文章讨论了对一种可形式化验证的主流编程语言的需求，但提供的内容仅包含指向 Lobste.rs 评论的链接，没有实质性正文。",
+    "score": 3,
+    "tags": [
+      "形式化验证",
+      "编程语言",
+      "主流语言",
+      "软件工程"
+    ],
+    "highlights": [
+      "主张需要可形式化验证的主流编程语言",
+      "内容仅为评论链接，缺乏详细论述"
+    ]
+  },
+  {
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 24 Nov 2026 13:00:00 GMT",
+    "popularity": "",
+    "content": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+    "summary": "GPT-6 models demonstrate intrinsic protein-design capabilities, using reasoning and code to design protein structures and sequences. Lab tests found evidence of binding across five targets.",
+    "score": 8,
+    "tags": [
+      "GPT-6",
+      "protein design",
+      "AI in biology",
+      "reasoning",
+      "code generation"
+    ],
+    "highlights": [
+      "GPT-6 models design protein structures and sequences",
+      "Uses reasoning and code",
+      "Lab tests found binding evidence across five targets"
+    ]
+  },
+  {
+    "title": "Searching for distant planets with Astra",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "source": "rss",
+    "source_name": "OpenAI Blog",
+    "date": "Tue, 24 Nov 2026 11:00:00 GMT",
+    "popularity": "",
+    "content": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+    "summary": "两位业余天文学家利用Codex和Astra在NASA开普勒与TESS太空望远镜的公开数据中寻找潜在系外行星。",
+    "score": 7,
+    "tags": [
+      "系外行星",
+      "天文学",
+      "NASA",
+      "Codex",
+      "Astra",
+      "公民科学"
+    ],
+    "highlights": [
+      "业余天文学家参与系外行星搜寻",
+      "使用Codex和Astra工具",
+      "基于NASA开普勒与TESS公开数据"
+    ]
+  },
+  {
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "url": "https://huggingface.co/blog/video-trainium3",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Fri, 27 Nov 2026 00:00:00 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客介绍了在AWS Trainium3芯片上运行LTX-2.5视频生成模型的工作，展示了在专用AI加速器上生成视频的实践与性能表现。",
+    "score": 7,
+    "tags": [
+      "Trainium3",
+      "LTX-2.5",
+      "视频生成",
+      "AWS",
+      "AI加速器",
+      "Hugging Face"
+    ],
+    "highlights": [
+      "在Trainium3上部署LTX-2.5视频生成模型",
+      "展示专用AI加速器的视频生成能力",
+      "涉及模型推理与性能优化实践"
+    ]
+  },
+  {
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "date": "Thu, 26 Nov 2026 11:37:17 GMT",
+    "popularity": "",
+    "content": "",
+    "summary": "该博客介绍了为 AMD Ryzen 和 Radeon 硬件推出的 llama.cpp 基准测试仪表板，用于展示和比较 llama.cpp 在不同 AMD 平台上的性能表现。",
+    "score": 7,
+    "tags": [
+      "llama.cpp",
+      "AMD",
+      "基准测试",
+      "性能",
+      "Ryzen",
+      "Radeon"
+    ],
+    "highlights": [
+      "推出 llama.cpp 基准测试仪表板",
+      "面向 AMD Ryzen 和 Radeon 硬件",
+      "便于比较不同 AMD 平台的性能"
+    ]
+  }
+]
